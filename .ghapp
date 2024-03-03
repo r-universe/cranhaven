@@ -1,0 +1,10 @@
+{
+  "id": 48015168,
+  "created_at": "2024-03-03T23:24:44.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["cranhaven.r-universe.dev"]
+}
