@@ -1,5 +1,39 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "AccelStab"]
+	path = AccelStab
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AccelStab
+	subdir = AccelStab
+[submodule "AugmenterR"]
+	path = AugmenterR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AugmenterR
+	subdir = AugmenterR
+[submodule "assertive.reflection"]
+	path = assertive.reflection
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/assertive.reflection
+	subdir = assertive.reflection
+[submodule "atime"]
+	path = atime
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/atime
+	subdir = atime
+[submodule "bartBMA"]
+	path = bartBMA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bartBMA
+	subdir = bartBMA
+[submodule "basemaps"]
+	path = basemaps
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/basemaps
+	subdir = basemaps
+[submodule "bnClustOmics"]
+	path = bnClustOmics
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bnClustOmics
+	subdir = bnClustOmics
