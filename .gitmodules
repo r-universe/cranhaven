@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AccelStab
 	subdir = AccelStab
+[submodule "AmericanCallOpt"]
+	path = AmericanCallOpt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AmericanCallOpt
+	subdir = AmericanCallOpt
 [submodule "AugmenterR"]
 	path = AugmenterR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -22,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DiversityOccupancy
 	subdir = DiversityOccupancy
+[submodule "EnviroPRA"]
+	path = EnviroPRA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EnviroPRA
+	subdir = EnviroPRA
 [submodule "EvalEst"]
 	path = EvalEst
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -32,6 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FamEvent
 	subdir = FamEvent
+[submodule "FinAsym"]
+	path = FinAsym
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FinAsym
+	subdir = FinAsym
 [submodule "GENEAsphere"]
 	path = GENEAsphere
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OasisR
 	subdir = OasisR
+[submodule "RNaviCell"]
+	path = RNaviCell
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RNaviCell
+	subdir = RNaviCell
 [submodule "SCCS"]
 	path = SCCS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dataset
 	subdir = dataset
+[submodule "dkDNA"]
+	path = dkDNA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dkDNA
+	subdir = dkDNA
 [submodule "dse"]
 	path = dse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gratis
 	subdir = gratis
+[submodule "isopat"]
+	path = isopat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/isopat
+	subdir = isopat
 [submodule "jlmerclusterperm"]
 	path = jlmerclusterperm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,6 +297,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/onemapsgapi
 	subdir = onemapsgapi
+[submodule "ora"]
+	path = ora
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ora
+	subdir = ora
 [submodule "ores"]
 	path = ores
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,6 +432,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/utr.annotation
 	subdir = utr.annotation
+[submodule "validateRS"]
+	path = validateRS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/validateRS
+	subdir = validateRS
 [submodule "vlad"]
 	path = vlad
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
