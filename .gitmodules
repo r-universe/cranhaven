@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/isopat
 	subdir = isopat
-[submodule "jlmerclusterperm"]
-	path = jlmerclusterperm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/jlmerclusterperm
-	subdir = jlmerclusterperm
 [submodule "leri"]
 	path = leri
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
