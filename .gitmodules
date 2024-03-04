@@ -32,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FamEvent
 	subdir = FamEvent
+[submodule "GENEAsphere"]
+	path = GENEAsphere
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GENEAsphere
+	subdir = GENEAsphere
 [submodule "GWPR.light"]
 	path = GWPR.light
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leri
 	subdir = leri
+[submodule "mangoTraining"]
+	path = mangoTraining
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mangoTraining
+	subdir = mangoTraining
 [submodule "metaRMST"]
 	path = metaRMST
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
