@@ -157,6 +157,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dkDNA
 	subdir = dkDNA
+[submodule "docreview"]
+	path = docreview
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/docreview
+	subdir = docreview
 [submodule "dse"]
 	path = dse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gratis
 	subdir = gratis
+[submodule "hpoPlot"]
+	path = hpoPlot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hpoPlot
+	subdir = hpoPlot
 [submodule "isopat"]
 	path = isopat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
