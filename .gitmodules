@@ -442,6 +442,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/validateRS
 	subdir = validateRS
+[submodule "vlad"]
+	path = vlad
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vlad
+	subdir = vlad
+[submodule "wiad"]
+	path = wiad
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/wiad
+	subdir = wiad
 [submodule "wildviz"]
 	path = wildviz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
