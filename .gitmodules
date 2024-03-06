@@ -277,11 +277,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multilevelcoda
 	subdir = multilevelcoda
-[submodule "multinma"]
-	path = multinma
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/multinma
-	subdir = multinma
 [submodule "netcom"]
 	path = netcom
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
