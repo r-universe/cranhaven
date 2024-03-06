@@ -232,11 +232,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mangoTraining
 	subdir = mangoTraining
-[submodule "mappoly"]
-	path = mappoly
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mappoly
-	subdir = mappoly
 [submodule "metaRMST"]
 	path = metaRMST
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
