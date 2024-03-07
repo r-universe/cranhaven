@@ -192,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ffsimulator
 	subdir = ffsimulator
-[submodule "fmdu"]
-	path = fmdu
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fmdu
-	subdir = fmdu
 [submodule "ggtikz"]
 	path = ggtikz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
