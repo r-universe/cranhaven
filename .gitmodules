@@ -117,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/assertive.reflection
 	subdir = assertive.reflection
-[submodule "atime"]
-	path = atime
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/atime
-	subdir = atime
 [submodule "bartBMA"]
 	path = bartBMA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
