@@ -322,6 +322,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rgeoprofile
 	subdir = rgeoprofile
+[submodule "rglwidget"]
+	path = rglwidget
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rglwidget
+	subdir = rglwidget
 [submodule "rkeops"]
 	path = rkeops
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
