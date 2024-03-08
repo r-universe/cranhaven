@@ -312,6 +312,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ravetools
 	subdir = ravetools
+[submodule "regfilter"]
+	path = regfilter
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/regfilter
+	subdir = regfilter
 [submodule "rgeoprofile"]
 	path = rgeoprofile
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
