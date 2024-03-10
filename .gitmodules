@@ -367,11 +367,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsbp
 	subdir = rsbp
-[submodule "rsleep"]
-	path = rsleep
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rsleep
-	subdir = rsleep
 [submodule "sasMap"]
 	path = sasMap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
