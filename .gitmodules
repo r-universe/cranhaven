@@ -282,11 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mregions
 	subdir = mregions
-[submodule "multilevelcoda"]
-	path = multilevelcoda
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/multilevelcoda
-	subdir = multilevelcoda
 [submodule "netcom"]
 	path = netcom
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
