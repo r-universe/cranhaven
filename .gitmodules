@@ -352,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ravetools
 	subdir = ravetools
+[submodule "raybevel"]
+	path = raybevel
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/raybevel
+	subdir = raybevel
 [submodule "rdracor"]
 	path = rdracor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
