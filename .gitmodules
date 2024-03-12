@@ -207,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ffsimulator
 	subdir = ffsimulator
-[submodule "gbm3"]
-	path = gbm3
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gbm3
-	subdir = gbm3
 [submodule "ggtikz"]
 	path = ggtikz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
