@@ -242,6 +242,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leri
 	subdir = leri
+[submodule "lrstat"]
+	path = lrstat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lrstat
+	subdir = lrstat
 [submodule "mangoTraining"]
 	path = mangoTraining
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
