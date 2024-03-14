@@ -317,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ora
 	subdir = ora
-[submodule "ores"]
-	path = ores
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ores
-	subdir = ores
 [submodule "parlitools"]
 	path = parlitools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -362,11 +357,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/raybevel
 	subdir = raybevel
-[submodule "rdracor"]
-	path = rdracor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rdracor
-	subdir = rdracor
 [submodule "regfilter"]
 	path = regfilter
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
