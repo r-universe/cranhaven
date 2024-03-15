@@ -257,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/metaRMST
 	subdir = metaRMST
+[submodule "misha"]
+	path = misha
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/misha
+	subdir = misha
 [submodule "mixreg"]
 	path = mixreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,6 +472,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/validateRS
 	subdir = validateRS
+[submodule "vcfppR"]
+	path = vcfppR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vcfppR
+	subdir = vcfppR
 [submodule "vlad"]
 	path = vlad
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
