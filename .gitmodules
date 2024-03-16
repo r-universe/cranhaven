@@ -122,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bsitar
 	subdir = bsitar
+[submodule "caschrono"]
+	path = caschrono
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/caschrono
+	subdir = caschrono
 [submodule "cgrcusum"]
 	path = cgrcusum
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
