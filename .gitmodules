@@ -432,8 +432,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wildviz
 	subdir = wildviz
-[submodule "zstdlite"]
-	path = zstdlite
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/zstdlite
-	subdir = zstdlite
