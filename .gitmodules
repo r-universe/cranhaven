@@ -92,16 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/StatTeacherAssistant
 	subdir = StatTeacherAssistant
-[submodule "SteinerNet"]
-	path = SteinerNet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SteinerNet
-	subdir = SteinerNet
-[submodule "VertexSort"]
-	path = VertexSort
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/VertexSort
-	subdir = VertexSort
 [submodule "assertive.reflection"]
 	path = assertive.reflection
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,16 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/moko
 	subdir = moko
-[submodule "molnet"]
-	path = molnet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/molnet
-	subdir = molnet
-[submodule "netcom"]
-	path = netcom
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/netcom
-	subdir = netcom
 [submodule "netgen"]
 	path = netgen
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
