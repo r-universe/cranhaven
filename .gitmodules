@@ -97,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/assertive.reflection
 	subdir = assertive.reflection
-[submodule "bartBMA"]
-	path = bartBMA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bartBMA
-	subdir = bartBMA
 [submodule "bnClustOmics"]
 	path = bnClustOmics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,11 +167,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/enc
 	subdir = enc
-[submodule "fastlogranktest"]
-	path = fastlogranktest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fastlogranktest
-	subdir = fastlogranktest
 [submodule "ffsimulator"]
 	path = ffsimulator
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggtikz
 	subdir = ggtikz
-[submodule "goldilocks"]
-	path = goldilocks
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/goldilocks
-	subdir = goldilocks
 [submodule "gratis"]
 	path = gratis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mangoTraining
 	subdir = mangoTraining
-[submodule "metaRMST"]
-	path = metaRMST
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/metaRMST
-	subdir = metaRMST
 [submodule "misha"]
 	path = misha
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/netgen
 	subdir = netgen
-[submodule "odeintr"]
-	path = odeintr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/odeintr
-	subdir = odeintr
 [submodule "odns"]
 	path = odns
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,11 +377,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vcfppR
 	subdir = vcfppR
-[submodule "vlad"]
-	path = vlad
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vlad
-	subdir = vlad
 [submodule "wildviz"]
 	path = wildviz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
