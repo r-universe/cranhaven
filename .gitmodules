@@ -77,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ReporterScore
 	subdir = ReporterScore
+[submodule "Rtapas"]
+	path = Rtapas
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rtapas
+	subdir = Rtapas
 [submodule "SCCS"]
 	path = SCCS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,3 +387,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wildviz
 	subdir = wildviz
+[submodule "zstdlite"]
+	path = zstdlite
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/zstdlite
+	subdir = zstdlite
