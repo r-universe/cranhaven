@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bnClustOmics
 	subdir = bnClustOmics
-[submodule "bsitar"]
-	path = bsitar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bsitar
-	subdir = bsitar
 [submodule "caschrono"]
 	path = caschrono
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/konya
 	subdir = konya
-[submodule "lrstat"]
-	path = lrstat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lrstat
-	subdir = lrstat
 [submodule "mangoTraining"]
 	path = mangoTraining
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,11 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pctax
 	subdir = pctax
-[submodule "pcutils"]
-	path = pcutils
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pcutils
-	subdir = pcutils
 [submodule "plot4fun"]
 	path = plot4fun
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,11 +337,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/survivalSL
 	subdir = survivalSL
-[submodule "survivalmodels"]
-	path = survivalmodels
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/survivalmodels
-	subdir = survivalmodels
 [submodule "teachingApps"]
 	path = teachingApps
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
