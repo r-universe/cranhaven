@@ -277,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/plot4fun
 	subdir = plot4fun
+[submodule "qtlpoly"]
+	path = qtlpoly
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qtlpoly
+	subdir = qtlpoly
 [submodule "ravedash"]
 	path = ravedash
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
