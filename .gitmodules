@@ -247,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ora
 	subdir = ora
-[submodule "parlitools"]
-	path = parlitools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/parlitools
-	subdir = parlitools
 [submodule "pctax"]
 	path = pctax
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
