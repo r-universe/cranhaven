@@ -252,11 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pctax
 	subdir = pctax
-[submodule "plot4fun"]
-	path = plot4fun
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/plot4fun
-	subdir = plot4fun
 [submodule "qtlpoly"]
 	path = qtlpoly
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
