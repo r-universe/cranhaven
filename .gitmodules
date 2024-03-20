@@ -332,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seg
 	subdir = seg
-[submodule "survivalSL"]
-	path = survivalSL
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/survivalSL
-	subdir = survivalSL
 [submodule "teachingApps"]
 	path = teachingApps
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
