@@ -192,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hpoPlot
 	subdir = hpoPlot
+[submodule "httk"]
+	path = httk
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/httk
+	subdir = httk
 [submodule "isopat"]
 	path = isopat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pctax
 	subdir = pctax
+[submodule "qMRI"]
+	path = qMRI
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qMRI
+	subdir = qMRI
 [submodule "qtlpoly"]
 	path = qtlpoly
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
