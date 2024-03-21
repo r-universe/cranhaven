@@ -297,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rglwidget
 	subdir = rglwidget
-[submodule "rkeops"]
-	path = rkeops
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rkeops
-	subdir = rkeops
 [submodule "rmangal"]
 	path = rmangal
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
