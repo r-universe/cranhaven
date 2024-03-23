@@ -112,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cgrcusum
 	subdir = cgrcusum
-[submodule "corregp"]
-	path = corregp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/corregp
-	subdir = corregp
 [submodule "coxphMIC"]
 	path = coxphMIC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eiCompare
 	subdir = eiCompare
-[submodule "elfgen"]
-	path = elfgen
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/elfgen
-	subdir = elfgen
 [submodule "enc"]
 	path = enc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidygate
 	subdir = tidygate
-[submodule "utr.annotation"]
-	path = utr.annotation
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/utr.annotation
-	subdir = utr.annotation
 [submodule "validateRS"]
 	path = validateRS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
