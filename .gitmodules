@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CADStat
 	subdir = CADStat
+[submodule "CodeDepends"]
+	path = CodeDepends
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CodeDepends
+	subdir = CodeDepends
 [submodule "EnviroPRA"]
 	path = EnviroPRA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -52,6 +57,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetaNet
 	subdir = MetaNet
+[submodule "MonotoneHazardRatio"]
+	path = MonotoneHazardRatio
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MonotoneHazardRatio
+	subdir = MonotoneHazardRatio
 [submodule "NRAHDLTP"]
 	path = NRAHDLTP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,6 +102,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/StatTeacherAssistant
 	subdir = StatTeacherAssistant
+[submodule "VarfromPDB"]
+	path = VarfromPDB
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/VarfromPDB
+	subdir = VarfromPDB
+[submodule "XML2R"]
+	path = XML2R
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/XML2R
+	subdir = XML2R
 [submodule "assertive.reflection"]
 	path = assertive.reflection
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/enc
 	subdir = enc
+[submodule "fastdigest"]
+	path = fastdigest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fastdigest
+	subdir = fastdigest
 [submodule "ffsimulator"]
 	path = ffsimulator
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,6 +192,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gratis
 	subdir = gratis
+[submodule "histry"]
+	path = histry
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/histry
+	subdir = histry
+[submodule "howmany"]
+	path = howmany
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/howmany
+	subdir = howmany
 [submodule "hpoPlot"]
 	path = hpoPlot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mangoTraining
 	subdir = mangoTraining
+[submodule "mdthemes"]
+	path = mdthemes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mdthemes
+	subdir = mdthemes
 [submodule "misha"]
 	path = misha
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +312,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rnoaa
 	subdir = rnoaa
+[submodule "roprov"]
+	path = roprov
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/roprov
+	subdir = roprov
 [submodule "rsbp"]
 	path = rsbp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,6 +332,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seg
 	subdir = seg
+[submodule "siftr"]
+	path = siftr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/siftr
+	subdir = siftr
 [submodule "teachingApps"]
 	path = teachingApps
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidygate
 	subdir = tidygate
+[submodule "twostageTE"]
+	path = twostageTE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/twostageTE
+	subdir = twostageTE
 [submodule "validateRS"]
 	path = validateRS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
