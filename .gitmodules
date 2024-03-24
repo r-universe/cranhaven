@@ -57,6 +57,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GENEAsphere
 	subdir = GENEAsphere
+[submodule "GiniWegNeg"]
+	path = GiniWegNeg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GiniWegNeg
+	subdir = GiniWegNeg
 [submodule "HiCseg"]
 	path = HiCseg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,6 +407,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/siftr
 	subdir = siftr
+[submodule "survJamda.data"]
+	path = survJamda.data
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/survJamda.data
+	subdir = survJamda.data
 [submodule "teachingApps"]
 	path = teachingApps
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
