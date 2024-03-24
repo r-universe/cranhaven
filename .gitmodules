@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CADStat
 	subdir = CADStat
+[submodule "CDNmoney"]
+	path = CDNmoney
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CDNmoney
+	subdir = CDNmoney
 [submodule "CodeDepends"]
 	path = CodeDepends
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -52,6 +57,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GENEAsphere
 	subdir = GENEAsphere
+[submodule "HiCseg"]
+	path = HiCseg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HiCseg
+	subdir = HiCseg
+[submodule "MaxMC"]
+	path = MaxMC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MaxMC
+	subdir = MaxMC
 [submodule "MetaNet"]
 	path = MetaNet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/docxtools
 	subdir = docxtools
+[submodule "dprint"]
+	path = dprint
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dprint
+	subdir = dprint
 [submodule "dse"]
 	path = dse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/enc
 	subdir = enc
+[submodule "etma"]
+	path = etma
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/etma
+	subdir = etma
 [submodule "fastdigest"]
 	path = fastdigest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mlr3resampling
 	subdir = mlr3resampling
+[submodule "mnmer"]
+	path = mnmer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mnmer
+	subdir = mnmer
 [submodule "mobirep"]
 	path = mobirep
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,16 +292,41 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/netgen
 	subdir = netgen
+[submodule "optiscale"]
+	path = optiscale
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/optiscale
+	subdir = optiscale
 [submodule "ora"]
 	path = ora
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ora
 	subdir = ora
+[submodule "pacviz"]
+	path = pacviz
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pacviz
+	subdir = pacviz
+[submodule "pathdiagram"]
+	path = pathdiagram
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pathdiagram
+	subdir = pathdiagram
 [submodule "pctax"]
 	path = pctax
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pctax
 	subdir = pctax
+[submodule "plot3logit"]
+	path = plot3logit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/plot3logit
+	subdir = plot3logit
+[submodule "pluralize"]
+	path = pluralize
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pluralize
+	subdir = pluralize
 [submodule "qMRI"]
 	path = qMRI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/regfilter
 	subdir = regfilter
+[submodule "rfUtilities"]
+	path = rfUtilities
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rfUtilities
+	subdir = rfUtilities
 [submodule "rglwidget"]
 	path = rglwidget
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,6 +392,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seg
 	subdir = seg
+[submodule "semTable"]
+	path = semTable
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/semTable
+	subdir = semTable
 [submodule "siftr"]
 	path = siftr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,6 +417,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/twostageTE
 	subdir = twostageTE
+[submodule "ulid"]
+	path = ulid
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ulid
+	subdir = ulid
 [submodule "validateRS"]
 	path = validateRS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
