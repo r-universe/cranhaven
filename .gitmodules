@@ -242,21 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qtlpoly
 	subdir = qtlpoly
-[submodule "ravedash"]
-	path = ravedash
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ravedash
-	subdir = ravedash
-[submodule "raveio"]
-	path = raveio
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/raveio
-	subdir = raveio
-[submodule "ravetools"]
-	path = ravetools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ravetools
-	subdir = ravetools
 [submodule "raybevel"]
 	path = raybevel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/teachingApps
 	subdir = teachingApps
-[submodule "threeBrain"]
-	path = threeBrain
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/threeBrain
-	subdir = threeBrain
 [submodule "tidygate"]
 	path = tidygate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
