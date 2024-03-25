@@ -72,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MaxMC
 	subdir = MaxMC
-[submodule "MetaNet"]
-	path = MetaNet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MetaNet
-	subdir = MetaNet
 [submodule "MonotoneHazardRatio"]
 	path = MonotoneHazardRatio
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,11 +322,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qMRI
 	subdir = qMRI
-[submodule "qtlpoly"]
-	path = qtlpoly
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qtlpoly
-	subdir = qtlpoly
 [submodule "raybevel"]
 	path = raybevel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
