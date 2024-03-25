@@ -187,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eiCompare
 	subdir = eiCompare
-[submodule "enc"]
-	path = enc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/enc
-	subdir = enc
 [submodule "etma"]
 	path = etma
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,16 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mobirep
 	subdir = mobirep
-[submodule "moko"]
-	path = moko
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/moko
-	subdir = moko
-[submodule "netgen"]
-	path = netgen
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/netgen
-	subdir = netgen
 [submodule "optiscale"]
 	path = optiscale
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
