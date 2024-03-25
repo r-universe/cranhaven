@@ -92,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OasisR
 	subdir = OasisR
+[submodule "PhyInsight"]
+	path = PhyInsight
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PhyInsight
+	subdir = PhyInsight
 [submodule "RNaviCell"]
 	path = RNaviCell
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
