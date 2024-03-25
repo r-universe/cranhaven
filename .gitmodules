@@ -387,11 +387,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsbp
 	subdir = rsbp
-[submodule "sasMap"]
-	path = sasMap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sasMap
-	subdir = sasMap
 [submodule "seg"]
 	path = seg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
