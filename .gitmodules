@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "APCalign"]
+	path = APCalign
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/APCalign
+	subdir = APCalign
 [submodule "AccelStab"]
 	path = AccelStab
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -12,11 +17,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AmericanCallOpt
 	subdir = AmericanCallOpt
+[submodule "ArchaeoChron"]
+	path = ArchaeoChron
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ArchaeoChron
+	subdir = ArchaeoChron
+[submodule "ArchaeoPhases"]
+	path = ArchaeoPhases
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ArchaeoPhases
+	subdir = ArchaeoPhases
 [submodule "AugmenterR"]
 	path = AugmenterR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AugmenterR
 	subdir = AugmenterR
+[submodule "BayLum"]
+	path = BayLum
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BayLum
+	subdir = BayLum
 [submodule "CADStat"]
 	path = CADStat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
