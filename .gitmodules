@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AugmenterR
 	subdir = AugmenterR
+[submodule "BOSO"]
+	path = BOSO
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BOSO
+	subdir = BOSO
 [submodule "BayLum"]
 	path = BayLum
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EvalEst
 	subdir = EvalEst
+[submodule "ExpImage"]
+	path = ExpImage
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ExpImage
+	subdir = ExpImage
 [submodule "FamEvent"]
 	path = FamEvent
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -82,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HiCseg
 	subdir = HiCseg
+[submodule "LMoFit"]
+	path = LMoFit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LMoFit
+	subdir = LMoFit
 [submodule "MaxMC"]
 	path = MaxMC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -102,6 +117,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OasisR
 	subdir = OasisR
+[submodule "OpenLand"]
+	path = OpenLand
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/OpenLand
+	subdir = OpenLand
 [submodule "PhyInsight"]
 	path = PhyInsight
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SegEnvIneq
 	subdir = SegEnvIneq
+[submodule "SpotSampling"]
+	path = SpotSampling
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SpotSampling
+	subdir = SpotSampling
 [submodule "StatTeacherAssistant"]
 	path = StatTeacherAssistant
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/assertive.reflection
 	subdir = assertive.reflection
+[submodule "bioassays"]
+	path = bioassays
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bioassays
+	subdir = bioassays
 [submodule "bnClustOmics"]
 	path = bnClustOmics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,11 +252,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fsMTS
 	subdir = fsMTS
+[submodule "gghdr"]
+	path = gghdr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gghdr
+	subdir = gghdr
 [submodule "ggtikz"]
 	path = ggtikz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggtikz
 	subdir = ggtikz
+[submodule "glancedata"]
+	path = glancedata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/glancedata
+	subdir = glancedata
 [submodule "gratis"]
 	path = gratis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,6 +377,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qMRI
 	subdir = qMRI
+[submodule "rabhit"]
+	path = rabhit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rabhit
+	subdir = rabhit
 [submodule "raybevel"]
 	path = raybevel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,6 +442,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/siftr
 	subdir = siftr
+[submodule "spqdep"]
+	path = spqdep
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spqdep
+	subdir = spqdep
 [submodule "survJamda.data"]
 	path = survJamda.data
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,6 +487,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vcfppR
 	subdir = vcfppR
+[submodule "vlda"]
+	path = vlda
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vlda
+	subdir = vlda
 [submodule "wildviz"]
 	path = wildviz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
