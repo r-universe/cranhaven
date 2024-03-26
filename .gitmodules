@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/APCalign
 	subdir = APCalign
-[submodule "AccelStab"]
-	path = AccelStab
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AccelStab
-	subdir = AccelStab
 [submodule "AmericanCallOpt"]
 	path = AmericanCallOpt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
