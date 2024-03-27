@@ -322,6 +322,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mobirep
 	subdir = mobirep
+[submodule "odpc"]
+	path = odpc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/odpc
+	subdir = odpc
 [submodule "optiscale"]
 	path = optiscale
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
