@@ -287,11 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hpoPlot
 	subdir = hpoPlot
-[submodule "httk"]
-	path = httk
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/httk
-	subdir = httk
 [submodule "isopat"]
 	path = isopat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
