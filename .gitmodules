@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonotoneHazardRatio
 	subdir = MonotoneHazardRatio
-[submodule "NRAHDLTP"]
-	path = NRAHDLTP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NRAHDLTP
-	subdir = NRAHDLTP
 [submodule "OasisR"]
 	path = OasisR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glancedata
 	subdir = glancedata
-[submodule "gratis"]
-	path = gratis
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gratis
-	subdir = gratis
 [submodule "histry"]
 	path = histry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
