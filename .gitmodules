@@ -472,11 +472,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/validateRS
 	subdir = validateRS
-[submodule "vcfppR"]
-	path = vcfppR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vcfppR
-	subdir = vcfppR
 [submodule "vlda"]
 	path = vlda
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
