@@ -37,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayLum
 	subdir = BayLum
+[submodule "BayesianMCPMod"]
+	path = BayesianMCPMod
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BayesianMCPMod
+	subdir = BayesianMCPMod
 [submodule "CADStat"]
 	path = CADStat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,6 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/XML2R
 	subdir = XML2R
+[submodule "abn"]
+	path = abn
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/abn
+	subdir = abn
 [submodule "assertive.reflection"]
 	path = assertive.reflection
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/coxphMIC
 	subdir = coxphMIC
+[submodule "crosstalkr"]
+	path = crosstalkr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/crosstalkr
+	subdir = crosstalkr
 [submodule "dkDNA"]
 	path = dkDNA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
