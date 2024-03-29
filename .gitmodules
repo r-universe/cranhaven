@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ArchaeoPhases
 	subdir = ArchaeoPhases
-[submodule "AugmenterR"]
-	path = AugmenterR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AugmenterR
-	subdir = AugmenterR
 [submodule "BOSO"]
 	path = BOSO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
