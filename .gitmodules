@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RNaviCell
 	subdir = RNaviCell
-[submodule "ReporterScore"]
-	path = ReporterScore
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ReporterScore
-	subdir = ReporterScore
 [submodule "Rtapas"]
 	path = Rtapas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
