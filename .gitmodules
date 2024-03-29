@@ -162,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/StatTeacherAssistant
 	subdir = StatTeacherAssistant
+[submodule "T2DFitTailor"]
+	path = T2DFitTailor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/T2DFitTailor
+	subdir = T2DFitTailor
 [submodule "VarfromPDB"]
 	path = VarfromPDB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fsMTS
 	subdir = fsMTS
+[submodule "gfpop"]
+	path = gfpop
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gfpop
+	subdir = gfpop
 [submodule "gghdr"]
 	path = gghdr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
