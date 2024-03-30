@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonotoneHazardRatio
 	subdir = MonotoneHazardRatio
-[submodule "OasisR"]
-	path = OasisR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/OasisR
-	subdir = OasisR
 [submodule "OpenLand"]
 	path = OpenLand
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SCCS
 	subdir = SCCS
-[submodule "SegEnvIneq"]
-	path = SegEnvIneq
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SegEnvIneq
-	subdir = SegEnvIneq
 [submodule "SpotSampling"]
 	path = SpotSampling
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,11 +407,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rmdcev
 	subdir = rmdcev
-[submodule "rnoaa"]
-	path = rnoaa
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rnoaa
-	subdir = rnoaa
 [submodule "roprov"]
 	path = roprov
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -432,11 +417,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsbp
 	subdir = rsbp
-[submodule "seg"]
-	path = seg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/seg
-	subdir = seg
 [submodule "semTable"]
 	path = semTable
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,11 +472,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vlda
 	subdir = vlda
-[submodule "wildviz"]
-	path = wildviz
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wildviz
-	subdir = wildviz
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
