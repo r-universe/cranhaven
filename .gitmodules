@@ -197,6 +197,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/crosstalkr
 	subdir = crosstalkr
+[submodule "cryptotrackr"]
+	path = cryptotrackr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cryptotrackr
+	subdir = cryptotrackr
 [submodule "dkDNA"]
 	path = dkDNA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
