@@ -257,11 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gghdr
 	subdir = gghdr
-[submodule "ggtikz"]
-	path = ggtikz
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ggtikz
-	subdir = ggtikz
 [submodule "glancedata"]
 	path = glancedata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mnmer
 	subdir = mnmer
-[submodule "mobirep"]
-	path = mobirep
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mobirep
-	subdir = mobirep
 [submodule "odpc"]
 	path = odpc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,11 +392,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rmangal
 	subdir = rmangal
-[submodule "rmdcev"]
-	path = rmdcev
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rmdcev
-	subdir = rmdcev
 [submodule "roprov"]
 	path = roprov
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
