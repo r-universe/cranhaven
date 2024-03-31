@@ -397,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/roprov
 	subdir = roprov
-[submodule "rsbp"]
-	path = rsbp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rsbp
-	subdir = rsbp
 [submodule "semTable"]
 	path = semTable
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -432,11 +427,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/teachingApps
 	subdir = teachingApps
-[submodule "tidygate"]
-	path = tidygate
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tidygate
-	subdir = tidygate
 [submodule "twostageTE"]
 	path = twostageTE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
