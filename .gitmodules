@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/caschrono
 	subdir = caschrono
-[submodule "cgrcusum"]
-	path = cgrcusum
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cgrcusum
-	subdir = cgrcusum
 [submodule "coxphMIC"]
 	path = coxphMIC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
