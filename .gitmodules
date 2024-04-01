@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rtapas
 	subdir = Rtapas
-[submodule "SCCS"]
-	path = SCCS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SCCS
-	subdir = SCCS
 [submodule "SpotSampling"]
 	path = SpotSampling
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
