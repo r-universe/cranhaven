@@ -402,6 +402,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/roprov
 	subdir = roprov
+[submodule "scoringTools"]
+	path = scoringTools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/scoringTools
+	subdir = scoringTools
 [submodule "semTable"]
 	path = semTable
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,6 +422,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spqdep
 	subdir = spqdep
+[submodule "stringx"]
+	path = stringx
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/stringx
+	subdir = stringx
 [submodule "survJamda.data"]
 	path = survJamda.data
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
