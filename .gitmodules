@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SpotSampling
 	subdir = SpotSampling
-[submodule "StatTeacherAssistant"]
-	path = StatTeacherAssistant
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/StatTeacherAssistant
-	subdir = StatTeacherAssistant
 [submodule "T2DFitTailor"]
 	path = T2DFitTailor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastdigest
 	subdir = fastdigest
-[submodule "ffsimulator"]
-	path = ffsimulator
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ffsimulator
-	subdir = ffsimulator
 [submodule "fsMTS"]
 	path = fsMTS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,11 +417,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/surveygraph
 	subdir = surveygraph
-[submodule "teachingApps"]
-	path = teachingApps
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/teachingApps
-	subdir = teachingApps
 [submodule "twostageTE"]
 	path = twostageTE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
