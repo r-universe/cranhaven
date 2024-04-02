@@ -102,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MaxMC
 	subdir = MaxMC
+[submodule "MonoPhy"]
+	path = MonoPhy
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MonoPhy
+	subdir = MonoPhy
 [submodule "MonotoneHazardRatio"]
 	path = MonotoneHazardRatio
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/caschrono
 	subdir = caschrono
+[submodule "concrete"]
+	path = concrete
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/concrete
+	subdir = concrete
 [submodule "coxphMIC"]
 	path = coxphMIC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
