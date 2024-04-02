@@ -412,11 +412,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/survJamda.data
 	subdir = survJamda.data
-[submodule "surveygraph"]
-	path = surveygraph
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/surveygraph
-	subdir = surveygraph
 [submodule "twostageTE"]
 	path = twostageTE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
