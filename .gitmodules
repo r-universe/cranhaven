@@ -97,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LMoFit
 	subdir = LMoFit
+[submodule "MPCR"]
+	path = MPCR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MPCR
+	subdir = MPCR
 [submodule "MaxMC"]
 	path = MaxMC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
