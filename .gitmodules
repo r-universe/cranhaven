@@ -292,6 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mdthemes
 	subdir = mdthemes
+[submodule "medrxivr"]
+	path = medrxivr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/medrxivr
+	subdir = medrxivr
 [submodule "misha"]
 	path = misha
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
