@@ -77,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GENEAsphere
 	subdir = GENEAsphere
+[submodule "GPvam"]
+	path = GPvam
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GPvam
+	subdir = GPvam
 [submodule "GiniWegNeg"]
 	path = GiniWegNeg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RNaviCell
 	subdir = RNaviCell
+[submodule "RealVAMS"]
+	path = RealVAMS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RealVAMS
+	subdir = RealVAMS
 [submodule "Rtapas"]
 	path = Rtapas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fsMTS
 	subdir = fsMTS
+[submodule "geofd"]
+	path = geofd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/geofd
+	subdir = geofd
 [submodule "gfpop"]
 	path = gfpop
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,6 +337,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/modeltime.ensemble
 	subdir = modeltime.ensemble
+[submodule "multilevelcoda"]
+	path = multilevelcoda
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/multilevelcoda
+	subdir = multilevelcoda
 [submodule "odpc"]
 	path = odpc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
