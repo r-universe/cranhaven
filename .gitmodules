@@ -67,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ExpImage
 	subdir = ExpImage
-[submodule "FamEvent"]
-	path = FamEvent
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FamEvent
-	subdir = FamEvent
 [submodule "FinAsym"]
 	path = FinAsym
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
