@@ -82,6 +82,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GPvam
 	subdir = GPvam
+[submodule "GSNA"]
+	path = GSNA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GSNA
+	subdir = GSNA
 [submodule "GiniWegNeg"]
 	path = GiniWegNeg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,6 +472,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vlda
 	subdir = vlda
+[submodule "wordbankr"]
+	path = wordbankr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/wordbankr
+	subdir = wordbankr
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
