@@ -177,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/caschrono
 	subdir = caschrono
+[submodule "casebase"]
+	path = casebase
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/casebase
+	subdir = casebase
 [submodule "concrete"]
 	path = concrete
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,6 +317,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mnmer
 	subdir = mnmer
+[submodule "modeltime.ensemble"]
+	path = modeltime.ensemble
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/modeltime.ensemble
+	subdir = modeltime.ensemble
 [submodule "odpc"]
 	path = odpc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
