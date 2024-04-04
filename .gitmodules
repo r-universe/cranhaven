@@ -307,11 +307,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mixreg
 	subdir = mixreg
-[submodule "mlr3resampling"]
-	path = mlr3resampling
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mlr3resampling
-	subdir = mlr3resampling
 [submodule "mnmer"]
 	path = mnmer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
