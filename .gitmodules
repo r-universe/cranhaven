@@ -32,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayLum
 	subdir = BayLum
-[submodule "BayesianMCPMod"]
-	path = BayesianMCPMod
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BayesianMCPMod
-	subdir = BayesianMCPMod
 [submodule "CDNmoney"]
 	path = CDNmoney
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
