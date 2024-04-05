@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RNaviCell
 	subdir = RNaviCell
-[submodule "RealVAMS"]
-	path = RealVAMS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RealVAMS
-	subdir = RealVAMS
 [submodule "Rtapas"]
 	path = Rtapas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
