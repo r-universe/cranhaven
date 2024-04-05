@@ -337,6 +337,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ora
 	subdir = ora
+[submodule "outerbase"]
+	path = outerbase
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/outerbase
+	subdir = outerbase
 [submodule "pacviz"]
 	path = pacviz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
