@@ -172,21 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/abn
 	subdir = abn
-[submodule "assertive.reflection"]
-	path = assertive.reflection
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/assertive.reflection
-	subdir = assertive.reflection
 [submodule "bioassays"]
 	path = bioassays
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bioassays
 	subdir = bioassays
-[submodule "bnClustOmics"]
-	path = bnClustOmics
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bnClustOmics
-	subdir = bnClustOmics
 [submodule "caschrono"]
 	path = caschrono
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/concrete
 	subdir = concrete
-[submodule "coxphMIC"]
-	path = coxphMIC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/coxphMIC
-	subdir = coxphMIC
 [submodule "crosstalkr"]
 	path = crosstalkr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,11 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/misha
 	subdir = misha
-[submodule "mixreg"]
-	path = mixreg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mixreg
-	subdir = mixreg
 [submodule "mnmer"]
 	path = mnmer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rglwidget
 	subdir = rglwidget
-[submodule "rmangal"]
-	path = rmangal
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rmangal
-	subdir = rmangal
 [submodule "roprov"]
 	path = roprov
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
