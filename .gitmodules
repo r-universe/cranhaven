@@ -37,11 +37,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesianMCPMod
 	subdir = BayesianMCPMod
-[submodule "CADStat"]
-	path = CADStat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CADStat
-	subdir = CADStat
 [submodule "CDNmoney"]
 	path = CDNmoney
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +302,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/medrxivr
 	subdir = medrxivr
+[submodule "meteo"]
+	path = meteo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/meteo
+	subdir = meteo
 [submodule "misha"]
 	path = misha
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,6 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multilevelcoda
 	subdir = multilevelcoda
+[submodule "netchain"]
+	path = netchain
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/netchain
+	subdir = netchain
 [submodule "odpc"]
 	path = odpc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,6 +387,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/raybevel
 	subdir = raybevel
+[submodule "readysignal"]
+	path = readysignal
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/readysignal
+	subdir = readysignal
 [submodule "regfilter"]
 	path = regfilter
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
