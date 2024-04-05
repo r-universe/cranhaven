@@ -72,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GENEAsphere
 	subdir = GENEAsphere
-[submodule "GPvam"]
-	path = GPvam
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GPvam
-	subdir = GPvam
 [submodule "GSNA"]
 	path = GSNA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
