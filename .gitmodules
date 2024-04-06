@@ -47,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EnviroPRA
 	subdir = EnviroPRA
-[submodule "EvalEst"]
-	path = EvalEst
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EvalEst
-	subdir = EvalEst
 [submodule "ExpImage"]
 	path = ExpImage
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,26 +197,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dprint
 	subdir = dprint
-[submodule "dse"]
-	path = dse
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dse
-	subdir = dse
-[submodule "eiCompare"]
-	path = eiCompare
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/eiCompare
-	subdir = eiCompare
 [submodule "etma"]
 	path = etma
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/etma
 	subdir = etma
-[submodule "fastdigest"]
-	path = fastdigest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fastdigest
-	subdir = fastdigest
 [submodule "fsMTS"]
 	path = fsMTS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
