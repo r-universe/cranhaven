@@ -347,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/siftr
 	subdir = siftr
+[submodule "snvecR"]
+	path = snvecR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/snvecR
+	subdir = snvecR
 [submodule "spqdep"]
 	path = spqdep
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
