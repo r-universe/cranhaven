@@ -37,11 +37,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CDNmoney
 	subdir = CDNmoney
-[submodule "CodeDepends"]
-	path = CodeDepends
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CodeDepends
-	subdir = CodeDepends
 [submodule "EnviroPRA"]
 	path = EnviroPRA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,11 +52,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FinAsym
 	subdir = FinAsym
-[submodule "GENEAsphere"]
-	path = GENEAsphere
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GENEAsphere
-	subdir = GENEAsphere
 [submodule "GSNA"]
 	path = GSNA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/konya
 	subdir = konya
-[submodule "mangoTraining"]
-	path = mangoTraining
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mangoTraining
-	subdir = mangoTraining
 [submodule "mdthemes"]
 	path = mdthemes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
