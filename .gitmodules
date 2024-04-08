@@ -117,6 +117,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/abn
 	subdir = abn
+[submodule "bayesbr"]
+	path = bayesbr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bayesbr
+	subdir = bayesbr
 [submodule "bioassays"]
 	path = bioassays
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cryptotrackr
 	subdir = cryptotrackr
-[submodule "docreview"]
-	path = docreview
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/docreview
-	subdir = docreview
 [submodule "docxtools"]
 	path = docxtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/howmany
 	subdir = howmany
-[submodule "hpoPlot"]
-	path = hpoPlot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hpoPlot
-	subdir = hpoPlot
 [submodule "konya"]
 	path = konya
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
