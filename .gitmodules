@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/APCalign
 	subdir = APCalign
-[submodule "AmericanCallOpt"]
-	path = AmericanCallOpt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AmericanCallOpt
-	subdir = AmericanCallOpt
 [submodule "ArchaeoChron"]
 	path = ArchaeoChron
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -37,21 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CDNmoney
 	subdir = CDNmoney
-[submodule "EnviroPRA"]
-	path = EnviroPRA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EnviroPRA
-	subdir = EnviroPRA
 [submodule "ExpImage"]
 	path = ExpImage
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ExpImage
 	subdir = ExpImage
-[submodule "FinAsym"]
-	path = FinAsym
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FinAsym
-	subdir = FinAsym
 [submodule "GSNA"]
 	path = GSNA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -102,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PhyInsight
 	subdir = PhyInsight
-[submodule "RNaviCell"]
-	path = RNaviCell
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RNaviCell
-	subdir = RNaviCell
 [submodule "Rtapas"]
 	path = Rtapas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cryptotrackr
 	subdir = cryptotrackr
-[submodule "dkDNA"]
-	path = dkDNA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dkDNA
-	subdir = dkDNA
 [submodule "docreview"]
 	path = docreview
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hpoPlot
 	subdir = hpoPlot
-[submodule "isopat"]
-	path = isopat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/isopat
-	subdir = isopat
 [submodule "konya"]
 	path = konya
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/optiscale
 	subdir = optiscale
-[submodule "ora"]
-	path = ora
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ora
-	subdir = ora
 [submodule "outerbase"]
 	path = outerbase
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,11 +367,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/twostageTE
 	subdir = twostageTE
-[submodule "validateRS"]
-	path = validateRS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/validateRS
-	subdir = validateRS
 [submodule "vlda"]
 	path = vlda
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
