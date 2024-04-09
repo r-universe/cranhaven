@@ -342,11 +342,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/semTable
 	subdir = semTable
+[submodule "sentopics"]
+	path = sentopics
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sentopics
+	subdir = sentopics
 [submodule "siftr"]
 	path = siftr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/siftr
 	subdir = siftr
+[submodule "smile"]
+	path = smile
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/smile
+	subdir = smile
 [submodule "snvecR"]
 	path = snvecR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
