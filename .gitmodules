@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ArchaeoPhases
 	subdir = ArchaeoPhases
-[submodule "BOSO"]
-	path = BOSO
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BOSO
-	subdir = BOSO
 [submodule "BayLum"]
 	path = BayLum
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pathdiagram
 	subdir = pathdiagram
-[submodule "pctax"]
-	path = pctax
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pctax
-	subdir = pctax
 [submodule "plot3logit"]
 	path = plot3logit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
