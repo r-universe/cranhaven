@@ -307,11 +307,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rfUtilities
 	subdir = rfUtilities
-[submodule "rglwidget"]
-	path = rglwidget
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rglwidget
-	subdir = rglwidget
 [submodule "robcp"]
 	path = robcp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
