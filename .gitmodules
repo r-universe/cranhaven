@@ -197,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/konya
 	subdir = konya
-[submodule "mapmisc"]
-	path = mapmisc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mapmisc
-	subdir = mapmisc
 [submodule "mdthemes"]
 	path = mdthemes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
