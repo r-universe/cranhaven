@@ -287,11 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/howmany
 	subdir = howmany
-[submodule "konfound"]
-	path = konfound
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/konfound
-	subdir = konfound
 [submodule "konya"]
 	path = konya
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
