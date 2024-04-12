@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CDNmoney
 	subdir = CDNmoney
+[submodule "DynNom"]
+	path = DynNom
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DynNom
+	subdir = DynNom
 [submodule "ExpImage"]
 	path = ExpImage
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,6 +52,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HiCseg
 	subdir = HiCseg
+[submodule "IsoGene"]
+	path = IsoGene
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/IsoGene
+	subdir = IsoGene
 [submodule "LMoFit"]
 	path = LMoFit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,6 +142,36 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/abn
 	subdir = abn
+[submodule "assertive.base"]
+	path = assertive.base
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/assertive.base
+	subdir = assertive.base
+[submodule "assertive.files"]
+	path = assertive.files
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/assertive.files
+	subdir = assertive.files
+[submodule "assertive.matrices"]
+	path = assertive.matrices
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/assertive.matrices
+	subdir = assertive.matrices
+[submodule "assertive.models"]
+	path = assertive.models
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/assertive.models
+	subdir = assertive.models
+[submodule "assertive.numbers"]
+	path = assertive.numbers
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/assertive.numbers
+	subdir = assertive.numbers
+[submodule "assertive.sets"]
+	path = assertive.sets
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/assertive.sets
+	subdir = assertive.sets
 [submodule "bayesbr"]
 	path = bayesbr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/caschrono
 	subdir = caschrono
+[submodule "clustDRM"]
+	path = clustDRM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clustDRM
+	subdir = clustDRM
 [submodule "concrete"]
 	path = concrete
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,11 +207,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cryptotrackr
 	subdir = cryptotrackr
+[submodule "discretecdAlgorithm"]
+	path = discretecdAlgorithm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/discretecdAlgorithm
+	subdir = discretecdAlgorithm
 [submodule "docxtools"]
 	path = docxtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/docxtools
 	subdir = docxtools
+[submodule "dotwhisker"]
+	path = dotwhisker
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dotwhisker
+	subdir = dotwhisker
 [submodule "dprint"]
 	path = dprint
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +232,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dsfa
 	subdir = dsfa
+[submodule "efreadr"]
+	path = efreadr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/efreadr
+	subdir = efreadr
+[submodule "ensurer"]
+	path = ensurer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ensurer
+	subdir = ensurer
 [submodule "etma"]
 	path = etma
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,11 +287,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/howmany
 	subdir = howmany
+[submodule "konfound"]
+	path = konfound
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/konfound
+	subdir = konfound
 [submodule "konya"]
 	path = konya
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/konya
 	subdir = konya
+[submodule "margins"]
+	path = margins
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/margins
+	subdir = margins
 [submodule "mdthemes"]
 	path = mdthemes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,6 +317,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/meteo
 	subdir = meteo
+[submodule "mhurdle"]
+	path = mhurdle
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mhurdle
+	subdir = mhurdle
 [submodule "misha"]
 	path = misha
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +387,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pluralize
 	subdir = pluralize
+[submodule "prediction"]
+	path = prediction
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/prediction
+	subdir = prediction
 [submodule "qMRI"]
 	path = qMRI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -362,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sentopics
 	subdir = sentopics
+[submodule "setter"]
+	path = setter
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/setter
+	subdir = setter
 [submodule "siftr"]
 	path = siftr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,6 +472,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spOccupancy
 	subdir = spOccupancy
+[submodule "sparsebnUtils"]
+	path = sparsebnUtils
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sparsebnUtils
+	subdir = sparsebnUtils
 [submodule "spqdep"]
 	path = spqdep
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
