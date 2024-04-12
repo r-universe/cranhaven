@@ -72,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonotoneHazardRatio
 	subdir = MonotoneHazardRatio
+[submodule "NonlinearRDD"]
+	path = NonlinearRDD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NonlinearRDD
+	subdir = NonlinearRDD
 [submodule "OpenLand"]
 	path = OpenLand
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,6 +92,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rtapas
 	subdir = Rtapas
+[submodule "SpaDES"]
+	path = SpaDES
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SpaDES
+	subdir = SpaDES
+[submodule "SpaDES.core"]
+	path = SpaDES.core
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SpaDES.core
+	subdir = SpaDES.core
+[submodule "SpaDES.tools"]
+	path = SpaDES.tools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SpaDES.tools
+	subdir = SpaDES.tools
 [submodule "SpotSampling"]
 	path = SpotSampling
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +172,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dprint
 	subdir = dprint
+[submodule "dsfa"]
+	path = dsfa
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dsfa
+	subdir = dsfa
 [submodule "etma"]
 	path = etma
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/etma
 	subdir = etma
+[submodule "fastcpd"]
+	path = fastcpd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fastcpd
+	subdir = fastcpd
 [submodule "fsMTS"]
 	path = fsMTS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/odpc
 	subdir = odpc
+[submodule "optimall"]
+	path = optimall
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/optimall
+	subdir = optimall
 [submodule "optiscale"]
 	path = optiscale
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,6 +332,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/regfilter
 	subdir = regfilter
+[submodule "reproducible"]
+	path = reproducible
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/reproducible
+	subdir = reproducible
 [submodule "rfUtilities"]
 	path = rfUtilities
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,6 +382,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/snvecR
 	subdir = snvecR
+[submodule "spOccupancy"]
+	path = spOccupancy
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spOccupancy
+	subdir = spOccupancy
 [submodule "spqdep"]
 	path = spqdep
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
