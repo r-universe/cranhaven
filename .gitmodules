@@ -92,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OpenLand
 	subdir = OpenLand
+[submodule "PDXpower"]
+	path = PDXpower
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PDXpower
+	subdir = PDXpower
 [submodule "PhyInsight"]
 	path = PhyInsight
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastcpd
 	subdir = fastcpd
+[submodule "frailtypack"]
+	path = frailtypack
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/frailtypack
+	subdir = frailtypack
 [submodule "fsMTS"]
 	path = fsMTS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +302,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/konya
 	subdir = konya
+[submodule "mapmisc"]
+	path = mapmisc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mapmisc
+	subdir = mapmisc
 [submodule "margins"]
 	path = margins
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
