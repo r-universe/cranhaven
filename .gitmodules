@@ -362,11 +362,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/odpc
 	subdir = odpc
-[submodule "optimall"]
-	path = optimall
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/optimall
-	subdir = optimall
 [submodule "optiscale"]
 	path = optiscale
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
