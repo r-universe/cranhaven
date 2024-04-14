@@ -302,11 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/howmany
 	subdir = howmany
-[submodule "konya"]
-	path = konya
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/konya
-	subdir = konya
 [submodule "mapmisc"]
 	path = mapmisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
