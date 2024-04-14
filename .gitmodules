@@ -267,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fsMTS
 	subdir = fsMTS
+[submodule "gdalBindings"]
+	path = gdalBindings
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gdalBindings
+	subdir = gdalBindings
 [submodule "geofd"]
 	path = geofd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,6 +422,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/readysignal
 	subdir = readysignal
+[submodule "regcensus"]
+	path = regcensus
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/regcensus
+	subdir = regcensus
 [submodule "reproducible"]
 	path = reproducible
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
