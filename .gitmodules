@@ -512,6 +512,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wordbankr
 	subdir = wordbankr
+[submodule "zendown"]
+	path = zendown
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/zendown
+	subdir = zendown
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
