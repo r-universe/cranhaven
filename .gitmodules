@@ -417,11 +417,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/regcensus
 	subdir = regcensus
-[submodule "reproducible"]
-	path = reproducible
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/reproducible
-	subdir = reproducible
 [submodule "rfUtilities"]
 	path = rfUtilities
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
