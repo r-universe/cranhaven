@@ -217,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/discretecdAlgorithm
 	subdir = discretecdAlgorithm
-[submodule "docxtools"]
-	path = docxtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/docxtools
-	subdir = docxtools
 [submodule "dotwhisker"]
 	path = dotwhisker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
