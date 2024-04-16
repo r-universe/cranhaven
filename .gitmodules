@@ -112,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SpaDES
 	subdir = SpaDES
-[submodule "SpaDES.core"]
-	path = SpaDES.core
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SpaDES.core
-	subdir = SpaDES.core
 [submodule "SpotSampling"]
 	path = SpotSampling
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
