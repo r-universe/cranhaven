@@ -242,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/etma
 	subdir = etma
-[submodule "fastcpd"]
-	path = fastcpd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fastcpd
-	subdir = fastcpd
 [submodule "frailtypack"]
 	path = frailtypack
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,11 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/howmany
 	subdir = howmany
-[submodule "mapmisc"]
-	path = mapmisc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mapmisc
-	subdir = mapmisc
 [submodule "margins"]
 	path = margins
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
