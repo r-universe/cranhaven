@@ -397,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rabhit
 	subdir = rabhit
-[submodule "raybevel"]
-	path = raybevel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/raybevel
-	subdir = raybevel
 [submodule "readysignal"]
 	path = readysignal
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
