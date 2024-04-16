@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SpotSampling
 	subdir = SpotSampling
-[submodule "T2DFitTailor"]
-	path = T2DFitTailor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/T2DFitTailor
-	subdir = T2DFitTailor
 [submodule "VarfromPDB"]
 	path = VarfromPDB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
