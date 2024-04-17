@@ -267,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glancedata
 	subdir = glancedata
+[submodule "glinvci"]
+	path = glinvci
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/glinvci
+	subdir = glinvci
 [submodule "histry"]
 	path = histry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
