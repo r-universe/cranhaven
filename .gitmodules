@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayLum
 	subdir = BayLum
+[submodule "BioTIMEr"]
+	path = BioTIMEr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BioTIMEr
+	subdir = BioTIMEr
 [submodule "CDNmoney"]
 	path = CDNmoney
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glancedata
 	subdir = glancedata
-[submodule "glinvci"]
-	path = glinvci
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/glinvci
-	subdir = glinvci
 [submodule "histry"]
 	path = histry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
