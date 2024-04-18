@@ -412,11 +412,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/semTable
 	subdir = semTable
-[submodule "sentopics"]
-	path = sentopics
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sentopics
-	subdir = sentopics
 [submodule "setter"]
 	path = setter
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
