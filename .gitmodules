@@ -292,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/medrxivr
 	subdir = medrxivr
-[submodule "meteo"]
-	path = meteo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/meteo
-	subdir = meteo
 [submodule "mhurdle"]
 	path = mhurdle
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -387,6 +382,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/regcensus
 	subdir = regcensus
+[submodule "restorepoint"]
+	path = restorepoint
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/restorepoint
+	subdir = restorepoint
 [submodule "rfUtilities"]
 	path = rfUtilities
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
