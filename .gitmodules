@@ -457,6 +457,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vlda
 	subdir = vlda
+[submodule "vyos"]
+	path = vyos
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vyos
+	subdir = vyos
 [submodule "wordbankr"]
 	path = wordbankr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
