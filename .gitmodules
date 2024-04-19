@@ -297,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mhurdle
 	subdir = mhurdle
-[submodule "misha"]
-	path = misha
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/misha
-	subdir = misha
 [submodule "mnmer"]
 	path = mnmer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
