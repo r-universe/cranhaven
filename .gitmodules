@@ -427,11 +427,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/snvecR
 	subdir = snvecR
-[submodule "spOccupancy"]
-	path = spOccupancy
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spOccupancy
-	subdir = spOccupancy
 [submodule "sparsebnUtils"]
 	path = sparsebnUtils
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
