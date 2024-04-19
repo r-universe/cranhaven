@@ -442,6 +442,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spqdep
 	subdir = spqdep
+[submodule "stminsights"]
+	path = stminsights
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/stminsights
+	subdir = stminsights
 [submodule "survJamda.data"]
 	path = survJamda.data
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
