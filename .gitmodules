@@ -7,26 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ALSM
 	subdir = ALSM
-[submodule "APCalign"]
-	path = APCalign
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/APCalign
-	subdir = APCalign
 [submodule "AdaptiveSparsity"]
 	path = AdaptiveSparsity
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AdaptiveSparsity
 	subdir = AdaptiveSparsity
-[submodule "ArchaeoChron"]
-	path = ArchaeoChron
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ArchaeoChron
-	subdir = ArchaeoChron
-[submodule "ArchaeoPhases"]
-	path = ArchaeoPhases
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ArchaeoPhases
-	subdir = ArchaeoPhases
 [submodule "BCE"]
 	path = BCE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -37,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BHTSpack
 	subdir = BHTSpack
-[submodule "BayLum"]
-	path = BayLum
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BayLum
-	subdir = BayLum
 [submodule "BioM2"]
 	path = BioM2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GSNA
 	subdir = GSNA
-[submodule "GiniWegNeg"]
-	path = GiniWegNeg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GiniWegNeg
-	subdir = GiniWegNeg
 [submodule "GraphPCA"]
 	path = GraphPCA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HRM
 	subdir = HRM
-[submodule "HiCseg"]
-	path = HiCseg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HiCseg
-	subdir = HiCseg
 [submodule "HistogramTools"]
 	path = HistogramTools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -277,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PDXpower
 	subdir = PDXpower
-[submodule "PhyInsight"]
-	path = PhyInsight
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PhyInsight
-	subdir = PhyInsight
 [submodule "Qardl"]
 	path = Qardl
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,11 +382,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bigdist
 	subdir = bigdist
-[submodule "bioassays"]
-	path = bioassays
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bioassays
-	subdir = bioassays
 [submodule "bshazard"]
 	path = bshazard
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -512,11 +472,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dotwhisker
 	subdir = dotwhisker
-[submodule "dprint"]
-	path = dprint
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dprint
-	subdir = dprint
 [submodule "dsfa"]
 	path = dsfa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -547,11 +502,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/errint
 	subdir = errint
-[submodule "etma"]
-	path = etma
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/etma
-	subdir = etma
 [submodule "ffstream"]
 	path = ffstream
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -582,16 +532,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gfpop
 	subdir = gfpop
-[submodule "gghdr"]
-	path = gghdr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gghdr
-	subdir = gghdr
-[submodule "glancedata"]
-	path = glancedata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/glancedata
-	subdir = glancedata
 [submodule "goodpractice"]
 	path = goodpractice
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -722,11 +662,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/outerbase
 	subdir = outerbase
-[submodule "pacviz"]
-	path = pacviz
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pacviz
-	subdir = pacviz
 [submodule "pcoxtime"]
 	path = pcoxtime
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -762,11 +697,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pipeGS
 	subdir = pipeGS
-[submodule "plot3logit"]
-	path = plot3logit
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/plot3logit
-	subdir = plot3logit
 [submodule "prediction"]
 	path = prediction
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -792,16 +722,51 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qgtools
 	subdir = qgtools
+[submodule "quhomology"]
+	path = quhomology
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/quhomology
+	subdir = quhomology
+[submodule "qut"]
+	path = qut
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qut
+	subdir = qut
+[submodule "rWind"]
+	path = rWind
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rWind
+	subdir = rWind
 [submodule "rabhit"]
 	path = rabhit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rabhit
 	subdir = rabhit
+[submodule "rdoc"]
+	path = rdoc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rdoc
+	subdir = rdoc
+[submodule "readmnist"]
+	path = readmnist
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/readmnist
+	subdir = readmnist
 [submodule "readysignal"]
 	path = readysignal
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/readysignal
 	subdir = readysignal
+[submodule "recom"]
+	path = recom
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/recom
+	subdir = recom
+[submodule "redR"]
+	path = redR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/redR
+	subdir = redR
 [submodule "regcensus"]
 	path = regcensus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -812,26 +777,61 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/restorepoint
 	subdir = restorepoint
-[submodule "rfUtilities"]
-	path = rfUtilities
+[submodule "rmonad"]
+	path = rmonad
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rfUtilities
-	subdir = rfUtilities
+	branch = package/rmonad
+	subdir = rmonad
 [submodule "robcp"]
 	path = robcp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/robcp
 	subdir = robcp
+[submodule "rtrim"]
+	path = rtrim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rtrim
+	subdir = rtrim
+[submodule "rv"]
+	path = rv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rv
+	subdir = rv
+[submodule "s2dverification"]
+	path = s2dverification
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/s2dverification
+	subdir = s2dverification
+[submodule "safedata"]
+	path = safedata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/safedata
+	subdir = safedata
 [submodule "scoringTools"]
 	path = scoringTools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scoringTools
 	subdir = scoringTools
-[submodule "semTable"]
-	path = semTable
+[submodule "searchConsoleR"]
+	path = searchConsoleR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/semTable
-	subdir = semTable
+	branch = package/searchConsoleR
+	subdir = searchConsoleR
+[submodule "seasonalclumped"]
+	path = seasonalclumped
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/seasonalclumped
+	subdir = seasonalclumped
+[submodule "seqCBS"]
+	path = seqCBS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/seqCBS
+	subdir = seqCBS
+[submodule "seqmon"]
+	path = seqmon
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/seqmon
+	subdir = seqmon
 [submodule "setter"]
 	path = setter
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -847,11 +847,31 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/snvecR
 	subdir = snvecR
+[submodule "soundcorrs"]
+	path = soundcorrs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/soundcorrs
+	subdir = soundcorrs
 [submodule "sparsebnUtils"]
 	path = sparsebnUtils
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sparsebnUtils
 	subdir = sparsebnUtils
+[submodule "spectrolab"]
+	path = spectrolab
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spectrolab
+	subdir = spectrolab
+[submodule "spflow"]
+	path = spflow
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spflow
+	subdir = spflow
+[submodule "splitFeas"]
+	path = splitFeas
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/splitFeas
+	subdir = splitFeas
 [submodule "spqdep"]
 	path = spqdep
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -862,11 +882,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stminsights
 	subdir = stminsights
-[submodule "survJamda.data"]
-	path = survJamda.data
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/survJamda.data
-	subdir = survJamda.data
 [submodule "tidylda"]
 	path = tidylda
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
