@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/APCalign
 	subdir = APCalign
+[submodule "AdaptiveSparsity"]
+	path = AdaptiveSparsity
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AdaptiveSparsity
+	subdir = AdaptiveSparsity
 [submodule "ArchaeoChron"]
 	path = ArchaeoChron
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -27,11 +32,31 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BioTIMEr
 	subdir = BioTIMEr
+[submodule "Bios2cor"]
+	path = Bios2cor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Bios2cor
+	subdir = Bios2cor
 [submodule "CDNmoney"]
 	path = CDNmoney
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CDNmoney
 	subdir = CDNmoney
+[submodule "ChIPtest"]
+	path = ChIPtest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ChIPtest
+	subdir = ChIPtest
+[submodule "ChangePointTaylor"]
+	path = ChangePointTaylor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ChangePointTaylor
+	subdir = ChangePointTaylor
+[submodule "DAP"]
+	path = DAP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DAP
+	subdir = DAP
 [submodule "DynNom"]
 	path = DynNom
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -42,6 +67,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ExpImage
 	subdir = ExpImage
+[submodule "GAabbreviate"]
+	path = GAabbreviate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GAabbreviate
+	subdir = GAabbreviate
 [submodule "GSNA"]
 	path = GSNA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,21 +87,46 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HiCseg
 	subdir = HiCseg
+[submodule "HistogramTools"]
+	path = HistogramTools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HistogramTools
+	subdir = HistogramTools
+[submodule "HydroMe"]
+	path = HydroMe
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HydroMe
+	subdir = HydroMe
 [submodule "IsoGene"]
 	path = IsoGene
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IsoGene
 	subdir = IsoGene
+[submodule "LEANR"]
+	path = LEANR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LEANR
+	subdir = LEANR
 [submodule "LMoFit"]
 	path = LMoFit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LMoFit
 	subdir = LMoFit
+[submodule "Lock5withR"]
+	path = Lock5withR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Lock5withR
+	subdir = Lock5withR
 [submodule "MPCR"]
 	path = MPCR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MPCR
 	subdir = MPCR
+[submodule "MPLikelihoodWB"]
+	path = MPLikelihoodWB
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MPLikelihoodWB
+	subdir = MPLikelihoodWB
 [submodule "MaxMC"]
 	path = MaxMC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,6 +142,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonotoneHazardRatio
 	subdir = MonotoneHazardRatio
+[submodule "NBBttest"]
+	path = NBBttest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NBBttest
+	subdir = NBBttest
+[submodule "NHMSAR"]
+	path = NHMSAR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NHMSAR
+	subdir = NHMSAR
 [submodule "NonlinearRDD"]
 	path = NonlinearRDD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +172,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PhyInsight
 	subdir = PhyInsight
+[submodule "RcmdrPlugin.SCDA"]
+	path = RcmdrPlugin.SCDA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RcmdrPlugin.SCDA
+	subdir = RcmdrPlugin.SCDA
+[submodule "RcmdrPlugin.coin"]
+	path = RcmdrPlugin.coin
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RcmdrPlugin.coin
+	subdir = RcmdrPlugin.coin
 [submodule "Rtapas"]
 	path = Rtapas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,11 +247,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesbr
 	subdir = bayesbr
+[submodule "bigdist"]
+	path = bigdist
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bigdist
+	subdir = bigdist
 [submodule "bioassays"]
 	path = bioassays
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bioassays
 	subdir = bioassays
+[submodule "cassandRa"]
+	path = cassandRa
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cassandRa
+	subdir = cassandRa
 [submodule "clustDRM"]
 	path = clustDRM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/concrete
 	subdir = concrete
+[submodule "coopProductGame"]
+	path = coopProductGame
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/coopProductGame
+	subdir = coopProductGame
 [submodule "crosstalkr"]
 	path = crosstalkr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,6 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cwbtools
 	subdir = cwbtools
+[submodule "discreteRV"]
+	path = discreteRV
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/discreteRV
+	subdir = discreteRV
 [submodule "discretecdAlgorithm"]
 	path = discretecdAlgorithm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,6 +332,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/etma
 	subdir = etma
+[submodule "ffstream"]
+	path = ffstream
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ffstream
+	subdir = ffstream
 [submodule "frailtypack"]
 	path = frailtypack
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
