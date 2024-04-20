@@ -172,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bioassays
 	subdir = bioassays
-[submodule "caschrono"]
-	path = caschrono
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/caschrono
-	subdir = caschrono
 [submodule "clustDRM"]
 	path = clustDRM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
