@@ -42,6 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayLum
 	subdir = BayLum
+[submodule "BioM2"]
+	path = BioM2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BioM2
+	subdir = BioM2
 [submodule "BioTIMEr"]
 	path = BioTIMEr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,11 +217,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LMoFit
 	subdir = LMoFit
+[submodule "LexFindR"]
+	path = LexFindR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LexFindR
+	subdir = LexFindR
 [submodule "Lock5withR"]
 	path = Lock5withR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Lock5withR
 	subdir = Lock5withR
+[submodule "LotkasLaw"]
+	path = LotkasLaw
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LotkasLaw
+	subdir = LotkasLaw
+[submodule "MIDASwrappeR"]
+	path = MIDASwrappeR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MIDASwrappeR
+	subdir = MIDASwrappeR
 [submodule "MPCR"]
 	path = MPCR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NHMSAR
 	subdir = NHMSAR
+[submodule "NetSci"]
+	path = NetSci
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NetSci
+	subdir = NetSci
 [submodule "NonlinearRDD"]
 	path = NonlinearRDD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +297,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PhyInsight
 	subdir = PhyInsight
+[submodule "Qardl"]
+	path = Qardl
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Qardl
+	subdir = Qardl
+[submodule "RDocumentation"]
+	path = RDocumentation
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RDocumentation
+	subdir = RDocumentation
+[submodule "RStorm"]
+	path = RStorm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RStorm
+	subdir = RStorm
 [submodule "RcmdrPlugin.SCDA"]
 	path = RcmdrPlugin.SCDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,11 +327,46 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rtapas
 	subdir = Rtapas
+[submodule "SAMM"]
+	path = SAMM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SAMM
+	subdir = SAMM
+[submodule "SPOT"]
+	path = SPOT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SPOT
+	subdir = SPOT
+[submodule "SPOTMisc"]
+	path = SPOTMisc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SPOTMisc
+	subdir = SPOTMisc
+[submodule "SimplifyStats"]
+	path = SimplifyStats
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SimplifyStats
+	subdir = SimplifyStats
 [submodule "SpotSampling"]
 	path = SpotSampling
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SpotSampling
 	subdir = SpotSampling
+[submodule "ThreeArmedTrials"]
+	path = ThreeArmedTrials
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ThreeArmedTrials
+	subdir = ThreeArmedTrials
+[submodule "UNCLES"]
+	path = UNCLES
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/UNCLES
+	subdir = UNCLES
+[submodule "VHDClassification"]
+	path = VHDClassification
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/VHDClassification
+	subdir = VHDClassification
 [submodule "VarfromPDB"]
 	path = VarfromPDB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,11 +377,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/XML2R
 	subdir = XML2R
+[submodule "ZIBseq"]
+	path = ZIBseq
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ZIBseq
+	subdir = ZIBseq
 [submodule "abn"]
 	path = abn
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/abn
 	subdir = abn
+[submodule "activegp"]
+	path = activegp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/activegp
+	subdir = activegp
+[submodule "adepro"]
+	path = adepro
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/adepro
+	subdir = adepro
 [submodule "aifeducation"]
 	path = aifeducation
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,6 +432,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/assertive.sets
 	subdir = assertive.sets
+[submodule "babsim.hospital"]
+	path = babsim.hospital
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/babsim.hospital
+	subdir = babsim.hospital
 [submodule "bayesbr"]
 	path = bayesbr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,6 +452,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bioassays
 	subdir = bioassays
+[submodule "bshazard"]
+	path = bshazard
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bshazard
+	subdir = bshazard
 [submodule "cassandRa"]
 	path = cassandRa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
