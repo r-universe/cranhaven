@@ -132,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/abn
 	subdir = abn
+[submodule "aifeducation"]
+	path = aifeducation
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/aifeducation
+	subdir = aifeducation
 [submodule "assertive.base"]
 	path = assertive.base
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,6 +197,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cryptotrackr
 	subdir = cryptotrackr
+[submodule "cwbtools"]
+	path = cwbtools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cwbtools
+	subdir = cwbtools
 [submodule "discretecdAlgorithm"]
 	path = discretecdAlgorithm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -442,6 +452,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/survJamda.data
 	subdir = survJamda.data
+[submodule "tidylda"]
+	path = tidylda
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tidylda
+	subdir = tidylda
 [submodule "twostageTE"]
 	path = twostageTE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
