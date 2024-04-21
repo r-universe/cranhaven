@@ -722,11 +722,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/restorepoint
 	subdir = restorepoint
-[submodule "rmonad"]
-	path = rmonad
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rmonad
-	subdir = rmonad
 [submodule "robcp"]
 	path = robcp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
