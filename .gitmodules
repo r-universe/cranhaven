@@ -402,11 +402,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/concordancer
 	subdir = concordancer
-[submodule "concrete"]
-	path = concrete
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/concrete
-	subdir = concrete
 [submodule "coopProductGame"]
 	path = coopProductGame
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -882,6 +877,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vein
 	subdir = vein
+[submodule "viruslearner"]
+	path = viruslearner
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/viruslearner
+	subdir = viruslearner
 [submodule "vyos"]
 	path = vyos
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
