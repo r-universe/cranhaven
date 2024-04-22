@@ -302,11 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/adepro
 	subdir = adepro
-[submodule "aifeducation"]
-	path = aifeducation
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/aifeducation
-	subdir = aifeducation
 [submodule "assertive.base"]
 	path = assertive.base
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -852,11 +847,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/thewitcher
 	subdir = thewitcher
-[submodule "tidylda"]
-	path = tidylda
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tidylda
-	subdir = tidylda
 [submodule "timeSeq"]
 	path = timeSeq
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
