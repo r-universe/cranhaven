@@ -77,11 +77,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ChangePointTaylor
 	subdir = ChangePointTaylor
-[submodule "Clustering"]
-	path = Clustering
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Clustering
-	subdir = Clustering
 [submodule "CopulaDTA"]
 	path = CopulaDTA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
