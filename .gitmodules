@@ -202,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MPLikelihoodWB
 	subdir = MPLikelihoodWB
-[submodule "MonoPhy"]
-	path = MonoPhy
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MonoPhy
-	subdir = MonoPhy
 [submodule "NBBttest"]
 	path = NBBttest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -487,6 +482,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geofd
 	subdir = geofd
+[submodule "gofastr"]
+	path = gofastr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gofastr
+	subdir = gofastr
 [submodule "goodpractice"]
 	path = goodpractice
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
