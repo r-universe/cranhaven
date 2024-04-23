@@ -187,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MIDASwrappeR
 	subdir = MIDASwrappeR
-[submodule "MPCR"]
-	path = MPCR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MPCR
-	subdir = MPCR
 [submodule "MPLikelihoodWB"]
 	path = MPLikelihoodWB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -447,6 +442,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/errint
 	subdir = errint
+[submodule "estimators"]
+	path = estimators
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/estimators
+	subdir = estimators
 [submodule "ffstream"]
 	path = ffstream
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
