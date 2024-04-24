@@ -447,11 +447,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/estimators
 	subdir = estimators
+[submodule "eummd"]
+	path = eummd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/eummd
+	subdir = eummd
 [submodule "ffstream"]
 	path = ffstream
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ffstream
 	subdir = ffstream
+[submodule "filibustr"]
+	path = filibustr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/filibustr
+	subdir = filibustr
 [submodule "frailtypack"]
 	path = frailtypack
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
