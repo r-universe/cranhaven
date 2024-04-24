@@ -767,11 +767,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/smile
 	subdir = smile
-[submodule "snvecR"]
-	path = snvecR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/snvecR
-	subdir = snvecR
 [submodule "soundcorrs"]
 	path = soundcorrs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
