@@ -522,11 +522,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/match2C
 	subdir = match2C
-[submodule "medrxivr"]
-	path = medrxivr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/medrxivr
-	subdir = medrxivr
 [submodule "mhurdle"]
 	path = mhurdle
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -547,11 +542,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mistat
 	subdir = mistat
-[submodule "modeltime.ensemble"]
-	path = modeltime.ensemble
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/modeltime.ensemble
-	subdir = modeltime.ensemble
 [submodule "ms.sev"]
 	path = ms.sev
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -637,11 +627,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pipeGS
 	subdir = pipeGS
-[submodule "prediction"]
-	path = prediction
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/prediction
-	subdir = prediction
 [submodule "pseudorank"]
 	path = pseudorank
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
