@@ -287,11 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/activegp
 	subdir = activegp
-[submodule "adepro"]
-	path = adepro
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/adepro
-	subdir = adepro
 [submodule "assertive.base"]
 	path = assertive.base
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
