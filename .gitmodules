@@ -697,6 +697,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/regcensus
 	subdir = regcensus
+[submodule "respR"]
+	path = respR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/respR
+	subdir = respR
 [submodule "restorepoint"]
 	path = restorepoint
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
