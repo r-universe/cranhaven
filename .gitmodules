@@ -382,11 +382,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/coopProductGame
 	subdir = coopProductGame
-[submodule "cwbtools"]
-	path = cwbtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cwbtools
-	subdir = cwbtools
 [submodule "dampack"]
 	path = dampack
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
