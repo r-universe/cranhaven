@@ -467,11 +467,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gemlog
 	subdir = gemlog
-[submodule "geofd"]
-	path = geofd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/geofd
-	subdir = geofd
 [submodule "gofastr"]
 	path = gofastr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -487,6 +482,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/grplassocat
 	subdir = grplassocat
+[submodule "hexFinder"]
+	path = hexFinder
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hexFinder
+	subdir = hexFinder
 [submodule "highSCREEN"]
 	path = highSCREEN
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -557,11 +557,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/msda
 	subdir = msda
-[submodule "multilevelcoda"]
-	path = multilevelcoda
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/multilevelcoda
-	subdir = multilevelcoda
 [submodule "nCopula"]
 	path = nCopula
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -672,6 +667,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rdoc
 	subdir = rdoc
+[submodule "rdss"]
+	path = rdss
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rdss
+	subdir = rdss
 [submodule "readmnist"]
 	path = readmnist
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -692,6 +692,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/redR
 	subdir = redR
+[submodule "refseqR"]
+	path = refseqR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/refseqR
+	subdir = refseqR
 [submodule "regcensus"]
 	path = regcensus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
