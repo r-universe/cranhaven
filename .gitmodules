@@ -852,11 +852,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/treemisc
 	subdir = treemisc
-[submodule "vein"]
-	path = vein
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vein
-	subdir = vein
 [submodule "viruslearner"]
 	path = viruslearner
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
