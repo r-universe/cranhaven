@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EventStudy
 	subdir = EventStudy
-[submodule "FAOSTAT"]
-	path = FAOSTAT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FAOSTAT
-	subdir = FAOSTAT
 [submodule "FSMUMI"]
 	path = FSMUMI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
