@@ -437,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ffstream
 	subdir = ffstream
-[submodule "filibustr"]
-	path = filibustr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/filibustr
-	subdir = filibustr
 [submodule "frailtypack"]
 	path = frailtypack
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
