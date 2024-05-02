@@ -582,6 +582,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ocomposition
 	subdir = ocomposition
+[submodule "openscoring"]
+	path = openscoring
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/openscoring
+	subdir = openscoring
 [submodule "outerbase"]
 	path = outerbase
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -877,11 +882,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/weightedZdiff
 	subdir = weightedZdiff
-[submodule "wordbankr"]
-	path = wordbankr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wordbankr
-	subdir = wordbankr
 [submodule "woylier"]
 	path = woylier
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
