@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GAabbreviate
 	subdir = GAabbreviate
-[submodule "GSNA"]
-	path = GSNA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GSNA
-	subdir = GSNA
 [submodule "GraphPCA"]
 	path = GraphPCA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -767,6 +762,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/setter
 	subdir = setter
+[submodule "shinyr"]
+	path = shinyr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/shinyr
+	subdir = shinyr
 [submodule "smile"]
 	path = smile
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
