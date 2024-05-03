@@ -457,6 +457,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gemlog
 	subdir = gemlog
+[submodule "genetic.algo.optimizeR"]
+	path = genetic.algo.optimizeR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/genetic.algo.optimizeR
+	subdir = genetic.algo.optimizeR
 [submodule "gofastr"]
 	path = gofastr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -552,11 +557,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nCopula
 	subdir = nCopula
-[submodule "netchain"]
-	path = netchain
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/netchain
-	subdir = netchain
 [submodule "nomordR"]
 	path = nomordR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
