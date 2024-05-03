@@ -207,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PDXpower
 	subdir = PDXpower
+[submodule "PRANA"]
+	path = PRANA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PRANA
+	subdir = PRANA
 [submodule "Qardl"]
 	path = Qardl
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -392,6 +397,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/discretecdAlgorithm
 	subdir = discretecdAlgorithm
+[submodule "dnapath"]
+	path = dnapath
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dnapath
+	subdir = dnapath
 [submodule "dotwhisker"]
 	path = dotwhisker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -582,11 +592,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/openscoring
 	subdir = openscoring
-[submodule "outerbase"]
-	path = outerbase
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/outerbase
-	subdir = outerbase
 [submodule "pcoxtime"]
 	path = pcoxtime
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -672,11 +677,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/readmnist
 	subdir = readmnist
-[submodule "readysignal"]
-	path = readysignal
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/readysignal
-	subdir = readysignal
 [submodule "recom"]
 	path = recom
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
