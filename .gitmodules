@@ -472,6 +472,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/genetic.algo.optimizeR
 	subdir = genetic.algo.optimizeR
+[submodule "ggparliament"]
+	path = ggparliament
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ggparliament
+	subdir = ggparliament
 [submodule "gofastr"]
 	path = gofastr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
