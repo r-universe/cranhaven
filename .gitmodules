@@ -287,6 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VHDClassification
 	subdir = VHDClassification
+[submodule "VIGoR"]
+	path = VIGoR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/VIGoR
+	subdir = VIGoR
 [submodule "ZIBseq"]
 	path = ZIBseq
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
