@@ -217,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PRANA
 	subdir = PRANA
-[submodule "Patterns"]
-	path = Patterns
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Patterns
-	subdir = Patterns
 [submodule "Qardl"]
 	path = Qardl
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
