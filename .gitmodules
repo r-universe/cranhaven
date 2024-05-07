@@ -412,11 +412,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dotwhisker
 	subdir = dotwhisker
-[submodule "dsfa"]
-	path = dsfa
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dsfa
-	subdir = dsfa
 [submodule "dual.spls"]
 	path = dual.spls
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eummd
 	subdir = eummd
+[submodule "expertsurv"]
+	path = expertsurv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/expertsurv
+	subdir = expertsurv
 [submodule "ffstream"]
 	path = ffstream
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -537,6 +537,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/longCatEDA
 	subdir = longCatEDA
+[submodule "lrstat"]
+	path = lrstat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lrstat
+	subdir = lrstat
 [submodule "margins"]
 	path = margins
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
