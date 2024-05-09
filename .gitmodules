@@ -312,11 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/assertive.matrices
 	subdir = assertive.matrices
-[submodule "assertive.models"]
-	path = assertive.models
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/assertive.models
-	subdir = assertive.models
 [submodule "assertive.numbers"]
 	path = assertive.numbers
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -562,6 +557,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/microsamplingDesign
 	subdir = microsamplingDesign
+[submodule "mirai.promises"]
+	path = mirai.promises
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mirai.promises
+	subdir = mirai.promises
 [submodule "misreport"]
 	path = misreport
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
