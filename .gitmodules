@@ -672,11 +672,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ptest
 	subdir = ptest
-[submodule "ptm"]
-	path = ptm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ptm
-	subdir = ptm
 [submodule "pulseTD"]
 	path = pulseTD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
