@@ -302,21 +302,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/assertive.base
 	subdir = assertive.base
-[submodule "assertive.files"]
-	path = assertive.files
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/assertive.files
-	subdir = assertive.files
 [submodule "assertive.matrices"]
 	path = assertive.matrices
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/assertive.matrices
 	subdir = assertive.matrices
-[submodule "assertive.numbers"]
-	path = assertive.numbers
+[submodule "assertive.models"]
+	path = assertive.models
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/assertive.numbers
-	subdir = assertive.numbers
+	branch = package/assertive.models
+	subdir = assertive.models
 [submodule "assertive.sets"]
 	path = assertive.sets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
