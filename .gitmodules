@@ -102,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DOBAD
 	subdir = DOBAD
-[submodule "DynNom"]
-	path = DynNom
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DynNom
-	subdir = DynNom
 [submodule "EventStudy"]
 	path = EventStudy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HydroMe
 	subdir = HydroMe
-[submodule "IsoGene"]
-	path = IsoGene
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/IsoGene
-	subdir = IsoGene
 [submodule "LEANR"]
 	path = LEANR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VIGoR
 	subdir = VIGoR
+[submodule "WSGeometry"]
+	path = WSGeometry
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/WSGeometry
+	subdir = WSGeometry
 [submodule "ZIBseq"]
 	path = ZIBseq
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,16 +297,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/assertive.base
 	subdir = assertive.base
+[submodule "assertive.files"]
+	path = assertive.files
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/assertive.files
+	subdir = assertive.files
 [submodule "assertive.matrices"]
 	path = assertive.matrices
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/assertive.matrices
 	subdir = assertive.matrices
-[submodule "assertive.models"]
-	path = assertive.models
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/assertive.models
-	subdir = assertive.models
 [submodule "assertive.sets"]
 	path = assertive.sets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,6 +322,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bigdist
 	subdir = bigdist
+[submodule "blandr"]
+	path = blandr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/blandr
+	subdir = blandr
 [submodule "bshazard"]
 	path = bshazard
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
