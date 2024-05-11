@@ -332,6 +332,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bshazard
 	subdir = bshazard
+[submodule "bucky"]
+	path = bucky
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bucky
+	subdir = bucky
 [submodule "cancerTiming"]
 	path = cancerTiming
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
