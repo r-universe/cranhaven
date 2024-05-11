@@ -532,11 +532,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/longCatEDA
 	subdir = longCatEDA
-[submodule "lrstat"]
-	path = lrstat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lrstat
-	subdir = lrstat
 [submodule "margins"]
 	path = margins
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
