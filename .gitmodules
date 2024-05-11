@@ -292,21 +292,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/activegp
 	subdir = activegp
-[submodule "assertive.base"]
-	path = assertive.base
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/assertive.base
-	subdir = assertive.base
 [submodule "assertive.files"]
 	path = assertive.files
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/assertive.files
 	subdir = assertive.files
-[submodule "assertive.matrices"]
-	path = assertive.matrices
+[submodule "assertive.numbers"]
+	path = assertive.numbers
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/assertive.matrices
-	subdir = assertive.matrices
+	branch = package/assertive.numbers
+	subdir = assertive.numbers
 [submodule "assertive.sets"]
 	path = assertive.sets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,6 +512,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/holdem
 	subdir = holdem
+[submodule "infoelectoral"]
+	path = infoelectoral
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/infoelectoral
+	subdir = infoelectoral
 [submodule "ivprobit"]
 	path = ivprobit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
