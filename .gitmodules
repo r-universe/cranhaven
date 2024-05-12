@@ -102,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DOBAD
 	subdir = DOBAD
+[submodule "Euronext"]
+	path = Euronext
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Euronext
+	subdir = Euronext
 [submodule "EventStudy"]
 	path = EventStudy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,21 +297,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/activegp
 	subdir = activegp
-[submodule "assertive.files"]
-	path = assertive.files
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/assertive.files
-	subdir = assertive.files
-[submodule "assertive.numbers"]
-	path = assertive.numbers
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/assertive.numbers
-	subdir = assertive.numbers
 [submodule "assertive.sets"]
 	path = assertive.sets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/assertive.sets
 	subdir = assertive.sets
+[submodule "baRulho"]
+	path = baRulho
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/baRulho
+	subdir = baRulho
 [submodule "babsim.hospital"]
 	path = babsim.hospital
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,11 +357,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clpm
 	subdir = clpm
-[submodule "clustDRM"]
-	path = clustDRM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clustDRM
-	subdir = clustDRM
 [submodule "coalitions"]
 	path = coalitions
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -857,6 +852,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/thewitcher
 	subdir = thewitcher
+[submodule "tidyqwi"]
+	path = tidyqwi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tidyqwi
+	subdir = tidyqwi
 [submodule "timeSeq"]
 	path = timeSeq
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
