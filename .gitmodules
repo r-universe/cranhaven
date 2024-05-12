@@ -322,11 +322,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/blandr
 	subdir = blandr
-[submodule "bshazard"]
-	path = bshazard
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bshazard
-	subdir = bshazard
 [submodule "bucky"]
 	path = bucky
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
