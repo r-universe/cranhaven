@@ -297,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/activegp
 	subdir = activegp
-[submodule "assertive.sets"]
-	path = assertive.sets
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/assertive.sets
-	subdir = assertive.sets
 [submodule "baRulho"]
 	path = baRulho
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,11 +347,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clpm
 	subdir = clpm
-[submodule "clustDRM"]
-	path = clustDRM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clustDRM
-	subdir = clustDRM
 [submodule "coalitions"]
 	path = coalitions
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,6 +402,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/elaborator
 	subdir = elaborator
+[submodule "ensurer"]
+	path = ensurer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ensurer
+	subdir = ensurer
 [submodule "errint"]
 	path = errint
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -727,6 +722,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/robusTest
 	subdir = robusTest
+[submodule "rsleep"]
+	path = rsleep
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rsleep
+	subdir = rsleep
 [submodule "rtrim"]
 	path = rtrim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
