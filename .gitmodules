@@ -492,11 +492,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/highSCREEN
 	subdir = highSCREEN
-[submodule "hmmm"]
-	path = hmmm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hmmm
-	subdir = hmmm
 [submodule "holdem"]
 	path = holdem
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
