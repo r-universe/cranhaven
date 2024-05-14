@@ -62,11 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CVEK
 	subdir = CVEK
-[submodule "CensMFM"]
-	path = CensMFM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CensMFM
-	subdir = CensMFM
 [submodule "ChIPtest"]
 	path = ChIPtest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
