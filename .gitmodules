@@ -422,6 +422,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/coopProductGame
 	subdir = coopProductGame
+[submodule "cvasi"]
+	path = cvasi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cvasi
+	subdir = cvasi
 [submodule "dampack"]
 	path = dampack
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
