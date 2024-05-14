@@ -267,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ThreeArmedTrials
 	subdir = ThreeArmedTrials
+[submodule "UCSCXenaShiny"]
+	path = UCSCXenaShiny
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/UCSCXenaShiny
+	subdir = UCSCXenaShiny
 [submodule "UNCLES"]
 	path = UNCLES
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,6 +302,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/activegp
 	subdir = activegp
+[submodule "assertive.sets"]
+	path = assertive.sets
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/assertive.sets
+	subdir = assertive.sets
 [submodule "baRulho"]
 	path = baRulho
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,11 +392,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dnapath
 	subdir = dnapath
-[submodule "dotwhisker"]
-	path = dotwhisker
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dotwhisker
-	subdir = dotwhisker
 [submodule "dual.spls"]
 	path = dual.spls
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -522,11 +527,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/match2C
 	subdir = match2C
-[submodule "mhurdle"]
-	path = mhurdle
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mhurdle
-	subdir = mhurdle
 [submodule "microsamplingDesign"]
 	path = microsamplingDesign
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
