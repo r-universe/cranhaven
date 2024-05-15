@@ -232,11 +232,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RNAsmc
 	subdir = RNAsmc
-[submodule "RRNA"]
-	path = RRNA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RRNA
-	subdir = RRNA
 [submodule "RStorm"]
 	path = RStorm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
