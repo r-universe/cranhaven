@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BHTSpack
 	subdir = BHTSpack
-[submodule "BioM2"]
-	path = BioM2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BioM2
-	subdir = BioM2
 [submodule "Biocomb"]
 	path = Biocomb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
