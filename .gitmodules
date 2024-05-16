@@ -452,11 +452,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/esaBcv
 	subdir = esaBcv
-[submodule "estimators"]
-	path = estimators
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/estimators
-	subdir = estimators
 [submodule "eummd"]
 	path = eummd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
