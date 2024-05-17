@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Biocomb
 	subdir = Biocomb
-[submodule "Bios2cor"]
-	path = Bios2cor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Bios2cor
-	subdir = Bios2cor
 [submodule "BlackCarbon"]
 	path = BlackCarbon
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,11 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CopulaDTA
 	subdir = CopulaDTA
-[submodule "DAP"]
-	path = DAP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DAP
-	subdir = DAP
 [submodule "DGCA"]
 	path = DGCA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,6 +137,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HydroMe
 	subdir = HydroMe
+[submodule "HypergeoMat"]
+	path = HypergeoMat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HypergeoMat
+	subdir = HypergeoMat
 [submodule "LEANR"]
 	path = LEANR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Qardl
 	subdir = Qardl
+[submodule "RAZIAD"]
+	path = RAZIAD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RAZIAD
+	subdir = RAZIAD
 [submodule "RDocumentation"]
 	path = RDocumentation
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -462,6 +462,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/expertsurv
 	subdir = expertsurv
+[submodule "fflr"]
+	path = fflr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fflr
+	subdir = fflr
 [submodule "ffstream"]
 	path = ffstream
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
