@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HistogramTools
 	subdir = HistogramTools
-[submodule "HydroMe"]
-	path = HydroMe
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HydroMe
-	subdir = HydroMe
 [submodule "HypergeoMat"]
 	path = HypergeoMat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -792,11 +787,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seqCBS
 	subdir = seqCBS
-[submodule "seqmon"]
-	path = seqmon
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/seqmon
-	subdir = seqmon
 [submodule "shinyr"]
 	path = shinyr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
