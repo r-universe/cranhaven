@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ALSM
 	subdir = ALSM
-[submodule "AdaptiveSparsity"]
-	path = AdaptiveSparsity
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AdaptiveSparsity
-	subdir = AdaptiveSparsity
 [submodule "BCE"]
 	path = BCE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -52,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ChIPtest
 	subdir = ChIPtest
-[submodule "ChangePointTaylor"]
-	path = ChangePointTaylor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ChangePointTaylor
-	subdir = ChangePointTaylor
 [submodule "CopulaDTA"]
 	path = CopulaDTA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PRANA
 	subdir = PRANA
+[submodule "PhViD"]
+	path = PhViD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PhViD
+	subdir = PhViD
 [submodule "Platypus"]
 	path = Platypus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -392,6 +387,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/comradesOO
 	subdir = comradesOO
+[submodule "comtradr"]
+	path = comtradr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/comtradr
+	subdir = comtradr
 [submodule "concordancer"]
 	path = concordancer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
