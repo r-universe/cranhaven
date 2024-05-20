@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CVEK
 	subdir = CVEK
-[submodule "ChIPtest"]
-	path = ChIPtest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ChIPtest
-	subdir = ChIPtest
 [submodule "CopulaDTA"]
 	path = CopulaDTA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,6 +462,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ffstream
 	subdir = ffstream
+[submodule "filteRjsats"]
+	path = filteRjsats
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/filteRjsats
+	subdir = filteRjsats
 [submodule "gemlog"]
 	path = gemlog
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
