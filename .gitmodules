@@ -152,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MIDASwrappeR
 	subdir = MIDASwrappeR
-[submodule "MPLikelihoodWB"]
-	path = MPLikelihoodWB
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MPLikelihoodWB
-	subdir = MPLikelihoodWB
 [submodule "MSQC"]
 	path = MSQC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
