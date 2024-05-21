@@ -437,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/esaBcv
 	subdir = esaBcv
-[submodule "eummd"]
-	path = eummd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/eummd
-	subdir = eummd
 [submodule "expertsurv"]
 	path = expertsurv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
