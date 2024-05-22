@@ -87,6 +87,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FSMUMI
 	subdir = FSMUMI
+[submodule "GAabbreviate"]
+	path = GAabbreviate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GAabbreviate
+	subdir = GAabbreviate
 [submodule "GraphPCA"]
 	path = GraphPCA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HRM
 	subdir = HRM
+[submodule "HistogramTools"]
+	path = HistogramTools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HistogramTools
+	subdir = HistogramTools
 [submodule "HypergeoMat"]
 	path = HypergeoMat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,31 +152,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MIDASwrappeR
 	subdir = MIDASwrappeR
-[submodule "MPLikelihoodWB"]
-	path = MPLikelihoodWB
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MPLikelihoodWB
-	subdir = MPLikelihoodWB
 [submodule "MSQC"]
 	path = MSQC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MSQC
 	subdir = MSQC
-[submodule "NBBttest"]
-	path = NBBttest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NBBttest
-	subdir = NBBttest
-[submodule "NHMSAR"]
-	path = NHMSAR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NHMSAR
-	subdir = NHMSAR
 [submodule "NetSci"]
 	path = NetSci
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NetSci
 	subdir = NetSci
+[submodule "PAMscapes"]
+	path = PAMscapes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PAMscapes
+	subdir = PAMscapes
 [submodule "PRANA"]
 	path = PRANA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RStorm
 	subdir = RStorm
+[submodule "RcmdrPlugin.SCDA"]
+	path = RcmdrPlugin.SCDA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RcmdrPlugin.SCDA
+	subdir = RcmdrPlugin.SCDA
 [submodule "RcmdrPlugin.coin"]
 	path = RcmdrPlugin.coin
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
