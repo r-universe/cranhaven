@@ -712,11 +712,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/redR
 	subdir = redR
-[submodule "refseqR"]
-	path = refseqR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/refseqR
-	subdir = refseqR
 [submodule "rmonad"]
 	path = rmonad
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
