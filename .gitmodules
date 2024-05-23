@@ -522,11 +522,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/longCatEDA
 	subdir = longCatEDA
-[submodule "mark"]
-	path = mark
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mark
-	subdir = mark
 [submodule "match2C"]
 	path = match2C
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
