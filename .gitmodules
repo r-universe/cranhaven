@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ALSM
 	subdir = ALSM
+[submodule "ARDECO"]
+	path = ARDECO
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ARDECO
+	subdir = ARDECO
 [submodule "BCE"]
 	path = BCE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FSMUMI
 	subdir = FSMUMI
-[submodule "GAabbreviate"]
-	path = GAabbreviate
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GAabbreviate
-	subdir = GAabbreviate
 [submodule "GraphPCA"]
 	path = GraphPCA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,21 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HRM
 	subdir = HRM
-[submodule "HistogramTools"]
-	path = HistogramTools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HistogramTools
-	subdir = HistogramTools
 [submodule "HypergeoMat"]
 	path = HypergeoMat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HypergeoMat
 	subdir = HypergeoMat
-[submodule "LEANR"]
-	path = LEANR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LEANR
-	subdir = LEANR
 [submodule "LexFindR"]
 	path = LexFindR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,6 +147,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MSQC
 	subdir = MSQC
+[submodule "NBBttest"]
+	path = NBBttest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NBBttest
+	subdir = NBBttest
+[submodule "NHMSAR"]
+	path = NHMSAR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NHMSAR
+	subdir = NHMSAR
 [submodule "NetSci"]
 	path = NetSci
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
