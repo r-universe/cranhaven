@@ -372,11 +372,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/comradesOO
 	subdir = comradesOO
-[submodule "comtradr"]
-	path = comtradr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/comtradr
-	subdir = comtradr
 [submodule "concordancer"]
 	path = concordancer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
