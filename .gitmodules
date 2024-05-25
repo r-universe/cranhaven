@@ -282,98 +282,23 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shinyr
 	subdir = shinyr
-[submodule "sptm"]
-	path = sptm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sptm
-	subdir = sptm
-[submodule "stochprofML"]
-	path = stochprofML
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/stochprofML
-	subdir = stochprofML
-[submodule "stringb"]
-	path = stringb
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/stringb
-	subdir = stringb
-[submodule "subsamp"]
-	path = subsamp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/subsamp
-	subdir = subsamp
-[submodule "supcluster"]
-	path = supcluster
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/supcluster
-	subdir = supcluster
-[submodule "tableExtra"]
-	path = tableExtra
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tableExtra
-	subdir = tableExtra
-[submodule "thewitcher"]
-	path = thewitcher
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/thewitcher
-	subdir = thewitcher
 [submodule "tidyqwi"]
 	path = tidyqwi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidyqwi
 	subdir = tidyqwi
-[submodule "timeSeq"]
-	path = timeSeq
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/timeSeq
-	subdir = timeSeq
 [submodule "tinyarray"]
 	path = tinyarray
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tinyarray
 	subdir = tinyarray
-[submodule "treeclim"]
-	path = treeclim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/treeclim
-	subdir = treeclim
-[submodule "treemisc"]
-	path = treemisc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/treemisc
-	subdir = treemisc
 [submodule "viruslearner"]
 	path = viruslearner
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/viruslearner
 	subdir = viruslearner
-[submodule "wTO"]
-	path = wTO
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wTO
-	subdir = wTO
-[submodule "webmorphR"]
-	path = webmorphR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/webmorphR
-	subdir = webmorphR
-[submodule "weightedZdiff"]
-	path = weightedZdiff
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/weightedZdiff
-	subdir = weightedZdiff
 [submodule "wgeesel"]
 	path = wgeesel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wgeesel
 	subdir = wgeesel
-[submodule "woylier"]
-	path = woylier
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/woylier
-	subdir = woylier
-[submodule "xtal"]
-	path = xtal
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/xtal
-	subdir = xtal
