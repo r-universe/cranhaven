@@ -252,51 +252,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pulseTD
 	subdir = pulseTD
-[submodule "quhomology"]
-	path = quhomology
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/quhomology
-	subdir = quhomology
-[submodule "qut"]
-	path = qut
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qut
-	subdir = qut
-[submodule "rWind"]
-	path = rWind
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rWind
-	subdir = rWind
-[submodule "rdoc"]
-	path = rdoc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rdoc
-	subdir = rdoc
 [submodule "rdss"]
 	path = rdss
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rdss
 	subdir = rdss
-[submodule "readmnist"]
-	path = readmnist
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/readmnist
-	subdir = readmnist
-[submodule "recom"]
-	path = recom
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/recom
-	subdir = recom
-[submodule "redR"]
-	path = redR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/redR
-	subdir = redR
-[submodule "rmonad"]
-	path = rmonad
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rmonad
-	subdir = rmonad
 [submodule "rnaCrosslinkOO"]
 	path = rnaCrosslinkOO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,71 +272,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsleep
 	subdir = rsleep
-[submodule "rtrim"]
-	path = rtrim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rtrim
-	subdir = rtrim
-[submodule "rv"]
-	path = rv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rv
-	subdir = rv
-[submodule "s2dverification"]
-	path = s2dverification
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/s2dverification
-	subdir = s2dverification
-[submodule "safedata"]
-	path = safedata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/safedata
-	subdir = safedata
 [submodule "scfetch"]
 	path = scfetch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scfetch
 	subdir = scfetch
-[submodule "searchConsoleR"]
-	path = searchConsoleR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/searchConsoleR
-	subdir = searchConsoleR
-[submodule "seasonalclumped"]
-	path = seasonalclumped
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/seasonalclumped
-	subdir = seasonalclumped
-[submodule "seqCBS"]
-	path = seqCBS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/seqCBS
-	subdir = seqCBS
 [submodule "shinyr"]
 	path = shinyr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shinyr
 	subdir = shinyr
-[submodule "soundcorrs"]
-	path = soundcorrs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/soundcorrs
-	subdir = soundcorrs
-[submodule "spectrolab"]
-	path = spectrolab
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spectrolab
-	subdir = spectrolab
-[submodule "spflow"]
-	path = spflow
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spflow
-	subdir = spflow
-[submodule "splitFeas"]
-	path = splitFeas
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/splitFeas
-	subdir = splitFeas
 [submodule "sptm"]
 	path = sptm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
