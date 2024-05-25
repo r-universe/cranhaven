@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LexFindR
 	subdir = LexFindR
-[submodule "Lock5withR"]
-	path = Lock5withR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Lock5withR
-	subdir = Lock5withR
 [submodule "LotkasLaw"]
 	path = LotkasLaw
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,16 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MSQC
 	subdir = MSQC
-[submodule "NBBttest"]
-	path = NBBttest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NBBttest
-	subdir = NBBttest
-[submodule "NHMSAR"]
-	path = NHMSAR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NHMSAR
-	subdir = NHMSAR
 [submodule "NetSci"]
 	path = NetSci
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,16 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RStorm
 	subdir = RStorm
-[submodule "RcmdrPlugin.SCDA"]
-	path = RcmdrPlugin.SCDA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RcmdrPlugin.SCDA
-	subdir = RcmdrPlugin.SCDA
-[submodule "RcmdrPlugin.coin"]
-	path = RcmdrPlugin.coin
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RcmdrPlugin.coin
-	subdir = RcmdrPlugin.coin
 [submodule "SAMM"]
 	path = SAMM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,11 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/babsim.hospital
 	subdir = babsim.hospital
-[submodule "bigdist"]
-	path = bigdist
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bigdist
-	subdir = bigdist
 [submodule "blandr"]
 	path = blandr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,11 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cap
 	subdir = cap
-[submodule "cassandRa"]
-	path = cassandRa
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cassandRa
-	subdir = cassandRa
 [submodule "cate"]
 	path = cate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -377,11 +342,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/concordancer
 	subdir = concordancer
-[submodule "coopProductGame"]
-	path = coopProductGame
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/coopProductGame
-	subdir = coopProductGame
 [submodule "cvasi"]
 	path = cvasi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,11 +357,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/deconstructSigs
 	subdir = deconstructSigs
-[submodule "discreteRV"]
-	path = discreteRV
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/discreteRV
-	subdir = discreteRV
 [submodule "dnapath"]
 	path = dnapath
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,11 +392,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fflr
 	subdir = fflr
-[submodule "ffstream"]
-	path = ffstream
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ffstream
-	subdir = ffstream
 [submodule "filteRjsats"]
 	path = filteRjsats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
