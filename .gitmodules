@@ -187,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/genetic.algo.optimizeR
 	subdir = genetic.algo.optimizeR
+[submodule "geostan"]
+	path = geostan
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/geostan
+	subdir = geostan
 [submodule "ggparliament"]
 	path = ggparliament
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,26 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mirai.promises
 	subdir = mirai.promises
-[submodule "misreport"]
-	path = misreport
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/misreport
-	subdir = misreport
-[submodule "mistat"]
-	path = mistat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mistat
-	subdir = mistat
-[submodule "ms.sev"]
-	path = ms.sev
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ms.sev
-	subdir = ms.sev
-[submodule "msda"]
-	path = msda
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/msda
-	subdir = msda
 [submodule "multigroup"]
 	path = multigroup
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,31 +232,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mwcsr
 	subdir = mwcsr
-[submodule "nCopula"]
-	path = nCopula
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nCopula
-	subdir = nCopula
-[submodule "nomordR"]
-	path = nomordR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nomordR
-	subdir = nomordR
-[submodule "nose"]
-	path = nose
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nose
-	subdir = nose
-[submodule "npsr"]
-	path = npsr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/npsr
-	subdir = npsr
-[submodule "ocomposition"]
-	path = ocomposition
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ocomposition
-	subdir = ocomposition
 [submodule "openscoring"]
 	path = openscoring
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -282,71 +242,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pagoo
 	subdir = pagoo
-[submodule "pcoxtime"]
-	path = pcoxtime
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pcoxtime
-	subdir = pcoxtime
-[submodule "peRspective"]
-	path = peRspective
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/peRspective
-	subdir = peRspective
-[submodule "peptider"]
-	path = peptider
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/peptider
-	subdir = peptider
-[submodule "pequod"]
-	path = pequod
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pequod
-	subdir = pequod
-[submodule "pergola"]
-	path = pergola
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pergola
-	subdir = pergola
-[submodule "piRF"]
-	path = piRF
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/piRF
-	subdir = piRF
-[submodule "pipeGS"]
-	path = pipeGS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pipeGS
-	subdir = pipeGS
 [submodule "prediction"]
 	path = prediction
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/prediction
 	subdir = prediction
-[submodule "pseudorank"]
-	path = pseudorank
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pseudorank
-	subdir = pseudorank
-[submodule "pspline.inference"]
-	path = pspline.inference
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pspline.inference
-	subdir = pspline.inference
-[submodule "ptest"]
-	path = ptest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ptest
-	subdir = ptest
 [submodule "pulseTD"]
 	path = pulseTD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pulseTD
 	subdir = pulseTD
-[submodule "qgtools"]
-	path = qgtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qgtools
-	subdir = qgtools
 [submodule "quhomology"]
 	path = quhomology
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
