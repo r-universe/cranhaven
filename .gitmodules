@@ -292,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tinyarray
 	subdir = tinyarray
-[submodule "viruslearner"]
-	path = viruslearner
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/viruslearner
-	subdir = viruslearner
 [submodule "wgeesel"]
 	path = wgeesel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
