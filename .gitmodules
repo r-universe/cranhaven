@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PAMscapes
 	subdir = PAMscapes
+[submodule "PRANA"]
+	path = PRANA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PRANA
+	subdir = PRANA
 [submodule "PhViD"]
 	path = PhViD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
