@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggparliament
 	subdir = ggparliament
-[submodule "gofastr"]
-	path = gofastr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gofastr
-	subdir = gofastr
 [submodule "hexFinder"]
 	path = hexFinder
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
