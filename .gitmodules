@@ -137,11 +137,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/chemmodlab
 	subdir = chemmodlab
+[submodule "climenv"]
+	path = climenv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/climenv
+	subdir = climenv
 [submodule "comradesOO"]
 	path = comradesOO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/comradesOO
 	subdir = comradesOO
+[submodule "crqa"]
+	path = crqa
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/crqa
+	subdir = crqa
 [submodule "cvasi"]
 	path = cvasi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dnapath
 	subdir = dnapath
+[submodule "ecochange"]
+	path = ecochange
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ecochange
+	subdir = ecochange
 [submodule "esaBcv"]
 	path = esaBcv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,6 +202,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/genetic.algo.optimizeR
 	subdir = genetic.algo.optimizeR
+[submodule "geodata"]
+	path = geodata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/geodata
+	subdir = geodata
+[submodule "geohabnet"]
+	path = geohabnet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/geohabnet
+	subdir = geohabnet
 [submodule "geostan"]
 	path = geostan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +232,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hexFinder
 	subdir = hexFinder
+[submodule "intSDM"]
+	path = intSDM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/intSDM
+	subdir = intSDM
 [submodule "loe"]
 	path = loe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pagoo
 	subdir = pagoo
+[submodule "poissonMT"]
+	path = poissonMT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/poissonMT
+	subdir = poissonMT
 [submodule "prediction"]
 	path = prediction
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pulseTD
 	subdir = pulseTD
+[submodule "qlcVisualize"]
+	path = qlcVisualize
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qlcVisualize
+	subdir = qlcVisualize
 [submodule "rdss"]
 	path = rdss
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,6 +302,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rnaCrosslinkOO
 	subdir = rnaCrosslinkOO
+[submodule "robcbi"]
+	path = robcbi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/robcbi
+	subdir = robcbi
+[submodule "robeth"]
+	path = robeth
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/robeth
+	subdir = robeth
 [submodule "robusTest"]
 	path = robusTest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
