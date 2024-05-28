@@ -182,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/expertsurv
 	subdir = expertsurv
+[submodule "fdaPDE"]
+	path = fdaPDE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fdaPDE
+	subdir = fdaPDE
 [submodule "fflr"]
 	path = fflr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
