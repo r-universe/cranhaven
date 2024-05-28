@@ -82,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/UPMASK
 	subdir = UPMASK
-[submodule "VIGoR"]
-	path = VIGoR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/VIGoR
-	subdir = VIGoR
 [submodule "WSGeometry"]
 	path = WSGeometry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
