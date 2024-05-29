@@ -192,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/filteRjsats
 	subdir = filteRjsats
+[submodule "fwildclusterboot"]
+	path = fwildclusterboot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fwildclusterboot
+	subdir = fwildclusterboot
 [submodule "genekitr"]
 	path = genekitr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mirai.promises
 	subdir = mirai.promises
+[submodule "mmpf"]
+	path = mmpf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mmpf
+	subdir = mmpf
 [submodule "multigroup"]
 	path = multigroup
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,3 +352,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wgeesel
 	subdir = wgeesel
+[submodule "wildrwolf"]
+	path = wildrwolf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/wildrwolf
+	subdir = wildrwolf
