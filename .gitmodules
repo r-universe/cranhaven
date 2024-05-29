@@ -232,6 +232,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hexFinder
 	subdir = hexFinder
+[submodule "iemisctext"]
+	path = iemisctext
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iemisctext
+	subdir = iemisctext
 [submodule "intSDM"]
 	path = intSDM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
