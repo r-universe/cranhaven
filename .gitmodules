@@ -247,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/loe
 	subdir = loe
+[submodule "metricsgraphics"]
+	path = metricsgraphics
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/metricsgraphics
+	subdir = metricsgraphics
 [submodule "mirai.promises"]
 	path = mirai.promises
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
