@@ -7,11 +7,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ARDECO
 	subdir = ARDECO
+[submodule "CohortCharacteristics"]
+	path = CohortCharacteristics
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CohortCharacteristics
+	subdir = CohortCharacteristics
 [submodule "DGCA"]
 	path = DGCA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DGCA
 	subdir = DGCA
+[submodule "DrugUtilisation"]
+	path = DrugUtilisation
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DrugUtilisation
+	subdir = DrugUtilisation
 [submodule "ELCIC"]
 	path = ELCIC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/deconstructSigs
 	subdir = deconstructSigs
+[submodule "dhis2r"]
+	path = dhis2r
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dhis2r
+	subdir = dhis2r
 [submodule "dnapath"]
 	path = dnapath
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
