@@ -247,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iemiscdata
 	subdir = iemiscdata
-[submodule "iemisctext"]
-	path = iemisctext
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/iemisctext
-	subdir = iemisctext
 [submodule "intSDM"]
 	path = intSDM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
