@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ARDECO
 	subdir = ARDECO
-[submodule "CohortCharacteristics"]
-	path = CohortCharacteristics
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CohortCharacteristics
-	subdir = CohortCharacteristics
 [submodule "DGCA"]
 	path = DGCA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RAZIAD
 	subdir = RAZIAD
+[submodule "RMSDp"]
+	path = RMSDp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RMSDp
+	subdir = RMSDp
 [submodule "RNAsmc"]
 	path = RNAsmc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geohabnet
 	subdir = geohabnet
-[submodule "geostan"]
-	path = geostan
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/geostan
-	subdir = geostan
 [submodule "ggparliament"]
 	path = ggparliament
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -362,11 +357,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidyqwi
 	subdir = tidyqwi
-[submodule "tinyarray"]
-	path = tinyarray
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tinyarray
-	subdir = tinyarray
 [submodule "wgeesel"]
 	path = wgeesel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
