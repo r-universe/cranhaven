@@ -232,11 +232,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggparliament
 	subdir = ggparliament
-[submodule "hexFinder"]
-	path = hexFinder
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hexFinder
-	subdir = hexFinder
 [submodule "iemisc"]
 	path = iemisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qlcVisualize
 	subdir = qlcVisualize
-[submodule "rdss"]
-	path = rdss
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rdss
-	subdir = rdss
 [submodule "rnaCrosslinkOO"]
 	path = rnaCrosslinkOO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
