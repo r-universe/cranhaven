@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DGCA
 	subdir = DGCA
-[submodule "DrugUtilisation"]
-	path = DrugUtilisation
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DrugUtilisation
-	subdir = DrugUtilisation
 [submodule "ELCIC"]
 	path = ELCIC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
