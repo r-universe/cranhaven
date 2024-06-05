@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "ARDECO"]
-	path = ARDECO
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ARDECO
-	subdir = ARDECO
 [submodule "DGCA"]
 	path = DGCA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/comradesOO
 	subdir = comradesOO
-[submodule "crqa"]
-	path = crqa
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/crqa
-	subdir = crqa
 [submodule "deconstructSigs"]
 	path = deconstructSigs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iemisc
 	subdir = iemisc
-[submodule "iemiscdata"]
-	path = iemiscdata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/iemiscdata
-	subdir = iemiscdata
 [submodule "intSDM"]
 	path = intSDM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
