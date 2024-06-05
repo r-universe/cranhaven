@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hdsvm
 	subdir = hdsvm
-[submodule "iemisc"]
-	path = iemisc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/iemisc
-	subdir = iemisc
 [submodule "intSDM"]
 	path = intSDM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
