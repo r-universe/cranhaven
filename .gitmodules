@@ -262,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mwcsr
 	subdir = mwcsr
-[submodule "openscoring"]
-	path = openscoring
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/openscoring
-	subdir = openscoring
 [submodule "pagoo"]
 	path = pagoo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
