@@ -327,11 +327,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scfetch
 	subdir = scfetch
-[submodule "shinyr"]
-	path = shinyr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shinyr
-	subdir = shinyr
 [submodule "spNetwork"]
 	path = spNetwork
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
