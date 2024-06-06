@@ -142,6 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/comradesOO
 	subdir = comradesOO
+[submodule "deconstructSigs"]
+	path = deconstructSigs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/deconstructSigs
+	subdir = deconstructSigs
 [submodule "dhis2r"]
 	path = dhis2r
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
