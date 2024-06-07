@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fwildclusterboot
 	subdir = fwildclusterboot
-[submodule "genetic.algo.optimizeR"]
-	path = genetic.algo.optimizeR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/genetic.algo.optimizeR
-	subdir = genetic.algo.optimizeR
 [submodule "geodata"]
 	path = geodata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
