@@ -302,6 +302,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidyqwi
 	subdir = tidyqwi
+[submodule "valse"]
+	path = valse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/valse
+	subdir = valse
 [submodule "wgeesel"]
 	path = wgeesel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
