@@ -72,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RNAsmc
 	subdir = RNAsmc
-[submodule "TMTI"]
-	path = TMTI
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TMTI
-	subdir = TMTI
 [submodule "UPMASK"]
 	path = UPMASK
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
