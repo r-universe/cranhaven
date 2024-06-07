@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geohabnet
 	subdir = geohabnet
-[submodule "ggparliament"]
-	path = ggparliament
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ggparliament
-	subdir = ggparliament
 [submodule "hdqr"]
 	path = hdqr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
