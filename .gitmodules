@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PAMscapes
 	subdir = PAMscapes
-[submodule "PRANA"]
-	path = PRANA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PRANA
-	subdir = PRANA
 [submodule "PhViD"]
 	path = PhViD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dhis2r
 	subdir = dhis2r
-[submodule "dnapath"]
-	path = dnapath
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dnapath
-	subdir = dnapath
 [submodule "ecochange"]
 	path = ecochange
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
