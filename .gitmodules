@@ -187,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fwildclusterboot
 	subdir = fwildclusterboot
-[submodule "genekitr"]
-	path = genekitr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/genekitr
-	subdir = genekitr
 [submodule "genetic.algo.optimizeR"]
 	path = genetic.algo.optimizeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
