@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/baRulho
 	subdir = baRulho
-[submodule "blandr"]
-	path = blandr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/blandr
-	subdir = blandr
 [submodule "bucky"]
 	path = bucky
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
