@@ -157,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fwildclusterboot
 	subdir = fwildclusterboot
-[submodule "geodata"]
-	path = geodata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/geodata
-	subdir = geodata
 [submodule "geohabnet"]
 	path = geohabnet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
