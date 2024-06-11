@@ -197,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/poissonMT
 	subdir = poissonMT
-[submodule "prediction"]
-	path = prediction
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/prediction
-	subdir = prediction
 [submodule "rnaCrosslinkOO"]
 	path = rnaCrosslinkOO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
