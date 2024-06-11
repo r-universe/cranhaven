@@ -187,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multigroup
 	subdir = multigroup
-[submodule "multinma"]
-	path = multinma
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/multinma
-	subdir = multinma
 [submodule "mwcsr"]
 	path = mwcsr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
