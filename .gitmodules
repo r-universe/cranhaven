@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dhis2r
 	subdir = dhis2r
-[submodule "ecochange"]
-	path = ecochange
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ecochange
-	subdir = ecochange
 [submodule "esaBcv"]
 	path = esaBcv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/prediction
 	subdir = prediction
-[submodule "qlcVisualize"]
-	path = qlcVisualize
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qlcVisualize
-	subdir = qlcVisualize
 [submodule "rnaCrosslinkOO"]
 	path = rnaCrosslinkOO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
