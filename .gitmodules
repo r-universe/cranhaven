@@ -192,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mwcsr
 	subdir = mwcsr
-[submodule "piecewiseSEM"]
-	path = piecewiseSEM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/piecewiseSEM
-	subdir = piecewiseSEM
 [submodule "poissonMT"]
 	path = poissonMT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
