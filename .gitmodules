@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RAZIAD
 	subdir = RAZIAD
-[submodule "RMSDp"]
-	path = RMSDp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RMSDp
-	subdir = RMSDp
 [submodule "RNAsmc"]
 	path = RNAsmc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
