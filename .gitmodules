@@ -27,6 +27,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MSQC
 	subdir = MSQC
+[submodule "NPRED"]
+	path = NPRED
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NPRED
+	subdir = NPRED
+[submodule "OBsMD"]
+	path = OBsMD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/OBsMD
+	subdir = OBsMD
 [submodule "PhViD"]
 	path = PhViD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,6 +87,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/baRulho
 	subdir = baRulho
+[submodule "biglmm"]
+	path = biglmm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/biglmm
+	subdir = biglmm
 [submodule "bucky"]
 	path = bucky
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mirai.promises
 	subdir = mirai.promises
+[submodule "mmeta"]
+	path = mmeta
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mmeta
+	subdir = mmeta
 [submodule "mmpf"]
 	path = mmpf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/poissonMT
 	subdir = poissonMT
+[submodule "repeated"]
+	path = repeated
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/repeated
+	subdir = repeated
 [submodule "rnaCrosslinkOO"]
 	path = rnaCrosslinkOO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
