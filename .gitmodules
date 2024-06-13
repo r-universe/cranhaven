@@ -167,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hdsvm
 	subdir = hdsvm
+[submodule "iC10"]
+	path = iC10
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iC10
+	subdir = iC10
 [submodule "intSDM"]
 	path = intSDM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
