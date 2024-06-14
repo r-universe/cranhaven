@@ -92,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biglmm
 	subdir = biglmm
-[submodule "bucky"]
-	path = bucky
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bucky
-	subdir = bucky
 [submodule "cap"]
 	path = cap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
