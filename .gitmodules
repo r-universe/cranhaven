@@ -62,11 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/UPMASK
 	subdir = UPMASK
-[submodule "WSGeometry"]
-	path = WSGeometry
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/WSGeometry
-	subdir = WSGeometry
 [submodule "allometric"]
 	path = allometric
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
