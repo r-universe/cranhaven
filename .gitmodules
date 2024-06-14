@@ -17,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FSAtools
 	subdir = FSAtools
+[submodule "FSinR"]
+	path = FSinR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FSinR
+	subdir = FSinR
 [submodule "HypergeoMat"]
 	path = HypergeoMat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,11 +62,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RNAsmc
 	subdir = RNAsmc
+[submodule "StructFDR"]
+	path = StructFDR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/StructFDR
+	subdir = StructFDR
 [submodule "UPMASK"]
 	path = UPMASK
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/UPMASK
 	subdir = UPMASK
+[submodule "alcyon"]
+	path = alcyon
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/alcyon
+	subdir = alcyon
 [submodule "allometric"]
 	path = allometric
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -82,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/baRulho
 	subdir = baRulho
+[submodule "bidask"]
+	path = bidask
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bidask
+	subdir = bidask
 [submodule "biglmm"]
 	path = biglmm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -122,6 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dhis2r
 	subdir = dhis2r
+[submodule "ensembleR"]
+	path = ensembleR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ensembleR
+	subdir = ensembleR
 [submodule "esaBcv"]
 	path = esaBcv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/intSDM
 	subdir = intSDM
+[submodule "liger"]
+	path = liger
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/liger
+	subdir = liger
 [submodule "loe"]
 	path = loe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,16 +227,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mwcsr
 	subdir = mwcsr
+[submodule "neotoma2"]
+	path = neotoma2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/neotoma2
+	subdir = neotoma2
 [submodule "poissonMT"]
 	path = poissonMT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/poissonMT
 	subdir = poissonMT
-[submodule "repeated"]
-	path = repeated
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/repeated
-	subdir = repeated
 [submodule "rnaCrosslinkOO"]
 	path = rnaCrosslinkOO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsleep
 	subdir = rsleep
+[submodule "scorematchingad"]
+	path = scorematchingad
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/scorematchingad
+	subdir = scorematchingad
 [submodule "spNetwork"]
 	path = spNetwork
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
