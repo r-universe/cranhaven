@@ -97,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/baRulho
 	subdir = baRulho
-[submodule "bidask"]
-	path = bidask
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bidask
-	subdir = bidask
 [submodule "biglmm"]
 	path = biglmm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
