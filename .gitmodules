@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ELCIC
 	subdir = ELCIC
+[submodule "EMAtools"]
+	path = EMAtools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EMAtools
+	subdir = EMAtools
 [submodule "FSAtools"]
 	path = FSAtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RNAsmc
 	subdir = RNAsmc
+[submodule "SimilaR"]
+	path = SimilaR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SimilaR
+	subdir = SimilaR
 [submodule "StructFDR"]
 	path = StructFDR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spNetwork
 	subdir = spNetwork
+[submodule "uniswappeR"]
+	path = uniswappeR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/uniswappeR
+	subdir = uniswappeR
 [submodule "valse"]
 	path = valse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
