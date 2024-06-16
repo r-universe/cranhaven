@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ELCIC
 	subdir = ELCIC
-[submodule "Euronext"]
-	path = Euronext
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Euronext
-	subdir = Euronext
 [submodule "FSAtools"]
 	path = FSAtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/armada
 	subdir = armada
-[submodule "baRulho"]
-	path = baRulho
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/baRulho
-	subdir = baRulho
 [submodule "biglmm"]
 	path = biglmm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,11 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spNetwork
 	subdir = spNetwork
-[submodule "tidyqwi"]
-	path = tidyqwi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tidyqwi
-	subdir = tidyqwi
 [submodule "valse"]
 	path = valse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
