@@ -247,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/robeth
 	subdir = robeth
-[submodule "rsleep"]
-	path = rsleep
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rsleep
-	subdir = rsleep
 [submodule "scorematchingad"]
 	path = scorematchingad
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
