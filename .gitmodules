@@ -2,21 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "ELCIC"]
-	path = ELCIC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ELCIC
-	subdir = ELCIC
 [submodule "EMAtools"]
 	path = EMAtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EMAtools
 	subdir = EMAtools
-[submodule "FSAtools"]
-	path = FSAtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FSAtools
-	subdir = FSAtools
 [submodule "FSinR"]
 	path = FSinR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -27,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HypergeoMat
 	subdir = HypergeoMat
-[submodule "MSQC"]
-	path = MSQC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MSQC
-	subdir = MSQC
 [submodule "NPRED"]
 	path = NPRED
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,21 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PhViD
 	subdir = PhViD
-[submodule "Platypus"]
-	path = Platypus
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Platypus
-	subdir = Platypus
 [submodule "RAZIAD"]
 	path = RAZIAD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RAZIAD
 	subdir = RAZIAD
-[submodule "RNAsmc"]
-	path = RNAsmc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RNAsmc
-	subdir = RNAsmc
 [submodule "SimilaR"]
 	path = SimilaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -72,66 +47,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/StructFDR
 	subdir = StructFDR
-[submodule "UPMASK"]
-	path = UPMASK
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/UPMASK
-	subdir = UPMASK
 [submodule "alcyon"]
 	path = alcyon
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/alcyon
 	subdir = alcyon
-[submodule "allometric"]
-	path = allometric
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/allometric
-	subdir = allometric
-[submodule "anapuce"]
-	path = anapuce
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/anapuce
-	subdir = anapuce
-[submodule "armada"]
-	path = armada
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/armada
-	subdir = armada
 [submodule "biglmm"]
 	path = biglmm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biglmm
 	subdir = biglmm
-[submodule "cap"]
-	path = cap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cap
-	subdir = cap
-[submodule "cate"]
-	path = cate
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cate
-	subdir = cate
-[submodule "chemmodlab"]
-	path = chemmodlab
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/chemmodlab
-	subdir = chemmodlab
 [submodule "climenv"]
 	path = climenv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/climenv
 	subdir = climenv
-[submodule "comradesOO"]
-	path = comradesOO
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/comradesOO
-	subdir = comradesOO
-[submodule "deconstructSigs"]
-	path = deconstructSigs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/deconstructSigs
-	subdir = deconstructSigs
 [submodule "dhis2r"]
 	path = dhis2r
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ensembleR
 	subdir = ensembleR
-[submodule "esaBcv"]
-	path = esaBcv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/esaBcv
-	subdir = esaBcv
 [submodule "fflr"]
 	path = fflr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/liger
 	subdir = liger
-[submodule "loe"]
-	path = loe
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/loe
-	subdir = loe
 [submodule "metricsgraphics"]
 	path = metricsgraphics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mmpf
 	subdir = mmpf
-[submodule "multigroup"]
-	path = multigroup
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/multigroup
-	subdir = multigroup
 [submodule "mwcsr"]
 	path = mwcsr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/poissonMT
 	subdir = poissonMT
-[submodule "rnaCrosslinkOO"]
-	path = rnaCrosslinkOO
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rnaCrosslinkOO
-	subdir = rnaCrosslinkOO
 [submodule "robcbi"]
 	path = robcbi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/valse
 	subdir = valse
-[submodule "wgeesel"]
-	path = wgeesel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wgeesel
-	subdir = wgeesel
 [submodule "wildrwolf"]
 	path = wildrwolf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
