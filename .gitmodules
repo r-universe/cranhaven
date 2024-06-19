@@ -162,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spNetwork
 	subdir = spNetwork
+[submodule "speakeasyR"]
+	path = speakeasyR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/speakeasyR
+	subdir = speakeasyR
 [submodule "uniswappeR"]
 	path = uniswappeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
