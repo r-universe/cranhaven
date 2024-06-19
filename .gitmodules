@@ -47,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/StructFDR
 	subdir = StructFDR
-[submodule "alcyon"]
-	path = alcyon
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/alcyon
-	subdir = alcyon
 [submodule "biglmm"]
 	path = biglmm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
