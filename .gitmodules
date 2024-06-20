@@ -177,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/valse
 	subdir = valse
+[submodule "varsExplore"]
+	path = varsExplore
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/varsExplore
+	subdir = varsExplore
 [submodule "wildrwolf"]
 	path = wildrwolf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
