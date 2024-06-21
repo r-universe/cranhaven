@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FSinR
 	subdir = FSinR
-[submodule "HypergeoMat"]
-	path = HypergeoMat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HypergeoMat
-	subdir = HypergeoMat
 [submodule "NPRED"]
 	path = NPRED
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -32,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PhViD
 	subdir = PhViD
-[submodule "RAZIAD"]
-	path = RAZIAD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RAZIAD
-	subdir = RAZIAD
 [submodule "SimilaR"]
 	path = SimilaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ensembleR
 	subdir = ensembleR
-[submodule "fflr"]
-	path = fflr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fflr
-	subdir = fflr
 [submodule "filteRjsats"]
 	path = filteRjsats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
