@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scorematchingad
 	subdir = scorematchingad
-[submodule "spNetwork"]
-	path = spNetwork
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spNetwork
-	subdir = spNetwork
 [submodule "speakeasyR"]
 	path = speakeasyR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
