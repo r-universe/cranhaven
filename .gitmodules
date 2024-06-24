@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "CARlasso"]
+	path = CARlasso
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CARlasso
+	subdir = CARlasso
 [submodule "EMAtools"]
 	path = EMAtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -32,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/StructFDR
 	subdir = StructFDR
+[submodule "autocart"]
+	path = autocart
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/autocart
+	subdir = autocart
 [submodule "biglmm"]
 	path = biglmm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -42,6 +52,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/climenv
 	subdir = climenv
+[submodule "clrng"]
+	path = clrng
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clrng
+	subdir = clrng
 [submodule "dhis2r"]
 	path = dhis2r
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -52,6 +67,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ensembleR
 	subdir = ensembleR
+[submodule "fractalRegression"]
+	path = fractalRegression
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fractalRegression
+	subdir = fractalRegression
 [submodule "fwildclusterboot"]
 	path = fwildclusterboot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/metricsgraphics
 	subdir = metricsgraphics
+[submodule "mlrv"]
+	path = mlrv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mlrv
+	subdir = mlrv
 [submodule "mmeta"]
 	path = mmeta
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,11 +152,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/robeth
 	subdir = robeth
+[submodule "rusquant"]
+	path = rusquant
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rusquant
+	subdir = rusquant
 [submodule "scorematchingad"]
 	path = scorematchingad
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scorematchingad
 	subdir = scorematchingad
+[submodule "seqest"]
+	path = seqest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/seqest
+	subdir = seqest
 [submodule "speakeasyR"]
 	path = speakeasyR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/varsExplore
 	subdir = varsExplore
+[submodule "visR"]
+	path = visR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/visR
+	subdir = visR
 [submodule "wildrwolf"]
 	path = wildrwolf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
