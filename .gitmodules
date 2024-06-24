@@ -52,11 +52,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ensembleR
 	subdir = ensembleR
-[submodule "filteRjsats"]
-	path = filteRjsats
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/filteRjsats
-	subdir = filteRjsats
 [submodule "fwildclusterboot"]
 	path = fwildclusterboot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
