@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mmpf
 	subdir = mmpf
-[submodule "mwcsr"]
-	path = mwcsr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mwcsr
-	subdir = mwcsr
 [submodule "neotoma2"]
 	path = neotoma2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
