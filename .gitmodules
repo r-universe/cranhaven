@@ -162,11 +162,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rusquant
 	subdir = rusquant
-[submodule "scorematchingad"]
-	path = scorematchingad
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/scorematchingad
-	subdir = scorematchingad
 [submodule "seqest"]
 	path = seqest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
