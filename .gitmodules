@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fwildclusterboot
 	subdir = fwildclusterboot
-[submodule "geohabnet"]
-	path = geohabnet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/geohabnet
-	subdir = geohabnet
 [submodule "hdqr"]
 	path = hdqr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
