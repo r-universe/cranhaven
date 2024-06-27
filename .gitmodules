@@ -42,6 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/StructFDR
 	subdir = StructFDR
+[submodule "WASP"]
+	path = WASP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/WASP
+	subdir = WASP
 [submodule "autocart"]
 	path = autocart
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
