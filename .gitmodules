@@ -147,6 +147,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/neotoma2
 	subdir = neotoma2
+[submodule "orbweaver"]
+	path = orbweaver
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/orbweaver
+	subdir = orbweaver
 [submodule "poissonMT"]
 	path = poissonMT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
