@@ -142,6 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lpme
 	subdir = lpme
+[submodule "metajam"]
+	path = metajam
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/metajam
+	subdir = metajam
 [submodule "metricsgraphics"]
 	path = metricsgraphics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
