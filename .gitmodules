@@ -102,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ensembleR
 	subdir = ensembleR
+[submodule "fastLaplace"]
+	path = fastLaplace
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fastLaplace
+	subdir = fastLaplace
 [submodule "fractalRegression"]
 	path = fractalRegression
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/orbweaver
 	subdir = orbweaver
+[submodule "otsad"]
+	path = otsad
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/otsad
+	subdir = otsad
 [submodule "poissonMT"]
 	path = poissonMT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
