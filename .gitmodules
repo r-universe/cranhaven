@@ -172,6 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mmpf
 	subdir = mmpf
+[submodule "mxsem"]
+	path = mxsem
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mxsem
+	subdir = mxsem
 [submodule "neotoma2"]
 	path = neotoma2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
