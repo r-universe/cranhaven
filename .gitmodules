@@ -152,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/metricsgraphics
 	subdir = metricsgraphics
+[submodule "mlmts"]
+	path = mlmts
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mlmts
+	subdir = mlmts
 [submodule "mlrv"]
 	path = mlrv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/otsad
 	subdir = otsad
+[submodule "quantspec"]
+	path = quantspec
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/quantspec
+	subdir = quantspec
 [submodule "rusquant"]
 	path = rusquant
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/synthesis
 	subdir = synthesis
+[submodule "taxonbridge"]
+	path = taxonbridge
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/taxonbridge
+	subdir = taxonbridge
 [submodule "uniswappeR"]
 	path = uniswappeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
