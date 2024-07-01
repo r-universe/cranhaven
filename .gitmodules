@@ -77,11 +77,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biglmm
 	subdir = biglmm
-[submodule "climenv"]
-	path = climenv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/climenv
-	subdir = climenv
 [submodule "clrng"]
 	path = clrng
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -102,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ensembleR
 	subdir = ensembleR
+[submodule "fCWTr"]
+	path = fCWTr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fCWTr
+	subdir = fCWTr
 [submodule "fastLaplace"]
 	path = fastLaplace
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iC10
 	subdir = iC10
-[submodule "intSDM"]
-	path = intSDM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/intSDM
-	subdir = intSDM
 [submodule "liger"]
 	path = liger
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,21 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/otsad
 	subdir = otsad
-[submodule "poissonMT"]
-	path = poissonMT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/poissonMT
-	subdir = poissonMT
-[submodule "robcbi"]
-	path = robcbi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/robcbi
-	subdir = robcbi
-[submodule "robeth"]
-	path = robeth
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/robeth
-	subdir = robeth
 [submodule "rusquant"]
 	path = rusquant
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
