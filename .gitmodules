@@ -7,11 +7,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CARlasso
 	subdir = CARlasso
+[submodule "DMCfun"]
+	path = DMCfun
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DMCfun
+	subdir = DMCfun
 [submodule "EMAtools"]
 	path = EMAtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EMAtools
 	subdir = EMAtools
+[submodule "FLSSS"]
+	path = FLSSS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FLSSS
+	subdir = FLSSS
 [submodule "FSinR"]
 	path = FSinR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -82,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clrng
 	subdir = clrng
+[submodule "cubar"]
+	path = cubar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cubar
+	subdir = cubar
 [submodule "decon"]
 	path = decon
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/otsad
 	subdir = otsad
+[submodule "pedmod"]
+	path = pedmod
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pedmod
+	subdir = pedmod
 [submodule "quantspec"]
 	path = quantspec
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,6 +232,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/speakeasyR
 	subdir = speakeasyR
+[submodule "supc"]
+	path = supc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/supc
+	subdir = supc
 [submodule "synthesis"]
 	path = synthesis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,3 +272,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wildrwolf
 	subdir = wildrwolf
+[submodule "xrnet"]
+	path = xrnet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/xrnet
+	subdir = xrnet
