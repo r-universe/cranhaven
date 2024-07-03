@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fractalRegression
 	subdir = fractalRegression
-[submodule "fwildclusterboot"]
-	path = fwildclusterboot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fwildclusterboot
-	subdir = fwildclusterboot
 [submodule "hdqr"]
 	path = hdqr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mmeta
 	subdir = mmeta
-[submodule "mmpf"]
-	path = mmpf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mmpf
-	subdir = mmpf
 [submodule "mxsem"]
 	path = mxsem
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,11 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/visR
 	subdir = visR
-[submodule "wildrwolf"]
-	path = wildrwolf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wildrwolf
-	subdir = wildrwolf
 [submodule "xrnet"]
 	path = xrnet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
