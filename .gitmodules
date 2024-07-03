@@ -212,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rusquant
 	subdir = rusquant
-[submodule "scellpam"]
-	path = scellpam
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/scellpam
-	subdir = scellpam
 [submodule "seqest"]
 	path = seqest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
