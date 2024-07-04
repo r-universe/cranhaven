@@ -97,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clrng
 	subdir = clrng
+[submodule "databraryr"]
+	path = databraryr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/databraryr
+	subdir = databraryr
 [submodule "decon"]
 	path = decon
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/speakeasyR
 	subdir = speakeasyR
+[submodule "streamConnect"]
+	path = streamConnect
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/streamConnect
+	subdir = streamConnect
 [submodule "supc"]
 	path = supc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
