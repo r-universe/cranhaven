@@ -97,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clrng
 	subdir = clrng
-[submodule "cubar"]
-	path = cubar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cubar
-	subdir = cubar
 [submodule "decon"]
 	path = decon
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
