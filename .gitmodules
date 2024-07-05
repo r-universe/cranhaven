@@ -157,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lpme
 	subdir = lpme
-[submodule "metricsgraphics"]
-	path = metricsgraphics
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/metricsgraphics
-	subdir = metricsgraphics
 [submodule "mlmts"]
 	path = mlmts
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
