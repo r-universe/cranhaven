@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OBsMD
 	subdir = OBsMD
+[submodule "PDXpower"]
+	path = PDXpower
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PDXpower
+	subdir = PDXpower
 [submodule "SimilaR"]
 	path = SimilaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biglmm
 	subdir = biglmm
+[submodule "bioRad"]
+	path = bioRad
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bioRad
+	subdir = bioRad
 [submodule "clrng"]
 	path = clrng
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
