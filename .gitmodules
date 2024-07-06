@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/decon
 	subdir = decon
-[submodule "dhis2r"]
-	path = dhis2r
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dhis2r
-	subdir = dhis2r
 [submodule "ensembleR"]
 	path = ensembleR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
