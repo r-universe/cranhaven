@@ -127,6 +127,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fractalRegression
 	subdir = fractalRegression
+[submodule "frailtypack"]
+	path = frailtypack
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/frailtypack
+	subdir = frailtypack
 [submodule "hdqr"]
 	path = hdqr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,6 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hdsvm
 	subdir = hdsvm
+[submodule "hydflood"]
+	path = hydflood
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hydflood
+	subdir = hydflood
 [submodule "iC10"]
 	path = iC10
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lpme
 	subdir = lpme
+[submodule "microdatasus"]
+	path = microdatasus
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/microdatasus
+	subdir = microdatasus
 [submodule "mlmts"]
 	path = mlmts
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/quantspec
 	subdir = quantspec
+[submodule "read.dbc"]
+	path = read.dbc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/read.dbc
+	subdir = read.dbc
 [submodule "rusquant"]
 	path = rusquant
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
