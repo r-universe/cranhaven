@@ -252,11 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/supc
 	subdir = supc
-[submodule "synthesis"]
-	path = synthesis
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/synthesis
-	subdir = synthesis
 [submodule "taxonbridge"]
 	path = taxonbridge
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
