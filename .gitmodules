@@ -37,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MPCR
 	subdir = MPCR
+[submodule "MobileTrigger"]
+	path = MobileTrigger
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MobileTrigger
+	subdir = MobileTrigger
 [submodule "NPRED"]
 	path = NPRED
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -52,6 +57,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PDXpower
 	subdir = PDXpower
+[submodule "ShapeRotator"]
+	path = ShapeRotator
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ShapeRotator
+	subdir = ShapeRotator
 [submodule "SimilaR"]
 	path = SimilaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/quantspec
 	subdir = quantspec
+[submodule "rDNAse"]
+	path = rDNAse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rDNAse
+	subdir = rDNAse
 [submodule "read.dbc"]
 	path = read.dbc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
