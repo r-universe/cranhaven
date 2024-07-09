@@ -32,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FSinR
 	subdir = FSinR
+[submodule "FastRet"]
+	path = FastRet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FastRet
+	subdir = FastRet
 [submodule "MPCR"]
 	path = MPCR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
