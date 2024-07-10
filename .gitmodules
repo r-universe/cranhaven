@@ -232,6 +232,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/read.dbc
 	subdir = read.dbc
+[submodule "rpdo"]
+	path = rpdo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rpdo
+	subdir = rpdo
 [submodule "rusquant"]
 	path = rusquant
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
