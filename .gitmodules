@@ -152,16 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fractalRegression
 	subdir = fractalRegression
-[submodule "hdqr"]
-	path = hdqr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hdqr
-	subdir = hdqr
-[submodule "hdsvm"]
-	path = hdsvm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hdsvm
-	subdir = hdsvm
 [submodule "hydflood"]
 	path = hydflood
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
