@@ -217,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pedmod
 	subdir = pedmod
-[submodule "quantspec"]
-	path = quantspec
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/quantspec
-	subdir = quantspec
 [submodule "rDNAse"]
 	path = rDNAse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
