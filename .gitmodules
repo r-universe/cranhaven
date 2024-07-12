@@ -267,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/uniswappeR
 	subdir = uniswappeR
-[submodule "valse"]
-	path = valse
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/valse
-	subdir = valse
 [submodule "varsExplore"]
 	path = varsExplore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
