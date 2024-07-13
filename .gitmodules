@@ -277,11 +277,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/visR
 	subdir = visR
-[submodule "vol2birdR"]
-	path = vol2birdR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vol2birdR
-	subdir = vol2birdR
 [submodule "xrnet"]
 	path = xrnet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
