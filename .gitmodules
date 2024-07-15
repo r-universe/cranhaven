@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MobileTrigger
 	subdir = MobileTrigger
+[submodule "NADIA"]
+	path = NADIA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NADIA
+	subdir = NADIA
 [submodule "NPRED"]
 	path = NPRED
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,6 +82,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/StructFDR
 	subdir = StructFDR
+[submodule "VAJointSurv"]
+	path = VAJointSurv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/VAJointSurv
+	subdir = VAJointSurv
 [submodule "WASP"]
 	path = WASP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -122,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clrng
 	subdir = clrng
-[submodule "databraryr"]
-	path = databraryr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/databraryr
-	subdir = databraryr
 [submodule "decon"]
 	path = decon
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lpme
 	subdir = lpme
+[submodule "maxnodf"]
+	path = maxnodf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/maxnodf
+	subdir = maxnodf
 [submodule "microdatasus"]
 	path = microdatasus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/neotoma2
 	subdir = neotoma2
+[submodule "optimCheck"]
+	path = optimCheck
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/optimCheck
+	subdir = optimCheck
 [submodule "orbweaver"]
 	path = orbweaver
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
