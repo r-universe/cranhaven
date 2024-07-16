@@ -137,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bioRad
 	subdir = bioRad
-[submodule "clrng"]
-	path = clrng
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clrng
-	subdir = clrng
 [submodule "decon"]
 	path = decon
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
