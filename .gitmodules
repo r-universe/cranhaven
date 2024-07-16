@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EMAtools
 	subdir = EMAtools
+[submodule "FCSlib"]
+	path = FCSlib
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FCSlib
+	subdir = FCSlib
 [submodule "FLSSS"]
 	path = FLSSS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -42,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MPCR
 	subdir = MPCR
+[submodule "MantaID"]
+	path = MantaID
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MantaID
+	subdir = MantaID
 [submodule "MobileTrigger"]
 	path = MobileTrigger
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fractalRegression
 	subdir = fractalRegression
+[submodule "greenR"]
+	path = greenR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/greenR
+	subdir = greenR
 [submodule "hydflood"]
 	path = hydflood
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,6 +182,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iC10
 	subdir = iC10
+[submodule "icesDatsu"]
+	path = icesDatsu
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/icesDatsu
+	subdir = icesDatsu
+[submodule "icesDatsuQC"]
+	path = icesDatsuQC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/icesDatsuQC
+	subdir = icesDatsuQC
+[submodule "icesSD"]
+	path = icesSD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/icesSD
+	subdir = icesSD
+[submodule "icesVMS"]
+	path = icesVMS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/icesVMS
+	subdir = icesVMS
 [submodule "liger"]
 	path = liger
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -277,6 +312,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/taxonbridge
 	subdir = taxonbridge
+[submodule "taxotools"]
+	path = taxotools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/taxotools
+	subdir = taxotools
 [submodule "uniswappeR"]
 	path = uniswappeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,3 +332,18 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/visR
 	subdir = visR
+[submodule "visualpred"]
+	path = visualpred
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/visualpred
+	subdir = visualpred
+[submodule "wikiprofiler"]
+	path = wikiprofiler
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/wikiprofiler
+	subdir = wikiprofiler
+[submodule "yarr"]
+	path = yarr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/yarr
+	subdir = yarr
