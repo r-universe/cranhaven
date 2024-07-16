@@ -292,8 +292,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/visR
 	subdir = visR
-[submodule "xrnet"]
-	path = xrnet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/xrnet
-	subdir = xrnet
