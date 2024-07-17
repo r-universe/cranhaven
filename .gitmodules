@@ -147,6 +147,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ensembleR
 	subdir = ensembleR
+[submodule "err"]
+	path = err
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/err
+	subdir = err
 [submodule "fCWTr"]
 	path = fCWTr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
