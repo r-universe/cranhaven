@@ -122,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/antaresViz
 	subdir = antaresViz
+[submodule "apt"]
+	path = apt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/apt
+	subdir = apt
 [submodule "autocart"]
 	path = autocart
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ensembleR
 	subdir = ensembleR
+[submodule "erer"]
+	path = erer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/erer
+	subdir = erer
 [submodule "err"]
 	path = err
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
