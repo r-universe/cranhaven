@@ -157,6 +157,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastLaplace
 	subdir = fastLaplace
+[submodule "fdaconcur"]
+	path = fdaconcur
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fdaconcur
+	subdir = fdaconcur
 [submodule "fractalRegression"]
 	path = fractalRegression
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
