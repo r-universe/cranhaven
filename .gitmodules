@@ -57,11 +57,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MobileTrigger
 	subdir = MobileTrigger
+[submodule "Multiaovbay"]
+	path = Multiaovbay
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Multiaovbay
+	subdir = Multiaovbay
 [submodule "NADIA"]
 	path = NADIA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NADIA
 	subdir = NADIA
+[submodule "OptiSembleForecasting"]
+	path = OptiSembleForecasting
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/OptiSembleForecasting
+	subdir = OptiSembleForecasting
 [submodule "PDXpower"]
 	path = PDXpower
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mlrv
 	subdir = mlrv
+[submodule "morse"]
+	path = morse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/morse
+	subdir = morse
 [submodule "mxsem"]
 	path = mxsem
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
