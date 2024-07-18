@@ -62,16 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NADIA
 	subdir = NADIA
-[submodule "NPRED"]
-	path = NPRED
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NPRED
-	subdir = NPRED
-[submodule "OBsMD"]
-	path = OBsMD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/OBsMD
-	subdir = OBsMD
 [submodule "PDXpower"]
 	path = PDXpower
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autocart
 	subdir = autocart
-[submodule "biglmm"]
-	path = biglmm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/biglmm
-	subdir = biglmm
 [submodule "bioRad"]
 	path = bioRad
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,11 +237,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mlrv
 	subdir = mlrv
-[submodule "mmeta"]
-	path = mmeta
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mmeta
-	subdir = mmeta
 [submodule "mxsem"]
 	path = mxsem
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
