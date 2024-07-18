@@ -187,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hydflood
 	subdir = hydflood
-[submodule "iC10"]
-	path = iC10
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/iC10
-	subdir = iC10
 [submodule "icesDatsu"]
 	path = icesDatsu
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
