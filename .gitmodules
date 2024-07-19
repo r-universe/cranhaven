@@ -157,6 +157,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fdaconcur
 	subdir = fdaconcur
+[submodule "filibustr"]
+	path = filibustr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/filibustr
+	subdir = filibustr
 [submodule "fractalRegression"]
 	path = fractalRegression
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,6 +197,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/icesVMS
 	subdir = icesVMS
+[submodule "iemisc"]
+	path = iemisc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iemisc
+	subdir = iemisc
+[submodule "iemiscdata"]
+	path = iemiscdata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iemiscdata
+	subdir = iemiscdata
 [submodule "kissmig"]
 	path = kissmig
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
