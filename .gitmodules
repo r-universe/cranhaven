@@ -232,11 +232,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mxsem
 	subdir = mxsem
-[submodule "neotoma2"]
-	path = neotoma2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/neotoma2
-	subdir = neotoma2
 [submodule "optimCheck"]
 	path = optimCheck
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
