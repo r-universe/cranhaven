@@ -32,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FLSSS
 	subdir = FLSSS
-[submodule "FSinR"]
-	path = FSinR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FSinR
-	subdir = FSinR
 [submodule "FastRet"]
 	path = FastRet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SimilaR
 	subdir = SimilaR
-[submodule "StructFDR"]
-	path = StructFDR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/StructFDR
-	subdir = StructFDR
 [submodule "VAJointSurv"]
 	path = VAJointSurv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/decon
 	subdir = decon
-[submodule "ensembleR"]
-	path = ensembleR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ensembleR
-	subdir = ensembleR
 [submodule "erer"]
 	path = erer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kissmig
 	subdir = kissmig
-[submodule "liger"]
-	path = liger
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/liger
-	subdir = liger
 [submodule "lpme"]
 	path = lpme
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
