@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VAJointSurv
 	subdir = VAJointSurv
-[submodule "WASP"]
-	path = WASP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/WASP
-	subdir = WASP
 [submodule "antaresEditObject"]
 	path = antaresEditObject
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastLaplace
 	subdir = fastLaplace
-[submodule "fdaconcur"]
-	path = fdaconcur
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fdaconcur
-	subdir = fdaconcur
 [submodule "filibustr"]
 	path = filibustr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
