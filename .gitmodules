@@ -32,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FastRet
 	subdir = FastRet
+[submodule "LifemapR"]
+	path = LifemapR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LifemapR
+	subdir = LifemapR
 [submodule "MPCR"]
 	path = MPCR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
