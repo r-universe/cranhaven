@@ -247,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pedmod
 	subdir = pedmod
+[submodule "precommit"]
+	path = precommit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/precommit
+	subdir = precommit
 [submodule "rDNAse"]
 	path = rDNAse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
