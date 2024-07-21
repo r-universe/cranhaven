@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DMCfun
 	subdir = DMCfun
-[submodule "EMAtools"]
-	path = EMAtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EMAtools
-	subdir = EMAtools
 [submodule "FCSlib"]
 	path = FCSlib
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ShapeRotator
 	subdir = ShapeRotator
-[submodule "SimilaR"]
-	path = SimilaR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SimilaR
-	subdir = SimilaR
 [submodule "VAJointSurv"]
 	path = VAJointSurv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/taxotools
 	subdir = taxotools
-[submodule "uniswappeR"]
-	path = uniswappeR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/uniswappeR
-	subdir = uniswappeR
 [submodule "varsExplore"]
 	path = varsExplore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
