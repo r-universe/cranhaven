@@ -192,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iemiscdata
 	subdir = iemiscdata
+[submodule "insee"]
+	path = insee
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/insee
+	subdir = insee
 [submodule "kissmig"]
 	path = kissmig
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
