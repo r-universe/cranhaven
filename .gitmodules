@@ -237,6 +237,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mxsem
 	subdir = mxsem
+[submodule "nextGenShinyApps"]
+	path = nextGenShinyApps
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nextGenShinyApps
+	subdir = nextGenShinyApps
 [submodule "optimCheck"]
 	path = optimCheck
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +262,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pedmod
 	subdir = pedmod
+[submodule "quickcode"]
+	path = quickcode
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/quickcode
+	subdir = quickcode
+[submodule "r2country"]
+	path = r2country
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/r2country
+	subdir = r2country
+[submodule "r2resize"]
+	path = r2resize
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/r2resize
+	subdir = r2resize
+[submodule "r2social"]
+	path = r2social
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/r2social
+	subdir = r2social
 [submodule "rDNAse"]
 	path = rDNAse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +317,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/supc
 	subdir = supc
+[submodule "symbol.equation.gpt"]
+	path = symbol.equation.gpt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/symbol.equation.gpt
+	subdir = symbol.equation.gpt
 [submodule "taxonbridge"]
 	path = taxonbridge
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
