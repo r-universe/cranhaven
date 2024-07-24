@@ -282,11 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seqest
 	subdir = seqest
-[submodule "speakeasyR"]
-	path = speakeasyR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/speakeasyR
-	subdir = speakeasyR
 [submodule "streamConnect"]
 	path = streamConnect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
