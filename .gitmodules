@@ -332,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/taxotools
 	subdir = taxotools
-[submodule "varsExplore"]
-	path = varsExplore
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/varsExplore
-	subdir = varsExplore
 [submodule "visR"]
 	path = visR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
