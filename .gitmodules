@@ -107,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/apt
 	subdir = apt
+[submodule "async"]
+	path = async
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/async
+	subdir = async
 [submodule "autocart"]
 	path = autocart
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nextGenShinyApps
 	subdir = nextGenShinyApps
+[submodule "nseval"]
+	path = nseval
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nseval
+	subdir = nseval
 [submodule "optimCheck"]
 	path = optimCheck
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
