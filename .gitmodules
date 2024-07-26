@@ -122,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bioRad
 	subdir = bioRad
+[submodule "changeRangeR"]
+	path = changeRangeR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/changeRangeR
+	subdir = changeRangeR
 [submodule "decon"]
 	path = decon
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iemiscdata
 	subdir = iemiscdata
+[submodule "inldata"]
+	path = inldata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/inldata
+	subdir = inldata
 [submodule "insee"]
 	path = insee
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
