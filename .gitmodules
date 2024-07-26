@@ -202,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/insee
 	subdir = insee
-[submodule "kissmig"]
-	path = kissmig
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/kissmig
-	subdir = kissmig
 [submodule "lpme"]
 	path = lpme
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
