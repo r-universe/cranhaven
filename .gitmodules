@@ -72,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PDXpower
 	subdir = PDXpower
+[submodule "Rraven"]
+	path = Rraven
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rraven
+	subdir = Rraven
 [submodule "ShapeRotator"]
 	path = ShapeRotator
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nseval
 	subdir = nseval
+[submodule "ohun"]
+	path = ohun
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ohun
+	subdir = ohun
 [submodule "optimCheck"]
 	path = optimCheck
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,6 +362,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/visualpred
 	subdir = visualpred
+[submodule "warbleR"]
+	path = warbleR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/warbleR
+	subdir = warbleR
 [submodule "wikiprofiler"]
 	path = wikiprofiler
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
