@@ -267,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pedmod
 	subdir = pedmod
-[submodule "quickcode"]
-	path = quickcode
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/quickcode
-	subdir = quickcode
 [submodule "r2country"]
 	path = r2country
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
