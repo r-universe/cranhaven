@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autocart
 	subdir = autocart
-[submodule "bioRad"]
-	path = bioRad
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bioRad
-	subdir = bioRad
 [submodule "changeRangeR"]
 	path = changeRangeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
