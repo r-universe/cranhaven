@@ -317,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rpdo
 	subdir = rpdo
-[submodule "rusquant"]
-	path = rusquant
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rusquant
-	subdir = rusquant
 [submodule "seqest"]
 	path = seqest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,11 +347,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/taxotools
 	subdir = taxotools
-[submodule "visR"]
-	path = visR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/visR
-	subdir = visR
 [submodule "visualpred"]
 	path = visualpred
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
