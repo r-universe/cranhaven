@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/morse
 	subdir = morse
-[submodule "mxsem"]
-	path = mxsem
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mxsem
-	subdir = mxsem
 [submodule "nextGenShinyApps"]
 	path = nextGenShinyApps
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
