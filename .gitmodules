@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ARDECO
 	subdir = ARDECO
-[submodule "CARlasso"]
-	path = CARlasso
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CARlasso
-	subdir = CARlasso
 [submodule "DMCfun"]
 	path = DMCfun
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/async
 	subdir = async
-[submodule "autocart"]
-	path = autocart
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/autocart
-	subdir = autocart
 [submodule "changeRangeR"]
 	path = changeRangeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/filibustr
 	subdir = filibustr
-[submodule "fractalRegression"]
-	path = fractalRegression
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fractalRegression
-	subdir = fractalRegression
 [submodule "greenR"]
 	path = greenR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mlmts
 	subdir = mlmts
-[submodule "mlrv"]
-	path = mlrv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mlrv
-	subdir = mlrv
 [submodule "morse"]
 	path = morse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rpdo
 	subdir = rpdo
-[submodule "seqest"]
-	path = seqest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/seqest
-	subdir = seqest
 [submodule "streamConnect"]
 	path = streamConnect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
