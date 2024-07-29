@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/morse
 	subdir = morse
-[submodule "nextGenShinyApps"]
-	path = nextGenShinyApps
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nextGenShinyApps
-	subdir = nextGenShinyApps
 [submodule "nseval"]
 	path = nseval
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,16 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/r2country
 	subdir = r2country
-[submodule "r2resize"]
-	path = r2resize
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/r2resize
-	subdir = r2resize
-[submodule "r2social"]
-	path = r2social
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/r2social
-	subdir = r2social
 [submodule "rDNAse"]
 	path = rDNAse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
