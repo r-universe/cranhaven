@@ -287,6 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rpdo
 	subdir = rpdo
+[submodule "rsgeo"]
+	path = rsgeo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rsgeo
+	subdir = rsgeo
 [submodule "streamConnect"]
 	path = streamConnect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
