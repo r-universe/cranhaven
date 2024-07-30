@@ -297,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/supc
 	subdir = supc
-[submodule "symbol.equation.gpt"]
-	path = symbol.equation.gpt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/symbol.equation.gpt
-	subdir = symbol.equation.gpt
 [submodule "taxonbridge"]
 	path = taxonbridge
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
