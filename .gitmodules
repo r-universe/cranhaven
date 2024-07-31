@@ -157,6 +157,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastLaplace
 	subdir = fastLaplace
+[submodule "fcl"]
+	path = fcl
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fcl
+	subdir = fcl
 [submodule "filibustr"]
 	path = filibustr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,3 +357,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/yarr
 	subdir = yarr
+[submodule "ymd"]
+	path = ymd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ymd
+	subdir = ymd
