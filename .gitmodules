@@ -127,11 +127,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/changeRangeR
 	subdir = changeRangeR
+[submodule "clusteredinterference"]
+	path = clusteredinterference
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clusteredinterference
+	subdir = clusteredinterference
 [submodule "decon"]
 	path = decon
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/decon
 	subdir = decon
+[submodule "easyWechat"]
+	path = easyWechat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/easyWechat
+	subdir = easyWechat
 [submodule "erer"]
 	path = erer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,6 +167,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/filibustr
 	subdir = filibustr
+[submodule "gfilmm"]
+	path = gfilmm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gfilmm
+	subdir = gfilmm
+[submodule "gfilogisreg"]
+	path = gfilogisreg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gfilogisreg
+	subdir = gfilogisreg
 [submodule "greenR"]
 	path = greenR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/morse
 	subdir = morse
+[submodule "netcox"]
+	path = netcox
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/netcox
+	subdir = netcox
 [submodule "nseval"]
 	path = nseval
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -282,11 +307,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsgeo
 	subdir = rsgeo
+[submodule "slopeOP"]
+	path = slopeOP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/slopeOP
+	subdir = slopeOP
 [submodule "streamConnect"]
 	path = streamConnect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/streamConnect
 	subdir = streamConnect
+[submodule "subselect"]
+	path = subselect
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/subselect
+	subdir = subselect
 [submodule "supc"]
 	path = supc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
