@@ -217,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iemiscdata
 	subdir = iemiscdata
+[submodule "inldata"]
+	path = inldata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/inldata
+	subdir = inldata
 [submodule "insee"]
 	path = insee
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
