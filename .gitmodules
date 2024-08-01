@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FastRet
 	subdir = FastRet
-[submodule "MPCR"]
-	path = MPCR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MPCR
-	subdir = MPCR
 [submodule "MantaID"]
 	path = MantaID
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
