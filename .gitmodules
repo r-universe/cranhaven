@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clusteredinterference
 	subdir = clusteredinterference
-[submodule "decon"]
-	path = decon
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/decon
-	subdir = decon
 [submodule "easyWechat"]
 	path = easyWechat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/insee
 	subdir = insee
-[submodule "lpme"]
-	path = lpme
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lpme
-	subdir = lpme
 [submodule "maxnodf"]
 	path = maxnodf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
