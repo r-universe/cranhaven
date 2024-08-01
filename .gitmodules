@@ -272,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pedmod
 	subdir = pedmod
-[submodule "r2country"]
-	path = r2country
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/r2country
-	subdir = r2country
 [submodule "rDNAse"]
 	path = rDNAse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
