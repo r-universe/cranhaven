@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ARDECO
 	subdir = ARDECO
+[submodule "AROC"]
+	path = AROC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AROC
+	subdir = AROC
 [submodule "DMCfun"]
 	path = DMCfun
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
