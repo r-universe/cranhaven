@@ -82,26 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/affluenceIndex
 	subdir = affluenceIndex
-[submodule "antaresEditObject"]
-	path = antaresEditObject
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/antaresEditObject
-	subdir = antaresEditObject
-[submodule "antaresProcessing"]
-	path = antaresProcessing
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/antaresProcessing
-	subdir = antaresProcessing
-[submodule "antaresRead"]
-	path = antaresRead
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/antaresRead
-	subdir = antaresRead
-[submodule "antaresViz"]
-	path = antaresViz
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/antaresViz
-	subdir = antaresViz
 [submodule "apt"]
 	path = apt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
