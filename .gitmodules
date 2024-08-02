@@ -257,11 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/optimCheck
 	subdir = optimCheck
-[submodule "orbweaver"]
-	path = orbweaver
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/orbweaver
-	subdir = orbweaver
 [submodule "otsad"]
 	path = otsad
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
