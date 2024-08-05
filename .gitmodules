@@ -197,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/microdatasus
 	subdir = microdatasus
-[submodule "mlmts"]
-	path = mlmts
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mlmts
-	subdir = mlmts
 [submodule "morse"]
 	path = morse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/supc
 	subdir = supc
-[submodule "taxonbridge"]
-	path = taxonbridge
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/taxonbridge
-	subdir = taxonbridge
 [submodule "taxotools"]
 	path = taxotools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
