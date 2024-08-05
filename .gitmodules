@@ -117,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/err
 	subdir = err
-[submodule "fCWTr"]
-	path = fCWTr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fCWTr
-	subdir = fCWTr
 [submodule "fcl"]
 	path = fcl
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
