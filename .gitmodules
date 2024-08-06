@@ -12,21 +12,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AROC
 	subdir = AROC
-[submodule "DMCfun"]
-	path = DMCfun
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DMCfun
-	subdir = DMCfun
 [submodule "FCSlib"]
 	path = FCSlib
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FCSlib
 	subdir = FCSlib
-[submodule "FLSSS"]
-	path = FLSSS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FLSSS
-	subdir = FLSSS
 [submodule "FastRet"]
 	path = FastRet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/optimCheck
 	subdir = optimCheck
-[submodule "pedmod"]
-	path = pedmod
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pedmod
-	subdir = pedmod
 [submodule "rDNAse"]
 	path = rDNAse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/subselect
 	subdir = subselect
-[submodule "supc"]
-	path = supc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/supc
-	subdir = supc
 [submodule "taxotools"]
 	path = taxotools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
