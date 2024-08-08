@@ -232,11 +232,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/slopeOP
 	subdir = slopeOP
-[submodule "streamConnect"]
-	path = streamConnect
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/streamConnect
-	subdir = streamConnect
 [submodule "subselect"]
 	path = subselect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
