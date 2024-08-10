@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/greenR
 	subdir = greenR
-[submodule "hydflood"]
-	path = hydflood
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hydflood
-	subdir = hydflood
 [submodule "icesDatsu"]
 	path = icesDatsu
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/maxnodf
 	subdir = maxnodf
-[submodule "microdatasus"]
-	path = microdatasus
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/microdatasus
-	subdir = microdatasus
 [submodule "morse"]
 	path = morse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rDNAse
 	subdir = rDNAse
-[submodule "read.dbc"]
-	path = read.dbc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/read.dbc
-	subdir = read.dbc
 [submodule "rpdo"]
 	path = rpdo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
