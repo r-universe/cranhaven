@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FCSlib
 	subdir = FCSlib
-[submodule "FastRet"]
-	path = FastRet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FastRet
-	subdir = FastRet
 [submodule "MantaID"]
 	path = MantaID
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
