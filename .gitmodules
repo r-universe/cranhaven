@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/optimCheck
 	subdir = optimCheck
-[submodule "rpdo"]
-	path = rpdo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rpdo
-	subdir = rpdo
 [submodule "rsgeo"]
 	path = rsgeo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
