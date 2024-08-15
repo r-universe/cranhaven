@@ -52,6 +52,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/affluenceIndex
 	subdir = affluenceIndex
+[submodule "appler"]
+	path = appler
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/appler
+	subdir = appler
 [submodule "apt"]
 	path = apt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
