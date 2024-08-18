@@ -232,8 +232,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/yarr
 	subdir = yarr
-[submodule "ymd"]
-	path = ymd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ymd
-	subdir = ymd
