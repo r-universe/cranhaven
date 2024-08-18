@@ -197,6 +197,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsgeo
 	subdir = rsgeo
+[submodule "sampcompR"]
+	path = sampcompR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sampcompR
+	subdir = sampcompR
 [submodule "slopeOP"]
 	path = slopeOP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
