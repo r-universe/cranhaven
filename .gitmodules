@@ -267,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/observer
 	subdir = observer
-[submodule "ohun"]
-	path = ohun
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ohun
-	subdir = ohun
 [submodule "overtureR"]
 	path = overtureR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
