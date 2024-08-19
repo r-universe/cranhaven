@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Multiaovbay
 	subdir = Multiaovbay
-[submodule "NADIA"]
-	path = NADIA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NADIA
-	subdir = NADIA
 [submodule "OptiSembleForecasting"]
 	path = OptiSembleForecasting
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/StrucDiv
 	subdir = StrucDiv
-[submodule "VAJointSurv"]
-	path = VAJointSurv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/VAJointSurv
-	subdir = VAJointSurv
 [submodule "WES"]
 	path = WES
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iopspackage
 	subdir = iopspackage
-[submodule "maxnodf"]
-	path = maxnodf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/maxnodf
-	subdir = maxnodf
 [submodule "moocore"]
 	path = moocore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ohun
 	subdir = ohun
-[submodule "optimCheck"]
-	path = optimCheck
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/optimCheck
-	subdir = optimCheck
 [submodule "overtureR"]
 	path = overtureR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
