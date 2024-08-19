@@ -7,6 +7,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AROC
 	subdir = AROC
+[submodule "AquaBEHER"]
+	path = AquaBEHER
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AquaBEHER
+	subdir = AquaBEHER
+[submodule "BOSO"]
+	path = BOSO
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BOSO
+	subdir = BOSO
 [submodule "DWDLargeR"]
 	path = DWDLargeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,6 +57,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OptiSembleForecasting
 	subdir = OptiSembleForecasting
+[submodule "PANPRSnext"]
+	path = PANPRSnext
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PANPRSnext
+	subdir = PANPRSnext
+[submodule "PUPAIM"]
+	path = PUPAIM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PUPAIM
+	subdir = PUPAIM
+[submodule "PaRe"]
+	path = PaRe
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PaRe
+	subdir = PaRe
 [submodule "Rraven"]
 	path = Rraven
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/affluenceIndex
 	subdir = affluenceIndex
+[submodule "aods3"]
+	path = aods3
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/aods3
+	subdir = aods3
 [submodule "appler"]
 	path = appler
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +137,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clusteredinterference
 	subdir = clusteredinterference
+[submodule "condusco"]
+	path = condusco
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/condusco
+	subdir = condusco
 [submodule "diproperm"]
 	path = diproperm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/greenR
 	subdir = greenR
+[submodule "iClusterVB"]
+	path = iClusterVB
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iClusterVB
+	subdir = iClusterVB
 [submodule "icesDatsu"]
 	path = icesDatsu
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,11 +237,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/insee
 	subdir = insee
+[submodule "iopspackage"]
+	path = iopspackage
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iopspackage
+	subdir = iopspackage
 [submodule "maxnodf"]
 	path = maxnodf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/maxnodf
 	subdir = maxnodf
+[submodule "moocore"]
+	path = moocore
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/moocore
+	subdir = moocore
 [submodule "morse"]
 	path = morse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nseval
 	subdir = nseval
+[submodule "observer"]
+	path = observer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/observer
+	subdir = observer
 [submodule "ohun"]
 	path = ohun
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,6 +282,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/optimCheck
 	subdir = optimCheck
+[submodule "overtureR"]
+	path = overtureR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/overtureR
+	subdir = overtureR
 [submodule "quanteda.textplots"]
 	path = quanteda.textplots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,21 +302,51 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sampcompR
 	subdir = sampcompR
+[submodule "semTests"]
+	path = semTests
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/semTests
+	subdir = semTests
 [submodule "slopeOP"]
 	path = slopeOP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/slopeOP
 	subdir = slopeOP
+[submodule "speakeasyR"]
+	path = speakeasyR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/speakeasyR
+	subdir = speakeasyR
+[submodule "stationery"]
+	path = stationery
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/stationery
+	subdir = stationery
 [submodule "subselect"]
 	path = subselect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/subselect
 	subdir = subselect
+[submodule "surface"]
+	path = surface
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/surface
+	subdir = surface
+[submodule "survival666"]
+	path = survival666
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/survival666
+	subdir = survival666
 [submodule "taxotools"]
 	path = taxotools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/taxotools
 	subdir = taxotools
+[submodule "treedata.table"]
+	path = treedata.table
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/treedata.table
+	subdir = treedata.table
 [submodule "visualpred"]
 	path = visualpred
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
