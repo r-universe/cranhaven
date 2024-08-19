@@ -262,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/visualpred
 	subdir = visualpred
-[submodule "warbleR"]
-	path = warbleR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/warbleR
-	subdir = warbleR
 [submodule "wikiprofiler"]
 	path = wikiprofiler
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
