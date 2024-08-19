@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BOSO
 	subdir = BOSO
-[submodule "DWDLargeR"]
-	path = DWDLargeR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DWDLargeR
-	subdir = DWDLargeR
 [submodule "FCSlib"]
 	path = FCSlib
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,11 +337,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/subselect
 	subdir = subselect
-[submodule "surface"]
-	path = surface
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/surface
-	subdir = surface
 [submodule "survival666"]
 	path = survival666
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
