@@ -87,11 +87,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VAJointSurv
 	subdir = VAJointSurv
+[submodule "WES"]
+	path = WES
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/WES
+	subdir = WES
 [submodule "affluenceIndex"]
 	path = affluenceIndex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/affluenceIndex
 	subdir = affluenceIndex
+[submodule "alcyon"]
+	path = alcyon
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/alcyon
+	subdir = alcyon
 [submodule "aods3"]
 	path = aods3
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,6 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/err
 	subdir = err
+[submodule "fastMatMR"]
+	path = fastMatMR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fastMatMR
+	subdir = fastMatMR
 [submodule "fcl"]
 	path = fcl
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,6 +302,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/overtureR
 	subdir = overtureR
+[submodule "packDAMipd"]
+	path = packDAMipd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/packDAMipd
+	subdir = packDAMipd
 [submodule "quanteda.textplots"]
 	path = quanteda.textplots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsgeo
 	subdir = rsgeo
-[submodule "sampcompR"]
-	path = sampcompR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sampcompR
-	subdir = sampcompR
 [submodule "semTests"]
 	path = semTests
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
