@@ -17,21 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BOSO
 	subdir = BOSO
-[submodule "FCSlib"]
-	path = FCSlib
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FCSlib
-	subdir = FCSlib
 [submodule "FedData"]
 	path = FedData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FedData
 	subdir = FedData
-[submodule "MantaID"]
-	path = MantaID
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MantaID
-	subdir = MantaID
 [submodule "MetaculR"]
 	path = MetaculR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,36 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gfilogisreg
 	subdir = gfilogisreg
-[submodule "greenR"]
-	path = greenR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/greenR
-	subdir = greenR
 [submodule "iClusterVB"]
 	path = iClusterVB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iClusterVB
 	subdir = iClusterVB
-[submodule "icesDatsu"]
-	path = icesDatsu
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/icesDatsu
-	subdir = icesDatsu
-[submodule "icesDatsuQC"]
-	path = icesDatsuQC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/icesDatsuQC
-	subdir = icesDatsuQC
-[submodule "icesSD"]
-	path = icesSD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/icesSD
-	subdir = icesSD
-[submodule "icesVMS"]
-	path = icesVMS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/icesVMS
-	subdir = icesVMS
 [submodule "iemisc"]
 	path = iemisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,28 +277,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/survival666
 	subdir = survival666
-[submodule "taxotools"]
-	path = taxotools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/taxotools
-	subdir = taxotools
 [submodule "treedata.table"]
 	path = treedata.table
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/treedata.table
 	subdir = treedata.table
-[submodule "visualpred"]
-	path = visualpred
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/visualpred
-	subdir = visualpred
-[submodule "wikiprofiler"]
-	path = wikiprofiler
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wikiprofiler
-	subdir = wikiprofiler
-[submodule "yarr"]
-	path = yarr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/yarr
-	subdir = yarr
