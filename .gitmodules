@@ -62,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WES
 	subdir = WES
+[submodule "WH"]
+	path = WH
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/WH
+	subdir = WH
 [submodule "affluenceIndex"]
 	path = affluenceIndex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/async
 	subdir = async
+[submodule "celltrackR"]
+	path = celltrackR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/celltrackR
+	subdir = celltrackR
 [submodule "changeRangeR"]
 	path = changeRangeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iopspackage
 	subdir = iopspackage
+[submodule "malariaAtlas"]
+	path = malariaAtlas
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/malariaAtlas
+	subdir = malariaAtlas
 [submodule "moocore"]
 	path = moocore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,6 +247,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/observer
 	subdir = observer
+[submodule "odbr"]
+	path = odbr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/odbr
+	subdir = odbr
+[submodule "otargen"]
+	path = otargen
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/otargen
+	subdir = otargen
 [submodule "overtureR"]
 	path = overtureR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/packDAMipd
 	subdir = packDAMipd
+[submodule "psidR"]
+	path = psidR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/psidR
+	subdir = psidR
 [submodule "quanteda.textplots"]
 	path = quanteda.textplots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
