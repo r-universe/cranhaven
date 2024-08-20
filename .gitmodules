@@ -217,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/netcox
 	subdir = netcox
+[submodule "noaaoceans"]
+	path = noaaoceans
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/noaaoceans
+	subdir = noaaoceans
 [submodule "nseval"]
 	path = nseval
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/quanteda.textplots
 	subdir = quanteda.textplots
+[submodule "ready4"]
+	path = ready4
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ready4
+	subdir = ready4
 [submodule "rsgeo"]
 	path = rsgeo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
