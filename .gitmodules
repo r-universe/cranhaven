@@ -62,11 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PaRe
 	subdir = PaRe
-[submodule "Rraven"]
-	path = Rraven
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Rraven
-	subdir = Rraven
 [submodule "StrucDiv"]
 	path = StrucDiv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
