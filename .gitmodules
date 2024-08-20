@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gfilogisreg
 	subdir = gfilogisreg
-[submodule "iClusterVB"]
-	path = iClusterVB
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/iClusterVB
-	subdir = iClusterVB
 [submodule "iemisc"]
 	path = iemisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
