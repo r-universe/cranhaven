@@ -297,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/slopeOP
 	subdir = slopeOP
-[submodule "speakeasyR"]
-	path = speakeasyR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/speakeasyR
-	subdir = speakeasyR
 [submodule "stationery"]
 	path = stationery
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
