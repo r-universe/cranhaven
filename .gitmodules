@@ -292,6 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/slopeOP
 	subdir = slopeOP
+[submodule "spotifyr"]
+	path = spotifyr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spotifyr
+	subdir = spotifyr
 [submodule "stationery"]
 	path = stationery
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
