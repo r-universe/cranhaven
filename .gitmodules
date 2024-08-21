@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/appler
 	subdir = appler
-[submodule "apt"]
-	path = apt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/apt
-	subdir = apt
 [submodule "arcgis"]
 	path = arcgis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/easyWechat
 	subdir = easyWechat
-[submodule "erer"]
-	path = erer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/erer
-	subdir = erer
 [submodule "fastMatMR"]
 	path = fastMatMR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,11 +237,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/otargen
 	subdir = otargen
-[submodule "overtureR"]
-	path = overtureR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/overtureR
-	subdir = overtureR
 [submodule "packDAMipd"]
 	path = packDAMipd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
