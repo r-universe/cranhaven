@@ -147,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/erer
 	subdir = erer
-[submodule "err"]
-	path = err
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/err
-	subdir = err
 [submodule "fastMatMR"]
 	path = fastMatMR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
