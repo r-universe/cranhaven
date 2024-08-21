@@ -152,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/filibustr
 	subdir = filibustr
-[submodule "fio"]
-	path = fio
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fio
-	subdir = fio
 [submodule "gfilmm"]
 	path = gfilmm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
