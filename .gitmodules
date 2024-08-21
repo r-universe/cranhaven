@@ -247,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/quanteda.textplots
 	subdir = quanteda.textplots
+[submodule "rPDBapi"]
+	path = rPDBapi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rPDBapi
+	subdir = rPDBapi
 [submodule "ready4"]
 	path = ready4
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
