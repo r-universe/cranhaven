@@ -27,16 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetaculR
 	subdir = MetaculR
-[submodule "Multiaovbay"]
-	path = Multiaovbay
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Multiaovbay
-	subdir = Multiaovbay
-[submodule "OptiSembleForecasting"]
-	path = OptiSembleForecasting
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/OptiSembleForecasting
-	subdir = OptiSembleForecasting
 [submodule "PANPRSnext"]
 	path = PANPRSnext
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/moocore
 	subdir = moocore
-[submodule "morse"]
-	path = morse
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/morse
-	subdir = morse
 [submodule "netcox"]
 	path = netcox
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
