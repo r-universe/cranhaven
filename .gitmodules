@@ -42,6 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PaRe
 	subdir = PaRe
+[submodule "PublicWorksFinanceIT"]
+	path = PublicWorksFinanceIT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PublicWorksFinanceIT
+	subdir = PublicWorksFinanceIT
 [submodule "StrucDiv"]
 	path = StrucDiv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
