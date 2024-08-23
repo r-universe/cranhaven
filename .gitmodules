@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastMatMR
 	subdir = fastMatMR
-[submodule "fcl"]
-	path = fcl
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fcl
-	subdir = fcl
 [submodule "gfilmm"]
 	path = gfilmm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spotifyr
 	subdir = spotifyr
+[submodule "spt"]
+	path = spt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spt
+	subdir = spt
 [submodule "stationery"]
 	path = stationery
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
