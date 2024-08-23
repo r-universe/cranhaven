@@ -102,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/async
 	subdir = async
+[submodule "bite"]
+	path = bite
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bite
+	subdir = bite
 [submodule "celltrackR"]
 	path = celltrackR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
