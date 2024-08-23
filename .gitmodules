@@ -137,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fcl
 	subdir = fcl
-[submodule "filibustr"]
-	path = filibustr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/filibustr
-	subdir = filibustr
 [submodule "gfilmm"]
 	path = gfilmm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gfilogisreg
 	subdir = gfilogisreg
-[submodule "iemisc"]
-	path = iemisc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/iemisc
-	subdir = iemisc
 [submodule "iemiscdata"]
 	path = iemiscdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
