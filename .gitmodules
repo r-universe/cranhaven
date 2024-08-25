@@ -142,6 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastMatMR
 	subdir = fastMatMR
+[submodule "fixedincome"]
+	path = fixedincome
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fixedincome
+	subdir = fixedincome
 [submodule "gfilmm"]
 	path = gfilmm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
