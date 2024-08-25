@@ -127,6 +127,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/condusco
 	subdir = condusco
+[submodule "datelife"]
+	path = datelife
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/datelife
+	subdir = datelife
 [submodule "diproperm"]
 	path = diproperm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ready4
 	subdir = ready4
+[submodule "refdb"]
+	path = refdb
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/refdb
+	subdir = refdb
 [submodule "rsgeo"]
 	path = rsgeo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
