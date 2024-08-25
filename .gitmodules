@@ -222,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/psidR
 	subdir = psidR
+[submodule "quanteda.textmodels"]
+	path = quanteda.textmodels
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/quanteda.textmodels
+	subdir = quanteda.textmodels
 [submodule "quanteda.textplots"]
 	path = quanteda.textplots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,6 +237,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rPDBapi
 	subdir = rPDBapi
+[submodule "rb3"]
+	path = rb3
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rb3
+	subdir = rb3
 [submodule "ready4"]
 	path = ready4
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
