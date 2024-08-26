@@ -172,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/inldata
 	subdir = inldata
-[submodule "insee"]
-	path = insee
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/insee
-	subdir = insee
 [submodule "iopspackage"]
 	path = iopspackage
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
