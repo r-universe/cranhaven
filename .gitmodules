@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bold
 	subdir = bold
-[submodule "celltrackR"]
-	path = celltrackR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/celltrackR
-	subdir = celltrackR
 [submodule "changeRangeR"]
 	path = changeRangeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
