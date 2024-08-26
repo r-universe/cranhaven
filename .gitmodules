@@ -102,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bite
 	subdir = bite
+[submodule "bold"]
+	path = bold
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bold
+	subdir = bold
 [submodule "celltrackR"]
 	path = celltrackR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iopspackage
 	subdir = iopspackage
-[submodule "malariaAtlas"]
-	path = malariaAtlas
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/malariaAtlas
-	subdir = malariaAtlas
 [submodule "moocore"]
 	path = moocore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
