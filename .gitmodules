@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IDSA
 	subdir = IDSA
+[submodule "IPDFileCheck"]
+	path = IPDFileCheck
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/IPDFileCheck
+	subdir = IPDFileCheck
 [submodule "MetaculR"]
 	path = MetaculR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
