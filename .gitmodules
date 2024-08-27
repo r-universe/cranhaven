@@ -17,11 +17,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BOSO
 	subdir = BOSO
+[submodule "EDA"]
+	path = EDA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EDA
+	subdir = EDA
 [submodule "FedData"]
 	path = FedData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FedData
 	subdir = FedData
+[submodule "HS"]
+	path = HS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HS
+	subdir = HS
+[submodule "IDSA"]
+	path = IDSA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/IDSA
+	subdir = IDSA
 [submodule "MetaculR"]
 	path = MetaculR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/semTests
 	subdir = semTests
+[submodule "shiny.worker"]
+	path = shiny.worker
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/shiny.worker
+	subdir = shiny.worker
 [submodule "slopeOP"]
 	path = slopeOP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,3 +312,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/treedata.table
 	subdir = treedata.table
+[submodule "visae"]
+	path = visae
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/visae
+	subdir = visae
