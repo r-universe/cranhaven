@@ -82,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/StrucDiv
 	subdir = StrucDiv
-[submodule "VPdtw"]
-	path = VPdtw
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/VPdtw
-	subdir = VPdtw
 [submodule "WES"]
 	path = WES
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,11 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/psidR
 	subdir = psidR
-[submodule "quanteda.textmodels"]
-	path = quanteda.textmodels
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/quanteda.textmodels
-	subdir = quanteda.textmodels
 [submodule "rPDBapi"]
 	path = rPDBapi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
