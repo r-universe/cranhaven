@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/armadillo
 	subdir = armadillo
-[submodule "async"]
-	path = async
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/async
-	subdir = async
 [submodule "bite"]
 	path = bite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/noaaoceans
 	subdir = noaaoceans
-[submodule "nseval"]
-	path = nseval
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nseval
-	subdir = nseval
 [submodule "observer"]
 	path = observer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
