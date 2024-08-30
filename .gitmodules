@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WES
 	subdir = WES
-[submodule "WH"]
-	path = WH
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/WH
-	subdir = WH
 [submodule "affluenceIndex"]
 	path = affluenceIndex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
