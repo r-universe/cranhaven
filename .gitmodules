@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bold
 	subdir = bold
-[submodule "changeRangeR"]
-	path = changeRangeR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/changeRangeR
-	subdir = changeRangeR
 [submodule "clusteredinterference"]
 	path = clusteredinterference
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
