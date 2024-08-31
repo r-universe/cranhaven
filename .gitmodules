@@ -142,6 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/condusco
 	subdir = condusco
+[submodule "cwbtools"]
+	path = cwbtools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cwbtools
+	subdir = cwbtools
 [submodule "datelife"]
 	path = datelife
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
