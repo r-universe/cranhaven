@@ -52,6 +52,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IPDFileCheck
 	subdir = IPDFileCheck
+[submodule "LDLcalc"]
+	path = LDLcalc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LDLcalc
+	subdir = LDLcalc
+[submodule "LOGANTree"]
+	path = LOGANTree
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LOGANTree
+	subdir = LOGANTree
 [submodule "MetaculR"]
 	path = MetaculR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
