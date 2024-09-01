@@ -92,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/StrucDiv
 	subdir = StrucDiv
+[submodule "TreatmentPatterns"]
+	path = TreatmentPatterns
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TreatmentPatterns
+	subdir = TreatmentPatterns
 [submodule "WES"]
 	path = WES
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
