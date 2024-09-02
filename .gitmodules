@@ -272,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/refdb
 	subdir = refdb
-[submodule "rsgeo"]
-	path = rsgeo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rsgeo
-	subdir = rsgeo
 [submodule "semTests"]
 	path = semTests
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
