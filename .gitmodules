@@ -287,6 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/refdb
 	subdir = refdb
+[submodule "rusda"]
+	path = rusda
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rusda
+	subdir = rusda
 [submodule "semTests"]
 	path = semTests
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
