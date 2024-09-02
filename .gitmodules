@@ -197,6 +197,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gfilogisreg
 	subdir = gfilogisreg
+[submodule "gtfs2emis"]
+	path = gtfs2emis
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gtfs2emis
+	subdir = gtfs2emis
+[submodule "gtfs2gps"]
+	path = gtfs2gps
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gtfs2gps
+	subdir = gtfs2gps
+[submodule "gtfstools"]
+	path = gtfstools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gtfstools
+	subdir = gtfstools
 [submodule "iemiscdata"]
 	path = iemiscdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
