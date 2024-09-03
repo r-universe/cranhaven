@@ -162,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/easyWechat
 	subdir = easyWechat
+[submodule "eodhd"]
+	path = eodhd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/eodhd
+	subdir = eodhd
 [submodule "fastMatMR"]
 	path = fastMatMR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
