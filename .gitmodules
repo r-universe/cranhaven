@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/moocore
 	subdir = moocore
-[submodule "netcox"]
-	path = netcox
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/netcox
-	subdir = netcox
 [submodule "noaaoceans"]
 	path = noaaoceans
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,11 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shiny.worker
 	subdir = shiny.worker
-[submodule "slopeOP"]
-	path = slopeOP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/slopeOP
-	subdir = slopeOP
 [submodule "spotifyr"]
 	path = spotifyr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,11 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stationery
 	subdir = stationery
-[submodule "subselect"]
-	path = subselect
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/subselect
-	subdir = subselect
 [submodule "survival666"]
 	path = survival666
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
