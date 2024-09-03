@@ -62,11 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LOGANTree
 	subdir = LOGANTree
-[submodule "MetaculR"]
-	path = MetaculR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MetaculR
-	subdir = MetaculR
 [submodule "PANPRSnext"]
 	path = PANPRSnext
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WES
 	subdir = WES
-[submodule "affluenceIndex"]
-	path = affluenceIndex
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/affluenceIndex
-	subdir = affluenceIndex
 [submodule "aods3"]
 	path = aods3
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
