@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bold
 	subdir = bold
-[submodule "clusteredinterference"]
-	path = clusteredinterference
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clusteredinterference
-	subdir = clusteredinterference
 [submodule "condusco"]
 	path = condusco
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/diproperm
 	subdir = diproperm
-[submodule "easyWechat"]
-	path = easyWechat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/easyWechat
-	subdir = easyWechat
 [submodule "eodhd"]
 	path = eodhd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,16 +167,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fixedincome
 	subdir = fixedincome
-[submodule "gfilmm"]
-	path = gfilmm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gfilmm
-	subdir = gfilmm
-[submodule "gfilogisreg"]
-	path = gfilogisreg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gfilogisreg
-	subdir = gfilogisreg
 [submodule "gtfs2emis"]
 	path = gtfs2emis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
