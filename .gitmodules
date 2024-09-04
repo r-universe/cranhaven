@@ -167,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fixedincome
 	subdir = fixedincome
+[submodule "fntl"]
+	path = fntl
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fntl
+	subdir = fntl
 [submodule "gtfs2emis"]
 	path = gtfs2emis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iemiscdata
 	subdir = iemiscdata
-[submodule "inldata"]
-	path = inldata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/inldata
-	subdir = inldata
 [submodule "iopspackage"]
 	path = iopspackage
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
