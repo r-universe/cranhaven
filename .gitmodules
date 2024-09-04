@@ -122,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/armadillo
 	subdir = armadillo
+[submodule "bayesianVARs"]
+	path = bayesianVARs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bayesianVARs
+	subdir = bayesianVARs
 [submodule "bite"]
 	path = bite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +237,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/psidR
 	subdir = psidR
-[submodule "rPDBapi"]
-	path = rPDBapi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rPDBapi
-	subdir = rPDBapi
 [submodule "rb3"]
 	path = rb3
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
