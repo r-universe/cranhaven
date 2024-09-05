@@ -57,6 +57,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LOGANTree
 	subdir = LOGANTree
+[submodule "ModTools"]
+	path = ModTools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ModTools
+	subdir = ModTools
 [submodule "PANPRSnext"]
 	path = PANPRSnext
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -72,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PaRe
 	subdir = PaRe
+[submodule "PopVar"]
+	path = PopVar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PopVar
+	subdir = PopVar
 [submodule "PublicWorksFinanceIT"]
 	path = PublicWorksFinanceIT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
