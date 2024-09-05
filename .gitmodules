@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "AROC"]
-	path = AROC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AROC
-	subdir = AROC
 [submodule "AquaBEHER"]
 	path = AquaBEHER
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
