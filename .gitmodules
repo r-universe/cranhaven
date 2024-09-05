@@ -132,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesianVARs
 	subdir = bayesianVARs
+[submodule "bggAnalytics"]
+	path = bggAnalytics
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bggAnalytics
+	subdir = bggAnalytics
 [submodule "bite"]
 	path = bite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/condusco
 	subdir = condusco
+[submodule "cregg"]
+	path = cregg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cregg
+	subdir = cregg
 [submodule "cwbtools"]
 	path = cwbtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
