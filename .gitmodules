@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/armadillo
 	subdir = armadillo
-[submodule "bayesianVARs"]
-	path = bayesianVARs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bayesianVARs
-	subdir = bayesianVARs
 [submodule "bggAnalytics"]
 	path = bggAnalytics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
