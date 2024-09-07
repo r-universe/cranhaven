@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EDA
 	subdir = EDA
+[submodule "EEAaq"]
+	path = EEAaq
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EEAaq
+	subdir = EEAaq
 [submodule "FedData"]
 	path = FedData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
