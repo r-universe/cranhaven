@@ -187,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fixedincome
 	subdir = fixedincome
-[submodule "fntl"]
-	path = fntl
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fntl
-	subdir = fntl
 [submodule "gtfs2emis"]
 	path = gtfs2emis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
