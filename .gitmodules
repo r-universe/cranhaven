@@ -317,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/taxizedb
 	subdir = taxizedb
-[submodule "tidytuesdayR"]
-	path = tidytuesdayR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tidytuesdayR
-	subdir = tidytuesdayR
 [submodule "treedata.table"]
 	path = treedata.table
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
