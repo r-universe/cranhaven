@@ -67,6 +67,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ModTools
 	subdir = ModTools
+[submodule "NaileR"]
+	path = NaileR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NaileR
+	subdir = NaileR
 [submodule "PANPRSnext"]
 	path = PANPRSnext
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
