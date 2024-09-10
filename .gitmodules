@@ -37,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FedData
 	subdir = FedData
+[submodule "GauPro"]
+	path = GauPro
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GauPro
+	subdir = GauPro
 [submodule "HS"]
 	path = HS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,6 +157,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bold
 	subdir = bold
+[submodule "comparer"]
+	path = comparer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/comparer
+	subdir = comparer
 [submodule "condusco"]
 	path = condusco
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,6 +232,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iopspackage
 	subdir = iopspackage
+[submodule "mixopt"]
+	path = mixopt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mixopt
+	subdir = mixopt
 [submodule "moocore"]
 	path = moocore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
