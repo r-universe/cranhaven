@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesMassBal
 	subdir = BayesMassBal
-[submodule "ContourFunctions"]
-	path = ContourFunctions
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ContourFunctions
-	subdir = ContourFunctions
 [submodule "EDA"]
 	path = EDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
