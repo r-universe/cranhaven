@@ -217,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gtfstools
 	subdir = gtfstools
+[submodule "hellorust"]
+	path = hellorust
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hellorust
+	subdir = hellorust
 [submodule "iemiscdata"]
 	path = iemiscdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,6 +332,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/taxizedb
 	subdir = taxizedb
+[submodule "timeless"]
+	path = timeless
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/timeless
+	subdir = timeless
 [submodule "treedata.table"]
 	path = treedata.table
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
