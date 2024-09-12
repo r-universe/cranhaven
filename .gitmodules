@@ -192,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastMatMR
 	subdir = fastMatMR
-[submodule "fdicdata"]
-	path = fdicdata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fdicdata
-	subdir = fdicdata
 [submodule "fixedincome"]
 	path = fixedincome
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
