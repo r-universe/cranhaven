@@ -227,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iopspackage
 	subdir = iopspackage
-[submodule "mixopt"]
-	path = mixopt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mixopt
-	subdir = mixopt
 [submodule "moocore"]
 	path = moocore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
