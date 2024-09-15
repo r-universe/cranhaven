@@ -177,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/datelife
 	subdir = datelife
+[submodule "diathor"]
+	path = diathor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/diathor
+	subdir = diathor
 [submodule "diproperm"]
 	path = diproperm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
