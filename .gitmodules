@@ -187,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/diproperm
 	subdir = diproperm
+[submodule "dotwhisker"]
+	path = dotwhisker
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dotwhisker
+	subdir = dotwhisker
 [submodule "eodhd"]
 	path = eodhd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
