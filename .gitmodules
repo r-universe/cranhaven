@@ -207,6 +207,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fixedincome
 	subdir = fixedincome
+[submodule "fmbasics"]
+	path = fmbasics
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fmbasics
+	subdir = fmbasics
+[submodule "fmdates"]
+	path = fmdates
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fmdates
+	subdir = fmdates
 [submodule "gtfs2emis"]
 	path = gtfs2emis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
