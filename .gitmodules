@@ -297,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ready4
 	subdir = ready4
-[submodule "ream"]
-	path = ream
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ream
-	subdir = ream
 [submodule "refdb"]
 	path = refdb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
