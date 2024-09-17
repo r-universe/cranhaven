@@ -192,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dotwhisker
 	subdir = dotwhisker
+[submodule "edbuildmapr"]
+	path = edbuildmapr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/edbuildmapr
+	subdir = edbuildmapr
 [submodule "eodhd"]
 	path = eodhd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
