@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/arcgislayers
 	subdir = arcgislayers
-[submodule "arcpbf"]
-	path = arcpbf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/arcpbf
-	subdir = arcpbf
 [submodule "armadillo"]
 	path = armadillo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
