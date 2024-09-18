@@ -312,6 +312,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shiny.worker
 	subdir = shiny.worker
+[submodule "sparseGAM"]
+	path = sparseGAM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sparseGAM
+	subdir = sparseGAM
 [submodule "spotifyr"]
 	path = spotifyr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
