@@ -37,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GauPro
 	subdir = GauPro
+[submodule "GeoThinneR"]
+	path = GeoThinneR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GeoThinneR
+	subdir = GeoThinneR
 [submodule "HS"]
 	path = HS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
