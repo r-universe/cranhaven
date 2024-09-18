@@ -247,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iopspackage
 	subdir = iopspackage
-[submodule "moocore"]
-	path = moocore
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/moocore
-	subdir = moocore
 [submodule "noaaoceans"]
 	path = noaaoceans
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
