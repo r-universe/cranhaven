@@ -307,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rusda
 	subdir = rusda
+[submodule "rworkflows"]
+	path = rworkflows
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rworkflows
+	subdir = rworkflows
 [submodule "semTests"]
 	path = semTests
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
