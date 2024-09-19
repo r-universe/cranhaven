@@ -217,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fmdates
 	subdir = fmdates
+[submodule "foolbox"]
+	path = foolbox
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/foolbox
+	subdir = foolbox
 [submodule "gtfs2emis"]
 	path = gtfs2emis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
