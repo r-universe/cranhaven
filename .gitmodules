@@ -117,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/aods3
 	subdir = aods3
-[submodule "appler"]
-	path = appler
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/appler
-	subdir = appler
 [submodule "arcgis"]
 	path = arcgis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
