@@ -302,6 +302,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rworkflows
 	subdir = rworkflows
+[submodule "rxode2et"]
+	path = rxode2et
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rxode2et
+	subdir = rxode2et
+[submodule "rxode2random"]
+	path = rxode2random
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rxode2random
+	subdir = rxode2random
 [submodule "semTests"]
 	path = semTests
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
