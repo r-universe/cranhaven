@@ -242,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hellorust
 	subdir = hellorust
-[submodule "iemiscdata"]
-	path = iemiscdata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/iemiscdata
-	subdir = iemiscdata
 [submodule "iopspackage"]
 	path = iopspackage
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
