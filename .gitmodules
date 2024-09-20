@@ -172,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/datelife
 	subdir = datelife
-[submodule "diathor"]
-	path = diathor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/diathor
-	subdir = diathor
 [submodule "diproperm"]
 	path = diproperm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,11 +232,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gtfstools
 	subdir = gtfstools
-[submodule "hellorust"]
-	path = hellorust
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hellorust
-	subdir = hellorust
 [submodule "iopspackage"]
 	path = iopspackage
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
