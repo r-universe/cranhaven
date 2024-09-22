@@ -292,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rusda
 	subdir = rusda
-[submodule "rworkflows"]
-	path = rworkflows
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rworkflows
-	subdir = rworkflows
 [submodule "rxode2et"]
 	path = rxode2et
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
