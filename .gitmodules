@@ -362,3 +362,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/visae
 	subdir = visae
+[submodule "wdi2"]
+	path = wdi2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/wdi2
+	subdir = wdi2
