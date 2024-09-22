@@ -237,11 +237,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iopspackage
 	subdir = iopspackage
-[submodule "literanger"]
-	path = literanger
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/literanger
-	subdir = literanger
 [submodule "noaaoceans"]
 	path = noaaoceans
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
