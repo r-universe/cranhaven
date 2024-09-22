@@ -257,11 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/odbr
 	subdir = odbr
-[submodule "otargen"]
-	path = otargen
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/otargen
-	subdir = otargen
 [submodule "packDAMipd"]
 	path = packDAMipd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
