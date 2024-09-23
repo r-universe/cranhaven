@@ -7,6 +7,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesMassBal
 	subdir = BayesMassBal
+[submodule "CAMAN"]
+	path = CAMAN
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CAMAN
+	subdir = CAMAN
+[submodule "Colossus"]
+	path = Colossus
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Colossus
+	subdir = Colossus
 [submodule "EDA"]
 	path = EDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -27,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GeoThinneR
 	subdir = GeoThinneR
+[submodule "HKprocess"]
+	path = HKprocess
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HKprocess
+	subdir = HKprocess
 [submodule "HS"]
 	path = HS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -82,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bggAnalytics
 	subdir = bggAnalytics
+[submodule "bioPN"]
+	path = bioPN
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bioPN
+	subdir = bioPN
 [submodule "bite"]
 	path = bite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/timeless
 	subdir = timeless
+[submodule "ursa"]
+	path = ursa
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ursa
+	subdir = ursa
 [submodule "visae"]
 	path = visae
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
