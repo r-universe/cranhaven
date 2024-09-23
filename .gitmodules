@@ -2,16 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "AquaBEHER"]
-	path = AquaBEHER
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AquaBEHER
-	subdir = AquaBEHER
-[submodule "BOSO"]
-	path = BOSO
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BOSO
-	subdir = BOSO
 [submodule "BayesMassBal"]
 	path = BayesMassBal
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -72,16 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NaileR
 	subdir = NaileR
-[submodule "PANPRSnext"]
-	path = PANPRSnext
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PANPRSnext
-	subdir = PANPRSnext
-[submodule "PUPAIM"]
-	path = PUPAIM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PUPAIM
-	subdir = PUPAIM
 [submodule "PopVar"]
 	path = PopVar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -122,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/comparer
 	subdir = comparer
-[submodule "condusco"]
-	path = condusco
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/condusco
-	subdir = condusco
 [submodule "cregg"]
 	path = cregg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,21 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gtfstools
 	subdir = gtfstools
-[submodule "iopspackage"]
-	path = iopspackage
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/iopspackage
-	subdir = iopspackage
 [submodule "noaaoceans"]
 	path = noaaoceans
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/noaaoceans
 	subdir = noaaoceans
-[submodule "observer"]
-	path = observer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/observer
-	subdir = observer
 [submodule "odbr"]
 	path = odbr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rxode2random
 	subdir = rxode2random
-[submodule "semTests"]
-	path = semTests
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/semTests
-	subdir = semTests
 [submodule "shiny.worker"]
 	path = shiny.worker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,16 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spt
 	subdir = spt
-[submodule "stationery"]
-	path = stationery
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/stationery
-	subdir = stationery
-[submodule "survival666"]
-	path = survival666
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/survival666
-	subdir = survival666
 [submodule "taxizedb"]
 	path = taxizedb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,11 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/timeless
 	subdir = timeless
-[submodule "treedata.table"]
-	path = treedata.table
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/treedata.table
-	subdir = treedata.table
 [submodule "visae"]
 	path = visae
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
