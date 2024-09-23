@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EEAaq
 	subdir = EEAaq
-[submodule "FedData"]
-	path = FedData
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FedData
-	subdir = FedData
 [submodule "GauPro"]
 	path = GauPro
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -102,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PublicWorksFinanceIT
 	subdir = PublicWorksFinanceIT
-[submodule "StrucDiv"]
-	path = StrucDiv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/StrucDiv
-	subdir = StrucDiv
 [submodule "WES"]
 	path = WES
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,16 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/aods3
 	subdir = aods3
-[submodule "arcgis"]
-	path = arcgis
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/arcgis
-	subdir = arcgis
-[submodule "arcgislayers"]
-	path = arcgislayers
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/arcgislayers
-	subdir = arcgislayers
 [submodule "armadillo"]
 	path = armadillo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/datelife
 	subdir = datelife
-[submodule "diproperm"]
-	path = diproperm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/diproperm
-	subdir = diproperm
 [submodule "dotwhisker"]
 	path = dotwhisker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
