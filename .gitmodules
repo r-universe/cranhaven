@@ -82,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PUPAIM
 	subdir = PUPAIM
-[submodule "PaRe"]
-	path = PaRe
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PaRe
-	subdir = PaRe
 [submodule "PopVar"]
 	path = PopVar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -102,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WES
 	subdir = WES
-[submodule "aods3"]
-	path = aods3
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/aods3
-	subdir = aods3
 [submodule "armadillo"]
 	path = armadillo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
