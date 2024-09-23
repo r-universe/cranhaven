@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EEAaq
 	subdir = EEAaq
+[submodule "GLIDE"]
+	path = GLIDE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GLIDE
+	subdir = GLIDE
 [submodule "GauPro"]
 	path = GauPro
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,6 +92,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PublicWorksFinanceIT
 	subdir = PublicWorksFinanceIT
+[submodule "SSLASSO"]
+	path = SSLASSO
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SSLASSO
+	subdir = SSLASSO
+[submodule "TwoPhaseInd"]
+	path = TwoPhaseInd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TwoPhaseInd
+	subdir = TwoPhaseInd
 [submodule "armadillo"]
 	path = armadillo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bggAnalytics
 	subdir = bggAnalytics
+[submodule "bhpm"]
+	path = bhpm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bhpm
+	subdir = bhpm
 [submodule "bioPN"]
 	path = bioPN
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,11 +202,31 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gtfstools
 	subdir = gtfstools
+[submodule "landscapetools"]
+	path = landscapetools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/landscapetools
+	subdir = landscapetools
+[submodule "mvPot"]
+	path = mvPot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mvPot
+	subdir = mvPot
 [submodule "noaaoceans"]
 	path = noaaoceans
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/noaaoceans
 	subdir = noaaoceans
+[submodule "npcopTest"]
+	path = npcopTest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/npcopTest
+	subdir = npcopTest
+[submodule "oaqc"]
+	path = oaqc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/oaqc
+	subdir = oaqc
 [submodule "odbr"]
 	path = odbr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rxode2et
 	subdir = rxode2et
+[submodule "rxode2parse"]
+	path = rxode2parse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rxode2parse
+	subdir = rxode2parse
 [submodule "rxode2random"]
 	path = rxode2random
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
