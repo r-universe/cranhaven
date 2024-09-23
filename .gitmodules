@@ -72,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PublicWorksFinanceIT
 	subdir = PublicWorksFinanceIT
-[submodule "WES"]
-	path = WES
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/WES
-	subdir = WES
 [submodule "armadillo"]
 	path = armadillo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eodhd
 	subdir = eodhd
-[submodule "fastMatMR"]
-	path = fastMatMR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fastMatMR
-	subdir = fastMatMR
 [submodule "fixedincome"]
 	path = fixedincome
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/odbr
 	subdir = odbr
-[submodule "packDAMipd"]
-	path = packDAMipd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/packDAMipd
-	subdir = packDAMipd
 [submodule "psidR"]
 	path = psidR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
