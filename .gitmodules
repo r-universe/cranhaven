@@ -227,16 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oaqc
 	subdir = oaqc
-[submodule "odbr"]
-	path = odbr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/odbr
-	subdir = odbr
-[submodule "psidR"]
-	path = psidR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/psidR
-	subdir = psidR
 [submodule "qtlmt"]
 	path = qtlmt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
