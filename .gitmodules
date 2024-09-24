@@ -202,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gtfstools
 	subdir = gtfstools
+[submodule "image.dlib"]
+	path = image.dlib
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/image.dlib
+	subdir = image.dlib
 [submodule "landscapetools"]
 	path = landscapetools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
