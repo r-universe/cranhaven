@@ -217,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mvPot
 	subdir = mvPot
-[submodule "noaaoceans"]
-	path = noaaoceans
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/noaaoceans
-	subdir = noaaoceans
 [submodule "npcopTest"]
 	path = npcopTest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rb3
 	subdir = rb3
-[submodule "ready4"]
-	path = ready4
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ready4
-	subdir = ready4
 [submodule "refdb"]
 	path = refdb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
