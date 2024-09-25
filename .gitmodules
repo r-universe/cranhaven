@@ -277,11 +277,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sparseGAM
 	subdir = sparseGAM
-[submodule "spotifyr"]
-	path = spotifyr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spotifyr
-	subdir = spotifyr
 [submodule "spt"]
 	path = spt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
