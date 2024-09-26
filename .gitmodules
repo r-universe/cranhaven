@@ -32,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GLIDE
 	subdir = GLIDE
-[submodule "GauPro"]
-	path = GauPro
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GauPro
-	subdir = GauPro
 [submodule "GeoThinneR"]
 	path = GeoThinneR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ModTools
 	subdir = ModTools
-[submodule "NaileR"]
-	path = NaileR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NaileR
-	subdir = NaileR
 [submodule "PopVar"]
 	path = PopVar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
