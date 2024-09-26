@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PopVar
 	subdir = PopVar
-[submodule "PublicWorksFinanceIT"]
-	path = PublicWorksFinanceIT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PublicWorksFinanceIT
-	subdir = PublicWorksFinanceIT
 [submodule "SSLASSO"]
 	path = SSLASSO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/landscapetools
 	subdir = landscapetools
-[submodule "leidenbase"]
-	path = leidenbase
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/leidenbase
-	subdir = leidenbase
 [submodule "mvPot"]
 	path = mvPot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
