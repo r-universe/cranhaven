@@ -287,11 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/timeless
 	subdir = timeless
-[submodule "ursa"]
-	path = ursa
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ursa
-	subdir = ursa
 [submodule "visae"]
 	path = visae
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
