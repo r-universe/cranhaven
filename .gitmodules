@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EEAaq
 	subdir = EEAaq
+[submodule "EnrichDO"]
+	path = EnrichDO
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EnrichDO
+	subdir = EnrichDO
 [submodule "GLIDE"]
 	path = GLIDE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/landscapetools
 	subdir = landscapetools
+[submodule "msmtools"]
+	path = msmtools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/msmtools
+	subdir = msmtools
 [submodule "mvPot"]
 	path = mvPot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
