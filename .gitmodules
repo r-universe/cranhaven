@@ -252,11 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sparseGAM
 	subdir = sparseGAM
-[submodule "spt"]
-	path = spt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spt
-	subdir = spt
 [submodule "stabreg"]
 	path = stabreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
