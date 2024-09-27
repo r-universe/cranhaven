@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/datelife
 	subdir = datelife
-[submodule "dotwhisker"]
-	path = dotwhisker
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dotwhisker
-	subdir = dotwhisker
 [submodule "edbuildmapr"]
 	path = edbuildmapr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
