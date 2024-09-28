@@ -82,6 +82,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PopVar
 	subdir = PopVar
+[submodule "R2SWF"]
+	path = R2SWF
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/R2SWF
+	subdir = R2SWF
+[submodule "Rcatch22"]
+	path = Rcatch22
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rcatch22
+	subdir = Rcatch22
 [submodule "SSLASSO"]
 	path = SSLASSO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/taxizedb
 	subdir = taxizedb
+[submodule "theft"]
+	path = theft
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/theft
+	subdir = theft
 [submodule "timeless"]
 	path = timeless
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
