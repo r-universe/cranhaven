@@ -157,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eodhd
 	subdir = eodhd
-[submodule "fixedincome"]
-	path = fixedincome
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fixedincome
-	subdir = fixedincome
 [submodule "fmbasics"]
 	path = fmbasics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
