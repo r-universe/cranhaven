@@ -232,11 +232,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qtlmt
 	subdir = qtlmt
-[submodule "rb3"]
-	path = rb3
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rb3
-	subdir = rb3
 [submodule "refdb"]
 	path = refdb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
