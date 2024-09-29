@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cwbtools
 	subdir = cwbtools
-[submodule "datelife"]
-	path = datelife
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/datelife
-	subdir = datelife
 [submodule "edbuildmapr"]
 	path = edbuildmapr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qtlmt
 	subdir = qtlmt
-[submodule "refdb"]
-	path = refdb
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/refdb
-	subdir = refdb
 [submodule "rusda"]
 	path = rusda
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
