@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bioPN
 	subdir = bioPN
-[submodule "bold"]
-	path = bold
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bold
-	subdir = bold
 [submodule "comparer"]
 	path = comparer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
