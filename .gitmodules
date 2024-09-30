@@ -97,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TwoPhaseInd
 	subdir = TwoPhaseInd
+[submodule "WMWssp"]
+	path = WMWssp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/WMWssp
+	subdir = WMWssp
 [submodule "armadillo"]
 	path = armadillo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
