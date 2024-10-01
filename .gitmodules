@@ -82,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WMWssp
 	subdir = WMWssp
-[submodule "armadillo"]
-	path = armadillo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/armadillo
-	subdir = armadillo
 [submodule "bggAnalytics"]
 	path = bggAnalytics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
