@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "BayesMassBal"]
-	path = BayesMassBal
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BayesMassBal
-	subdir = BayesMassBal
 [submodule "CAMAN"]
 	path = CAMAN
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -17,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Colossus
 	subdir = Colossus
-[submodule "EDA"]
-	path = EDA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EDA
-	subdir = EDA
 [submodule "EEAaq"]
 	path = EEAaq
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,16 +37,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HKprocess
 	subdir = HKprocess
-[submodule "HS"]
-	path = HS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HS
-	subdir = HS
-[submodule "IDSA"]
-	path = IDSA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/IDSA
-	subdir = IDSA
 [submodule "IPDFileCheck"]
 	path = IPDFileCheck
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rxode2random
 	subdir = rxode2random
-[submodule "shiny.worker"]
-	path = shiny.worker
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shiny.worker
-	subdir = shiny.worker
 [submodule "sparseGAM"]
 	path = sparseGAM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/timeless
 	subdir = timeless
-[submodule "visae"]
-	path = visae
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/visae
-	subdir = visae
 [submodule "wdi2"]
 	path = wdi2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
