@@ -37,11 +37,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HKprocess
 	subdir = HKprocess
-[submodule "IPDFileCheck"]
-	path = IPDFileCheck
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/IPDFileCheck
-	subdir = IPDFileCheck
 [submodule "LDLcalc"]
 	path = LDLcalc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
