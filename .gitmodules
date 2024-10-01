@@ -47,6 +47,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LOGANTree
 	subdir = LOGANTree
+[submodule "MonoPhy"]
+	path = MonoPhy
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MonoPhy
+	subdir = MonoPhy
+[submodule "OpenTreeChronograms"]
+	path = OpenTreeChronograms
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/OpenTreeChronograms
+	subdir = OpenTreeChronograms
 [submodule "PopVar"]
 	path = PopVar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,6 +87,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WMWssp
 	subdir = WMWssp
+[submodule "algaeClassify"]
+	path = algaeClassify
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/algaeClassify
+	subdir = algaeClassify
+[submodule "bdvis"]
+	path = bdvis
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bdvis
+	subdir = bdvis
 [submodule "bggAnalytics"]
 	path = bggAnalytics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,16 +172,31 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gtfstools
 	subdir = gtfstools
+[submodule "helminthR"]
+	path = helminthR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/helminthR
+	subdir = helminthR
 [submodule "image.dlib"]
 	path = image.dlib
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/image.dlib
 	subdir = image.dlib
+[submodule "insectDisease"]
+	path = insectDisease
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/insectDisease
+	subdir = insectDisease
 [submodule "landscapetools"]
 	path = landscapetools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/landscapetools
 	subdir = landscapetools
+[submodule "metacoder"]
+	path = metacoder
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/metacoder
+	subdir = metacoder
 [submodule "msmtools"]
 	path = msmtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mvPot
 	subdir = mvPot
+[submodule "myTAI"]
+	path = myTAI
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/myTAI
+	subdir = myTAI
 [submodule "npcopTest"]
 	path = npcopTest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
