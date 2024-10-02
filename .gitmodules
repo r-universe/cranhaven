@@ -127,6 +127,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cwbtools
 	subdir = cwbtools
+[submodule "digitalDLSorteR"]
+	path = digitalDLSorteR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/digitalDLSorteR
+	subdir = digitalDLSorteR
 [submodule "edbuildmapr"]
 	path = edbuildmapr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
