@@ -67,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/R2SWF
 	subdir = R2SWF
-[submodule "Rcatch22"]
-	path = Rcatch22
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Rcatch22
-	subdir = Rcatch22
 [submodule "SSLASSO"]
 	path = SSLASSO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bioPN
 	subdir = bioPN
-[submodule "comparer"]
-	path = comparer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/comparer
-	subdir = comparer
 [submodule "cregg"]
 	path = cregg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
