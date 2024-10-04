@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GLIDE
 	subdir = GLIDE
-[submodule "GeoThinneR"]
-	path = GeoThinneR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GeoThinneR
-	subdir = GeoThinneR
 [submodule "HKprocess"]
 	path = HKprocess
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,11 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/taxizedb
 	subdir = taxizedb
-[submodule "theft"]
-	path = theft
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/theft
-	subdir = theft
 [submodule "theftdlc"]
 	path = theftdlc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
