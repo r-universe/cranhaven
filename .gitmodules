@@ -252,11 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/taxizedb
 	subdir = taxizedb
-[submodule "theftdlc"]
-	path = theftdlc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/theftdlc
-	subdir = theftdlc
 [submodule "timeless"]
 	path = timeless
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
