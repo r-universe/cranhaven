@@ -242,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stabreg
 	subdir = stabreg
-[submodule "taxizedb"]
-	path = taxizedb
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/taxizedb
-	subdir = taxizedb
 [submodule "timeless"]
 	path = timeless
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
