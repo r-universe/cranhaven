@@ -32,16 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HKprocess
 	subdir = HKprocess
-[submodule "LDLcalc"]
-	path = LDLcalc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LDLcalc
-	subdir = LDLcalc
-[submodule "LOGANTree"]
-	path = LOGANTree
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LOGANTree
-	subdir = LOGANTree
 [submodule "MonoPhy"]
 	path = MonoPhy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
