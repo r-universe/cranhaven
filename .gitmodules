@@ -177,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/npcopTest
 	subdir = npcopTest
-[submodule "oaqc"]
-	path = oaqc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/oaqc
-	subdir = oaqc
 [submodule "qtlmt"]
 	path = qtlmt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
