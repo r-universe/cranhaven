@@ -187,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qtlmt
 	subdir = qtlmt
-[submodule "rusda"]
-	path = rusda
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rusda
-	subdir = rusda
 [submodule "rxode2et"]
 	path = rxode2et
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
