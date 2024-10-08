@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/edbuildmapr
 	subdir = edbuildmapr
-[submodule "eodhd"]
-	path = eodhd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/eodhd
-	subdir = eodhd
 [submodule "fmbasics"]
 	path = fmbasics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
