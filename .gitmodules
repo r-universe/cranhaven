@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/R2SWF
 	subdir = R2SWF
+[submodule "RCPA"]
+	path = RCPA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RCPA
+	subdir = RCPA
 [submodule "SSLASSO"]
 	path = SSLASSO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
