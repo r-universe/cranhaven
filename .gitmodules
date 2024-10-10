@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OpenTreeChronograms
 	subdir = OpenTreeChronograms
-[submodule "PopVar"]
-	path = PopVar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PopVar
-	subdir = PopVar
 [submodule "R2SWF"]
 	path = R2SWF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bdvis
 	subdir = bdvis
-[submodule "bggAnalytics"]
-	path = bggAnalytics
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bggAnalytics
-	subdir = bggAnalytics
 [submodule "bhpm"]
 	path = bhpm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bioPN
 	subdir = bioPN
-[submodule "cregg"]
-	path = cregg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cregg
-	subdir = cregg
 [submodule "digitalDLSorteR"]
 	path = digitalDLSorteR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
