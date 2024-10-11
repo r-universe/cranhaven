@@ -187,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sparseGAM
 	subdir = sparseGAM
+[submodule "spathial"]
+	path = spathial
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spathial
+	subdir = spathial
 [submodule "stabreg"]
 	path = stabreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
