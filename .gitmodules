@@ -67,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WMWssp
 	subdir = WMWssp
-[submodule "algaeClassify"]
-	path = algaeClassify
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/algaeClassify
-	subdir = algaeClassify
 [submodule "bdvis"]
 	path = bdvis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
