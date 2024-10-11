@@ -182,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rxode2random
 	subdir = rxode2random
+[submodule "sacRebleu"]
+	path = sacRebleu
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sacRebleu
+	subdir = sacRebleu
 [submodule "sparseGAM"]
 	path = sparseGAM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/timeless
 	subdir = timeless
+[submodule "tok"]
+	path = tok
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tok
+	subdir = tok
 [submodule "wdi2"]
 	path = wdi2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
