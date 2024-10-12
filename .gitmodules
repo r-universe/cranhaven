@@ -77,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bioPN
 	subdir = bioPN
+[submodule "dhlabR"]
+	path = dhlabR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dhlabR
+	subdir = dhlabR
 [submodule "digitalDLSorteR"]
 	path = digitalDLSorteR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +137,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/metacoder
 	subdir = metacoder
+[submodule "morpheus"]
+	path = morpheus
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/morpheus
+	subdir = morpheus
 [submodule "msmtools"]
 	path = msmtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/msmtools
 	subdir = msmtools
+[submodule "mtscr"]
+	path = mtscr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mtscr
+	subdir = mtscr
 [submodule "mvPot"]
 	path = mvPot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
