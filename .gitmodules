@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Colossus
 	subdir = Colossus
-[submodule "EEAaq"]
-	path = EEAaq
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EEAaq
-	subdir = EEAaq
 [submodule "EnrichDO"]
 	path = EnrichDO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
