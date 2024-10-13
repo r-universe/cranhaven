@@ -77,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bioPN
 	subdir = bioPN
+[submodule "clogitLasso"]
+	path = clogitLasso
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clogitLasso
+	subdir = clogitLasso
 [submodule "dhlabR"]
 	path = dhlabR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/edbuildmapr
 	subdir = edbuildmapr
+[submodule "epoc"]
+	path = epoc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/epoc
+	subdir = epoc
 [submodule "fmbasics"]
 	path = fmbasics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,6 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/landscapetools
 	subdir = landscapetools
+[submodule "lassoshooting"]
+	path = lassoshooting
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lassoshooting
+	subdir = lassoshooting
 [submodule "metacoder"]
 	path = metacoder
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qtlmt
 	subdir = qtlmt
+[submodule "rRAP"]
+	path = rRAP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rRAP
+	subdir = rRAP
 [submodule "rxode2et"]
 	path = rxode2et
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
