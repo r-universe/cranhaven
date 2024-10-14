@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GLIDE
 	subdir = GLIDE
+[submodule "GaMaBioMD"]
+	path = GaMaBioMD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GaMaBioMD
+	subdir = GaMaBioMD
 [submodule "HKprocess"]
 	path = HKprocess
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stabreg
 	subdir = stabreg
+[submodule "taxize"]
+	path = taxize
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/taxize
+	subdir = taxize
 [submodule "timeless"]
 	path = timeless
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,6 +242,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tok
 	subdir = tok
+[submodule "traits"]
+	path = traits
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/traits
+	subdir = traits
 [submodule "wdi2"]
 	path = wdi2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
