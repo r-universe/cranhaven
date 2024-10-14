@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/npcopTest
 	subdir = npcopTest
-[submodule "qtlmt"]
-	path = qtlmt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qtlmt
-	subdir = qtlmt
 [submodule "rRAP"]
 	path = rRAP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
