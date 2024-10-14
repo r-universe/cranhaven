@@ -67,6 +67,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WMWssp
 	subdir = WMWssp
+[submodule "arcgisplaces"]
+	path = arcgisplaces
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/arcgisplaces
+	subdir = arcgisplaces
 [submodule "bdvis"]
 	path = bdvis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/morpheus
 	subdir = morpheus
+[submodule "mra"]
+	path = mra
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mra
+	subdir = mra
 [submodule "msmtools"]
 	path = msmtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
