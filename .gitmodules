@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonoPhy
 	subdir = MonoPhy
-[submodule "OmopSketch"]
-	path = OmopSketch
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/OmopSketch
-	subdir = OmopSketch
 [submodule "OpenTreeChronograms"]
 	path = OpenTreeChronograms
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
