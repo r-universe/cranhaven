@@ -32,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HKprocess
 	subdir = HKprocess
+[submodule "MetaIntegrator"]
+	path = MetaIntegrator
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MetaIntegrator
+	subdir = MetaIntegrator
 [submodule "MonoPhy"]
 	path = MonoPhy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
