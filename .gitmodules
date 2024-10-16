@@ -247,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/taxize
 	subdir = taxize
-[submodule "timeless"]
-	path = timeless
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/timeless
-	subdir = timeless
 [submodule "tok"]
 	path = tok
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
