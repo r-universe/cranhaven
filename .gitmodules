@@ -37,11 +37,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetaIntegrator
 	subdir = MetaIntegrator
-[submodule "MonoPhy"]
-	path = MonoPhy
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MonoPhy
-	subdir = MonoPhy
 [submodule "OpenTreeChronograms"]
 	path = OpenTreeChronograms
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
