@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CAMAN
 	subdir = CAMAN
-[submodule "Colossus"]
-	path = Colossus
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Colossus
-	subdir = Colossus
 [submodule "EnrichDO"]
 	path = EnrichDO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
