@@ -257,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/traits
 	subdir = traits
+[submodule "tranSurv"]
+	path = tranSurv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tranSurv
+	subdir = tranSurv
 [submodule "wdi2"]
 	path = wdi2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
