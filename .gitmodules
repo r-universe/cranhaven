@@ -192,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/npcopTest
 	subdir = npcopTest
+[submodule "oglcnac"]
+	path = oglcnac
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/oglcnac
+	subdir = oglcnac
 [submodule "rRAP"]
 	path = rRAP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
