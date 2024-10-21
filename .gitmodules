@@ -122,16 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/epoc
 	subdir = epoc
-[submodule "fmbasics"]
-	path = fmbasics
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fmbasics
-	subdir = fmbasics
-[submodule "fmdates"]
-	path = fmdates
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fmdates
-	subdir = fmdates
 [submodule "foolbox"]
 	path = foolbox
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
