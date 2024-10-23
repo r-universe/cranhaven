@@ -67,6 +67,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TwoPhaseInd
 	subdir = TwoPhaseInd
+[submodule "Vdgraph"]
+	path = Vdgraph
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Vdgraph
+	subdir = Vdgraph
 [submodule "WMWssp"]
 	path = WMWssp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/digitalDLSorteR
 	subdir = digitalDLSorteR
+[submodule "elrm"]
+	path = elrm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/elrm
+	subdir = elrm
 [submodule "epoc"]
 	path = epoc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rRAP
 	subdir = rRAP
+[submodule "raybevel"]
+	path = raybevel
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/raybevel
+	subdir = raybevel
 [submodule "rxode2et"]
 	path = rxode2et
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,11 +237,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/skynet
 	subdir = skynet
+[submodule "spNetwork"]
+	path = spNetwork
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spNetwork
+	subdir = spNetwork
 [submodule "spathial"]
 	path = spathial
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spathial
 	subdir = spathial
+[submodule "sphereTessellation"]
+	path = sphereTessellation
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sphereTessellation
+	subdir = sphereTessellation
 [submodule "stabreg"]
 	path = stabreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
