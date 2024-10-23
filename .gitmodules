@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/skynet
 	subdir = skynet
-[submodule "sparseGAM"]
-	path = sparseGAM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sparseGAM
-	subdir = sparseGAM
 [submodule "spathial"]
 	path = spathial
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
