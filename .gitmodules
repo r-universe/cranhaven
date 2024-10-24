@@ -202,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oglcnac
 	subdir = oglcnac
+[submodule "preferably"]
+	path = preferably
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/preferably
+	subdir = preferably
 [submodule "rRAP"]
 	path = rRAP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
