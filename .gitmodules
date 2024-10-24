@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/epoc
 	subdir = epoc
-[submodule "foolbox"]
-	path = foolbox
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/foolbox
-	subdir = foolbox
 [submodule "geohabnet"]
 	path = geohabnet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
