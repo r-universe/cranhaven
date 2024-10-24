@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "BoundaryStats"]
+	path = BoundaryStats
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BoundaryStats
+	subdir = BoundaryStats
 [submodule "CAMAN"]
 	path = CAMAN
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/raybevel
 	subdir = raybevel
+[submodule "rgeoda"]
+	path = rgeoda
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rgeoda
+	subdir = rgeoda
 [submodule "rxode2et"]
 	path = rxode2et
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sphereTessellation
 	subdir = sphereTessellation
+[submodule "spqdep"]
+	path = spqdep
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spqdep
+	subdir = spqdep
 [submodule "stabreg"]
 	path = stabreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
