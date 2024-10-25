@@ -222,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rgeoda
 	subdir = rgeoda
+[submodule "rngSetSeed"]
+	path = rngSetSeed
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rngSetSeed
+	subdir = rngSetSeed
 [submodule "rxode2et"]
 	path = rxode2et
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,6 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/traits
 	subdir = traits
+[submodule "trampoline"]
+	path = trampoline
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/trampoline
+	subdir = trampoline
 [submodule "tranSurv"]
 	path = tranSurv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
