@@ -212,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/raybevel
 	subdir = raybevel
+[submodule "rdss"]
+	path = rdss
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rdss
+	subdir = rdss
 [submodule "rgeoda"]
 	path = rgeoda
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
