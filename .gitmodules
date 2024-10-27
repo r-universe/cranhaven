@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "BENMMI"]
+	path = BENMMI
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BENMMI
+	subdir = BENMMI
 [submodule "CAMAN"]
 	path = CAMAN
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
