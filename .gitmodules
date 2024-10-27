@@ -292,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tranSurv
 	subdir = tranSurv
-[submodule "wdi2"]
-	path = wdi2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wdi2
-	subdir = wdi2
 [submodule "xVA"]
 	path = xVA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
