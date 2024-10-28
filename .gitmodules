@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EnrichDO
 	subdir = EnrichDO
-[submodule "GLIDE"]
-	path = GLIDE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GLIDE
-	subdir = GLIDE
 [submodule "GaMaBioMD"]
 	path = GaMaBioMD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,21 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SACCR
 	subdir = SACCR
-[submodule "SSLASSO"]
-	path = SSLASSO
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SSLASSO
-	subdir = SSLASSO
 [submodule "Trading"]
 	path = Trading
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Trading
 	subdir = Trading
-[submodule "TwoPhaseInd"]
-	path = TwoPhaseInd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TwoPhaseInd
-	subdir = TwoPhaseInd
 [submodule "Vdgraph"]
 	path = Vdgraph
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -82,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bdvis
 	subdir = bdvis
-[submodule "bhpm"]
-	path = bhpm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bhpm
-	subdir = bhpm
 [submodule "clogitLasso"]
 	path = clogitLasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/insectDisease
 	subdir = insectDisease
-[submodule "landscapetools"]
-	path = landscapetools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/landscapetools
-	subdir = landscapetools
 [submodule "lassoshooting"]
 	path = lassoshooting
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,21 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mtscr
 	subdir = mtscr
-[submodule "mvPot"]
-	path = mvPot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mvPot
-	subdir = mvPot
 [submodule "myTAI"]
 	path = myTAI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/myTAI
 	subdir = myTAI
-[submodule "npcopTest"]
-	path = npcopTest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/npcopTest
-	subdir = npcopTest
 [submodule "oglcnac"]
 	path = oglcnac
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rngSetSeed
 	subdir = rngSetSeed
-[submodule "rxode2parse"]
-	path = rxode2parse
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rxode2parse
-	subdir = rxode2parse
 [submodule "sacRebleu"]
 	path = sacRebleu
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
