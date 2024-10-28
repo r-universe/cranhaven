@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BENMMI
 	subdir = BENMMI
-[submodule "CAMAN"]
-	path = CAMAN
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CAMAN
-	subdir = CAMAN
 [submodule "EnrichDO"]
 	path = EnrichDO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -27,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GaMaBioMD
 	subdir = GaMaBioMD
-[submodule "HKprocess"]
-	path = HKprocess
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HKprocess
-	subdir = HKprocess
 [submodule "MetaIntegrator"]
 	path = MetaIntegrator
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bhpm
 	subdir = bhpm
-[submodule "bioPN"]
-	path = bioPN
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bioPN
-	subdir = bioPN
 [submodule "clogitLasso"]
 	path = clogitLasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
