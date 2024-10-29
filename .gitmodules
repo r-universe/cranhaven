@@ -102,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/helminthR
 	subdir = helminthR
-[submodule "image.dlib"]
-	path = image.dlib
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/image.dlib
-	subdir = image.dlib
 [submodule "insectDisease"]
 	path = insectDisease
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
