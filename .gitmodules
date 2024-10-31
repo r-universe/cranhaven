@@ -102,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/helminthR
 	subdir = helminthR
+[submodule "imuf"]
+	path = imuf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/imuf
+	subdir = imuf
 [submodule "insectDisease"]
 	path = insectDisease
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
