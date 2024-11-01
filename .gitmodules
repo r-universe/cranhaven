@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BENMMI
 	subdir = BENMMI
-[submodule "EnrichDO"]
-	path = EnrichDO
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EnrichDO
-	subdir = EnrichDO
 [submodule "GaMaBioMD"]
 	path = GaMaBioMD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mra
 	subdir = mra
-[submodule "msmtools"]
-	path = msmtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/msmtools
-	subdir = msmtools
 [submodule "mtscr"]
 	path = mtscr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
