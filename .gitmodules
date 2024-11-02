@@ -122,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mtscr
 	subdir = mtscr
+[submodule "mverse"]
+	path = mverse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mverse
+	subdir = mverse
 [submodule "myTAI"]
 	path = myTAI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
