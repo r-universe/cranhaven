@@ -227,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tranSurv
 	subdir = tranSurv
-[submodule "trtswitch"]
-	path = trtswitch
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/trtswitch
-	subdir = trtswitch
 [submodule "xVA"]
 	path = xVA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
