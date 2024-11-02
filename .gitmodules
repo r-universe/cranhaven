@@ -82,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/epoc
 	subdir = epoc
-[submodule "geohabnet"]
-	path = geohabnet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/geohabnet
-	subdir = geohabnet
 [submodule "helminthR"]
 	path = helminthR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
