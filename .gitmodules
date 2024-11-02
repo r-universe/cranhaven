@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OpenTreeChronograms
 	subdir = OpenTreeChronograms
-[submodule "R2SWF"]
-	path = R2SWF
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/R2SWF
-	subdir = R2SWF
 [submodule "RCPA"]
 	path = RCPA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
