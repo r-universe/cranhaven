@@ -132,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/myTAI
 	subdir = myTAI
+[submodule "neurocInstall"]
+	path = neurocInstall
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/neurocInstall
+	subdir = neurocInstall
 [submodule "oglcnac"]
 	path = oglcnac
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
