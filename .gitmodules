@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Vdgraph
 	subdir = Vdgraph
-[submodule "WMWssp"]
-	path = WMWssp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/WMWssp
-	subdir = WMWssp
 [submodule "arcgisplaces"]
 	path = arcgisplaces
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
