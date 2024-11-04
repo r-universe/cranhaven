@@ -52,16 +52,31 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/arcgisplaces
 	subdir = arcgisplaces
+[submodule "autoGO"]
+	path = autoGO
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/autoGO
+	subdir = autoGO
 [submodule "bdvis"]
 	path = bdvis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bdvis
 	subdir = bdvis
+[submodule "blockTools"]
+	path = blockTools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/blockTools
+	subdir = blockTools
 [submodule "clogitLasso"]
 	path = clogitLasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clogitLasso
 	subdir = clogitLasso
+[submodule "datagovsgR"]
+	path = datagovsgR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/datagovsgR
+	subdir = datagovsgR
 [submodule "dhlabR"]
 	path = dhlabR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/elrm
 	subdir = elrm
+[submodule "enrichR"]
+	path = enrichR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/enrichR
+	subdir = enrichR
 [submodule "epoc"]
 	path = epoc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
