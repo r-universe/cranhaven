@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BENMMI
 	subdir = BENMMI
+[submodule "CoronaNetR"]
+	path = CoronaNetR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CoronaNetR
+	subdir = CoronaNetR
 [submodule "GaMaBioMD"]
 	path = GaMaBioMD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -22,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OpenTreeChronograms
 	subdir = OpenTreeChronograms
+[submodule "PRISMAstatement"]
+	path = PRISMAstatement
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PRISMAstatement
+	subdir = PRISMAstatement
 [submodule "RCPA"]
 	path = RCPA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -32,6 +42,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SACCR
 	subdir = SACCR
+[submodule "SecDim"]
+	path = SecDim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SecDim
+	subdir = SecDim
+[submodule "Thermistor"]
+	path = Thermistor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Thermistor
+	subdir = Thermistor
 [submodule "Trading"]
 	path = Trading
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -62,11 +82,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/blockTools
 	subdir = blockTools
+[submodule "card"]
+	path = card
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/card
+	subdir = card
+[submodule "cbioportalR"]
+	path = cbioportalR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cbioportalR
+	subdir = cbioportalR
 [submodule "clogitLasso"]
 	path = clogitLasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clogitLasso
 	subdir = clogitLasso
+[submodule "clusterCons"]
+	path = clusterCons
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clusterCons
+	subdir = clusterCons
 [submodule "datagovsgR"]
 	path = datagovsgR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,11 +132,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/epoc
 	subdir = epoc
+[submodule "hansard"]
+	path = hansard
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hansard
+	subdir = hansard
 [submodule "helminthR"]
 	path = helminthR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/helminthR
 	subdir = helminthR
+[submodule "idmodelr"]
+	path = idmodelr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/idmodelr
+	subdir = idmodelr
 [submodule "imuf"]
 	path = imuf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lassoshooting
 	subdir = lassoshooting
+[submodule "maraca"]
+	path = maraca
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/maraca
+	subdir = maraca
 [submodule "metacoder"]
 	path = metacoder
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +202,31 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/neurocInstall
 	subdir = neurocInstall
+[submodule "neuronorm"]
+	path = neuronorm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/neuronorm
+	subdir = neuronorm
 [submodule "oglcnac"]
 	path = oglcnac
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oglcnac
 	subdir = oglcnac
+[submodule "orcutt"]
+	path = orcutt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/orcutt
+	subdir = orcutt
+[submodule "physiology"]
+	path = physiology
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/physiology
+	subdir = physiology
+[submodule "plantecowrap"]
+	path = plantecowrap
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/plantecowrap
+	subdir = plantecowrap
 [submodule "preferably"]
 	path = preferably
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
