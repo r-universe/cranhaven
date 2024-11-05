@@ -7,6 +7,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BENMMI
 	subdir = BENMMI
+[submodule "CRF"]
+	path = CRF
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CRF
+	subdir = CRF
+[submodule "Corbi"]
+	path = Corbi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Corbi
+	subdir = Corbi
 [submodule "CoronaNetR"]
 	path = CoronaNetR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -17,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GaMaBioMD
 	subdir = GaMaBioMD
+[submodule "MDFS"]
+	path = MDFS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MDFS
+	subdir = MDFS
 [submodule "MetaIntegrator"]
 	path = MetaIntegrator
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -27,6 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PRISMAstatement
 	subdir = PRISMAstatement
+[submodule "RAFS"]
+	path = RAFS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RAFS
+	subdir = RAFS
 [submodule "RCPA"]
 	path = RCPA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
