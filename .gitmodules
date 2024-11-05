@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetaIntegrator
 	subdir = MetaIntegrator
-[submodule "OpenTreeChronograms"]
-	path = OpenTreeChronograms
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/OpenTreeChronograms
-	subdir = OpenTreeChronograms
 [submodule "PRISMAstatement"]
 	path = PRISMAstatement
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -72,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autoGO
 	subdir = autoGO
-[submodule "bdvis"]
-	path = bdvis
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bdvis
-	subdir = bdvis
 [submodule "blockTools"]
 	path = blockTools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hansard
 	subdir = hansard
-[submodule "helminthR"]
-	path = helminthR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/helminthR
-	subdir = helminthR
 [submodule "idmodelr"]
 	path = idmodelr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/imuf
 	subdir = imuf
-[submodule "insectDisease"]
-	path = insectDisease
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/insectDisease
-	subdir = insectDisease
 [submodule "lassoshooting"]
 	path = lassoshooting
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/maraca
 	subdir = maraca
-[submodule "metacoder"]
-	path = metacoder
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/metacoder
-	subdir = metacoder
 [submodule "morpheus"]
 	path = morpheus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,11 +167,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mverse
 	subdir = mverse
-[submodule "myTAI"]
-	path = myTAI
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/myTAI
-	subdir = myTAI
 [submodule "neurocInstall"]
 	path = neurocInstall
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
