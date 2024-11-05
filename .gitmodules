@@ -117,6 +117,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/datagovsgR
 	subdir = datagovsgR
+[submodule "dfr"]
+	path = dfr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dfr
+	subdir = dfr
 [submodule "dhlabR"]
 	path = dhlabR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,6 +147,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/epoc
 	subdir = epoc
+[submodule "faux"]
+	path = faux
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/faux
+	subdir = faux
 [submodule "hansard"]
 	path = hansard
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/imuf
 	subdir = imuf
+[submodule "infoelectoral"]
+	path = infoelectoral
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/infoelectoral
+	subdir = infoelectoral
 [submodule "lassoshooting"]
 	path = lassoshooting
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sacRebleu
 	subdir = sacRebleu
+[submodule "sgs"]
+	path = sgs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sgs
+	subdir = sgs
 [submodule "skynet"]
 	path = skynet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
