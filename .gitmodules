@@ -67,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RAFS
 	subdir = RAFS
-[submodule "RCPA"]
-	path = RCPA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RCPA
-	subdir = RCPA
 [submodule "SACCR"]
 	path = SACCR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,11 +167,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/idmodelr
 	subdir = idmodelr
-[submodule "imuf"]
-	path = imuf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/imuf
-	subdir = imuf
 [submodule "infoelectoral"]
 	path = infoelectoral
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
