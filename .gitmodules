@@ -122,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clusterCons
 	subdir = clusterCons
+[submodule "cpp11tesseract"]
+	path = cpp11tesseract
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cpp11tesseract
+	subdir = cpp11tesseract
 [submodule "datagovsgR"]
 	path = datagovsgR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rdss
 	subdir = rdss
+[submodule "redatam"]
+	path = redatam
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/redatam
+	subdir = redatam
 [submodule "rgeoda"]
 	path = rgeoda
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
