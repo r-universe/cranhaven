@@ -27,6 +27,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CoronaNetR
 	subdir = CoronaNetR
+[submodule "EurosarcBayes"]
+	path = EurosarcBayes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EurosarcBayes
+	subdir = EurosarcBayes
+[submodule "GUIDE"]
+	path = GUIDE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GUIDE
+	subdir = GUIDE
 [submodule "GaMaBioMD"]
 	path = GaMaBioMD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -37,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MDFS
 	subdir = MDFS
+[submodule "MOSS"]
+	path = MOSS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MOSS
+	subdir = MOSS
 [submodule "MetaIntegrator"]
 	path = MetaIntegrator
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/blockTools
 	subdir = blockTools
-[submodule "card"]
-	path = card
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/card
-	subdir = card
 [submodule "cbioportalR"]
 	path = cbioportalR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
