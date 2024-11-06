@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dhlabR
 	subdir = dhlabR
-[submodule "digitalDLSorteR"]
-	path = digitalDLSorteR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/digitalDLSorteR
-	subdir = digitalDLSorteR
 [submodule "elrm"]
 	path = elrm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
