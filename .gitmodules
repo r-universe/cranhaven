@@ -162,6 +162,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/faux
 	subdir = faux
+[submodule "flowr"]
+	path = flowr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/flowr
+	subdir = flowr
+[submodule "good"]
+	path = good
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/good
+	subdir = good
 [submodule "hansard"]
 	path = hansard
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,6 +237,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/orcutt
 	subdir = orcutt
+[submodule "params"]
+	path = params
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/params
+	subdir = params
 [submodule "physiology"]
 	path = physiology
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +322,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spqdep
 	subdir = spqdep
+[submodule "table.glue"]
+	path = table.glue
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/table.glue
+	subdir = table.glue
 [submodule "taxize"]
 	path = taxize
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tranSurv
 	subdir = tranSurv
+[submodule "translated"]
+	path = translated
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/translated
+	subdir = translated
 [submodule "xVA"]
 	path = xVA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
