@@ -77,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SecDim
 	subdir = SecDim
+[submodule "TOmicsVis"]
+	path = TOmicsVis
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TOmicsVis
+	subdir = TOmicsVis
 [submodule "Thermistor"]
 	path = Thermistor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
