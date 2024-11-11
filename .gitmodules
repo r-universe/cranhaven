@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "BBSSL"]
+	path = BBSSL
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BBSSL
+	subdir = BBSSL
 [submodule "BENMMI"]
 	path = BENMMI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -27,11 +32,31 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CoronaNetR
 	subdir = CoronaNetR
+[submodule "DynamicGP"]
+	path = DynamicGP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DynamicGP
+	subdir = DynamicGP
+[submodule "EBglmnet"]
+	path = EBglmnet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EBglmnet
+	subdir = EBglmnet
+[submodule "EDMeasure"]
+	path = EDMeasure
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EDMeasure
+	subdir = EDMeasure
 [submodule "EurosarcBayes"]
 	path = EurosarcBayes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EurosarcBayes
 	subdir = EurosarcBayes
+[submodule "FLLat"]
+	path = FLLat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FLLat
+	subdir = FLLat
 [submodule "GUIDE"]
 	path = GUIDE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RAFS
 	subdir = RAFS
+[submodule "Rgb"]
+	path = Rgb
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rgb
+	subdir = Rgb
 [submodule "SACCR"]
 	path = SACCR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SecDim
 	subdir = SecDim
+[submodule "TDboost"]
+	path = TDboost
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TDboost
+	subdir = TDboost
 [submodule "TOmicsVis"]
 	path = TOmicsVis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,6 +132,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Vdgraph
 	subdir = Vdgraph
+[submodule "WpProj"]
+	path = WpProj
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/WpProj
+	subdir = WpProj
+[submodule "approxOT"]
+	path = approxOT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/approxOT
+	subdir = approxOT
 [submodule "arcgisplaces"]
 	path = arcgisplaces
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,6 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clusterCons
 	subdir = clusterCons
+[submodule "compHclust"]
+	path = compHclust
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/compHclust
+	subdir = compHclust
 [submodule "cpp11tesseract"]
 	path = cpp11tesseract
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/datagovsgR
 	subdir = datagovsgR
+[submodule "depmix"]
+	path = depmix
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/depmix
+	subdir = depmix
 [submodule "dfr"]
 	path = dfr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,6 +217,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/epoc
 	subdir = epoc
+[submodule "erboost"]
+	path = erboost
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/erboost
+	subdir = erboost
+[submodule "fastdigest"]
+	path = fastdigest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fastdigest
+	subdir = fastdigest
 [submodule "faux"]
 	path = faux
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,6 +247,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hansard
 	subdir = hansard
+[submodule "iRafNet"]
+	path = iRafNet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iRafNet
+	subdir = iRafNet
+[submodule "icrf"]
+	path = icrf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/icrf
+	subdir = icrf
 [submodule "idmodelr"]
 	path = idmodelr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,6 +267,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/infoelectoral
 	subdir = infoelectoral
+[submodule "interpret"]
+	path = interpret
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/interpret
+	subdir = interpret
+[submodule "kdpee"]
+	path = kdpee
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/kdpee
+	subdir = kdpee
 [submodule "lassoshooting"]
 	path = lassoshooting
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/preferably
 	subdir = preferably
+[submodule "pwrFDR"]
+	path = pwrFDR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pwrFDR
+	subdir = pwrFDR
 [submodule "rRAP"]
 	path = rRAP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,6 +417,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spqdep
 	subdir = spqdep
+[submodule "stochvolTMB"]
+	path = stochvolTMB
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/stochvolTMB
+	subdir = stochvolTMB
 [submodule "table.glue"]
 	path = table.glue
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,6 +437,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tok
 	subdir = tok
+[submodule "topmodel"]
+	path = topmodel
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/topmodel
+	subdir = topmodel
 [submodule "traits"]
 	path = traits
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
