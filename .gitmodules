@@ -152,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autoGO
 	subdir = autoGO
-[submodule "blockTools"]
-	path = blockTools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/blockTools
-	subdir = blockTools
 [submodule "cbioportalR"]
 	path = cbioportalR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
