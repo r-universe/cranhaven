@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BENMMI
 	subdir = BENMMI
-[submodule "COveR"]
-	path = COveR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/COveR
-	subdir = COveR
 [submodule "CRF"]
 	path = CRF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
