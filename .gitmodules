@@ -37,11 +37,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EBglmnet
 	subdir = EBglmnet
-[submodule "EDCimport"]
-	path = EDCimport
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EDCimport
-	subdir = EDCimport
 [submodule "EDMeasure"]
 	path = EDMeasure
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
