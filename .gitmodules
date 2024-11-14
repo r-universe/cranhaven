@@ -252,6 +252,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hansard
 	subdir = hansard
+[submodule "iClusterVB"]
+	path = iClusterVB
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iClusterVB
+	subdir = iClusterVB
 [submodule "iRafNet"]
 	path = iRafNet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
