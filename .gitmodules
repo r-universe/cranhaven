@@ -387,11 +387,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rngSetSeed
 	subdir = rngSetSeed
-[submodule "sacRebleu"]
-	path = sacRebleu
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sacRebleu
-	subdir = sacRebleu
 [submodule "sgs"]
 	path = sgs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/taxize
 	subdir = taxize
-[submodule "tok"]
-	path = tok
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tok
-	subdir = tok
 [submodule "topmodel"]
 	path = topmodel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
