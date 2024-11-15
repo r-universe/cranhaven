@@ -397,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spNetwork
 	subdir = spNetwork
-[submodule "spathial"]
-	path = spathial
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spathial
-	subdir = spathial
 [submodule "sphereTessellation"]
 	path = sphereTessellation
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
