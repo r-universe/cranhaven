@@ -372,11 +372,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rdss
 	subdir = rdss
-[submodule "redatam"]
-	path = redatam
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/redatam
-	subdir = redatam
 [submodule "rgeoda"]
 	path = rgeoda
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
