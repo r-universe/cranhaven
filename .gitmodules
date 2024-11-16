@@ -192,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/depmix
 	subdir = depmix
-[submodule "dfr"]
-	path = dfr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dfr
-	subdir = dfr
 [submodule "elrm"]
 	path = elrm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
