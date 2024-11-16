@@ -367,11 +367,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rngSetSeed
 	subdir = rngSetSeed
-[submodule "sgs"]
-	path = sgs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sgs
-	subdir = sgs
 [submodule "skynet"]
 	path = skynet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
