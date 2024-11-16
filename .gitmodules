@@ -197,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dfr
 	subdir = dfr
-[submodule "dhlabR"]
-	path = dhlabR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dhlabR
-	subdir = dhlabR
 [submodule "elrm"]
 	path = elrm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,21 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/maraca
 	subdir = maraca
-[submodule "morpheus"]
-	path = morpheus
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/morpheus
-	subdir = morpheus
 [submodule "mra"]
 	path = mra
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mra
 	subdir = mra
-[submodule "mtscr"]
-	path = mtscr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mtscr
-	subdir = mtscr
 [submodule "mverse"]
 	path = mverse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
