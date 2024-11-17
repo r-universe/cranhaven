@@ -162,11 +162,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cbioportalR
 	subdir = cbioportalR
-[submodule "clogitLasso"]
-	path = clogitLasso
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clogitLasso
-	subdir = clogitLasso
 [submodule "clusterCons"]
 	path = clusterCons
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/enrichR
 	subdir = enrichR
-[submodule "epoc"]
-	path = epoc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/epoc
-	subdir = epoc
 [submodule "erboost"]
 	path = erboost
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kdpee
 	subdir = kdpee
-[submodule "lassoshooting"]
-	path = lassoshooting
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lassoshooting
-	subdir = lassoshooting
 [submodule "maraca"]
 	path = maraca
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,11 +322,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pwrFDR
 	subdir = pwrFDR
-[submodule "rRAP"]
-	path = rRAP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rRAP
-	subdir = rRAP
 [submodule "raybevel"]
 	path = raybevel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
