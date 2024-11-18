@@ -57,6 +57,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GUIDE
 	subdir = GUIDE
+[submodule "HTSSIP"]
+	path = HTSSIP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HTSSIP
+	subdir = HTSSIP
 [submodule "MDFS"]
 	path = MDFS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SACCR
 	subdir = SACCR
+[submodule "SIPmg"]
+	path = SIPmg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SIPmg
+	subdir = SIPmg
 [submodule "SecDim"]
 	path = SecDim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/approxOT
 	subdir = approxOT
-[submodule "arcgisplaces"]
-	path = arcgisplaces
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/arcgisplaces
-	subdir = arcgisplaces
 [submodule "autoGO"]
 	path = autoGO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/depmix
 	subdir = depmix
+[submodule "dhis2r"]
+	path = dhis2r
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dhis2r
+	subdir = dhis2r
 [submodule "elrm"]
 	path = elrm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/maraca
 	subdir = maraca
-[submodule "mra"]
-	path = mra
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mra
-	subdir = mra
 [submodule "mverse"]
 	path = mverse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,6 +302,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/params
 	subdir = params
+[submodule "pct"]
+	path = pct
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pct
+	subdir = pct
 [submodule "physiology"]
 	path = physiology
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +317,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/plantecowrap
 	subdir = plantecowrap
+[submodule "pmlbr"]
+	path = pmlbr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pmlbr
+	subdir = pmlbr
 [submodule "preferably"]
 	path = preferably
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
