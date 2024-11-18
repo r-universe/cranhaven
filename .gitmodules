@@ -57,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GUIDE
 	subdir = GUIDE
-[submodule "GaMaBioMD"]
-	path = GaMaBioMD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GaMaBioMD
-	subdir = GaMaBioMD
 [submodule "MDFS"]
 	path = MDFS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,21 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/table.glue
 	subdir = table.glue
-[submodule "taxize"]
-	path = taxize
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/taxize
-	subdir = taxize
 [submodule "topmodel"]
 	path = topmodel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/topmodel
 	subdir = topmodel
-[submodule "traits"]
-	path = traits
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/traits
-	subdir = traits
 [submodule "trampoline"]
 	path = trampoline
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
