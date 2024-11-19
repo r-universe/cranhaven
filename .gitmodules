@@ -72,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MOSS
 	subdir = MOSS
+[submodule "MXM"]
+	path = MXM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MXM
+	subdir = MXM
 [submodule "OmopViewer"]
 	path = OmopViewer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,6 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WpProj
 	subdir = WpProj
+[submodule "algaeClassify"]
+	path = algaeClassify
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/algaeClassify
+	subdir = algaeClassify
 [submodule "approxOT"]
 	path = approxOT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/maraca
 	subdir = maraca
+[submodule "metaumbrella"]
+	path = metaumbrella
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/metaumbrella
+	subdir = metaumbrella
 [submodule "mverse"]
 	path = mverse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,6 +362,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rngSetSeed
 	subdir = rngSetSeed
+[submodule "sgapi"]
+	path = sgapi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sgapi
+	subdir = sgapi
 [submodule "skynet"]
 	path = skynet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
