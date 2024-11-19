@@ -72,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MOSS
 	subdir = MOSS
-[submodule "MetaIntegrator"]
-	path = MetaIntegrator
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MetaIntegrator
-	subdir = MetaIntegrator
 [submodule "OmopViewer"]
 	path = OmopViewer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
