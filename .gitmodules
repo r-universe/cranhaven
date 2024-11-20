@@ -172,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/blockTools
 	subdir = blockTools
-[submodule "cbioportalR"]
-	path = cbioportalR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cbioportalR
-	subdir = cbioportalR
 [submodule "clusterCons"]
 	path = clusterCons
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
