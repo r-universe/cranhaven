@@ -62,6 +62,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HTSSIP
 	subdir = HTSSIP
+[submodule "MBNMAdose"]
+	path = MBNMAdose
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MBNMAdose
+	subdir = MBNMAdose
+[submodule "MBNMAtime"]
+	path = MBNMAtime
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MBNMAtime
+	subdir = MBNMAtime
 [submodule "MDFS"]
 	path = MDFS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
