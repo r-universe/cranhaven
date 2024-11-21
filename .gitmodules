@@ -232,6 +232,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/faux
 	subdir = faux
+[submodule "fedregs"]
+	path = fedregs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fedregs
+	subdir = fedregs
 [submodule "flowr"]
 	path = flowr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
