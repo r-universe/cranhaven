@@ -407,11 +407,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stochvolTMB
 	subdir = stochvolTMB
-[submodule "table.glue"]
-	path = table.glue
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/table.glue
-	subdir = table.glue
 [submodule "topmodel"]
 	path = topmodel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
