@@ -192,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cpp11tesseract
 	subdir = cpp11tesseract
+[submodule "datacutr"]
+	path = datacutr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/datacutr
+	subdir = datacutr
 [submodule "datagovsgR"]
 	path = datagovsgR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
