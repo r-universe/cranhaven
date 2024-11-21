@@ -102,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RAFS
 	subdir = RAFS
+[submodule "ResearchAssociate"]
+	path = ResearchAssociate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ResearchAssociate
+	subdir = ResearchAssociate
 [submodule "Rgb"]
 	path = Rgb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
