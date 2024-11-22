@@ -292,6 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/maraca
 	subdir = maraca
+[submodule "merlin"]
+	path = merlin
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/merlin
+	subdir = merlin
 [submodule "metaumbrella"]
 	path = metaumbrella
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
