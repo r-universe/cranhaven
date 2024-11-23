@@ -252,6 +252,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flowr
 	subdir = flowr
+[submodule "geoidep"]
+	path = geoidep
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/geoidep
+	subdir = geoidep
 [submodule "good"]
 	path = good
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
