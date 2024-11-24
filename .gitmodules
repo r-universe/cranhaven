@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rgb
 	subdir = Rgb
-[submodule "SACCR"]
-	path = SACCR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SACCR
-	subdir = SACCR
 [submodule "SIPmg"]
 	path = SIPmg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Thermistor
 	subdir = Thermistor
-[submodule "Trading"]
-	path = Trading
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Trading
-	subdir = Trading
 [submodule "Vdgraph"]
 	path = Vdgraph
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,11 +402,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sgapi
 	subdir = sgapi
-[submodule "skynet"]
-	path = skynet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/skynet
-	subdir = skynet
 [submodule "spNetwork"]
 	path = spNetwork
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -457,8 +442,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/translated
 	subdir = translated
-[submodule "xVA"]
-	path = xVA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/xVA
-	subdir = xVA
