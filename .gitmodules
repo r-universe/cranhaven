@@ -112,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RAFS
 	subdir = RAFS
+[submodule "RPANDA"]
+	path = RPANDA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RPANDA
+	subdir = RPANDA
 [submodule "ResearchAssociate"]
 	path = ResearchAssociate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/orcutt
 	subdir = orcutt
+[submodule "orthGS"]
+	path = orthGS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/orthGS
+	subdir = orthGS
 [submodule "params"]
 	path = params
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
