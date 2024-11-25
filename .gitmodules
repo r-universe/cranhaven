@@ -432,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/trampoline
 	subdir = trampoline
-[submodule "tranSurv"]
-	path = tranSurv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tranSurv
-	subdir = tranSurv
 [submodule "translated"]
 	path = translated
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
