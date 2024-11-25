@@ -97,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MXM
 	subdir = MXM
+[submodule "MetaLonDA"]
+	path = MetaLonDA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MetaLonDA
+	subdir = MetaLonDA
 [submodule "OmopViewer"]
 	path = OmopViewer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,6 +217,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/depmix
 	subdir = depmix
+[submodule "dietr"]
+	path = dietr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dietr
+	subdir = dietr
+[submodule "diffudist"]
+	path = diffudist
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/diffudist
+	subdir = diffudist
 [submodule "elrm"]
 	path = elrm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geoidep
 	subdir = geoidep
+[submodule "ggpicrust2"]
+	path = ggpicrust2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ggpicrust2
+	subdir = ggpicrust2
 [submodule "good"]
 	path = good
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
