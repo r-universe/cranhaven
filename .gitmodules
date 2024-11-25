@@ -202,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cpp11tesseract
 	subdir = cpp11tesseract
+[submodule "cycleRtools"]
+	path = cycleRtools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cycleRtools
+	subdir = cycleRtools
 [submodule "datacutr"]
 	path = datacutr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,6 +232,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/diffudist
 	subdir = diffudist
+[submodule "edmcr"]
+	path = edmcr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/edmcr
+	subdir = edmcr
 [submodule "elrm"]
 	path = elrm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,6 +422,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rngSetSeed
 	subdir = rngSetSeed
+[submodule "sdpt3r"]
+	path = sdpt3r
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sdpt3r
+	subdir = sdpt3r
 [submodule "sgapi"]
 	path = sgapi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
