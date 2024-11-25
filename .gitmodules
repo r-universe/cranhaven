@@ -347,11 +347,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/neuronorm
 	subdir = neuronorm
-[submodule "oglcnac"]
-	path = oglcnac
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/oglcnac
-	subdir = oglcnac
 [submodule "orcutt"]
 	path = orcutt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
