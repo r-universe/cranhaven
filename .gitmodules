@@ -412,6 +412,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rdss
 	subdir = rdss
+[submodule "rgeoboundaries"]
+	path = rgeoboundaries
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rgeoboundaries
+	subdir = rgeoboundaries
 [submodule "rgeoda"]
 	path = rgeoda
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,6 +432,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sdpt3r
 	subdir = sdpt3r
+[submodule "serocalculator"]
+	path = serocalculator
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/serocalculator
+	subdir = serocalculator
 [submodule "sgapi"]
 	path = sgapi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
