@@ -112,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PRISMAstatement
 	subdir = PRISMAstatement
+[submodule "PlaneGeometry"]
+	path = PlaneGeometry
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PlaneGeometry
+	subdir = PlaneGeometry
 [submodule "RAFS"]
 	path = RAFS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -442,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sgapi
 	subdir = sgapi
+[submodule "soilassessment"]
+	path = soilassessment
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/soilassessment
+	subdir = soilassessment
 [submodule "spNetwork"]
 	path = spNetwork
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
