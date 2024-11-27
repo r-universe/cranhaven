@@ -352,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/neuronorm
 	subdir = neuronorm
+[submodule "nhanesA"]
+	path = nhanesA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nhanesA
+	subdir = nhanesA
 [submodule "orcutt"]
 	path = orcutt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
