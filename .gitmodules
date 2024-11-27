@@ -162,11 +162,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Thermistor
 	subdir = Thermistor
-[submodule "Vdgraph"]
-	path = Vdgraph
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Vdgraph
-	subdir = Vdgraph
 [submodule "WpProj"]
 	path = WpProj
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,11 +237,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/edmcr
 	subdir = edmcr
-[submodule "elrm"]
-	path = elrm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/elrm
-	subdir = elrm
 [submodule "enrichR"]
 	path = enrichR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -407,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pwrFDR
 	subdir = pwrFDR
-[submodule "raybevel"]
-	path = raybevel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/raybevel
-	subdir = raybevel
 [submodule "rdss"]
 	path = rdss
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,16 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/soilassessment
 	subdir = soilassessment
-[submodule "spNetwork"]
-	path = spNetwork
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spNetwork
-	subdir = spNetwork
-[submodule "sphereTessellation"]
-	path = sphereTessellation
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sphereTessellation
-	subdir = sphereTessellation
 [submodule "spqdep"]
 	path = spqdep
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
