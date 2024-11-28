@@ -52,6 +52,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FLLat
 	subdir = FLLat
+[submodule "GPIC"]
+	path = GPIC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GPIC
+	subdir = GPIC
 [submodule "GUIDE"]
 	path = GUIDE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
