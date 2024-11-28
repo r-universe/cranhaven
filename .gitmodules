@@ -102,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetaLonDA
 	subdir = MetaLonDA
-[submodule "OmopViewer"]
-	path = OmopViewer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/OmopViewer
-	subdir = OmopViewer
 [submodule "PRISMAstatement"]
 	path = PRISMAstatement
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
