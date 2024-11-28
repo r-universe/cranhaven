@@ -407,11 +407,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rgeoboundaries
 	subdir = rgeoboundaries
-[submodule "rgeoda"]
-	path = rgeoda
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rgeoda
-	subdir = rgeoda
 [submodule "rngSetSeed"]
 	path = rngSetSeed
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/soilassessment
 	subdir = soilassessment
-[submodule "spqdep"]
-	path = spqdep
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spqdep
-	subdir = spqdep
 [submodule "stochvolTMB"]
 	path = stochvolTMB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
