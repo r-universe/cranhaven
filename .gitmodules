@@ -312,11 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/infoelectoral
 	subdir = infoelectoral
-[submodule "interpret"]
-	path = interpret
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/interpret
-	subdir = interpret
 [submodule "kdpee"]
 	path = kdpee
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
