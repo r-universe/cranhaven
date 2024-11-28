@@ -387,11 +387,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pmlbr
 	subdir = pmlbr
-[submodule "preferably"]
-	path = preferably
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/preferably
-	subdir = preferably
 [submodule "pwrFDR"]
 	path = pwrFDR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
