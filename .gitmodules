@@ -392,21 +392,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pwrFDR
 	subdir = pwrFDR
-[submodule "rdss"]
-	path = rdss
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rdss
-	subdir = rdss
 [submodule "rgeoboundaries"]
 	path = rgeoboundaries
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rgeoboundaries
 	subdir = rgeoboundaries
-[submodule "rngSetSeed"]
-	path = rngSetSeed
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rngSetSeed
-	subdir = rngSetSeed
 [submodule "sdpt3r"]
 	path = sdpt3r
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,11 +427,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/topmodel
 	subdir = topmodel
-[submodule "trampoline"]
-	path = trampoline
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/trampoline
-	subdir = trampoline
 [submodule "translated"]
 	path = translated
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
