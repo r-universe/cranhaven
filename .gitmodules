@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BBSSL
 	subdir = BBSSL
-[submodule "BENMMI"]
-	path = BENMMI
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BENMMI
-	subdir = BENMMI
 [submodule "CRF"]
 	path = CRF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
