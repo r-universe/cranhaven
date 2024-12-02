@@ -362,11 +362,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/orcutt
 	subdir = orcutt
-[submodule "orthGS"]
-	path = orthGS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/orthGS
-	subdir = orthGS
 [submodule "params"]
 	path = params
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
