@@ -172,6 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/approxOT
 	subdir = approxOT
+[submodule "atime"]
+	path = atime
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/atime
+	subdir = atime
 [submodule "autoGO"]
 	path = autoGO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,6 +332,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/metaumbrella
 	subdir = metaumbrella
+[submodule "multiDoE"]
+	path = multiDoE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/multiDoE
+	subdir = multiDoE
 [submodule "mverse"]
 	path = mverse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
