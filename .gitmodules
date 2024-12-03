@@ -397,6 +397,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/physiology
 	subdir = physiology
+[submodule "pkgmaker"]
+	path = pkgmaker
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pkgmaker
+	subdir = pkgmaker
 [submodule "plantecowrap"]
 	path = plantecowrap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
