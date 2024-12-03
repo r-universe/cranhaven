@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FLLat
 	subdir = FLLat
+[submodule "FuzzyStatTraEOO"]
+	path = FuzzyStatTraEOO
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FuzzyStatTraEOO
+	subdir = FuzzyStatTraEOO
 [submodule "GPIC"]
 	path = GPIC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Thermistor
 	subdir = Thermistor
+[submodule "W4MRUtils"]
+	path = W4MRUtils
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/W4MRUtils
+	subdir = W4MRUtils
 [submodule "WpProj"]
 	path = WpProj
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/algaeClassify
 	subdir = algaeClassify
+[submodule "aphylo"]
+	path = aphylo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/aphylo
+	subdir = aphylo
 [submodule "approxOT"]
 	path = approxOT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autoGO
 	subdir = autoGO
+[submodule "bayesGAM"]
+	path = bayesGAM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bayesGAM
+	subdir = bayesGAM
 [submodule "blockTools"]
 	path = blockTools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -277,6 +297,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/good
 	subdir = good
+[submodule "googleCloudRunner"]
+	path = googleCloudRunner
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/googleCloudRunner
+	subdir = googleCloudRunner
 [submodule "hansard"]
 	path = hansard
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,6 +442,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stochvolTMB
 	subdir = stochvolTMB
+[submodule "tidysynth"]
+	path = tidysynth
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tidysynth
+	subdir = tidysynth
 [submodule "topmodel"]
 	path = topmodel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,3 +457,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/translated
 	subdir = translated
+[submodule "wooldridge"]
+	path = wooldridge
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/wooldridge
+	subdir = wooldridge
