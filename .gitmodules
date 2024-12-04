@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CoronaNetR
 	subdir = CoronaNetR
+[submodule "DWLasso"]
+	path = DWLasso
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DWLasso
+	subdir = DWLasso
 [submodule "DynamicGP"]
 	path = DynamicGP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/diffudist
 	subdir = diffudist
+[submodule "dyncomp"]
+	path = dyncomp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dyncomp
+	subdir = dyncomp
 [submodule "edmcr"]
 	path = edmcr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +317,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hansard
 	subdir = hansard
+[submodule "hypersampleplan"]
+	path = hypersampleplan
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hypersampleplan
+	subdir = hypersampleplan
 [submodule "iClusterVB"]
 	path = iClusterVB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,6 +337,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/icrf
 	subdir = icrf
+[submodule "icsw"]
+	path = icsw
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/icsw
+	subdir = icsw
 [submodule "idmodelr"]
 	path = idmodelr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -392,6 +412,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pct
 	subdir = pct
+[submodule "pfa"]
+	path = pfa
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pfa
+	subdir = pfa
 [submodule "physiology"]
 	path = physiology
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
