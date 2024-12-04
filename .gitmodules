@@ -177,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/algaeClassify
 	subdir = algaeClassify
-[submodule "aphylo"]
-	path = aphylo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/aphylo
-	subdir = aphylo
 [submodule "approxOT"]
 	path = approxOT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
