@@ -482,8 +482,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/translated
 	subdir = translated
-[submodule "wooldridge"]
-	path = wooldridge
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wooldridge
-	subdir = wooldridge
