@@ -12,6 +12,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CRF
 	subdir = CRF
+[submodule "ConnectednessApproach"]
+	path = ConnectednessApproach
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ConnectednessApproach
+	subdir = ConnectednessApproach
 [submodule "Corbi"]
 	path = Corbi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/infoelectoral
 	subdir = infoelectoral
+[submodule "kbal"]
+	path = kbal
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/kbal
+	subdir = kbal
 [submodule "kdpee"]
 	path = kdpee
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
