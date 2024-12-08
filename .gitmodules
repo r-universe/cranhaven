@@ -387,11 +387,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multiDoE
 	subdir = multiDoE
-[submodule "neurocInstall"]
-	path = neurocInstall
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/neurocInstall
-	subdir = neurocInstall
 [submodule "neuronorm"]
 	path = neuronorm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
