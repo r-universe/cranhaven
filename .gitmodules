@@ -192,21 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/approxOT
 	subdir = approxOT
-[submodule "autoGO"]
-	path = autoGO
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/autoGO
-	subdir = autoGO
 [submodule "bayesGAM"]
 	path = bayesGAM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesGAM
 	subdir = bayesGAM
-[submodule "blockTools"]
-	path = blockTools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/blockTools
-	subdir = blockTools
 [submodule "clusterCons"]
 	path = clusterCons
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/datacutr
 	subdir = datacutr
-[submodule "datagovsgR"]
-	path = datagovsgR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/datagovsgR
-	subdir = datagovsgR
 [submodule "depmix"]
 	path = depmix
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/edmcr
 	subdir = edmcr
-[submodule "enrichR"]
-	path = enrichR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/enrichR
-	subdir = enrichR
 [submodule "erboost"]
 	path = erboost
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
