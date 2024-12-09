@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Corbi
 	subdir = Corbi
-[submodule "CoronaNetR"]
-	path = CoronaNetR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CoronaNetR
-	subdir = CoronaNetR
 [submodule "DWLasso"]
 	path = DWLasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetaLonDA
 	subdir = MetaLonDA
-[submodule "PRISMAstatement"]
-	path = PRISMAstatement
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PRISMAstatement
-	subdir = PRISMAstatement
 [submodule "PlaneGeometry"]
 	path = PlaneGeometry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SIPmg
 	subdir = SIPmg
-[submodule "SecDim"]
-	path = SecDim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SecDim
-	subdir = SecDim
 [submodule "TDboost"]
 	path = TDboost
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TOmicsVis
 	subdir = TOmicsVis
-[submodule "Thermistor"]
-	path = Thermistor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Thermistor
-	subdir = Thermistor
 [submodule "W4MRUtils"]
 	path = W4MRUtils
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesGAM
 	subdir = bayesGAM
-[submodule "clusterCons"]
-	path = clusterCons
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clusterCons
-	subdir = clusterCons
 [submodule "compHclust"]
 	path = compHclust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/googleCloudRunner
 	subdir = googleCloudRunner
-[submodule "hansard"]
-	path = hansard
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hansard
-	subdir = hansard
 [submodule "hypersampleplan"]
 	path = hypersampleplan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/icsw
 	subdir = icsw
-[submodule "idmodelr"]
-	path = idmodelr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/idmodelr
-	subdir = idmodelr
 [submodule "infoelectoral"]
 	path = infoelectoral
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,11 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kdpee
 	subdir = kdpee
-[submodule "maraca"]
-	path = maraca
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/maraca
-	subdir = maraca
 [submodule "merlin"]
 	path = merlin
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,21 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multiDoE
 	subdir = multiDoE
-[submodule "neuronorm"]
-	path = neuronorm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/neuronorm
-	subdir = neuronorm
 [submodule "nhanesA"]
 	path = nhanesA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nhanesA
 	subdir = nhanesA
-[submodule "orcutt"]
-	path = orcutt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/orcutt
-	subdir = orcutt
 [submodule "params"]
 	path = params
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,21 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pfa
 	subdir = pfa
-[submodule "physiology"]
-	path = physiology
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/physiology
-	subdir = physiology
 [submodule "pkgmaker"]
 	path = pkgmaker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pkgmaker
 	subdir = pkgmaker
-[submodule "plantecowrap"]
-	path = plantecowrap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/plantecowrap
-	subdir = plantecowrap
 [submodule "pmlbr"]
 	path = pmlbr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
