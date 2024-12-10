@@ -7,21 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BBSSL
 	subdir = BBSSL
-[submodule "CRF"]
-	path = CRF
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CRF
-	subdir = CRF
 [submodule "ConnectednessApproach"]
 	path = ConnectednessApproach
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ConnectednessApproach
 	subdir = ConnectednessApproach
-[submodule "Corbi"]
-	path = Corbi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Corbi
-	subdir = Corbi
 [submodule "DWLasso"]
 	path = DWLasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MBNMAtime
 	subdir = MBNMAtime
-[submodule "MDFS"]
-	path = MDFS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MDFS
-	subdir = MDFS
 [submodule "MOSS"]
 	path = MOSS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PlaneGeometry
 	subdir = PlaneGeometry
-[submodule "RAFS"]
-	path = RAFS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RAFS
-	subdir = RAFS
 [submodule "RPANDA"]
 	path = RPANDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastdigest
 	subdir = fastdigest
-[submodule "faux"]
-	path = faux
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/faux
-	subdir = faux
 [submodule "fedregs"]
 	path = fedregs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/icsw
 	subdir = icsw
-[submodule "infoelectoral"]
-	path = infoelectoral
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/infoelectoral
-	subdir = infoelectoral
 [submodule "kbal"]
 	path = kbal
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kdpee
 	subdir = kdpee
+[submodule "lmap"]
+	path = lmap
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lmap
+	subdir = lmap
 [submodule "merlin"]
 	path = merlin
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
