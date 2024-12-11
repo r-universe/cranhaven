@@ -32,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EDMeasure
 	subdir = EDMeasure
-[submodule "EurosarcBayes"]
-	path = EurosarcBayes
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EurosarcBayes
-	subdir = EurosarcBayes
 [submodule "FLLat"]
 	path = FLLat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -52,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GPIC
 	subdir = GPIC
-[submodule "GUIDE"]
-	path = GUIDE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GUIDE
-	subdir = GUIDE
 [submodule "HTSSIP"]
 	path = HTSSIP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MBNMAtime
 	subdir = MBNMAtime
-[submodule "MOSS"]
-	path = MOSS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MOSS
-	subdir = MOSS
 [submodule "MXM"]
 	path = MXM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
