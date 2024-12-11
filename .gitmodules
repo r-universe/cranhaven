@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/compHclust
 	subdir = compHclust
-[submodule "cpp11tesseract"]
-	path = cpp11tesseract
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cpp11tesseract
-	subdir = cpp11tesseract
 [submodule "cycleRtools"]
 	path = cycleRtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
