@@ -52,11 +52,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HTSSIP
 	subdir = HTSSIP
-[submodule "IRISMustangMetrics"]
-	path = IRISMustangMetrics
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/IRISMustangMetrics
-	subdir = IRISMustangMetrics
 [submodule "MBNMAdose"]
 	path = MBNMAdose
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kdpee
 	subdir = kdpee
-[submodule "lmap"]
-	path = lmap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lmap
-	subdir = lmap
 [submodule "merlin"]
 	path = merlin
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
