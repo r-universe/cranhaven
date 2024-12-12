@@ -257,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/metaumbrella
 	subdir = metaumbrella
+[submodule "minimapR"]
+	path = minimapR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/minimapR
+	subdir = minimapR
 [submodule "multiDoE"]
 	path = multiDoE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,6 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/soilassessment
 	subdir = soilassessment
+[submodule "srlTS"]
+	path = srlTS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/srlTS
+	subdir = srlTS
 [submodule "stochvolTMB"]
 	path = stochvolTMB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
