@@ -197,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fedregs
 	subdir = fedregs
-[submodule "flowr"]
-	path = flowr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/flowr
-	subdir = flowr
 [submodule "genular"]
 	path = genular
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggpicrust2
 	subdir = ggpicrust2
-[submodule "good"]
-	path = good
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/good
-	subdir = good
 [submodule "googleCloudRunner"]
 	path = googleCloudRunner
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -282,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nhanesA
 	subdir = nhanesA
-[submodule "params"]
-	path = params
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/params
-	subdir = params
 [submodule "pct"]
 	path = pct
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -362,8 +347,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/topmodel
 	subdir = topmodel
-[submodule "translated"]
-	path = translated
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/translated
-	subdir = translated
