@@ -72,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetaLonDA
 	subdir = MetaLonDA
+[submodule "PSGD"]
+	path = PSGD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PSGD
+	subdir = PSGD
 [submodule "PlaneGeometry"]
 	path = PlaneGeometry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/erboost
 	subdir = erboost
+[submodule "erfe"]
+	path = erfe
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/erfe
+	subdir = erfe
 [submodule "fastdigest"]
 	path = fastdigest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,6 +342,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/srlTS
 	subdir = srlTS
+[submodule "stepSplitReg"]
+	path = stepSplitReg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/stepSplitReg
+	subdir = stepSplitReg
 [submodule "stochvolTMB"]
 	path = stochvolTMB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
