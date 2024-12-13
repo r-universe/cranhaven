@@ -62,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MBNMAtime
 	subdir = MBNMAtime
+[submodule "MRG"]
+	path = MRG
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MRG
+	subdir = MRG
 [submodule "MXM"]
 	path = MXM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
