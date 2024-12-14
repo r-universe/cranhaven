@@ -112,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TDboost
 	subdir = TDboost
-[submodule "TOmicsVis"]
-	path = TOmicsVis
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TOmicsVis
-	subdir = TOmicsVis
 [submodule "W4MRUtils"]
 	path = W4MRUtils
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
