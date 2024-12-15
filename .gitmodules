@@ -197,6 +197,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fedregs
 	subdir = fedregs
+[submodule "forestdata"]
+	path = forestdata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/forestdata
+	subdir = forestdata
 [submodule "genular"]
 	path = genular
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
