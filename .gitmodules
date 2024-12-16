@@ -2,41 +2,21 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "BBSSL"]
-	path = BBSSL
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BBSSL
-	subdir = BBSSL
 [submodule "ConnectednessApproach"]
 	path = ConnectednessApproach
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ConnectednessApproach
 	subdir = ConnectednessApproach
+[submodule "CopernicusMarine"]
+	path = CopernicusMarine
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CopernicusMarine
+	subdir = CopernicusMarine
 [submodule "DWLasso"]
 	path = DWLasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DWLasso
 	subdir = DWLasso
-[submodule "DynamicGP"]
-	path = DynamicGP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DynamicGP
-	subdir = DynamicGP
-[submodule "EBglmnet"]
-	path = EBglmnet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EBglmnet
-	subdir = EBglmnet
-[submodule "EDMeasure"]
-	path = EDMeasure
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EDMeasure
-	subdir = EDMeasure
-[submodule "FLLat"]
-	path = FLLat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FLLat
-	subdir = FLLat
 [submodule "FuzzyStatTraEOO"]
 	path = FuzzyStatTraEOO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,51 +77,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ResearchAssociate
 	subdir = ResearchAssociate
-[submodule "Rgb"]
-	path = Rgb
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Rgb
-	subdir = Rgb
 [submodule "SIPmg"]
 	path = SIPmg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SIPmg
 	subdir = SIPmg
-[submodule "TDboost"]
-	path = TDboost
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TDboost
-	subdir = TDboost
 [submodule "W4MRUtils"]
 	path = W4MRUtils
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/W4MRUtils
 	subdir = W4MRUtils
-[submodule "WpProj"]
-	path = WpProj
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/WpProj
-	subdir = WpProj
 [submodule "algaeClassify"]
 	path = algaeClassify
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/algaeClassify
 	subdir = algaeClassify
-[submodule "approxOT"]
-	path = approxOT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/approxOT
-	subdir = approxOT
 [submodule "bayesGAM"]
 	path = bayesGAM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesGAM
 	subdir = bayesGAM
-[submodule "compHclust"]
-	path = compHclust
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/compHclust
-	subdir = compHclust
 [submodule "cycleRtools"]
 	path = cycleRtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/datacutr
 	subdir = datacutr
-[submodule "depmix"]
-	path = depmix
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/depmix
-	subdir = depmix
 [submodule "dietr"]
 	path = dietr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,21 +127,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/edmcr
 	subdir = edmcr
-[submodule "erboost"]
-	path = erboost
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/erboost
-	subdir = erboost
 [submodule "erfe"]
 	path = erfe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/erfe
 	subdir = erfe
-[submodule "fastdigest"]
-	path = fastdigest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fastdigest
-	subdir = fastdigest
 [submodule "fedregs"]
 	path = fedregs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,16 +167,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hypersampleplan
 	subdir = hypersampleplan
-[submodule "iRafNet"]
-	path = iRafNet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/iRafNet
-	subdir = iRafNet
-[submodule "icrf"]
-	path = icrf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/icrf
-	subdir = icrf
 [submodule "icsw"]
 	path = icsw
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kbal
 	subdir = kbal
-[submodule "kdpee"]
-	path = kdpee
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/kdpee
-	subdir = kdpee
 [submodule "merlin"]
 	path = merlin
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pfa
 	subdir = pfa
+[submodule "phyloclim"]
+	path = phyloclim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/phyloclim
+	subdir = phyloclim
 [submodule "pkgmaker"]
 	path = pkgmaker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pmlbr
 	subdir = pmlbr
-[submodule "pwrFDR"]
-	path = pwrFDR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pwrFDR
-	subdir = pwrFDR
 [submodule "rgeoboundaries"]
 	path = rgeoboundaries
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,18 +262,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stepSplitReg
 	subdir = stepSplitReg
-[submodule "stochvolTMB"]
-	path = stochvolTMB
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/stochvolTMB
-	subdir = stochvolTMB
 [submodule "tidysynth"]
 	path = tidysynth
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidysynth
 	subdir = tidysynth
-[submodule "topmodel"]
-	path = topmodel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/topmodel
-	subdir = topmodel
