@@ -107,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/datacutr
 	subdir = datacutr
+[submodule "desk"]
+	path = desk
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/desk
+	subdir = desk
 [submodule "dietr"]
 	path = dietr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
