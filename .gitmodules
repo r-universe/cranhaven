@@ -57,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetaLonDA
 	subdir = MetaLonDA
-[submodule "PSGD"]
-	path = PSGD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PSGD
-	subdir = PSGD
 [submodule "PlaneGeometry"]
 	path = PlaneGeometry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,11 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/srlTS
 	subdir = srlTS
-[submodule "stepSplitReg"]
-	path = stepSplitReg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/stepSplitReg
-	subdir = stepSplitReg
 [submodule "tidysynth"]
 	path = tidysynth
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
