@@ -177,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/icsw
 	subdir = icsw
+[submodule "ivdesc"]
+	path = ivdesc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ivdesc
+	subdir = ivdesc
 [submodule "kbal"]
 	path = kbal
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
