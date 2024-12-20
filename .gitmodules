@@ -102,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cycleRtools
 	subdir = cycleRtools
-[submodule "desk"]
-	path = desk
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/desk
-	subdir = desk
 [submodule "dietr"]
 	path = dietr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
