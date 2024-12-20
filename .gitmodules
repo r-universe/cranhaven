@@ -12,6 +12,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CopernicusMarine
 	subdir = CopernicusMarine
+[submodule "DBCVindex"]
+	path = DBCVindex
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DBCVindex
+	subdir = DBCVindex
 [submodule "DWLasso"]
 	path = DWLasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
