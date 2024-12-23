@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ConnectednessApproach
 	subdir = ConnectednessApproach
-[submodule "CopernicusMarine"]
-	path = CopernicusMarine
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CopernicusMarine
-	subdir = CopernicusMarine
 [submodule "DBCVindex"]
 	path = DBCVindex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
