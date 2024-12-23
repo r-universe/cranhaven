@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GPIC
 	subdir = GPIC
-[submodule "HTSSIP"]
-	path = HTSSIP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HTSSIP
-	subdir = HTSSIP
 [submodule "MBNMAdose"]
 	path = MBNMAdose
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -72,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ResearchAssociate
 	subdir = ResearchAssociate
-[submodule "SIPmg"]
-	path = SIPmg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SIPmg
-	subdir = SIPmg
 [submodule "W4MRUtils"]
 	path = W4MRUtils
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nhanesA
 	subdir = nhanesA
-[submodule "pct"]
-	path = pct
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pct
-	subdir = pct
 [submodule "pfa"]
 	path = pfa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pkgmaker
 	subdir = pkgmaker
-[submodule "pmlbr"]
-	path = pmlbr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pmlbr
-	subdir = pmlbr
 [submodule "rgeoboundaries"]
 	path = rgeoboundaries
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
