@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MRG
 	subdir = MRG
-[submodule "MXM"]
-	path = MXM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MXM
-	subdir = MXM
 [submodule "MetaLonDA"]
 	path = MetaLonDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -72,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/W4MRUtils
 	subdir = W4MRUtils
-[submodule "algaeClassify"]
-	path = algaeClassify
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/algaeClassify
-	subdir = algaeClassify
 [submodule "bayesGAM"]
 	path = bayesGAM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/merlin
 	subdir = merlin
-[submodule "metaumbrella"]
-	path = metaumbrella
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/metaumbrella
-	subdir = metaumbrella
 [submodule "minimapR"]
 	path = minimapR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/serocalculator
 	subdir = serocalculator
-[submodule "sgapi"]
-	path = sgapi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sgapi
-	subdir = sgapi
 [submodule "soilassessment"]
 	path = soilassessment
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
