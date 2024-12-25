@@ -47,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RPANDA
 	subdir = RPANDA
-[submodule "ResearchAssociate"]
-	path = ResearchAssociate
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ResearchAssociate
-	subdir = ResearchAssociate
 [submodule "W4MRUtils"]
 	path = W4MRUtils
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
