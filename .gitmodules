@@ -27,16 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GPIC
 	subdir = GPIC
-[submodule "MBNMAdose"]
-	path = MBNMAdose
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MBNMAdose
-	subdir = MBNMAdose
-[submodule "MBNMAtime"]
-	path = MBNMAtime
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MBNMAtime
-	subdir = MBNMAtime
 [submodule "MRG"]
 	path = MRG
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
