@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/erfe
 	subdir = erfe
-[submodule "fedregs"]
-	path = fedregs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fedregs
-	subdir = fedregs
 [submodule "forestdata"]
 	path = forestdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
