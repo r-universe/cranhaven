@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kbal
 	subdir = kbal
-[submodule "merlin"]
-	path = merlin
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/merlin
-	subdir = merlin
 [submodule "minimapR"]
 	path = minimapR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
