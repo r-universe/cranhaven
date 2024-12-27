@@ -162,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pkgmaker
 	subdir = pkgmaker
+[submodule "qVarSel"]
+	path = qVarSel
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qVarSel
+	subdir = qVarSel
 [submodule "rgeoboundaries"]
 	path = rgeoboundaries
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
