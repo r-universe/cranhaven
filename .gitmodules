@@ -97,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/genular
 	subdir = genular
-[submodule "geoidep"]
-	path = geoidep
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/geoidep
-	subdir = geoidep
 [submodule "ggpicrust2"]
 	path = ggpicrust2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
