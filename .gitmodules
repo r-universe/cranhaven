@@ -32,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MRG
 	subdir = MRG
-[submodule "MetaLonDA"]
-	path = MetaLonDA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MetaLonDA
-	subdir = MetaLonDA
 [submodule "PlaneGeometry"]
 	path = PlaneGeometry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,16 +52,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cycleRtools
 	subdir = cycleRtools
-[submodule "dietr"]
-	path = dietr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dietr
-	subdir = dietr
-[submodule "diffudist"]
-	path = diffudist
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/diffudist
-	subdir = diffudist
 [submodule "dyncomp"]
 	path = dyncomp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,11 +77,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/genular
 	subdir = genular
-[submodule "ggpicrust2"]
-	path = ggpicrust2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ggpicrust2
-	subdir = ggpicrust2
 [submodule "googleCloudRunner"]
 	path = googleCloudRunner
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
