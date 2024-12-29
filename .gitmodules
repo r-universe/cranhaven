@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PlaneGeometry
 	subdir = PlaneGeometry
-[submodule "RPANDA"]
-	path = RPANDA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RPANDA
-	subdir = RPANDA
 [submodule "W4MRUtils"]
 	path = W4MRUtils
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
