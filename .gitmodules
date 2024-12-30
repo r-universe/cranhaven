@@ -32,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MRG
 	subdir = MRG
-[submodule "PlaneGeometry"]
-	path = PlaneGeometry
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PlaneGeometry
-	subdir = PlaneGeometry
 [submodule "W4MRUtils"]
 	path = W4MRUtils
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,21 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesGAM
 	subdir = bayesGAM
-[submodule "cycleRtools"]
-	path = cycleRtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cycleRtools
-	subdir = cycleRtools
 [submodule "dyncomp"]
 	path = dyncomp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dyncomp
 	subdir = dyncomp
-[submodule "edmcr"]
-	path = edmcr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/edmcr
-	subdir = edmcr
 [submodule "erfe"]
 	path = erfe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,21 +127,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rgeoboundaries
 	subdir = rgeoboundaries
-[submodule "sdpt3r"]
-	path = sdpt3r
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sdpt3r
-	subdir = sdpt3r
 [submodule "serocalculator"]
 	path = serocalculator
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/serocalculator
 	subdir = serocalculator
-[submodule "soilassessment"]
-	path = soilassessment
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/soilassessment
-	subdir = soilassessment
 [submodule "srlTS"]
 	path = srlTS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
