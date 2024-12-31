@@ -122,16 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qVarSel
 	subdir = qVarSel
-[submodule "rgeoboundaries"]
-	path = rgeoboundaries
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rgeoboundaries
-	subdir = rgeoboundaries
-[submodule "serocalculator"]
-	path = serocalculator
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/serocalculator
-	subdir = serocalculator
 [submodule "srlTS"]
 	path = srlTS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
