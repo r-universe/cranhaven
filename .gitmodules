@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FuzzyStatTraEOO
 	subdir = FuzzyStatTraEOO
-[submodule "GPIC"]
-	path = GPIC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GPIC
-	subdir = GPIC
 [submodule "MRG"]
 	path = MRG
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
