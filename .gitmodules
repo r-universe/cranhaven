@@ -1,5 +1,79 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "DBCVindex"]
+	path = DBCVindex
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DBCVindex
+	subdir = DBCVindex
+[submodule "GiNA"]
+	path = GiNA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GiNA
+	subdir = GiNA
+[submodule "MFSIS"]
+	path = MFSIS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MFSIS
+	subdir = MFSIS
+[submodule "MRG"]
+	path = MRG
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MRG
+	subdir = MRG
+[submodule "OptimalGoldstandardDesigns"]
+	path = OptimalGoldstandardDesigns
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/OptimalGoldstandardDesigns
+	subdir = OptimalGoldstandardDesigns
+[submodule "SurvMetrics"]
+	path = SurvMetrics
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SurvMetrics
+	subdir = SurvMetrics
+[submodule "binaryMM"]
+	path = binaryMM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/binaryMM
+	subdir = binaryMM
+[submodule "erfe"]
+	path = erfe
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/erfe
+	subdir = erfe
+[submodule "forestdata"]
+	path = forestdata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/forestdata
+	subdir = forestdata
+[submodule "ivdesc"]
+	path = ivdesc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ivdesc
+	subdir = ivdesc
+[submodule "minimapR"]
+	path = minimapR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/minimapR
+	subdir = minimapR
+[submodule "phyloclim"]
+	path = phyloclim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/phyloclim
+	subdir = phyloclim
+[submodule "qVarSel"]
+	path = qVarSel
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qVarSel
+	subdir = qVarSel
+[submodule "rmi"]
+	path = rmi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rmi
+	subdir = rmi
+[submodule "srlTS"]
+	path = srlTS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/srlTS
+	subdir = srlTS
