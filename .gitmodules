@@ -12,11 +12,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CauchyCP
 	subdir = CauchyCP
+[submodule "CoFRA"]
+	path = CoFRA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CoFRA
+	subdir = CoFRA
 [submodule "DBCVindex"]
 	path = DBCVindex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DBCVindex
 	subdir = DBCVindex
+[submodule "DNH4"]
+	path = DNH4
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DNH4
+	subdir = DNH4
 [submodule "EmbedSOM"]
 	path = EmbedSOM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -32,6 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IP
 	subdir = IP
+[submodule "KaradaColor"]
+	path = KaradaColor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/KaradaColor
+	subdir = KaradaColor
 [submodule "LTRCforests"]
 	path = LTRCforests
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/copulaedas
 	subdir = copulaedas
+[submodule "covid19brazil"]
+	path = covid19brazil
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/covid19brazil
+	subdir = covid19brazil
 [submodule "dartR"]
 	path = dartR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/depower
 	subdir = depower
+[submodule "dimRed"]
+	path = dimRed
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dimRed
+	subdir = dimRed
 [submodule "erfe"]
 	path = erfe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,11 +122,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fedmatch
 	subdir = fedmatch
+[submodule "fluxfinder"]
+	path = fluxfinder
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fluxfinder
+	subdir = fluxfinder
 [submodule "forestdata"]
 	path = forestdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forestdata
 	subdir = forestdata
+[submodule "htmldf"]
+	path = htmldf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/htmldf
+	subdir = htmldf
 [submodule "ivdesc"]
 	path = ivdesc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qVarSel
 	subdir = qVarSel
+[submodule "quickPWCR"]
+	path = quickPWCR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/quickPWCR
+	subdir = quickPWCR
 [submodule "readxlsb"]
 	path = readxlsb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,6 +197,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rmi
 	subdir = rmi
+[submodule "rticulate"]
+	path = rticulate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rticulate
+	subdir = rticulate
+[submodule "smoothAPC"]
+	path = smoothAPC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/smoothAPC
+	subdir = smoothAPC
 [submodule "srlTS"]
 	path = srlTS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,8 +217,23 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stopdetection
 	subdir = stopdetection
+[submodule "streetscape"]
+	path = streetscape
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/streetscape
+	subdir = streetscape
+[submodule "tidymv"]
+	path = tidymv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tidymv
+	subdir = tidymv
 [submodule "vines"]
 	path = vines
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vines
 	subdir = vines
+[submodule "zerotradeflow"]
+	path = zerotradeflow
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/zerotradeflow
+	subdir = zerotradeflow
