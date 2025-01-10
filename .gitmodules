@@ -2,16 +2,41 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "AssetAllocation"]
+	path = AssetAllocation
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AssetAllocation
+	subdir = AssetAllocation
+[submodule "CauchyCP"]
+	path = CauchyCP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CauchyCP
+	subdir = CauchyCP
 [submodule "DBCVindex"]
 	path = DBCVindex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DBCVindex
 	subdir = DBCVindex
+[submodule "EmbedSOM"]
+	path = EmbedSOM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EmbedSOM
+	subdir = EmbedSOM
 [submodule "GiNA"]
 	path = GiNA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GiNA
 	subdir = GiNA
+[submodule "IP"]
+	path = IP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/IP
+	subdir = IP
+[submodule "LTRCforests"]
+	path = LTRCforests
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LTRCforests
+	subdir = LTRCforests
 [submodule "MFSIS"]
 	path = MFSIS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -27,21 +52,51 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OptimalGoldstandardDesigns
 	subdir = OptimalGoldstandardDesigns
+[submodule "RFpredInterval"]
+	path = RFpredInterval
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RFpredInterval
+	subdir = RFpredInterval
 [submodule "SurvMetrics"]
 	path = SurvMetrics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SurvMetrics
 	subdir = SurvMetrics
+[submodule "aPEAR"]
+	path = aPEAR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/aPEAR
+	subdir = aPEAR
 [submodule "binaryMM"]
 	path = binaryMM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/binaryMM
 	subdir = binaryMM
+[submodule "copulaedas"]
+	path = copulaedas
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/copulaedas
+	subdir = copulaedas
+[submodule "dartR"]
+	path = dartR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dartR
+	subdir = dartR
+[submodule "depower"]
+	path = depower
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/depower
+	subdir = depower
 [submodule "erfe"]
 	path = erfe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/erfe
 	subdir = erfe
+[submodule "fedmatch"]
+	path = fedmatch
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fedmatch
+	subdir = fedmatch
 [submodule "forestdata"]
 	path = forestdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,6 +112,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/minimapR
 	subdir = minimapR
+[submodule "msBP"]
+	path = msBP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/msBP
+	subdir = msBP
+[submodule "optpart"]
+	path = optpart
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/optpart
+	subdir = optpart
 [submodule "phyloclim"]
 	path = phyloclim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,6 +132,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qVarSel
 	subdir = qVarSel
+[submodule "readxlsb"]
+	path = readxlsb
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/readxlsb
+	subdir = readxlsb
+[submodule "rego"]
+	path = rego
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rego
+	subdir = rego
+[submodule "rineq"]
+	path = rineq
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rineq
+	subdir = rineq
+[submodule "rlibkriging"]
+	path = rlibkriging
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rlibkriging
+	subdir = rlibkriging
 [submodule "rmi"]
 	path = rmi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,3 +162,13 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/srlTS
 	subdir = srlTS
+[submodule "stopdetection"]
+	path = stopdetection
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/stopdetection
+	subdir = stopdetection
+[submodule "vines"]
+	path = vines
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vines
+	subdir = vines
