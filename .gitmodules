@@ -112,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dimRed
 	subdir = dimRed
+[submodule "epiCo"]
+	path = epiCo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/epiCo
+	subdir = epiCo
 [submodule "erfe"]
 	path = erfe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
