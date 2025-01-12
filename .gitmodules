@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DBCVindex
 	subdir = DBCVindex
+[submodule "DBpower"]
+	path = DBpower
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DBpower
+	subdir = DBpower
 [submodule "DNH4"]
 	path = DNH4
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,11 +72,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OptimalGoldstandardDesigns
 	subdir = OptimalGoldstandardDesigns
+[submodule "PVplr"]
+	path = PVplr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PVplr
+	subdir = PVplr
 [submodule "RFpredInterval"]
 	path = RFpredInterval
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RFpredInterval
 	subdir = RFpredInterval
+[submodule "SNPfiltR"]
+	path = SNPfiltR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SNPfiltR
+	subdir = SNPfiltR
+[submodule "STGS"]
+	path = STGS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/STGS
+	subdir = STGS
 [submodule "SurvMetrics"]
 	path = SurvMetrics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dimRed
 	subdir = dimRed
+[submodule "ecdata"]
+	path = ecdata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ecdata
+	subdir = ecdata
 [submodule "epiCo"]
 	path = epiCo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
