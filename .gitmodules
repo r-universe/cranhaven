@@ -227,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qVarSel
 	subdir = qVarSel
-[submodule "quickPWCR"]
-	path = quickPWCR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/quickPWCR
-	subdir = quickPWCR
 [submodule "readxlsb"]
 	path = readxlsb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
