@@ -237,11 +237,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rego
 	subdir = rego
-[submodule "rineq"]
-	path = rineq
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rineq
-	subdir = rineq
 [submodule "rlibkriging"]
 	path = rlibkriging
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
