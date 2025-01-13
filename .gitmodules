@@ -277,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/streetscape
 	subdir = streetscape
+[submodule "suppdata"]
+	path = suppdata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/suppdata
+	subdir = suppdata
 [submodule "tidymv"]
 	path = tidymv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
