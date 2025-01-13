@@ -92,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/STGS
 	subdir = STGS
+[submodule "SlaPMEG"]
+	path = SlaPMEG
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SlaPMEG
+	subdir = SlaPMEG
 [submodule "SurvMetrics"]
 	path = SurvMetrics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
