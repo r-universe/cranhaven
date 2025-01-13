@@ -137,6 +137,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ecdata
 	subdir = ecdata
+[submodule "enviGCMS"]
+	path = enviGCMS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/enviGCMS
+	subdir = enviGCMS
 [submodule "epiCo"]
 	path = epiCo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,6 +167,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forestdata
 	subdir = forestdata
+[submodule "glycanr"]
+	path = glycanr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/glycanr
+	subdir = glycanr
+[submodule "grec"]
+	path = grec
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/grec
+	subdir = grec
 [submodule "htmldf"]
 	path = htmldf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/minimapR
 	subdir = minimapR
+[submodule "mregions2"]
+	path = mregions2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mregions2
+	subdir = mregions2
 [submodule "msBP"]
 	path = msBP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/phyloclim
 	subdir = phyloclim
+[submodule "pmd"]
+	path = pmd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pmd
+	subdir = pmd
 [submodule "qVarSel"]
 	path = qVarSel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
