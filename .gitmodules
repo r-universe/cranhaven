@@ -272,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/suppdata
 	subdir = suppdata
+[submodule "tidyfit"]
+	path = tidyfit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tidyfit
+	subdir = tidyfit
 [submodule "tidymv"]
 	path = tidymv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
