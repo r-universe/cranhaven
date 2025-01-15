@@ -212,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/phyloclim
 	subdir = phyloclim
-[submodule "pmd"]
-	path = pmd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pmd
-	subdir = pmd
 [submodule "qVarSel"]
 	path = qVarSel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
