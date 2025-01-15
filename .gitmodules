@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ecdata
 	subdir = ecdata
-[submodule "epiCo"]
-	path = epiCo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/epiCo
-	subdir = epiCo
 [submodule "erfe"]
 	path = erfe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
