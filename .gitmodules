@@ -177,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/grec
 	subdir = grec
+[submodule "hasseDiagram"]
+	path = hasseDiagram
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hasseDiagram
+	subdir = hasseDiagram
 [submodule "htmldf"]
 	path = htmldf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qVarSel
 	subdir = qVarSel
+[submodule "quanteda.textmodels"]
+	path = quanteda.textmodels
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/quanteda.textmodels
+	subdir = quanteda.textmodels
 [submodule "readxlsb"]
 	path = readxlsb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
