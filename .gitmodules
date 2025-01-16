@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ecdata
 	subdir = ecdata
-[submodule "erfe"]
-	path = erfe
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/erfe
-	subdir = erfe
 [submodule "fedmatch"]
 	path = fedmatch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
