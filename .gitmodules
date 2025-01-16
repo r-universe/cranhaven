@@ -187,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ivdesc
 	subdir = ivdesc
-[submodule "minimapR"]
-	path = minimapR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/minimapR
-	subdir = minimapR
 [submodule "mregions2"]
 	path = mregions2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/smoothAPC
 	subdir = smoothAPC
-[submodule "srlTS"]
-	path = srlTS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/srlTS
-	subdir = srlTS
 [submodule "stopdetection"]
 	path = stopdetection
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
