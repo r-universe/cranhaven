@@ -192,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/msBP
 	subdir = msBP
+[submodule "multilaterals"]
+	path = multilaterals
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/multilaterals
+	subdir = multilaterals
 [submodule "optpart"]
 	path = optpart
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidymv
 	subdir = tidymv
+[submodule "timeplyr"]
+	path = timeplyr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/timeplyr
+	subdir = timeplyr
 [submodule "vines"]
 	path = vines
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
