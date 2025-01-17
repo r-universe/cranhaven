@@ -177,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ivdesc
 	subdir = ivdesc
+[submodule "klexdatr"]
+	path = klexdatr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/klexdatr
+	subdir = klexdatr
 [submodule "mregions2"]
 	path = mregions2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/quanteda.textmodels
 	subdir = quanteda.textmodels
+[submodule "readwritesqlite"]
+	path = readwritesqlite
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/readwritesqlite
+	subdir = readwritesqlite
 [submodule "readxlsb"]
 	path = readxlsb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
