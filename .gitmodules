@@ -267,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/timeplyr
 	subdir = timeplyr
+[submodule "unstruwwel"]
+	path = unstruwwel
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/unstruwwel
+	subdir = unstruwwel
 [submodule "vines"]
 	path = vines
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
