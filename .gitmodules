@@ -62,11 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MFSIS
 	subdir = MFSIS
-[submodule "MRG"]
-	path = MRG
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MRG
-	subdir = MRG
 [submodule "OptimalGoldstandardDesigns"]
 	path = OptimalGoldstandardDesigns
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
