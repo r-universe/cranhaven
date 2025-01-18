@@ -17,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CoFRA
 	subdir = CoFRA
+[submodule "CovRegRF"]
+	path = CovRegRF
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CovRegRF
+	subdir = CovRegRF
 [submodule "DBCVindex"]
 	path = DBCVindex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
