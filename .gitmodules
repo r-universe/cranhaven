@@ -42,6 +42,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EmbedSOM
 	subdir = EmbedSOM
+[submodule "FLSSS"]
+	path = FLSSS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FLSSS
+	subdir = FLSSS
+[submodule "FeatureHashing"]
+	path = FeatureHashing
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FeatureHashing
+	subdir = FeatureHashing
 [submodule "GiNA"]
 	path = GiNA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/binaryMM
 	subdir = binaryMM
+[submodule "boostmtree"]
+	path = boostmtree
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/boostmtree
+	subdir = boostmtree
 [submodule "copulaedas"]
 	path = copulaedas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
