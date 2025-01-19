@@ -152,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fluxfinder
 	subdir = fluxfinder
-[submodule "forestdata"]
-	path = forestdata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/forestdata
-	subdir = forestdata
 [submodule "glycanr"]
 	path = glycanr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
