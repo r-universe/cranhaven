@@ -217,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/optpart
 	subdir = optpart
-[submodule "phyloclim"]
-	path = phyloclim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/phyloclim
-	subdir = phyloclim
 [submodule "qVarSel"]
 	path = qVarSel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
