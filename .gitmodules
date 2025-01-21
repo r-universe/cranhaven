@@ -87,6 +87,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PVplr
 	subdir = PVplr
+[submodule "RFCCA"]
+	path = RFCCA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RFCCA
+	subdir = RFCCA
 [submodule "RFpredInterval"]
 	path = RFpredInterval
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
