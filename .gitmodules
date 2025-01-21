@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AssetAllocation
 	subdir = AssetAllocation
+[submodule "BIOMASS"]
+	path = BIOMASS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BIOMASS
+	subdir = BIOMASS
 [submodule "CauchyCP"]
 	path = CauchyCP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fluxfinder
 	subdir = fluxfinder
+[submodule "forestdynR"]
+	path = forestdynR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/forestdynR
+	subdir = forestdynR
 [submodule "glycanr"]
 	path = glycanr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
