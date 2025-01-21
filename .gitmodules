@@ -277,11 +277,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stopdetection
 	subdir = stopdetection
-[submodule "streetscape"]
-	path = streetscape
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/streetscape
-	subdir = streetscape
 [submodule "suppdata"]
 	path = suppdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
