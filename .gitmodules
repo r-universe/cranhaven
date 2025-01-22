@@ -202,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/htmldf
 	subdir = htmldf
-[submodule "ivdesc"]
-	path = ivdesc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ivdesc
-	subdir = ivdesc
 [submodule "klexdatr"]
 	path = klexdatr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
