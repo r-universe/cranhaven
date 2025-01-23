@@ -152,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dartR
 	subdir = dartR
-[submodule "depower"]
-	path = depower
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/depower
-	subdir = depower
 [submodule "dimRed"]
 	path = dimRed
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glycanr
 	subdir = glycanr
-[submodule "grec"]
-	path = grec
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/grec
-	subdir = grec
 [submodule "hasseDiagram"]
 	path = hasseDiagram
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
