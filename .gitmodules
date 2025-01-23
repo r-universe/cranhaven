@@ -212,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multilaterals
 	subdir = multilaterals
+[submodule "nmadb"]
+	path = nmadb
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nmadb
+	subdir = nmadb
 [submodule "optpart"]
 	path = optpart
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
