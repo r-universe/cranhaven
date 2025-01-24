@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EmbedSOM
 	subdir = EmbedSOM
-[submodule "FLSSS"]
-	path = FLSSS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FLSSS
-	subdir = FLSSS
 [submodule "FeatureHashing"]
 	path = FeatureHashing
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
