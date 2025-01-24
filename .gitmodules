@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CovRegRF
 	subdir = CovRegRF
-[submodule "DBCVindex"]
-	path = DBCVindex
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DBCVindex
-	subdir = DBCVindex
 [submodule "DBpower"]
 	path = DBpower
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
