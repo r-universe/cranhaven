@@ -97,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RFpredInterval
 	subdir = RFpredInterval
+[submodule "RegrCoeffsExplorer"]
+	path = RegrCoeffsExplorer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RegrCoeffsExplorer
+	subdir = RegrCoeffsExplorer
 [submodule "SNPfiltR"]
 	path = SNPfiltR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dartR
 	subdir = dartR
+[submodule "dhis2r"]
+	path = dhis2r
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dhis2r
+	subdir = dhis2r
 [submodule "dimRed"]
 	path = dimRed
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
