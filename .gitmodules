@@ -217,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nmadb
 	subdir = nmadb
+[submodule "onemap"]
+	path = onemap
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/onemap
+	subdir = onemap
 [submodule "optpart"]
 	path = optpart
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
