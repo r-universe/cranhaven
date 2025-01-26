@@ -132,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MFSIS
 	subdir = MFSIS
+[submodule "MultAlloc"]
+	path = MultAlloc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MultAlloc
+	subdir = MultAlloc
 [submodule "MultiRR"]
 	path = MultiRR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,6 +417,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stopdetection
 	subdir = stopdetection
+[submodule "stratvns"]
+	path = stratvns
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/stratvns
+	subdir = stratvns
 [submodule "suRtex"]
 	path = suRtex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
