@@ -262,6 +262,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ecdata
 	subdir = ecdata
+[submodule "eulerian"]
+	path = eulerian
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/eulerian
+	subdir = eulerian
+[submodule "fasjem"]
+	path = fasjem
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fasjem
+	subdir = fasjem
 [submodule "fedmatch"]
 	path = fedmatch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/klexdatr
 	subdir = klexdatr
+[submodule "lrmest"]
+	path = lrmest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lrmest
+	subdir = lrmest
 [submodule "mregions2"]
 	path = mregions2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +322,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/msBP
 	subdir = msBP
+[submodule "msgpackR"]
+	path = msgpackR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/msgpackR
+	subdir = msgpackR
 [submodule "multilaterals"]
 	path = multilaterals
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/optpart
 	subdir = optpart
+[submodule "pco"]
+	path = pco
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pco
+	subdir = pco
 [submodule "qVarSel"]
 	path = qVarSel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -362,6 +387,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rflexscan
 	subdir = rflexscan
+[submodule "ridittools"]
+	path = ridittools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ridittools
+	subdir = ridittools
 [submodule "rmi"]
 	path = rmi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,6 +412,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stopdetection
 	subdir = stopdetection
+[submodule "suRtex"]
+	path = suRtex
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/suRtex
+	subdir = suRtex
 [submodule "suppdata"]
 	path = suppdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,11 +437,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/unstruwwel
 	subdir = unstruwwel
+[submodule "vfcp"]
+	path = vfcp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vfcp
+	subdir = vfcp
 [submodule "vines"]
 	path = vines
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vines
 	subdir = vines
+[submodule "wqs"]
+	path = wqs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/wqs
+	subdir = wqs
 [submodule "zerotradeflow"]
 	path = zerotradeflow
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
