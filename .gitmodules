@@ -222,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/onemap
 	subdir = onemap
+[submodule "openmpt"]
+	path = openmpt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/openmpt
+	subdir = openmpt
 [submodule "optpart"]
 	path = optpart
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rego
 	subdir = rego
+[submodule "rflexscan"]
+	path = rflexscan
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rflexscan
+	subdir = rflexscan
 [submodule "rmi"]
 	path = rmi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
