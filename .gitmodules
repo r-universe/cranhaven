@@ -247,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dartR
 	subdir = dartR
+[submodule "databraryr"]
+	path = databraryr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/databraryr
+	subdir = databraryr
 [submodule "dhh"]
 	path = dhh
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
