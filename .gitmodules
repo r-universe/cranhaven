@@ -452,11 +452,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/timeplyr
 	subdir = timeplyr
-[submodule "unstruwwel"]
-	path = unstruwwel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/unstruwwel
-	subdir = unstruwwel
 [submodule "vfcp"]
 	path = vfcp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
