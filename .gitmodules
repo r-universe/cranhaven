@@ -307,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glycanr
 	subdir = glycanr
+[submodule "handwriterRF"]
+	path = handwriterRF
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/handwriterRF
+	subdir = handwriterRF
 [submodule "hasseDiagram"]
 	path = hasseDiagram
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
