@@ -37,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/COCONUT
 	subdir = COCONUT
+[submodule "CRM"]
+	path = CRM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CRM
+	subdir = CRM
 [submodule "CauchyCP"]
 	path = CauchyCP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
