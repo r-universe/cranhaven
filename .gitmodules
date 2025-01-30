@@ -157,6 +157,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OptimalGoldstandardDesigns
 	subdir = OptimalGoldstandardDesigns
+[submodule "PPtreeregViz"]
+	path = PPtreeregViz
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PPtreeregViz
+	subdir = PPtreeregViz
 [submodule "PVplr"]
 	path = PVplr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,6 +422,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rticulate
 	subdir = rticulate
+[submodule "shapr"]
+	path = shapr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/shapr
+	subdir = shapr
 [submodule "smoothAPC"]
 	path = smoothAPC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
