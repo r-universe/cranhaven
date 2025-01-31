@@ -377,11 +377,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pco
 	subdir = pco
-[submodule "qVarSel"]
-	path = qVarSel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qVarSel
-	subdir = qVarSel
 [submodule "quanteda.textmodels"]
 	path = quanteda.textmodels
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
