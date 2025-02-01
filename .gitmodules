@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Dodge
 	subdir = Dodge
-[submodule "EmbedSOM"]
-	path = EmbedSOM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EmbedSOM
-	subdir = EmbedSOM
 [submodule "FeatureHashing"]
 	path = FeatureHashing
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,11 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fasjem
 	subdir = fasjem
-[submodule "fedmatch"]
-	path = fedmatch
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fedmatch
-	subdir = fedmatch
 [submodule "fluxfinder"]
 	path = fluxfinder
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
