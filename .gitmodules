@@ -247,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/boostmtree
 	subdir = boostmtree
+[submodule "ccml"]
+	path = ccml
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ccml
+	subdir = ccml
 [submodule "coil"]
 	path = coil
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,6 +342,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/klexdatr
 	subdir = klexdatr
+[submodule "legion"]
+	path = legion
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/legion
+	subdir = legion
 [submodule "lrmest"]
 	path = lrmest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
