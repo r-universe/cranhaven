@@ -87,6 +87,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Dodge
 	subdir = Dodge
+[submodule "ExpImage"]
+	path = ExpImage
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ExpImage
+	subdir = ExpImage
 [submodule "FeatureHashing"]
 	path = FeatureHashing
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,6 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PVplr
 	subdir = PVplr
+[submodule "PlasmaMutationDetector2"]
+	path = PlasmaMutationDetector2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PlasmaMutationDetector2
+	subdir = PlasmaMutationDetector2
 [submodule "RFCCA"]
 	path = RFCCA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TeachNet
 	subdir = TeachNet
+[submodule "TransProR"]
+	path = TransProR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TransProR
+	subdir = TransProR
 [submodule "aPEAR"]
 	path = aPEAR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/boostmtree
 	subdir = boostmtree
+[submodule "coil"]
+	path = coil
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/coil
+	subdir = coil
 [submodule "copulaedas"]
 	path = copulaedas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dartR
 	subdir = dartR
+[submodule "dartR.captive"]
+	path = dartR.captive
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dartR.captive
+	subdir = dartR.captive
 [submodule "databraryr"]
 	path = databraryr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,11 +362,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multilaterals
 	subdir = multilaterals
+[submodule "nimbleAPT"]
+	path = nimbleAPT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nimbleAPT
+	subdir = nimbleAPT
 [submodule "nmadb"]
 	path = nmadb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nmadb
 	subdir = nmadb
+[submodule "ondisc"]
+	path = ondisc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ondisc
+	subdir = ondisc
 [submodule "onemap"]
 	path = onemap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
