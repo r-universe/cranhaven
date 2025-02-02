@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RPPairwiseDesign
 	subdir = RPPairwiseDesign
-[submodule "RegrCoeffsExplorer"]
-	path = RegrCoeffsExplorer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RegrCoeffsExplorer
-	subdir = RegrCoeffsExplorer
 [submodule "SI"]
 	path = SI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
