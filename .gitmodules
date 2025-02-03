@@ -352,11 +352,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/klexdatr
 	subdir = klexdatr
-[submodule "legion"]
-	path = legion
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/legion
-	subdir = legion
 [submodule "lrmest"]
 	path = lrmest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
