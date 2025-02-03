@@ -257,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/coil
 	subdir = coil
+[submodule "complex"]
+	path = complex
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/complex
+	subdir = complex
 [submodule "copulaedas"]
 	path = copulaedas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
