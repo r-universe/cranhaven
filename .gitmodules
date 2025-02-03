@@ -497,11 +497,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidymv
 	subdir = tidymv
-[submodule "timeplyr"]
-	path = timeplyr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/timeplyr
-	subdir = timeplyr
 [submodule "vfcp"]
 	path = vfcp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
