@@ -217,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SlaPMEG
 	subdir = SlaPMEG
-[submodule "SurvMetrics"]
-	path = SurvMetrics
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SurvMetrics
-	subdir = SurvMetrics
 [submodule "TeachNet"]
 	path = TeachNet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
