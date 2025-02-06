@@ -272,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/covid19brazil
 	subdir = covid19brazil
+[submodule "cppcontainers"]
+	path = cppcontainers
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cppcontainers
+	subdir = cppcontainers
 [submodule "dartR"]
 	path = dartR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
