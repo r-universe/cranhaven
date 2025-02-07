@@ -452,11 +452,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rticulate
 	subdir = rticulate
-[submodule "shapr"]
-	path = shapr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shapr
-	subdir = shapr
 [submodule "sharpshootR"]
 	path = sharpshootR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
