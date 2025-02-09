@@ -97,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FeatureHashing
 	subdir = FeatureHashing
-[submodule "GiNA"]
-	path = GiNA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GiNA
-	subdir = GiNA
 [submodule "IP"]
 	path = IP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LncPath
 	subdir = LncPath
-[submodule "MFSIS"]
-	path = MFSIS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MFSIS
-	subdir = MFSIS
 [submodule "MRS"]
 	path = MRS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/additiveDEA
 	subdir = additiveDEA
-[submodule "binaryMM"]
-	path = binaryMM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/binaryMM
-	subdir = binaryMM
 [submodule "boostmtree"]
 	path = boostmtree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,6 +297,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ecdata
 	subdir = ecdata
+[submodule "elections.dtree"]
+	path = elections.dtree
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/elections.dtree
+	subdir = elections.dtree
 [submodule "epigrowthfit"]
 	path = epigrowthfit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
