@@ -312,6 +312,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ecdata
 	subdir = ecdata
+[submodule "epigrowthfit"]
+	path = epigrowthfit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/epigrowthfit
+	subdir = epigrowthfit
 [submodule "eulerian"]
 	path = eulerian
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,6 +417,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pco
 	subdir = pco
+[submodule "prefio"]
+	path = prefio
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/prefio
+	subdir = prefio
 [submodule "quanteda.textmodels"]
 	path = quanteda.textmodels
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
