@@ -132,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MRS
 	subdir = MRS
+[submodule "MissCP"]
+	path = MissCP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MissCP
+	subdir = MissCP
 [submodule "MultAlloc"]
 	path = MultAlloc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,6 +222,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TransProR
 	subdir = TransProR
+[submodule "VARDetect"]
+	path = VARDetect
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/VARDetect
+	subdir = VARDetect
+[submodule "VARcpDetectOnline"]
+	path = VARcpDetectOnline
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/VARcpDetectOnline
+	subdir = VARcpDetectOnline
 [submodule "aPEAR"]
 	path = aPEAR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,6 +342,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forestdynR
 	subdir = forestdynR
+[submodule "getCRUCLdata"]
+	path = getCRUCLdata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/getCRUCLdata
+	subdir = getCRUCLdata
 [submodule "glycanr"]
 	path = glycanr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -407,6 +427,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pco
 	subdir = pco
+[submodule "picasso"]
+	path = picasso
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/picasso
+	subdir = picasso
 [submodule "prefio"]
 	path = prefio
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -457,6 +482,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/smoothAPC
 	subdir = smoothAPC
+[submodule "sparsevar"]
+	path = sparsevar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sparsevar
+	subdir = sparsevar
 [submodule "stopdetection"]
 	path = stopdetection
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
