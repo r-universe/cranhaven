@@ -472,6 +472,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ridittools
 	subdir = ridittools
+[submodule "seeker"]
+	path = seeker
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/seeker
+	subdir = seeker
 [submodule "sharpshootR"]
 	path = sharpshootR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
