@@ -437,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/prefio
 	subdir = prefio
-[submodule "quanteda.textmodels"]
-	path = quanteda.textmodels
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/quanteda.textmodels
-	subdir = quanteda.textmodels
 [submodule "readwritesqlite"]
 	path = readwritesqlite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
