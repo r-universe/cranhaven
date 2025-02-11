@@ -92,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ExpImage
 	subdir = ExpImage
+[submodule "FPDclustering"]
+	path = FPDclustering
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FPDclustering
+	subdir = FPDclustering
 [submodule "FeatureHashing"]
 	path = FeatureHashing
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/getCRUCLdata
 	subdir = getCRUCLdata
+[submodule "glottospace"]
+	path = glottospace
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/glottospace
+	subdir = glottospace
 [submodule "glycanr"]
 	path = glycanr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -527,3 +537,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/zerotradeflow
 	subdir = zerotradeflow
+[submodule "zonebuilder"]
+	path = zonebuilder
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/zonebuilder
+	subdir = zonebuilder
