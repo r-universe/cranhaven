@@ -92,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ExpImage
 	subdir = ExpImage
+[submodule "FLSSS"]
+	path = FLSSS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FLSSS
+	subdir = FLSSS
 [submodule "FPDclustering"]
 	path = FPDclustering
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,6 +242,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/aPEAR
 	subdir = aPEAR
+[submodule "acs"]
+	path = acs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/acs
+	subdir = acs
 [submodule "additiveDEA"]
 	path = additiveDEA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ccml
 	subdir = ccml
+[submodule "choroplethr"]
+	path = choroplethr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/choroplethr
+	subdir = choroplethr
 [submodule "coil"]
 	path = coil
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -407,6 +422,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nmadb
 	subdir = nmadb
+[submodule "noaastormevents"]
+	path = noaastormevents
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/noaastormevents
+	subdir = noaastormevents
 [submodule "ondisc"]
 	path = ondisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -507,6 +527,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/suppdata
 	subdir = suppdata
+[submodule "synthACS"]
+	path = synthACS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/synthACS
+	subdir = synthACS
 [submodule "tidymv"]
 	path = tidymv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
