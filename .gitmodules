@@ -212,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SlaPMEG
 	subdir = SlaPMEG
-[submodule "Surrogate"]
-	path = Surrogate
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Surrogate
-	subdir = Surrogate
 [submodule "TeachNet"]
 	path = TeachNet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
