@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AssocAFC
 	subdir = AssocAFC
-[submodule "BIOMASS"]
-	path = BIOMASS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BIOMASS
-	subdir = BIOMASS
 [submodule "BigDataPE"]
 	path = BigDataPE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
