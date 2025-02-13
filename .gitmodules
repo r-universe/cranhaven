@@ -92,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FLSSS
 	subdir = FLSSS
-[submodule "FPDclustering"]
-	path = FPDclustering
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FPDclustering
-	subdir = FPDclustering
 [submodule "FeatureHashing"]
 	path = FeatureHashing
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VARDetect
 	subdir = VARDetect
-[submodule "VARcpDetectOnline"]
-	path = VARcpDetectOnline
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/VARcpDetectOnline
-	subdir = VARcpDetectOnline
 [submodule "aPEAR"]
 	path = aPEAR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
