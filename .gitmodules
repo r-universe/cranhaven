@@ -562,8 +562,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/zerotradeflow
 	subdir = zerotradeflow
-[submodule "zonebuilder"]
-	path = zonebuilder
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/zonebuilder
-	subdir = zonebuilder
