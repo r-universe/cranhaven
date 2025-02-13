@@ -257,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/boostmtree
 	subdir = boostmtree
+[submodule "casabourse"]
+	path = casabourse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/casabourse
+	subdir = casabourse
 [submodule "ccml"]
 	path = ccml
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,6 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dimRed
 	subdir = dimRed
+[submodule "easyDifferentialGeneCoexpression"]
+	path = easyDifferentialGeneCoexpression
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/easyDifferentialGeneCoexpression
+	subdir = easyDifferentialGeneCoexpression
 [submodule "ecdata"]
 	path = ecdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
