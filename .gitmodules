@@ -37,11 +37,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CRM
 	subdir = CRM
-[submodule "CoFRA"]
-	path = CoFRA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CoFRA
-	subdir = CoFRA
 [submodule "ConConPiWiFun"]
 	path = ConConPiWiFun
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,11 +52,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DBpower
 	subdir = DBpower
-[submodule "DNH4"]
-	path = DNH4
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DNH4
-	subdir = DNH4
 [submodule "DNLC"]
 	path = DNLC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IsotopeR
 	subdir = IsotopeR
-[submodule "KaradaColor"]
-	path = KaradaColor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/KaradaColor
-	subdir = KaradaColor
 [submodule "LRcontrast"]
 	path = LRcontrast
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/complex
 	subdir = complex
-[submodule "covid19brazil"]
-	path = covid19brazil
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/covid19brazil
-	subdir = covid19brazil
 [submodule "cppcontainers"]
 	path = cppcontainers
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dhis2r
 	subdir = dhis2r
-[submodule "dimRed"]
-	path = dimRed
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dimRed
-	subdir = dimRed
 [submodule "easyDifferentialGeneCoexpression"]
 	path = easyDifferentialGeneCoexpression
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,11 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fasjem
 	subdir = fasjem
-[submodule "fluxfinder"]
-	path = fluxfinder
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fluxfinder
-	subdir = fluxfinder
 [submodule "forestdynR"]
 	path = forestdynR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,11 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hasseDiagram
 	subdir = hasseDiagram
-[submodule "htmldf"]
-	path = htmldf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/htmldf
-	subdir = htmldf
 [submodule "klexdatr"]
 	path = klexdatr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -442,11 +407,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sharpshootR
 	subdir = sharpshootR
-[submodule "smoothAPC"]
-	path = smoothAPC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/smoothAPC
-	subdir = smoothAPC
 [submodule "sparsevar"]
 	path = sparsevar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -472,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/synthACS
 	subdir = synthACS
-[submodule "tidymv"]
-	path = tidymv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tidymv
-	subdir = tidymv
 [submodule "vfcp"]
 	path = vfcp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -487,8 +442,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wqs
 	subdir = wqs
-[submodule "zerotradeflow"]
-	path = zerotradeflow
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/zerotradeflow
-	subdir = zerotradeflow
