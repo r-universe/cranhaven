@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ABCp2
 	subdir = ABCp2
-[submodule "AssetAllocation"]
-	path = AssetAllocation
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AssetAllocation
-	subdir = AssetAllocation
 [submodule "AssocAFC"]
 	path = AssocAFC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -42,11 +37,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CRM
 	subdir = CRM
-[submodule "CauchyCP"]
-	path = CauchyCP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CauchyCP
-	subdir = CauchyCP
 [submodule "CoFRA"]
 	path = CoFRA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FeatureHashing
 	subdir = FeatureHashing
-[submodule "IP"]
-	path = IP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/IP
-	subdir = IP
 [submodule "IsotopeR"]
 	path = IsotopeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LRcontrast
 	subdir = LRcontrast
-[submodule "LTRCforests"]
-	path = LTRCforests
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LTRCforests
-	subdir = LTRCforests
 [submodule "LncPath"]
 	path = LncPath
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RFCCA
 	subdir = RFCCA
-[submodule "RFpredInterval"]
-	path = RFpredInterval
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RFpredInterval
-	subdir = RFpredInterval
 [submodule "RPPairwiseDesign"]
 	path = RPPairwiseDesign
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VARDetect
 	subdir = VARDetect
-[submodule "aPEAR"]
-	path = aPEAR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/aPEAR
-	subdir = aPEAR
 [submodule "acs"]
 	path = acs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/complex
 	subdir = complex
-[submodule "copulaedas"]
-	path = copulaedas
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/copulaedas
-	subdir = copulaedas
 [submodule "covid19brazil"]
 	path = covid19brazil
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,11 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cppcontainers
 	subdir = cppcontainers
-[submodule "dartR"]
-	path = dartR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dartR
-	subdir = dartR
 [submodule "dartR.captive"]
 	path = dartR.captive
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,11 +362,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mregions2
 	subdir = mregions2
-[submodule "msBP"]
-	path = msBP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/msBP
-	subdir = msBP
 [submodule "msgpackR"]
 	path = msgpackR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -447,11 +402,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/openmpt
 	subdir = openmpt
-[submodule "optpart"]
-	path = optpart
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/optpart
-	subdir = optpart
 [submodule "pco"]
 	path = pco
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -472,16 +422,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/readwritesqlite
 	subdir = readwritesqlite
-[submodule "readxlsb"]
-	path = readxlsb
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/readxlsb
-	subdir = readxlsb
-[submodule "rego"]
-	path = rego
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rego
-	subdir = rego
 [submodule "rflexscan"]
 	path = rflexscan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -512,11 +452,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sparsevar
 	subdir = sparsevar
-[submodule "stopdetection"]
-	path = stopdetection
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/stopdetection
-	subdir = stopdetection
 [submodule "stratvns"]
 	path = stratvns
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -547,11 +482,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vfcp
 	subdir = vfcp
-[submodule "vines"]
-	path = vines
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vines
-	subdir = vines
 [submodule "wqs"]
 	path = wqs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
