@@ -77,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FeatureHashing
 	subdir = FeatureHashing
+[submodule "IOHexperimenter"]
+	path = IOHexperimenter
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/IOHexperimenter
+	subdir = IOHexperimenter
 [submodule "IsotopeR"]
 	path = IsotopeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,6 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PlasmaMutationDetector2
 	subdir = PlasmaMutationDetector2
+[submodule "RClickhouse"]
+	path = RClickhouse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RClickhouse
+	subdir = RClickhouse
 [submodule "RFCCA"]
 	path = RFCCA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -432,6 +442,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/synthACS
 	subdir = synthACS
+[submodule "unigd"]
+	path = unigd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/unigd
+	subdir = unigd
+[submodule "unnest"]
+	path = unnest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/unnest
+	subdir = unnest
 [submodule "vfcp"]
 	path = vfcp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
