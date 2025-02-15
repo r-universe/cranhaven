@@ -317,6 +317,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hasseDiagram
 	subdir = hasseDiagram
+[submodule "httpgd"]
+	path = httpgd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/httpgd
+	subdir = httpgd
 [submodule "klexdatr"]
 	path = klexdatr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
