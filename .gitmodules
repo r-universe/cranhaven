@@ -187,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TeachNet
 	subdir = TeachNet
-[submodule "TransProR"]
-	path = TransProR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TransProR
-	subdir = TransProR
 [submodule "VARDetect"]
 	path = VARDetect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
