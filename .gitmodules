@@ -47,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CovRegRF
 	subdir = CovRegRF
-[submodule "DBpower"]
-	path = DBpower
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DBpower
-	subdir = DBpower
 [submodule "DNLC"]
 	path = DNLC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PPtreeregViz
 	subdir = PPtreeregViz
-[submodule "PVplr"]
-	path = PVplr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PVplr
-	subdir = PVplr
 [submodule "PlasmaMutationDetector2"]
 	path = PlasmaMutationDetector2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,16 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SI
 	subdir = SI
-[submodule "SNPfiltR"]
-	path = SNPfiltR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SNPfiltR
-	subdir = SNPfiltR
-[submodule "STGS"]
-	path = STGS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/STGS
-	subdir = STGS
 [submodule "SlaPMEG"]
 	path = SlaPMEG
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/easyDifferentialGeneCoexpression
 	subdir = easyDifferentialGeneCoexpression
-[submodule "ecdata"]
-	path = ecdata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ecdata
-	subdir = ecdata
 [submodule "elections.dtree"]
 	path = elections.dtree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
