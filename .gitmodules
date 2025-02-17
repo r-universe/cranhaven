@@ -157,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SI
 	subdir = SI
-[submodule "SlaPMEG"]
-	path = SlaPMEG
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SlaPMEG
-	subdir = SlaPMEG
 [submodule "TeachNet"]
 	path = TeachNet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
