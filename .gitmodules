@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CovRegRF
 	subdir = CovRegRF
+[submodule "DDoutlier"]
+	path = DDoutlier
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DDoutlier
+	subdir = DDoutlier
 [submodule "DNLC"]
 	path = DNLC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LncPath
 	subdir = LncPath
+[submodule "MALDIcellassay"]
+	path = MALDIcellassay
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MALDIcellassay
+	subdir = MALDIcellassay
 [submodule "MRS"]
 	path = MRS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -122,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NetSwan
 	subdir = NetSwan
+[submodule "OwenQ"]
+	path = OwenQ
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/OwenQ
+	subdir = OwenQ
 [submodule "PPtreeregViz"]
 	path = PPtreeregViz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,6 +147,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PlasmaMutationDetector2
 	subdir = PlasmaMutationDetector2
+[submodule "PvSTATEM"]
+	path = PvSTATEM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PvSTATEM
+	subdir = PvSTATEM
 [submodule "RClickhouse"]
 	path = RClickhouse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,11 +177,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SI
 	subdir = SI
+[submodule "Statsomat"]
+	path = Statsomat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Statsomat
+	subdir = Statsomat
 [submodule "TeachNet"]
 	path = TeachNet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TeachNet
 	subdir = TeachNet
+[submodule "TwitterAutomatedTrading"]
+	path = TwitterAutomatedTrading
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TwitterAutomatedTrading
+	subdir = TwitterAutomatedTrading
 [submodule "VARDetect"]
 	path = VARDetect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,6 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fasjem
 	subdir = fasjem
+[submodule "figpatch"]
+	path = figpatch
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/figpatch
+	subdir = figpatch
 [submodule "forestdynR"]
 	path = forestdynR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,6 +357,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/noaastormevents
 	subdir = noaastormevents
+[submodule "nplr"]
+	path = nplr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nplr
+	subdir = nplr
 [submodule "ondisc"]
 	path = ondisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,6 +422,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sparsevar
 	subdir = sparsevar
+[submodule "squat"]
+	path = squat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/squat
+	subdir = squat
 [submodule "stratvns"]
 	path = stratvns
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,6 +442,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/synthACS
 	subdir = synthACS
+[submodule "twitteR"]
+	path = twitteR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/twitteR
+	subdir = twitteR
 [submodule "unigd"]
 	path = unigd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
