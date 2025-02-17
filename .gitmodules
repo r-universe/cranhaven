@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AssocAFC
 	subdir = AssocAFC
-[submodule "BigDataPE"]
-	path = BigDataPE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BigDataPE
-	subdir = BigDataPE
 [submodule "CCTpack"]
 	path = CCTpack
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
