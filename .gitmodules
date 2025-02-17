@@ -397,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/suRtex
 	subdir = suRtex
-[submodule "suppdata"]
-	path = suppdata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/suppdata
-	subdir = suppdata
 [submodule "synthACS"]
 	path = synthACS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
