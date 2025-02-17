@@ -332,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multilaterals
 	subdir = multilaterals
-[submodule "nimbleAPT"]
-	path = nimbleAPT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nimbleAPT
-	subdir = nimbleAPT
 [submodule "nmadb"]
 	path = nmadb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
