@@ -102,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MRS
 	subdir = MRS
-[submodule "MissCP"]
-	path = MissCP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MissCP
-	subdir = MissCP
 [submodule "MultAlloc"]
 	path = MultAlloc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
