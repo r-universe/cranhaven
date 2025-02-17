@@ -282,11 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glottospace
 	subdir = glottospace
-[submodule "glycanr"]
-	path = glycanr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/glycanr
-	subdir = glycanr
 [submodule "hasseDiagram"]
 	path = hasseDiagram
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,11 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lrmest
 	subdir = lrmest
-[submodule "mregions2"]
-	path = mregions2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mregions2
-	subdir = mregions2
 [submodule "msgpackR"]
 	path = msgpackR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
