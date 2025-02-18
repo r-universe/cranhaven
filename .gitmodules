@@ -232,11 +232,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cppcontainers
 	subdir = cppcontainers
-[submodule "dartR.captive"]
-	path = dartR.captive
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dartR.captive
-	subdir = dartR.captive
 [submodule "databraryr"]
 	path = databraryr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
