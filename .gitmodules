@@ -277,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fasjem
 	subdir = fasjem
+[submodule "fastQR"]
+	path = fastQR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fastQR
+	subdir = fastQR
 [submodule "figpatch"]
 	path = figpatch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
