@@ -42,6 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CovRegRF
 	subdir = CovRegRF
+[submodule "DATAstudio"]
+	path = DATAstudio
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DATAstudio
+	subdir = DATAstudio
 [submodule "DDoutlier"]
 	path = DDoutlier
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,6 +137,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PPtreeregViz
 	subdir = PPtreeregViz
+[submodule "Pandora"]
+	path = Pandora
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Pandora
+	subdir = Pandora
 [submodule "PlasmaMutationDetector2"]
 	path = PlasmaMutationDetector2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
