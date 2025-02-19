@@ -437,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/twitteR
 	subdir = twitteR
-[submodule "unigd"]
-	path = unigd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/unigd
-	subdir = unigd
 [submodule "unnest"]
 	path = unnest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
