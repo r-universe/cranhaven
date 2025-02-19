@@ -267,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/elections.dtree
 	subdir = elections.dtree
-[submodule "epigrowthfit"]
-	path = epigrowthfit
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/epigrowthfit
-	subdir = epigrowthfit
 [submodule "eulerian"]
 	path = eulerian
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,11 +342,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/noaastormevents
 	subdir = noaastormevents
-[submodule "nplr"]
-	path = nplr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nplr
-	subdir = nplr
 [submodule "ondisc"]
 	path = ondisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
