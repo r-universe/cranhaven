@@ -302,11 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glottospace
 	subdir = glottospace
-[submodule "hasseDiagram"]
-	path = hasseDiagram
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hasseDiagram
-	subdir = hasseDiagram
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
