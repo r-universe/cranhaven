@@ -327,11 +327,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/msgpackR
 	subdir = msgpackR
-[submodule "multilaterals"]
-	path = multilaterals
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/multilaterals
-	subdir = multilaterals
 [submodule "nmadb"]
 	path = nmadb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
