@@ -107,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MRS
 	subdir = MRS
+[submodule "MiscMetabar"]
+	path = MiscMetabar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MiscMetabar
+	subdir = MiscMetabar
 [submodule "MultAlloc"]
 	path = MultAlloc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
