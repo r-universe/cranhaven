@@ -252,6 +252,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/databraryr
 	subdir = databraryr
+[submodule "dataclass"]
+	path = dataclass
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dataclass
+	subdir = dataclass
 [submodule "dhh"]
 	path = dhh
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
