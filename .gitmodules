@@ -427,6 +427,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/synthACS
 	subdir = synthACS
+[submodule "tableschema.r"]
+	path = tableschema.r
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tableschema.r
+	subdir = tableschema.r
 [submodule "twitteR"]
 	path = twitteR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
