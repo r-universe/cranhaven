@@ -322,11 +322,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/httpgd
 	subdir = httpgd
-[submodule "klexdatr"]
-	path = klexdatr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/klexdatr
-	subdir = klexdatr
 [submodule "lrmest"]
 	path = lrmest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -377,11 +372,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/prefio
 	subdir = prefio
-[submodule "readwritesqlite"]
-	path = readwritesqlite
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/readwritesqlite
-	subdir = readwritesqlite
 [submodule "rflexscan"]
 	path = rflexscan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
