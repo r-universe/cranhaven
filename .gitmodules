@@ -37,11 +37,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ConConPiWiFun
 	subdir = ConConPiWiFun
-[submodule "CovRegRF"]
-	path = CovRegRF
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CovRegRF
-	subdir = CovRegRF
 [submodule "DATAstudio"]
 	path = DATAstudio
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
