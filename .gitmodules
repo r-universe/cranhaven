@@ -132,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PPtreeregViz
 	subdir = PPtreeregViz
+[submodule "PResiduals"]
+	path = PResiduals
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PResiduals
+	subdir = PResiduals
 [submodule "Pandora"]
 	path = Pandora
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,6 +232,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/complex
 	subdir = complex
+[submodule "cpmBigData"]
+	path = cpmBigData
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cpmBigData
+	subdir = cpmBigData
 [submodule "cppcontainers"]
 	path = cppcontainers
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/openmpt
 	subdir = openmpt
+[submodule "ormBigData"]
+	path = ormBigData
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ormBigData
+	subdir = ormBigData
 [submodule "pco"]
 	path = pco
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
