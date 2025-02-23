@@ -67,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FLSSS
 	subdir = FLSSS
-[submodule "FeatureHashing"]
-	path = FeatureHashing
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FeatureHashing
-	subdir = FeatureHashing
 [submodule "IOHexperimenter"]
 	path = IOHexperimenter
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/additiveDEA
 	subdir = additiveDEA
-[submodule "boostmtree"]
-	path = boostmtree
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/boostmtree
-	subdir = boostmtree
 [submodule "casabourse"]
 	path = casabourse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
