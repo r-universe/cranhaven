@@ -437,6 +437,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vfcp
 	subdir = vfcp
+[submodule "washex"]
+	path = washex
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/washex
+	subdir = washex
 [submodule "wqs"]
 	path = wqs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
