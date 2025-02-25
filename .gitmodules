@@ -292,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/figpatch
 	subdir = figpatch
-[submodule "forestdynR"]
-	path = forestdynR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/forestdynR
-	subdir = forestdynR
 [submodule "getCRUCLdata"]
 	path = getCRUCLdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
