@@ -157,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RClickhouse
 	subdir = RClickhouse
-[submodule "RFCCA"]
-	path = RFCCA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RFCCA
-	subdir = RFCCA
 [submodule "RPPairwiseDesign"]
 	path = RPPairwiseDesign
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
