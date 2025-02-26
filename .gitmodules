@@ -152,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PvSTATEM
 	subdir = PvSTATEM
-[submodule "RClickhouse"]
-	path = RClickhouse
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RClickhouse
-	subdir = RClickhouse
 [submodule "RPPairwiseDesign"]
 	path = RPPairwiseDesign
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
