@@ -307,11 +307,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/msgpackR
 	subdir = msgpackR
-[submodule "nmadb"]
-	path = nmadb
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nmadb
-	subdir = nmadb
 [submodule "noaastormevents"]
 	path = noaastormevents
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
