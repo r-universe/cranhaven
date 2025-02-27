@@ -147,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PlasmaMutationDetector2
 	subdir = PlasmaMutationDetector2
-[submodule "PvSTATEM"]
-	path = PvSTATEM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PvSTATEM
-	subdir = PvSTATEM
 [submodule "RPPairwiseDesign"]
 	path = RPPairwiseDesign
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
