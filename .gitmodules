@@ -192,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/additiveDEA
 	subdir = additiveDEA
+[submodule "btb"]
+	path = btb
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/btb
+	subdir = btb
 [submodule "casabourse"]
 	path = casabourse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/msgpackR
 	subdir = msgpackR
+[submodule "nbfar"]
+	path = nbfar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nbfar
+	subdir = nbfar
 [submodule "noaastormevents"]
 	path = noaastormevents
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
