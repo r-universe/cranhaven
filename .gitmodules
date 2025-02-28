@@ -242,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dhh
 	subdir = dhh
-[submodule "dhis2r"]
-	path = dhis2r
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dhis2r
-	subdir = dhis2r
 [submodule "easyDifferentialGeneCoexpression"]
 	path = easyDifferentialGeneCoexpression
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
