@@ -302,11 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glottospace
 	subdir = glottospace
-[submodule "httpgd"]
-	path = httpgd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/httpgd
-	subdir = httpgd
 [submodule "lrmest"]
 	path = lrmest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
