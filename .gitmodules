@@ -282,6 +282,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/figpatch
 	subdir = figpatch
+[submodule "finbipartite"]
+	path = finbipartite
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/finbipartite
+	subdir = finbipartite
+[submodule "fingraph"]
+	path = fingraph
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fingraph
+	subdir = fingraph
 [submodule "getCRUCLdata"]
 	path = getCRUCLdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -377,6 +387,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sparsevar
 	subdir = sparsevar
+[submodule "spectralGraphTopology"]
+	path = spectralGraphTopology
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spectralGraphTopology
+	subdir = spectralGraphTopology
 [submodule "squat"]
 	path = squat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
