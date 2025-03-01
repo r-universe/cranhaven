@@ -327,11 +327,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ondisc
 	subdir = ondisc
-[submodule "onemap"]
-	path = onemap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/onemap
-	subdir = onemap
 [submodule "openmpt"]
 	path = openmpt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
