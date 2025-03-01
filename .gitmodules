@@ -307,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lrmest
 	subdir = lrmest
+[submodule "mr.raps"]
+	path = mr.raps
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mr.raps
+	subdir = mr.raps
 [submodule "msgpackR"]
 	path = msgpackR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -362,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ridittools
 	subdir = ridittools
+[submodule "rllama"]
+	path = rllama
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rllama
+	subdir = rllama
 [submodule "seeker"]
 	path = seeker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
