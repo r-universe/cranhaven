@@ -2,41 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "ABCp2"]
-	path = ABCp2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ABCp2
-	subdir = ABCp2
-[submodule "AssocAFC"]
-	path = AssocAFC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AssocAFC
-	subdir = AssocAFC
-[submodule "CCTpack"]
-	path = CCTpack
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CCTpack
-	subdir = CCTpack
-[submodule "CHFF"]
-	path = CHFF
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CHFF
-	subdir = CHFF
-[submodule "COCONUT"]
-	path = COCONUT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/COCONUT
-	subdir = COCONUT
 [submodule "CRM"]
 	path = CRM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CRM
 	subdir = CRM
-[submodule "ConConPiWiFun"]
-	path = ConConPiWiFun
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ConConPiWiFun
-	subdir = ConConPiWiFun
 [submodule "DATAstudio"]
 	path = DATAstudio
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,16 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DDoutlier
 	subdir = DDoutlier
-[submodule "DNLC"]
-	path = DNLC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DNLC
-	subdir = DNLC
-[submodule "Dodge"]
-	path = Dodge
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Dodge
-	subdir = Dodge
 [submodule "ExpImage"]
 	path = ExpImage
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -72,21 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IOHexperimenter
 	subdir = IOHexperimenter
-[submodule "IsotopeR"]
-	path = IsotopeR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/IsotopeR
-	subdir = IsotopeR
-[submodule "LRcontrast"]
-	path = LRcontrast
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LRcontrast
-	subdir = LRcontrast
-[submodule "LncPath"]
-	path = LncPath
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LncPath
-	subdir = LncPath
 [submodule "MALDIcellassay"]
 	path = MALDIcellassay
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,21 +52,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MultAlloc
 	subdir = MultAlloc
-[submodule "MultiRR"]
-	path = MultiRR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MultiRR
-	subdir = MultiRR
-[submodule "NLRoot"]
-	path = NLRoot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NLRoot
-	subdir = NLRoot
-[submodule "NetSwan"]
-	path = NetSwan
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NetSwan
-	subdir = NetSwan
 [submodule "OwenQ"]
 	path = OwenQ
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,31 +77,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PlasmaMutationDetector2
 	subdir = PlasmaMutationDetector2
-[submodule "RPPairwiseDesign"]
-	path = RPPairwiseDesign
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RPPairwiseDesign
-	subdir = RPPairwiseDesign
 [submodule "SFSI"]
 	path = SFSI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SFSI
 	subdir = SFSI
-[submodule "SI"]
-	path = SI
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SI
-	subdir = SI
 [submodule "Statsomat"]
 	path = Statsomat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Statsomat
 	subdir = Statsomat
-[submodule "TeachNet"]
-	path = TeachNet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TeachNet
-	subdir = TeachNet
 [submodule "TwitterAutomatedTrading"]
 	path = TwitterAutomatedTrading
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/acs
 	subdir = acs
-[submodule "additiveDEA"]
-	path = additiveDEA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/additiveDEA
-	subdir = additiveDEA
 [submodule "btb"]
 	path = btb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dataclass
 	subdir = dataclass
-[submodule "dhh"]
-	path = dhh
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dhh
-	subdir = dhh
 [submodule "easyDifferentialGeneCoexpression"]
 	path = easyDifferentialGeneCoexpression
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
