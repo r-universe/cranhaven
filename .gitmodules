@@ -167,21 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/elections.dtree
 	subdir = elections.dtree
-[submodule "eulerian"]
-	path = eulerian
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/eulerian
-	subdir = eulerian
 [submodule "exceedProb"]
 	path = exceedProb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/exceedProb
 	subdir = exceedProb
-[submodule "fasjem"]
-	path = fasjem
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fasjem
-	subdir = fasjem
 [submodule "fastQR"]
 	path = fastQR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,21 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glottospace
 	subdir = glottospace
-[submodule "lrmest"]
-	path = lrmest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lrmest
-	subdir = lrmest
 [submodule "mr.raps"]
 	path = mr.raps
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mr.raps
 	subdir = mr.raps
-[submodule "msgpackR"]
-	path = msgpackR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/msgpackR
-	subdir = msgpackR
 [submodule "nbfar"]
 	path = nbfar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ormBigData
 	subdir = ormBigData
-[submodule "pco"]
-	path = pco
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pco
-	subdir = pco
 [submodule "picasso"]
 	path = picasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,11 +237,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/prefio
 	subdir = prefio
-[submodule "ridittools"]
-	path = ridittools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ridittools
-	subdir = ridittools
 [submodule "rllama"]
 	path = rllama
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stratvns
 	subdir = stratvns
-[submodule "suRtex"]
-	path = suRtex
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/suRtex
-	subdir = suRtex
 [submodule "synthACS"]
 	path = synthACS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,18 +292,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/unnest
 	subdir = unnest
-[submodule "vfcp"]
-	path = vfcp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vfcp
-	subdir = vfcp
 [submodule "washex"]
 	path = washex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/washex
 	subdir = washex
-[submodule "wqs"]
-	path = wqs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wqs
-	subdir = wqs
