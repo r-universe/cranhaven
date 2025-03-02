@@ -47,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MiscMetabar
 	subdir = MiscMetabar
-[submodule "MultAlloc"]
-	path = MultAlloc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MultAlloc
-	subdir = MultAlloc
 [submodule "OwenQ"]
 	path = OwenQ
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/squat
 	subdir = squat
-[submodule "stratvns"]
-	path = stratvns
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/stratvns
-	subdir = stratvns
 [submodule "synthACS"]
 	path = synthACS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
