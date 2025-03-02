@@ -332,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ondisc
 	subdir = ondisc
-[submodule "openmpt"]
-	path = openmpt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/openmpt
-	subdir = openmpt
 [submodule "ormBigData"]
 	path = ormBigData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,11 +352,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/prefio
 	subdir = prefio
-[submodule "rflexscan"]
-	path = rflexscan
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rflexscan
-	subdir = rflexscan
 [submodule "ridittools"]
 	path = ridittools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
