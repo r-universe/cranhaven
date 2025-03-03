@@ -147,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/easyDifferentialGeneCoexpression
 	subdir = easyDifferentialGeneCoexpression
-[submodule "ebvcube"]
-	path = ebvcube
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ebvcube
-	subdir = ebvcube
 [submodule "elections.dtree"]
 	path = elections.dtree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glottospace
 	subdir = glottospace
+[submodule "marp"]
+	path = marp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/marp
+	subdir = marp
 [submodule "mr.raps"]
 	path = mr.raps
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
