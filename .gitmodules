@@ -277,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/unnest
 	subdir = unnest
+[submodule "varycoef"]
+	path = varycoef
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/varycoef
+	subdir = varycoef
 [submodule "washex"]
 	path = washex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
