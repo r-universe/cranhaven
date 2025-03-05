@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "CRM"]
-	path = CRM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CRM
-	subdir = CRM
 [submodule "DATAstudio"]
 	path = DATAstudio
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
