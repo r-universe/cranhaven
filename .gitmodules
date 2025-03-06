@@ -47,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OwenQ
 	subdir = OwenQ
-[submodule "PPtreeregViz"]
-	path = PPtreeregViz
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PPtreeregViz
-	subdir = PPtreeregViz
 [submodule "PResiduals"]
 	path = PResiduals
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
