@@ -82,6 +82,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VARDetect
 	subdir = VARDetect
+[submodule "XBRL"]
+	path = XBRL
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/XBRL
+	subdir = XBRL
 [submodule "acs"]
 	path = acs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/choroplethr
 	subdir = choroplethr
+[submodule "clintrialx"]
+	path = clintrialx
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clintrialx
+	subdir = clintrialx
 [submodule "coil"]
 	path = coil
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fingraph
 	subdir = fingraph
+[submodule "finreportr"]
+	path = finreportr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/finreportr
+	subdir = finreportr
 [submodule "getCRUCLdata"]
 	path = getCRUCLdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
