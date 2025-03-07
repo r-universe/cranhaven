@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "CohortSurvival"]
+	path = CohortSurvival
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CohortSurvival
+	subdir = CohortSurvival
 [submodule "DATAstudio"]
 	path = DATAstudio
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SFSI
 	subdir = SFSI
+[submodule "STRMPS"]
+	path = STRMPS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/STRMPS
+	subdir = STRMPS
 [submodule "Statsomat"]
 	path = Statsomat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
