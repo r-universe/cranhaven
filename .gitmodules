@@ -82,6 +82,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Statsomat
 	subdir = Statsomat
+[submodule "TukeyC"]
+	path = TukeyC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TukeyC
+	subdir = TukeyC
 [submodule "TwitterAutomatedTrading"]
 	path = TwitterAutomatedTrading
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
