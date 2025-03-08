@@ -82,6 +82,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Statsomat
 	subdir = Statsomat
+[submodule "TEAM"]
+	path = TEAM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TEAM
+	subdir = TEAM
+[submodule "TT"]
+	path = TT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TT
+	subdir = TT
 [submodule "TukeyC"]
 	path = TukeyC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,6 +137,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/choroplethr
 	subdir = choroplethr
+[submodule "clinDataReview"]
+	path = clinDataReview
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clinDataReview
+	subdir = clinDataReview
 [submodule "clintrialx"]
 	path = clintrialx
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
