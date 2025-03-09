@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DDoutlier
 	subdir = DDoutlier
-[submodule "ExpImage"]
-	path = ExpImage
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ExpImage
-	subdir = ExpImage
 [submodule "FLSSS"]
 	path = FLSSS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -62,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Pandora
 	subdir = Pandora
-[submodule "PlasmaMutationDetector2"]
-	path = PlasmaMutationDetector2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PlasmaMutationDetector2
-	subdir = PlasmaMutationDetector2
 [submodule "SFSI"]
 	path = SFSI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/casabourse
 	subdir = casabourse
-[submodule "ccml"]
-	path = ccml
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ccml
-	subdir = ccml
 [submodule "choroplethr"]
 	path = choroplethr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,16 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clintrialx
 	subdir = clintrialx
-[submodule "coil"]
-	path = coil
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/coil
-	subdir = coil
-[submodule "complex"]
-	path = complex
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/complex
-	subdir = complex
 [submodule "cpmBigData"]
 	path = cpmBigData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/noaastormevents
 	subdir = noaastormevents
-[submodule "ondisc"]
-	path = ondisc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ondisc
-	subdir = ondisc
 [submodule "ormBigData"]
 	path = ormBigData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
