@@ -32,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MALDIcellassay
 	subdir = MALDIcellassay
-[submodule "MRS"]
-	path = MRS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MRS
-	subdir = MRS
 [submodule "MiscMetabar"]
 	path = MiscMetabar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/elections.dtree
 	subdir = elections.dtree
+[submodule "equatiomatic"]
+	path = equatiomatic
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/equatiomatic
+	subdir = equatiomatic
 [submodule "exceedProb"]
 	path = exceedProb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/finreportr
 	subdir = finreportr
+[submodule "flowTraceR"]
+	path = flowTraceR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/flowTraceR
+	subdir = flowTraceR
 [submodule "getCRUCLdata"]
 	path = getCRUCLdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,11 +202,31 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glottospace
 	subdir = glottospace
+[submodule "hddplot"]
+	path = hddplot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hddplot
+	subdir = hddplot
+[submodule "kmeRs"]
+	path = kmeRs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/kmeRs
+	subdir = kmeRs
+[submodule "mapping"]
+	path = mapping
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mapping
+	subdir = mapping
 [submodule "marp"]
 	path = marp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/marp
 	subdir = marp
+[submodule "mpwR"]
+	path = mpwR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mpwR
+	subdir = mpwR
 [submodule "mr.raps"]
 	path = mr.raps
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,6 +242,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/noaastormevents
 	subdir = noaastormevents
+[submodule "ohtadstats"]
+	path = ohtadstats
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ohtadstats
+	subdir = ohtadstats
 [submodule "ormBigData"]
 	path = ormBigData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seeker
 	subdir = seeker
-[submodule "sharpshootR"]
-	path = sharpshootR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sharpshootR
-	subdir = sharpshootR
 [submodule "sparsevar"]
 	path = sparsevar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +297,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tableschema.r
 	subdir = tableschema.r
+[submodule "tidyformula"]
+	path = tidyformula
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tidyformula
+	subdir = tidyformula
 [submodule "twitteR"]
 	path = twitteR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
