@@ -267,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rllama
 	subdir = rllama
+[submodule "rock"]
+	path = rock
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rock
+	subdir = rock
 [submodule "seeker"]
 	path = seeker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
