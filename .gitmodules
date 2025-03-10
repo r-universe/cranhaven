@@ -157,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/elections.dtree
 	subdir = elections.dtree
-[submodule "equatiomatic"]
-	path = equatiomatic
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/equatiomatic
-	subdir = equatiomatic
 [submodule "exceedProb"]
 	path = exceedProb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
