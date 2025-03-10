@@ -227,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/marp
 	subdir = marp
+[submodule "mbest"]
+	path = mbest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mbest
+	subdir = mbest
 [submodule "mpwR"]
 	path = mpwR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
