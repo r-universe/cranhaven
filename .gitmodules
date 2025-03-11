@@ -342,8 +342,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/washex
 	subdir = washex
-[submodule "weatherOz"]
-	path = weatherOz
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/weatherOz
-	subdir = weatherOz
