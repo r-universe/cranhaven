@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clinDataReview
 	subdir = clinDataReview
-[submodule "clintrialx"]
-	path = clintrialx
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clintrialx
-	subdir = clintrialx
 [submodule "cpmBigData"]
 	path = cpmBigData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
