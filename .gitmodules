@@ -87,6 +87,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TukeyC
 	subdir = TukeyC
+[submodule "TukeyRegion"]
+	path = TukeyRegion
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TukeyRegion
+	subdir = TukeyRegion
 [submodule "TwitterAutomatedTrading"]
 	path = TwitterAutomatedTrading
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/picasso
 	subdir = picasso
+[submodule "polyhedralCubature"]
+	path = polyhedralCubature
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/polyhedralCubature
+	subdir = polyhedralCubature
 [submodule "prefio"]
 	path = prefio
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,6 +322,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tern.rbmi
 	subdir = tern.rbmi
+[submodule "tessellation"]
+	path = tessellation
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tessellation
+	subdir = tessellation
 [submodule "tidyformula"]
 	path = tidyformula
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
