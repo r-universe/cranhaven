@@ -277,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/prefio
 	subdir = prefio
+[submodule "rehydratoR"]
+	path = rehydratoR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rehydratoR
+	subdir = rehydratoR
 [submodule "rllama"]
 	path = rllama
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
