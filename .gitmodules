@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cpmBigData
 	subdir = cpmBigData
-[submodule "cppcontainers"]
-	path = cppcontainers
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cppcontainers
-	subdir = cppcontainers
 [submodule "dataclass"]
 	path = dataclass
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
