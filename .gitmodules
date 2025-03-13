@@ -37,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MALDIcellassay
 	subdir = MALDIcellassay
+[submodule "MicroSEC"]
+	path = MicroSEC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MicroSEC
+	subdir = MicroSEC
 [submodule "MiscMetabar"]
 	path = MiscMetabar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
