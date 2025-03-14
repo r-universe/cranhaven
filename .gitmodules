@@ -72,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/STRMPS
 	subdir = STRMPS
+[submodule "ScRNAIMM"]
+	path = ScRNAIMM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ScRNAIMM
+	subdir = ScRNAIMM
 [submodule "Statsomat"]
 	path = Statsomat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +297,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rock
 	subdir = rock
+[submodule "scCAN"]
+	path = scCAN
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/scCAN
+	subdir = scCAN
+[submodule "scDHA"]
+	path = scDHA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/scDHA
+	subdir = scDHA
 [submodule "seeker"]
 	path = seeker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
