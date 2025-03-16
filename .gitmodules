@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TwitterAutomatedTrading
 	subdir = TwitterAutomatedTrading
-[submodule "VARDetect"]
-	path = VARDetect
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/VARDetect
-	subdir = VARDetect
 [submodule "XBRL"]
 	path = XBRL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flowTraceR
 	subdir = flowTraceR
-[submodule "getCRUCLdata"]
-	path = getCRUCLdata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/getCRUCLdata
-	subdir = getCRUCLdata
 [submodule "glottospace"]
 	path = glottospace
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,11 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ormBigData
 	subdir = ormBigData
-[submodule "picasso"]
-	path = picasso
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/picasso
-	subdir = picasso
 [submodule "polyhedralCubature"]
 	path = polyhedralCubature
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,11 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seeker
 	subdir = seeker
-[submodule "sparsevar"]
-	path = sparsevar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sparsevar
-	subdir = sparsevar
 [submodule "spectralGraphTopology"]
 	path = spectralGraphTopology
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
