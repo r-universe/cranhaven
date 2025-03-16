@@ -277,11 +277,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/polyhedralCubature
 	subdir = polyhedralCubature
-[submodule "prefio"]
-	path = prefio
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/prefio
-	subdir = prefio
 [submodule "rehydratoR"]
 	path = rehydratoR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
