@@ -162,11 +162,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/easyDifferentialGeneCoexpression
 	subdir = easyDifferentialGeneCoexpression
-[submodule "elections.dtree"]
-	path = elections.dtree
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/elections.dtree
-	subdir = elections.dtree
 [submodule "exceedProb"]
 	path = exceedProb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
