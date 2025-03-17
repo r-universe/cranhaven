@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/D4TAlink.light
 	subdir = D4TAlink.light
-[submodule "DATAstudio"]
-	path = DATAstudio
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DATAstudio
-	subdir = DATAstudio
 [submodule "DDoutlier"]
 	path = DDoutlier
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
