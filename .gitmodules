@@ -112,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/acs
 	subdir = acs
-[submodule "btb"]
-	path = btb
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/btb
-	subdir = btb
 [submodule "casabourse"]
 	path = casabourse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
