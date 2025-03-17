@@ -117,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/acs
 	subdir = acs
-[submodule "bdsm"]
-	path = bdsm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bdsm
-	subdir = bdsm
 [submodule "btb"]
 	path = btb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
