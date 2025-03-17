@@ -237,6 +237,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/noaastormevents
 	subdir = noaastormevents
+[submodule "noegletalR"]
+	path = noegletalR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/noegletalR
+	subdir = noegletalR
 [submodule "ohtadstats"]
 	path = ohtadstats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
