@@ -177,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flowTraceR
 	subdir = flowTraceR
-[submodule "glottospace"]
-	path = glottospace
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/glottospace
-	subdir = glottospace
 [submodule "hddplot"]
 	path = hddplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
