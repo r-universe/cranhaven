@@ -317,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/twitteR
 	subdir = twitteR
-[submodule "unnest"]
-	path = unnest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/unnest
-	subdir = unnest
 [submodule "varycoef"]
 	path = varycoef
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
