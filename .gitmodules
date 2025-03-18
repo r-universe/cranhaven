@@ -272,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scDHA
 	subdir = scDHA
-[submodule "seeker"]
-	path = seeker
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/seeker
-	subdir = seeker
 [submodule "spectralGraphTopology"]
 	path = spectralGraphTopology
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
