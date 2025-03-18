@@ -217,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nbfar
 	subdir = nbfar
+[submodule "nettskjemar"]
+	path = nettskjemar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nettskjemar
+	subdir = nettskjemar
 [submodule "noaastormevents"]
 	path = noaastormevents
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
