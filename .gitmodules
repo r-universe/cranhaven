@@ -52,11 +52,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Pandora
 	subdir = Pandora
-[submodule "SFSI"]
-	path = SFSI
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SFSI
-	subdir = SFSI
 [submodule "STRMPS"]
 	path = STRMPS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/easyDifferentialGeneCoexpression
 	subdir = easyDifferentialGeneCoexpression
-[submodule "exceedProb"]
-	path = exceedProb
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/exceedProb
-	subdir = exceedProb
 [submodule "fastQR"]
 	path = fastQR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
