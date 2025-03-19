@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DDoutlier
 	subdir = DDoutlier
-[submodule "FLSSS"]
-	path = FLSSS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FLSSS
-	subdir = FLSSS
 [submodule "IOHexperimenter"]
 	path = IOHexperimenter
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,21 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/XBRL
 	subdir = XBRL
-[submodule "acs"]
-	path = acs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/acs
-	subdir = acs
 [submodule "casabourse"]
 	path = casabourse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/casabourse
 	subdir = casabourse
-[submodule "choroplethr"]
-	path = choroplethr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/choroplethr
-	subdir = choroplethr
 [submodule "clinDataReview"]
 	path = clinDataReview
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flowTraceR
 	subdir = flowTraceR
+[submodule "greatR"]
+	path = greatR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/greatR
+	subdir = greatR
 [submodule "hddplot"]
 	path = hddplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nbfar
 	subdir = nbfar
-[submodule "noaastormevents"]
-	path = noaastormevents
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/noaastormevents
-	subdir = noaastormevents
 [submodule "noegletalR"]
 	path = noegletalR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -277,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/squat
 	subdir = squat
-[submodule "synthACS"]
-	path = synthACS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/synthACS
-	subdir = synthACS
 [submodule "tableschema.r"]
 	path = tableschema.r
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
