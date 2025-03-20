@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MALDIcellassay
 	subdir = MALDIcellassay
+[submodule "MOCHA"]
+	path = MOCHA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MOCHA
+	subdir = MOCHA
 [submodule "MicroSEC"]
 	path = MicroSEC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/polyhedralCubature
 	subdir = polyhedralCubature
+[submodule "prism"]
+	path = prism
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/prism
+	subdir = prism
 [submodule "rehydratoR"]
 	path = rehydratoR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
