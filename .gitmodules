@@ -97,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/XBRL
 	subdir = XBRL
-[submodule "casabourse"]
-	path = casabourse
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/casabourse
-	subdir = casabourse
 [submodule "clinDataReview"]
 	path = clinDataReview
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dataclass
 	subdir = dataclass
-[submodule "easyDifferentialGeneCoexpression"]
-	path = easyDifferentialGeneCoexpression
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/easyDifferentialGeneCoexpression
-	subdir = easyDifferentialGeneCoexpression
 [submodule "fastQR"]
 	path = fastQR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
