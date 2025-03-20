@@ -107,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dataclass
 	subdir = dataclass
+[submodule "datasailr"]
+	path = datasailr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/datasailr
+	subdir = datasailr
 [submodule "fastQR"]
 	path = fastQR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hddplot
 	subdir = hddplot
+[submodule "jsonStrings"]
+	path = jsonStrings
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/jsonStrings
+	subdir = jsonStrings
 [submodule "kmeRs"]
 	path = kmeRs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mr.raps
 	subdir = mr.raps
+[submodule "multinet"]
+	path = multinet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/multinet
+	subdir = multinet
 [submodule "nbfar"]
 	path = nbfar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rehydratoR
 	subdir = rehydratoR
+[submodule "rflashtext"]
+	path = rflashtext
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rflashtext
+	subdir = rflashtext
 [submodule "rllama"]
 	path = rllama
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tableschema.r
 	subdir = tableschema.r
+[submodule "tabulate"]
+	path = tabulate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tabulate
+	subdir = tabulate
 [submodule "tern.rbmi"]
 	path = tern.rbmi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
