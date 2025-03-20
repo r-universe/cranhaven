@@ -287,6 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidyformula
 	subdir = tidyformula
+[submodule "torchaudio"]
+	path = torchaudio
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/torchaudio
+	subdir = torchaudio
 [submodule "twitteR"]
 	path = twitteR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
