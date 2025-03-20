@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MicroSEC
 	subdir = MicroSEC
-[submodule "MiscMetabar"]
-	path = MiscMetabar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MiscMetabar
-	subdir = MiscMetabar
 [submodule "OwenQ"]
 	path = OwenQ
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
