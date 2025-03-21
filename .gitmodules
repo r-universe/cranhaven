@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DDoutlier
 	subdir = DDoutlier
-[submodule "IOHexperimenter"]
-	path = IOHexperimenter
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/IOHexperimenter
-	subdir = IOHexperimenter
 [submodule "MALDIcellassay"]
 	path = MALDIcellassay
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
