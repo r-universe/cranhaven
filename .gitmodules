@@ -32,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OwenQ
 	subdir = OwenQ
-[submodule "PLNmodels"]
-	path = PLNmodels
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PLNmodels
-	subdir = PLNmodels
 [submodule "PResiduals"]
 	path = PResiduals
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
