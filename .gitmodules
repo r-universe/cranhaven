@@ -202,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nbfar
 	subdir = nbfar
+[submodule "nestedmodels"]
+	path = nestedmodels
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nestedmodels
+	subdir = nestedmodels
 [submodule "noegletalR"]
 	path = noegletalR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
