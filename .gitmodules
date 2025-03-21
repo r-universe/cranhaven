@@ -92,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/XBRL
 	subdir = XBRL
+[submodule "brokenstick"]
+	path = brokenstick
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/brokenstick
+	subdir = brokenstick
 [submodule "clinDataReview"]
 	path = clinDataReview
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
