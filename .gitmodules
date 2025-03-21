@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "BRugs"]
+	path = BRugs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BRugs
+	subdir = BRugs
 [submodule "D4TAlink.light"]
 	path = D4TAlink.light
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -12,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DDoutlier
 	subdir = DDoutlier
+[submodule "DataFakeR"]
+	path = DataFakeR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DataFakeR
+	subdir = DataFakeR
 [submodule "MALDIcellassay"]
 	path = MALDIcellassay
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scDHA
 	subdir = scDHA
+[submodule "shiny.info"]
+	path = shiny.info
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/shiny.info
+	subdir = shiny.info
 [submodule "spectralGraphTopology"]
 	path = spectralGraphTopology
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
