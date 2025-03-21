@@ -162,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mapping
 	subdir = mapping
+[submodule "marlod"]
+	path = marlod
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/marlod
+	subdir = marlod
 [submodule "marp"]
 	path = marp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mbest
 	subdir = mbest
+[submodule "miWQS"]
+	path = miWQS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/miWQS
+	subdir = miWQS
 [submodule "mpwR"]
 	path = mpwR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
