@@ -357,6 +357,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shiny.info
 	subdir = shiny.info
+[submodule "simest"]
+	path = simest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/simest
+	subdir = simest
 [submodule "spectralGraphTopology"]
 	path = spectralGraphTopology
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
