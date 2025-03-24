@@ -12,21 +12,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/D4TAlink.light
 	subdir = D4TAlink.light
-[submodule "DDoutlier"]
-	path = DDoutlier
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DDoutlier
-	subdir = DDoutlier
 [submodule "DataFakeR"]
 	path = DataFakeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DataFakeR
 	subdir = DataFakeR
-[submodule "MALDIcellassay"]
-	path = MALDIcellassay
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MALDIcellassay
-	subdir = MALDIcellassay
 [submodule "MOCHA"]
 	path = MOCHA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -37,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MicroSEC
 	subdir = MicroSEC
-[submodule "OwenQ"]
-	path = OwenQ
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/OwenQ
-	subdir = OwenQ
 [submodule "PResiduals"]
 	path = PResiduals
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -62,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ScRNAIMM
 	subdir = ScRNAIMM
-[submodule "Statsomat"]
-	path = Statsomat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Statsomat
-	subdir = Statsomat
 [submodule "TEAM"]
 	path = TEAM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TukeyRegion
 	subdir = TukeyRegion
-[submodule "TwitterAutomatedTrading"]
-	path = TwitterAutomatedTrading
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TwitterAutomatedTrading
-	subdir = TwitterAutomatedTrading
 [submodule "XBRL"]
 	path = XBRL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -122,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastQR
 	subdir = fastQR
-[submodule "figpatch"]
-	path = figpatch
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/figpatch
-	subdir = figpatch
 [submodule "finbipartite"]
 	path = finbipartite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -282,11 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spectralGraphTopology
 	subdir = spectralGraphTopology
-[submodule "squat"]
-	path = squat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/squat
-	subdir = squat
 [submodule "tableschema.r"]
 	path = tableschema.r
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,11 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/torchaudio
 	subdir = torchaudio
-[submodule "twitteR"]
-	path = twitteR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/twitteR
-	subdir = twitteR
 [submodule "varycoef"]
 	path = varycoef
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
