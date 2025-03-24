@@ -17,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DataFakeR
 	subdir = DataFakeR
+[submodule "IBDsim"]
+	path = IBDsim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/IBDsim
+	subdir = IBDsim
 [submodule "MOCHA"]
 	path = MOCHA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
