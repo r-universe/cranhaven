@@ -157,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eivtools
 	subdir = eivtools
-[submodule "fastQR"]
-	path = fastQR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fastQR
-	subdir = fastQR
 [submodule "finbipartite"]
 	path = finbipartite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
