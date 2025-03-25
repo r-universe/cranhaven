@@ -327,11 +327,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/predkmeans
 	subdir = predkmeans
-[submodule "prism"]
-	path = prism
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/prism
-	subdir = prism
 [submodule "rTorch"]
 	path = rTorch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
