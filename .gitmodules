@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DataFakeR
 	subdir = DataFakeR
+[submodule "EmiStatR"]
+	path = EmiStatR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EmiStatR
+	subdir = EmiStatR
 [submodule "FarmSelect"]
 	path = FarmSelect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -42,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IBDsim
 	subdir = IBDsim
+[submodule "INCATome"]
+	path = INCATome
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/INCATome
+	subdir = INCATome
 [submodule "LW1949"]
 	path = LW1949
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,6 +77,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MicroSEC
 	subdir = MicroSEC
+[submodule "OHCSpackage"]
+	path = OHCSpackage
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/OHCSpackage
+	subdir = OHCSpackage
+[submodule "PEACH"]
+	path = PEACH
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PEACH
+	subdir = PEACH
 [submodule "PResiduals"]
 	path = PResiduals
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,6 +317,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/polyhedralCubature
 	subdir = polyhedralCubature
+[submodule "portsort"]
+	path = portsort
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/portsort
+	subdir = portsort
 [submodule "predkmeans"]
 	path = predkmeans
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
