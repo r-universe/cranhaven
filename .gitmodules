@@ -92,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PResiduals
 	subdir = PResiduals
-[submodule "Pandora"]
-	path = Pandora
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Pandora
-	subdir = Pandora
 [submodule "PerseusR"]
 	path = PerseusR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
