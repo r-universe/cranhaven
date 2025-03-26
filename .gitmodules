@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AcousticNDLCodeR
 	subdir = AcousticNDLCodeR
+[submodule "Apollonius"]
+	path = Apollonius
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Apollonius
+	subdir = Apollonius
 [submodule "BRugs"]
 	path = BRugs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,6 +147,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/XBRL
 	subdir = XBRL
+[submodule "archeoViz"]
+	path = archeoViz
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/archeoViz
+	subdir = archeoViz
 [submodule "brokenstick"]
 	path = brokenstick
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clinDataReview
 	subdir = clinDataReview
+[submodule "cxhull"]
+	path = cxhull
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cxhull
+	subdir = cxhull
 [submodule "dataclass"]
 	path = dataclass
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,6 +232,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gtheory
 	subdir = gtheory
+[submodule "gyro"]
+	path = gyro
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gyro
+	subdir = gyro
 [submodule "hddplot"]
 	path = hddplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/marp
 	subdir = marp
+[submodule "massiveGST"]
+	path = massiveGST
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/massiveGST
+	subdir = massiveGST
 [submodule "mbest"]
 	path = mbest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
