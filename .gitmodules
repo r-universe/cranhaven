@@ -432,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/torchaudio
 	subdir = torchaudio
-[submodule "varycoef"]
-	path = varycoef
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/varycoef
-	subdir = varycoef
 [submodule "washex"]
 	path = washex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
