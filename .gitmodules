@@ -262,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mapping
 	subdir = mapping
-[submodule "marlod"]
-	path = marlod
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/marlod
-	subdir = marlod
 [submodule "marp"]
 	path = marp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
