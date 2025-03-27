@@ -362,11 +362,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/revgeo
 	subdir = revgeo
-[submodule "rflashtext"]
-	path = rflashtext
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rflashtext
-	subdir = rflashtext
 [submodule "rllama"]
 	path = rllama
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -387,11 +382,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scDHA
 	subdir = scDHA
-[submodule "shiny.info"]
-	path = shiny.info
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shiny.info
-	subdir = shiny.info
 [submodule "simest"]
 	path = simest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -407,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tableschema.r
 	subdir = tableschema.r
-[submodule "tabulate"]
-	path = tabulate
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tabulate
-	subdir = tabulate
 [submodule "tern.rbmi"]
 	path = tern.rbmi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
