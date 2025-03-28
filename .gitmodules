@@ -392,11 +392,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spectralGraphTopology
 	subdir = spectralGraphTopology
-[submodule "tableschema.r"]
-	path = tableschema.r
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tableschema.r
-	subdir = tableschema.r
 [submodule "tabulate"]
 	path = tabulate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
