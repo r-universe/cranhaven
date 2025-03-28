@@ -117,6 +117,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ScRNAIMM
 	subdir = ScRNAIMM
+[submodule "SizeEstimation"]
+	path = SizeEstimation
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SizeEstimation
+	subdir = SizeEstimation
 [submodule "TEAM"]
 	path = TEAM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,6 +252,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kmeRs
 	subdir = kmeRs
+[submodule "kpcalg"]
+	path = kpcalg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/kpcalg
+	subdir = kpcalg
 [submodule "mapping"]
 	path = mapping
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/marp
 	subdir = marp
+[submodule "massiveGST"]
+	path = massiveGST
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/massiveGST
+	subdir = massiveGST
 [submodule "mbest"]
 	path = mbest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nestedmodels
 	subdir = nestedmodels
+[submodule "noegletalR"]
+	path = noegletalR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/noegletalR
+	subdir = noegletalR
 [submodule "ohtadstats"]
 	path = ohtadstats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,6 +342,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rTorch
 	subdir = rTorch
+[submodule "rehydratoR"]
+	path = rehydratoR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rehydratoR
+	subdir = rehydratoR
+[submodule "revgeo"]
+	path = revgeo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/revgeo
+	subdir = revgeo
 [submodule "rflashtext"]
 	path = rflashtext
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
