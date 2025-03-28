@@ -272,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/marp
 	subdir = marp
-[submodule "massiveGST"]
-	path = massiveGST
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/massiveGST
-	subdir = massiveGST
 [submodule "mbest"]
 	path = mbest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
