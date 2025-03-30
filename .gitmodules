@@ -422,11 +422,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/torchaudio
 	subdir = torchaudio
-[submodule "washex"]
-	path = washex
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/washex
-	subdir = washex
 [submodule "webqueue"]
 	path = webqueue
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
