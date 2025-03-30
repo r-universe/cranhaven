@@ -107,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PerseusR
 	subdir = PerseusR
+[submodule "RITCH"]
+	path = RITCH
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RITCH
+	subdir = RITCH
 [submodule "SSrat"]
 	path = SSrat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,6 +362,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rflashtext
 	subdir = rflashtext
+[submodule "rim"]
+	path = rim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rim
+	subdir = rim
 [submodule "rllama"]
 	path = rllama
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
