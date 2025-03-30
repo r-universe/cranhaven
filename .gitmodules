@@ -97,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PEACH
 	subdir = PEACH
-[submodule "PResiduals"]
-	path = PResiduals
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PResiduals
-	subdir = PResiduals
 [submodule "PerseusR"]
 	path = PerseusR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RITCH
 	subdir = RITCH
+[submodule "RcppPlanc"]
+	path = RcppPlanc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RcppPlanc
+	subdir = RcppPlanc
 [submodule "SSrat"]
 	path = SSrat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,11 +322,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ohtadstats
 	subdir = ohtadstats
-[submodule "ormBigData"]
-	path = ormBigData
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ormBigData
-	subdir = ormBigData
 [submodule "polyhedralCubature"]
 	path = polyhedralCubature
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
