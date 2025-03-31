@@ -227,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flowTraceR
 	subdir = flowTraceR
+[submodule "gdm"]
+	path = gdm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gdm
+	subdir = gdm
 [submodule "ggjoy"]
 	path = ggjoy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
