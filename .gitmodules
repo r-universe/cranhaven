@@ -77,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MargCond
 	subdir = MargCond
+[submodule "MethEvolSIM"]
+	path = MethEvolSIM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MethEvolSIM
+	subdir = MethEvolSIM
 [submodule "MicroSEC"]
 	path = MicroSEC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,11 +162,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/archeoViz
 	subdir = archeoViz
-[submodule "brokenstick"]
-	path = brokenstick
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/brokenstick
-	subdir = brokenstick
 [submodule "clinDataReview"]
 	path = clinDataReview
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
