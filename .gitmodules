@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DataFakeR
 	subdir = DataFakeR
+[submodule "EFS"]
+	path = EFS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EFS
+	subdir = EFS
 [submodule "EmiStatR"]
 	path = EmiStatR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -82,6 +87,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MethEvolSIM
 	subdir = MethEvolSIM
+[submodule "MiDA"]
+	path = MiDA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MiDA
+	subdir = MiDA
 [submodule "MicroSEC"]
 	path = MicroSEC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TT
 	subdir = TT
+[submodule "TestGenerator"]
+	path = TestGenerator
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TestGenerator
+	subdir = TestGenerator
 [submodule "TukeyC"]
 	path = TukeyC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hddplot
 	subdir = hddplot
+[submodule "hilldiv"]
+	path = hilldiv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hilldiv
+	subdir = hilldiv
 [submodule "in2extRemes"]
 	path = in2extRemes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
