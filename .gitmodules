@@ -397,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scDHA
 	subdir = scDHA
-[submodule "shapr"]
-	path = shapr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shapr
-	subdir = shapr
 [submodule "shiny.info"]
 	path = shiny.info
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
