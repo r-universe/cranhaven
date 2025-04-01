@@ -377,11 +377,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rflashtext
 	subdir = rflashtext
-[submodule "rim"]
-	path = rim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rim
-	subdir = rim
 [submodule "rllama"]
 	path = rllama
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
