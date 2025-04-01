@@ -172,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/XBRL
 	subdir = XBRL
-[submodule "archeoViz"]
-	path = archeoViz
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/archeoViz
-	subdir = archeoViz
 [submodule "clinDataReview"]
 	path = clinDataReview
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
