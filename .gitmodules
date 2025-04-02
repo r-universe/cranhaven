@@ -212,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesCT
 	subdir = bayesCT
+[submodule "brulee"]
+	path = brulee
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/brulee
+	subdir = brulee
 [submodule "clinDataReview"]
 	path = clinDataReview
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clusterability
 	subdir = clusterability
+[submodule "crplyr"]
+	path = crplyr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/crplyr
+	subdir = crplyr
 [submodule "cxhull"]
 	path = cxhull
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rock
 	subdir = rock
+[submodule "ropenmeteo"]
+	path = ropenmeteo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ropenmeteo
+	subdir = ropenmeteo
 [submodule "scCAN"]
 	path = scCAN
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,6 +482,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spsh
 	subdir = spsh
+[submodule "stelfi"]
+	path = stelfi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/stelfi
+	subdir = stelfi
 [submodule "tabnet"]
 	path = tabnet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
