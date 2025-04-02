@@ -202,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/XBRL
 	subdir = XBRL
+[submodule "addScales"]
+	path = addScales
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/addScales
+	subdir = addScales
 [submodule "bayesCT"]
 	path = bayesCT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -487,6 +492,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidyformula
 	subdir = tidyformula
+[submodule "tigerstats"]
+	path = tigerstats
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tigerstats
+	subdir = tigerstats
 [submodule "torchaudio"]
 	path = torchaudio
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
