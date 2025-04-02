@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Bchron
 	subdir = Bchron
-[submodule "D4TAlink.light"]
-	path = D4TAlink.light
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/D4TAlink.light
-	subdir = D4TAlink.light
 [submodule "DataFakeR"]
 	path = DataFakeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
