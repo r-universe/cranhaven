@@ -122,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PEACH
 	subdir = PEACH
+[submodule "PKPDsim"]
+	path = PKPDsim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PKPDsim
+	subdir = PKPDsim
 [submodule "PerseusR"]
 	path = PerseusR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
