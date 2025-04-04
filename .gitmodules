@@ -382,11 +382,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multinet
 	subdir = multinet
-[submodule "nbfar"]
-	path = nbfar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nbfar
-	subdir = nbfar
 [submodule "nestedmodels"]
 	path = nestedmodels
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
