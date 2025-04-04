@@ -252,16 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eivtools
 	subdir = eivtools
-[submodule "finbipartite"]
-	path = finbipartite
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/finbipartite
-	subdir = finbipartite
-[submodule "fingraph"]
-	path = fingraph
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fingraph
-	subdir = fingraph
 [submodule "finreportr"]
 	path = finreportr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,11 +457,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/simest
 	subdir = simest
-[submodule "spectralGraphTopology"]
-	path = spectralGraphTopology
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spectralGraphTopology
-	subdir = spectralGraphTopology
 [submodule "spsh"]
 	path = spsh
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
