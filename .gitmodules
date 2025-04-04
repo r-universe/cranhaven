@@ -412,6 +412,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ohtadstats
 	subdir = ohtadstats
+[submodule "osdatahub"]
+	path = osdatahub
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/osdatahub
+	subdir = osdatahub
 [submodule "polyhedralCubature"]
 	path = polyhedralCubature
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
