@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "ARTool"]
+	path = ARTool
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ARTool
+	subdir = ARTool
 [submodule "AcousticNDLCodeR"]
 	path = AcousticNDLCodeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,6 +52,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FuzzyStatProb
 	subdir = FuzzyStatProb
+[submodule "GOxploreR"]
+	path = GOxploreR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GOxploreR
+	subdir = GOxploreR
 [submodule "HETOP"]
 	path = HETOP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,6 +147,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/QCAcluster
 	subdir = QCAcluster
+[submodule "RCPA"]
+	path = RCPA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RCPA
+	subdir = RCPA
 [submodule "RITCH"]
 	path = RITCH
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RcppPlanc
 	subdir = RcppPlanc
+[submodule "Rtwobitlib"]
+	path = Rtwobitlib
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rtwobitlib
+	subdir = Rtwobitlib
 [submodule "SSrat"]
 	path = SSrat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SparseTSCGM
 	subdir = SparseTSCGM
+[submodule "SplitSoftening"]
+	path = SplitSoftening
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SplitSoftening
+	subdir = SplitSoftening
 [submodule "TEAM"]
 	path = TEAM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
