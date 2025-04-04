@@ -162,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RcppPlanc
 	subdir = RcppPlanc
+[submodule "Rcrawler"]
+	path = Rcrawler
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rcrawler
+	subdir = Rcrawler
 [submodule "Rtwobitlib"]
 	path = Rtwobitlib
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,6 +332,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gyro
 	subdir = gyro
+[submodule "hacksaw"]
+	path = hacksaw
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hacksaw
+	subdir = hacksaw
 [submodule "hddplot"]
 	path = hddplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
