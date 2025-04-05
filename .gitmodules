@@ -152,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/QCAcluster
 	subdir = QCAcluster
+[submodule "RAMClustR"]
+	path = RAMClustR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RAMClustR
+	subdir = RAMClustR
 [submodule "RCPA"]
 	path = RCPA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
