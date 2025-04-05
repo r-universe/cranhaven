@@ -57,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FuzzyStatProb
 	subdir = FuzzyStatProb
-[submodule "GOxploreR"]
-	path = GOxploreR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GOxploreR
-	subdir = GOxploreR
 [submodule "HETOP"]
 	path = HETOP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
