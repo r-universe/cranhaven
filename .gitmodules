@@ -127,6 +127,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonetDB.R
 	subdir = MonetDB.R
+[submodule "NetFACS"]
+	path = NetFACS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NetFACS
+	subdir = NetFACS
 [submodule "OHCSpackage"]
 	path = OHCSpackage
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
