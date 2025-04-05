@@ -397,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mpwR
 	subdir = mpwR
-[submodule "mr.raps"]
-	path = mr.raps
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mr.raps
-	subdir = mr.raps
 [submodule "multinet"]
 	path = multinet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -462,11 +457,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rflashtext
 	subdir = rflashtext
-[submodule "rllama"]
-	path = rllama
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rllama
-	subdir = rllama
 [submodule "rock"]
 	path = rock
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
