@@ -42,6 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EmiStatR
 	subdir = EmiStatR
+[submodule "EvaluateCore"]
+	path = EvaluateCore
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EvaluateCore
+	subdir = EvaluateCore
 [submodule "FarmSelect"]
 	path = FarmSelect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,6 +357,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/in2extRemes
 	subdir = in2extRemes
+[submodule "jlme"]
+	path = jlme
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/jlme
+	subdir = jlme
 [submodule "jsonStrings"]
 	path = jsonStrings
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
