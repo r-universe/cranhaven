@@ -477,6 +477,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ropenmeteo
 	subdir = ropenmeteo
+[submodule "rpcss"]
+	path = rpcss
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rpcss
+	subdir = rpcss
 [submodule "scCAN"]
 	path = scCAN
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
