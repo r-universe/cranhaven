@@ -32,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DataFakeR
 	subdir = DataFakeR
+[submodule "DesignCTPB"]
+	path = DesignCTPB
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DesignCTPB
+	subdir = DesignCTPB
 [submodule "EFS"]
 	path = EFS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,6 +82,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/InDisc
 	subdir = InDisc
+[submodule "LCF"]
+	path = LCF
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LCF
+	subdir = LCF
 [submodule "LW1949"]
 	path = LW1949
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,6 +237,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TT
 	subdir = TT
+[submodule "TensorComplete"]
+	path = TensorComplete
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TensorComplete
+	subdir = TensorComplete
 [submodule "TestGenerator"]
 	path = TestGenerator
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,6 +532,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stelfi
 	subdir = stelfi
+[submodule "stilt"]
+	path = stilt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/stilt
+	subdir = stilt
 [submodule "tabnet"]
 	path = tabnet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
