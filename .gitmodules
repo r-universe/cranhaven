@@ -92,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MOCHA
 	subdir = MOCHA
+[submodule "MPCR"]
+	path = MPCR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MPCR
+	subdir = MPCR
 [submodule "MVLM"]
 	path = MVLM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
