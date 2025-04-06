@@ -242,6 +242,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TukeyRegion
 	subdir = TukeyRegion
+[submodule "Twitmo"]
+	path = Twitmo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Twitmo
+	subdir = Twitmo
 [submodule "XBRL"]
 	path = XBRL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
