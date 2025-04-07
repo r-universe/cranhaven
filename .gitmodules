@@ -282,6 +282,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/brulee
 	subdir = brulee
+[submodule "carbonate"]
+	path = carbonate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/carbonate
+	subdir = carbonate
 [submodule "clinDataReview"]
 	path = clinDataReview
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,6 +322,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eivtools
 	subdir = eivtools
+[submodule "epitweetr"]
+	path = epitweetr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/epitweetr
+	subdir = epitweetr
+[submodule "exactLTRE"]
+	path = exactLTRE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/exactLTRE
+	subdir = exactLTRE
 [submodule "finreportr"]
 	path = finreportr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,6 +342,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flowTraceR
 	subdir = flowTraceR
+[submodule "fpp"]
+	path = fpp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fpp
+	subdir = fpp
 [submodule "gdm"]
 	path = gdm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,6 +457,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multinet
 	subdir = multinet
+[submodule "needmining"]
+	path = needmining
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/needmining
+	subdir = needmining
 [submodule "nestedmodels"]
 	path = nestedmodels
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -502,6 +527,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rpcss
 	subdir = rpcss
+[submodule "rtweet"]
+	path = rtweet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rtweet
+	subdir = rtweet
+[submodule "saotd"]
+	path = saotd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/saotd
+	subdir = saotd
 [submodule "scCAN"]
 	path = scCAN
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
