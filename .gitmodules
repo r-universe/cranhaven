@@ -272,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesCT
 	subdir = bayesCT
-[submodule "brulee"]
-	path = brulee
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/brulee
-	subdir = brulee
 [submodule "carbonate"]
 	path = carbonate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
