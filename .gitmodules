@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RITCH
 	subdir = RITCH
-[submodule "RcppPlanc"]
-	path = RcppPlanc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RcppPlanc
-	subdir = RcppPlanc
 [submodule "Rcrawler"]
 	path = Rcrawler
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
