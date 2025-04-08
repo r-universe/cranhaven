@@ -272,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/addScales
 	subdir = addScales
+[submodule "astrodatR"]
+	path = astrodatR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/astrodatR
+	subdir = astrodatR
 [submodule "bayesCT"]
 	path = bayesCT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
