@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "ADMMsigma"]
+	path = ADMMsigma
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ADMMsigma
+	subdir = ADMMsigma
 [submodule "ARTool"]
 	path = ARTool
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,6 +317,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eivtools
 	subdir = eivtools
+[submodule "episcan"]
+	path = episcan
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/episcan
+	subdir = episcan
 [submodule "epitweetr"]
 	path = epitweetr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -442,11 +452,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mpwR
 	subdir = mpwR
-[submodule "multinet"]
-	path = multinet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/multinet
-	subdir = multinet
 [submodule "needmining"]
 	path = needmining
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -607,6 +612,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vampyr
 	subdir = vampyr
+[submodule "varrank"]
+	path = varrank
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/varrank
+	subdir = varrank
 [submodule "webqueue"]
 	path = webqueue
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
