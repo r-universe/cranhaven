@@ -87,6 +87,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/InDisc
 	subdir = InDisc
+[submodule "LCF"]
+	path = LCF
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LCF
+	subdir = LCF
 [submodule "LW1949"]
 	path = LW1949
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MMRcaseselection
 	subdir = MMRcaseselection
+[submodule "MOCHA"]
+	path = MOCHA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MOCHA
+	subdir = MOCHA
 [submodule "MPCR"]
 	path = MPCR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,6 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonetDB.R
 	subdir = MonetDB.R
+[submodule "NetFACS"]
+	path = NetFACS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NetFACS
+	subdir = NetFACS
 [submodule "OHCSpackage"]
 	path = OHCSpackage
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,6 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/episcan
 	subdir = episcan
+[submodule "epitweetr"]
+	path = epitweetr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/epitweetr
+	subdir = epitweetr
 [submodule "exactLTRE"]
 	path = exactLTRE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
