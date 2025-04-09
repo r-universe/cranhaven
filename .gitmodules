@@ -567,11 +567,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stelfi
 	subdir = stelfi
-[submodule "stilt"]
-	path = stilt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/stilt
-	subdir = stilt
 [submodule "tabnet"]
 	path = tabnet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
