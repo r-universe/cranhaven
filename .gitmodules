@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ADMMsigma
 	subdir = ADMMsigma
-[submodule "ARTool"]
-	path = ARTool
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ARTool
-	subdir = ARTool
 [submodule "AcousticNDLCodeR"]
 	path = AcousticNDLCodeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TestGenerator
 	subdir = TestGenerator
-[submodule "TukeyC"]
-	path = TukeyC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TukeyC
-	subdir = TukeyC
 [submodule "TukeyRegion"]
 	path = TukeyRegion
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
