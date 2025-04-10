@@ -262,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Twitmo
 	subdir = Twitmo
-[submodule "XBRL"]
-	path = XBRL
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/XBRL
-	subdir = XBRL
 [submodule "addScales"]
 	path = addScales
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/exactLTRE
 	subdir = exactLTRE
-[submodule "finreportr"]
-	path = finreportr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/finreportr
-	subdir = finreportr
 [submodule "flowTraceR"]
 	path = flowTraceR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
