@@ -197,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SSrat
 	subdir = SSrat
-[submodule "STRMPS"]
-	path = STRMPS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/STRMPS
-	subdir = STRMPS
 [submodule "ScRNAIMM"]
 	path = ScRNAIMM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
