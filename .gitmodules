@@ -297,6 +297,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dirmcmc
 	subdir = dirmcmc
+[submodule "disprose"]
+	path = disprose
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/disprose
+	subdir = disprose
 [submodule "eivtools"]
 	path = eivtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
