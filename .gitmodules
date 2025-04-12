@@ -117,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MargCond
 	subdir = MargCond
-[submodule "MethEvolSIM"]
-	path = MethEvolSIM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MethEvolSIM
-	subdir = MethEvolSIM
 [submodule "MiDA"]
 	path = MiDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/carbonate
 	subdir = carbonate
-[submodule "clinDataReview"]
-	path = clinDataReview
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clinDataReview
-	subdir = clinDataReview
 [submodule "clusterability"]
 	path = clusterability
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
