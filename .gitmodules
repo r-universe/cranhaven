@@ -212,16 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SplitSoftening
 	subdir = SplitSoftening
-[submodule "TEAM"]
-	path = TEAM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TEAM
-	subdir = TEAM
-[submodule "TT"]
-	path = TT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TT
-	subdir = TT
 [submodule "TensorComplete"]
 	path = TensorComplete
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
