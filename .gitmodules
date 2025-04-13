@@ -382,11 +382,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kpcalg
 	subdir = kpcalg
-[submodule "mapping"]
-	path = mapping
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mapping
-	subdir = mapping
 [submodule "mbest"]
 	path = mbest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
