@@ -377,11 +377,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kpcalg
 	subdir = kpcalg
-[submodule "mbest"]
-	path = mbest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mbest
-	subdir = mbest
 [submodule "miWQS"]
 	path = miWQS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
