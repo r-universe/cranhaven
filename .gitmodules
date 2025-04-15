@@ -492,11 +492,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tabulate
 	subdir = tabulate
-[submodule "tern.rbmi"]
-	path = tern.rbmi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tern.rbmi
-	subdir = tern.rbmi
 [submodule "tessellation"]
 	path = tessellation
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
