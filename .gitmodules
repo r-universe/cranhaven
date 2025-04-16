@@ -427,11 +427,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rTorch
 	subdir = rTorch
-[submodule "rehydratoR"]
-	path = rehydratoR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rehydratoR
-	subdir = rehydratoR
 [submodule "revgeo"]
 	path = revgeo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
