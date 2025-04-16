@@ -172,6 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RITCH
 	subdir = RITCH
+[submodule "RSocrata"]
+	path = RSocrata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RSocrata
+	subdir = RSocrata
 [submodule "Rcrawler"]
 	path = Rcrawler
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SplitSoftening
 	subdir = SplitSoftening
+[submodule "T2DFitTailor"]
+	path = T2DFitTailor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/T2DFitTailor
+	subdir = T2DFitTailor
 [submodule "TensorComplete"]
 	path = TensorComplete
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -377,6 +387,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/miWQS
 	subdir = miWQS
+[submodule "neatR"]
+	path = neatR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/neatR
+	subdir = neatR
 [submodule "needmining"]
 	path = needmining
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -432,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rpcss
 	subdir = rpcss
+[submodule "rpredictit"]
+	path = rpredictit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rpredictit
+	subdir = rpredictit
 [submodule "rtweet"]
 	path = rtweet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
