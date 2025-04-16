@@ -217,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TestGenerator
 	subdir = TestGenerator
-[submodule "TukeyRegion"]
-	path = TukeyRegion
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TukeyRegion
-	subdir = TukeyRegion
 [submodule "Twitmo"]
 	path = Twitmo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,11 +392,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/noegletalR
 	subdir = noegletalR
-[submodule "polyhedralCubature"]
-	path = polyhedralCubature
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/polyhedralCubature
-	subdir = polyhedralCubature
 [submodule "portsort"]
 	path = portsort
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,11 +482,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tabulate
 	subdir = tabulate
-[submodule "tessellation"]
-	path = tessellation
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tessellation
-	subdir = tessellation
 [submodule "tigerstats"]
 	path = tigerstats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
