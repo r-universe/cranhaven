@@ -312,6 +312,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gdm
 	subdir = gdm
+[submodule "geofi"]
+	path = geofi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/geofi
+	subdir = geofi
 [submodule "geovol"]
 	path = geovol
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
