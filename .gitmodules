@@ -117,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MiDA
 	subdir = MiDA
-[submodule "MicroSEC"]
-	path = MicroSEC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MicroSEC
-	subdir = MicroSEC
 [submodule "MonetDB.R"]
 	path = MonetDB.R
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,11 +487,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stelfi
 	subdir = stelfi
-[submodule "tabnet"]
-	path = tabnet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tabnet
-	subdir = tabnet
 [submodule "tabulate"]
 	path = tabulate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
