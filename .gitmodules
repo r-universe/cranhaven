@@ -137,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PEACH
 	subdir = PEACH
-[submodule "PKPDsim"]
-	path = PKPDsim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PKPDsim
-	subdir = PKPDsim
 [submodule "PerseusR"]
 	path = PerseusR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -502,6 +497,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/torchaudio
 	subdir = torchaudio
+[submodule "trendeval"]
+	path = trendeval
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/trendeval
+	subdir = trendeval
 [submodule "twangRDC"]
 	path = twangRDC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
