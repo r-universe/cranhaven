@@ -257,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/datasailr
 	subdir = datasailr
+[submodule "demic"]
+	path = demic
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/demic
+	subdir = demic
 [submodule "dirmcmc"]
 	path = dirmcmc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
