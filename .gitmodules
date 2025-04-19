@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Bchron
 	subdir = Bchron
+[submodule "CohensdpLibrary"]
+	path = CohensdpLibrary
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CohensdpLibrary
+	subdir = CohensdpLibrary
 [submodule "DataFakeR"]
 	path = DataFakeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,11 +242,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/carbonate
 	subdir = carbonate
+[submodule "cbcTools"]
+	path = cbcTools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cbcTools
+	subdir = cbcTools
 [submodule "clusterability"]
 	path = clusterability
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clusterability
 	subdir = clusterability
+[submodule "coppeCosenzaR"]
+	path = coppeCosenzaR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/coppeCosenzaR
+	subdir = coppeCosenzaR
 [submodule "crplyr"]
 	path = crplyr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/disprose
 	subdir = disprose
+[submodule "distillML"]
+	path = distillML
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/distillML
+	subdir = distillML
 [submodule "eivtools"]
 	path = eivtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hacksaw
 	subdir = hacksaw
+[submodule "hacksig"]
+	path = hacksig
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hacksig
+	subdir = hacksig
 [submodule "hilldiv"]
 	path = hilldiv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,6 +452,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rflashtext
 	subdir = rflashtext
+[submodule "rliger"]
+	path = rliger
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rliger
+	subdir = rliger
 [submodule "ropenmeteo"]
 	path = ropenmeteo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,6 +482,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/saotd
 	subdir = saotd
+[submodule "sesem"]
+	path = sesem
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sesem
+	subdir = sesem
+[submodule "sgat"]
+	path = sgat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sgat
+	subdir = sgat
 [submodule "shiny.info"]
 	path = shiny.info
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
