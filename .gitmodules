@@ -282,6 +282,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/demic
 	subdir = demic
+[submodule "dexterMST"]
+	path = dexterMST
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dexterMST
+	subdir = dexterMST
 [submodule "dirmcmc"]
 	path = dirmcmc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,6 +417,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/miWQS
 	subdir = miWQS
+[submodule "mnis"]
+	path = mnis
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mnis
+	subdir = mnis
 [submodule "neatR"]
 	path = neatR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nestedmodels
 	subdir = nestedmodels
-[submodule "noegletalR"]
-	path = noegletalR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/noegletalR
-	subdir = noegletalR
 [submodule "portsort"]
 	path = portsort
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -477,6 +482,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rpredictit
 	subdir = rpredictit
+[submodule "rrcovNA"]
+	path = rrcovNA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rrcovNA
+	subdir = rrcovNA
 [submodule "rtweet"]
 	path = rtweet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
