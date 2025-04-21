@@ -552,8 +552,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/varrank
 	subdir = varrank
-[submodule "webqueue"]
-	path = webqueue
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/webqueue
-	subdir = webqueue
