@@ -32,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CohensdpLibrary
 	subdir = CohensdpLibrary
+[submodule "CornerstoneR"]
+	path = CornerstoneR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CornerstoneR
+	subdir = CornerstoneR
 [submodule "DataFakeR"]
 	path = DataFakeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -482,11 +487,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rpredictit
 	subdir = rpredictit
-[submodule "rrcovNA"]
-	path = rrcovNA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rrcovNA
-	subdir = rrcovNA
 [submodule "rtweet"]
 	path = rtweet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -527,6 +527,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stelfi
 	subdir = stelfi
+[submodule "synlik"]
+	path = synlik
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/synlik
+	subdir = synlik
 [submodule "tabulate"]
 	path = tabulate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
