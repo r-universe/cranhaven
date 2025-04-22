@@ -362,11 +362,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gradientPickerD3
 	subdir = gradientPickerD3
-[submodule "greatR"]
-	path = greatR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/greatR
-	subdir = greatR
 [submodule "gtheory"]
 	path = gtheory
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
