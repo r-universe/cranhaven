@@ -402,6 +402,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hilldiv
 	subdir = hilldiv
+[submodule "httpgd"]
+	path = httpgd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/httpgd
+	subdir = httpgd
 [submodule "in2extRemes"]
 	path = in2extRemes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,6 +457,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nestedmodels
 	subdir = nestedmodels
+[submodule "njtr1"]
+	path = njtr1
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/njtr1
+	subdir = njtr1
+[submodule "piglet"]
+	path = piglet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/piglet
+	subdir = piglet
 [submodule "portsort"]
 	path = portsort
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
