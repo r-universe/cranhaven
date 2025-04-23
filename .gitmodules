@@ -247,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesCT
 	subdir = bayesCT
-[submodule "biometryassist"]
-	path = biometryassist
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/biometryassist
-	subdir = biometryassist
 [submodule "carbonate"]
 	path = carbonate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
