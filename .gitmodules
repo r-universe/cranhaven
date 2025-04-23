@@ -192,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SSrat
 	subdir = SSrat
+[submodule "SeqNet"]
+	path = SeqNet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SeqNet
+	subdir = SeqNet
 [submodule "SizeEstimation"]
 	path = SizeEstimation
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/crplyr
 	subdir = crplyr
+[submodule "crunchy"]
+	path = crunchy
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/crunchy
+	subdir = crunchy
 [submodule "cxhull"]
 	path = cxhull
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +317,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/distillML
 	subdir = distillML
+[submodule "dnapath"]
+	path = dnapath
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dnapath
+	subdir = dnapath
 [submodule "eivtools"]
 	path = eivtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
