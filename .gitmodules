@@ -537,11 +537,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tigerstats
 	subdir = tigerstats
-[submodule "torchaudio"]
-	path = torchaudio
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/torchaudio
-	subdir = torchaudio
 [submodule "trendeval"]
 	path = trendeval
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
