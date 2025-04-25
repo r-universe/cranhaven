@@ -517,11 +517,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tigerstats
 	subdir = tigerstats
-[submodule "trendeval"]
-	path = trendeval
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/trendeval
-	subdir = trendeval
 [submodule "twangRDC"]
 	path = twangRDC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
