@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Bchron
 	subdir = Bchron
+[submodule "BioMark"]
+	path = BioMark
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BioMark
+	subdir = BioMark
 [submodule "CohensdpLibrary"]
 	path = CohensdpLibrary
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -537,6 +542,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/twangRDC
 	subdir = twangRDC
+[submodule "ukbtools"]
+	path = ukbtools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ukbtools
+	subdir = ukbtools
 [submodule "vampyr"]
 	path = vampyr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
