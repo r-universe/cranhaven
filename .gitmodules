@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Apollonius
 	subdir = Apollonius
-[submodule "BRugs"]
-	path = BRugs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BRugs
-	subdir = BRugs
 [submodule "Bchron"]
 	path = Bchron
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -42,11 +37,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CornerstoneR
 	subdir = CornerstoneR
-[submodule "DataFakeR"]
-	path = DataFakeR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DataFakeR
-	subdir = DataFakeR
 [submodule "DesignCTPB"]
 	path = DesignCTPB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -502,11 +492,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sgat
 	subdir = sgat
-[submodule "shiny.info"]
-	path = shiny.info
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shiny.info
-	subdir = shiny.info
 [submodule "simest"]
 	path = simest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
