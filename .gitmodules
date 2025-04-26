@@ -37,11 +37,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CornerstoneR
 	subdir = CornerstoneR
+[submodule "DataCombine"]
+	path = DataCombine
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DataCombine
+	subdir = DataCombine
 [submodule "DesignCTPB"]
 	path = DesignCTPB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DesignCTPB
 	subdir = DesignCTPB
+[submodule "E4tools"]
+	path = E4tools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/E4tools
+	subdir = E4tools
 [submodule "EFS"]
 	path = EFS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geovol
 	subdir = geovol
+[submodule "gesttools"]
+	path = gesttools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gesttools
+	subdir = gesttools
 [submodule "ggjoy"]
 	path = ggjoy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -442,6 +457,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/predkmeans
 	subdir = predkmeans
+[submodule "psData"]
+	path = psData
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/psData
+	subdir = psData
 [submodule "rTorch"]
 	path = rTorch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -472,6 +492,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rpredictit
 	subdir = rpredictit
+[submodule "rties"]
+	path = rties
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rties
+	subdir = rties
 [submodule "rtweet"]
 	path = rtweet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
