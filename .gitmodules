@@ -107,6 +107,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LCF
 	subdir = LCF
+[submodule "LDABiplots"]
+	path = LDABiplots
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LDABiplots
+	subdir = LDABiplots
+[submodule "LDAShiny"]
+	path = LDAShiny
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LDAShiny
+	subdir = LDAShiny
 [submodule "LW1949"]
 	path = LW1949
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,6 +437,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kpcalg
 	subdir = kpcalg
+[submodule "kpmt"]
+	path = kpmt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/kpmt
+	subdir = kpmt
+[submodule "ldatuning"]
+	path = ldatuning
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ldatuning
+	subdir = ldatuning
 [submodule "mnis"]
 	path = mnis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,6 +487,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/psData
 	subdir = psData
+[submodule "qpcR"]
+	path = qpcR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qpcR
+	subdir = qpcR
 [submodule "rMR"]
 	path = rMR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
