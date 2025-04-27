@@ -72,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FarmSelect
 	subdir = FarmSelect
+[submodule "FishResp"]
+	path = FishResp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FishResp
+	subdir = FishResp
 [submodule "FuzzyStatProb"]
 	path = FuzzyStatProb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -462,6 +467,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/psData
 	subdir = psData
+[submodule "rMR"]
+	path = rMR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rMR
+	subdir = rMR
 [submodule "rTorch"]
 	path = rTorch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
