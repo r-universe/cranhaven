@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HETOP
 	subdir = HETOP
-[submodule "IBDsim"]
-	path = IBDsim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/IBDsim
-	subdir = IBDsim
 [submodule "INCATome"]
 	path = INCATome
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
