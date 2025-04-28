@@ -532,6 +532,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rtweet
 	subdir = rtweet
+[submodule "rusquant"]
+	path = rusquant
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rusquant
+	subdir = rusquant
 [submodule "saotd"]
 	path = saotd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -572,6 +577,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tigerstats
 	subdir = tigerstats
+[submodule "trelloR"]
+	path = trelloR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/trelloR
+	subdir = trelloR
 [submodule "twangRDC"]
 	path = twangRDC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
