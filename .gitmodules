@@ -32,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CornerstoneR
 	subdir = CornerstoneR
+[submodule "CrossVA"]
+	path = CrossVA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CrossVA
+	subdir = CrossVA
 [submodule "DataCombine"]
 	path = DataCombine
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
