@@ -367,11 +367,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gesttools
 	subdir = gesttools
-[submodule "ggjoy"]
-	path = ggjoy
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ggjoy
-	subdir = ggjoy
 [submodule "ggplotlyExtra"]
 	path = ggplotlyExtra
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
