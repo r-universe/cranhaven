@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonetDB.R
 	subdir = MonetDB.R
-[submodule "NetFACS"]
-	path = NetFACS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NetFACS
-	subdir = NetFACS
 [submodule "ProtE"]
 	path = ProtE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Twitmo
 	subdir = Twitmo
+[submodule "addScales"]
+	path = addScales
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/addScales
+	subdir = addScales
 [submodule "astrodatR"]
 	path = astrodatR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,6 +452,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/trelloR
 	subdir = trelloR
+[submodule "twangRDC"]
+	path = twangRDC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/twangRDC
+	subdir = twangRDC
+[submodule "ukbtools"]
+	path = ukbtools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ukbtools
+	subdir = ukbtools
 [submodule "vampyr"]
 	path = vampyr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
