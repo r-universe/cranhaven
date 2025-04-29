@@ -77,11 +77,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/InDisc
 	subdir = InDisc
-[submodule "LCF"]
-	path = LCF
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LCF
-	subdir = LCF
 [submodule "LDABiplots"]
 	path = LDABiplots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VicmapR
 	subdir = VicmapR
-[submodule "addScales"]
-	path = addScales
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/addScales
-	subdir = addScales
 [submodule "astrodatR"]
 	path = astrodatR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cxhull
 	subdir = cxhull
-[submodule "demic"]
-	path = demic
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/demic
-	subdir = demic
 [submodule "dexterMST"]
 	path = dexterMST
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
