@@ -57,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EFS
 	subdir = EFS
-[submodule "EmiStatR"]
-	path = EmiStatR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EmiStatR
-	subdir = EmiStatR
 [submodule "EvaluateCore"]
 	path = EvaluateCore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -72,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FishResp
 	subdir = FishResp
-[submodule "INCATome"]
-	path = INCATome
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/INCATome
-	subdir = INCATome
 [submodule "InDisc"]
 	path = InDisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,16 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NetFACS
 	subdir = NetFACS
-[submodule "OHCSpackage"]
-	path = OHCSpackage
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/OHCSpackage
-	subdir = OHCSpackage
-[submodule "PEACH"]
-	path = PEACH
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PEACH
-	subdir = PEACH
 [submodule "QCAcluster"]
 	path = QCAcluster
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,11 +362,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/piglet
 	subdir = piglet
-[submodule "portsort"]
-	path = portsort
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/portsort
-	subdir = portsort
 [submodule "psData"]
 	path = psData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
