@@ -97,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MiDA
 	subdir = MiDA
+[submodule "MixAll"]
+	path = MixAll
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MixAll
+	subdir = MixAll
 [submodule "MonetDB.R"]
 	path = MonetDB.R
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
