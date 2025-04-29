@@ -257,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/demic
 	subdir = demic
+[submodule "dexterMST"]
+	path = dexterMST
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dexterMST
+	subdir = dexterMST
 [submodule "disprose"]
 	path = disprose
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
