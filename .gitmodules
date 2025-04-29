@@ -82,11 +82,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LCF
 	subdir = LCF
+[submodule "LDABiplots"]
+	path = LDABiplots
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LDABiplots
+	subdir = LDABiplots
+[submodule "LDAShiny"]
+	path = LDAShiny
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LDAShiny
+	subdir = LDAShiny
 [submodule "MMRcaseselection"]
 	path = MMRcaseselection
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MMRcaseselection
 	subdir = MMRcaseselection
+[submodule "MiDA"]
+	path = MiDA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MiDA
+	subdir = MiDA
 [submodule "MixAll"]
 	path = MixAll
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/QCAcluster
 	subdir = QCAcluster
+[submodule "RAMClustR"]
+	path = RAMClustR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RAMClustR
+	subdir = RAMClustR
 [submodule "RCPA"]
 	path = RCPA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,16 +247,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/crunchy
 	subdir = crunchy
+[submodule "cxhull"]
+	path = cxhull
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cxhull
+	subdir = cxhull
 [submodule "demic"]
 	path = demic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/demic
 	subdir = demic
-[submodule "dexterMST"]
-	path = dexterMST
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dexterMST
-	subdir = dexterMST
 [submodule "disprose"]
 	path = disprose
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,6 +332,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/httpgd
 	subdir = httpgd
+[submodule "jlme"]
+	path = jlme
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/jlme
+	subdir = jlme
 [submodule "kibior"]
 	path = kibior
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,6 +382,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/psData
 	subdir = psData
+[submodule "qpcR"]
+	path = qpcR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qpcR
+	subdir = qpcR
 [submodule "rMR"]
 	path = rMR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,6 +402,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ropenmeteo
 	subdir = ropenmeteo
+[submodule "rpcss"]
+	path = rpcss
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rpcss
+	subdir = rpcss
 [submodule "rpredictit"]
 	path = rpredictit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
