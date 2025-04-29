@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DesignCTPB
 	subdir = DesignCTPB
+[submodule "DiceOptim"]
+	path = DiceOptim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DiceOptim
+	subdir = DiceOptim
 [submodule "E4tools"]
 	path = E4tools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +112,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonetDB.R
 	subdir = MonetDB.R
+[submodule "NetFACS"]
+	path = NetFACS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NetFACS
+	subdir = NetFACS
+[submodule "PRSim"]
+	path = PRSim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PRSim
+	subdir = PRSim
 [submodule "ProtE"]
 	path = ProtE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,6 +197,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Twitmo
 	subdir = Twitmo
+[submodule "VicmapR"]
+	path = VicmapR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/VicmapR
+	subdir = VicmapR
 [submodule "addScales"]
 	path = addScales
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
