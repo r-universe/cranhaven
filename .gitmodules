@@ -107,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonetDB.R
 	subdir = MonetDB.R
+[submodule "NetFACS"]
+	path = NetFACS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NetFACS
+	subdir = NetFACS
 [submodule "PRSim"]
 	path = PRSim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mnis
 	subdir = mnis
+[submodule "neatR"]
+	path = neatR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/neatR
+	subdir = neatR
 [submodule "needmining"]
 	path = needmining
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
