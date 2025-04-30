@@ -72,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FishResp
 	subdir = FishResp
+[submodule "GSAfisherCombined"]
+	path = GSAfisherCombined
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GSAfisherCombined
+	subdir = GSAfisherCombined
 [submodule "InDisc"]
 	path = InDisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,11 +117,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonetDB.R
 	subdir = MonetDB.R
+[submodule "MonoInc"]
+	path = MonoInc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MonoInc
+	subdir = MonoInc
 [submodule "NetFACS"]
 	path = NetFACS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NetFACS
 	subdir = NetFACS
+[submodule "OCA"]
+	path = OCA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/OCA
+	subdir = OCA
 [submodule "PRSim"]
 	path = PRSim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SeqNet
 	subdir = SeqNet
+[submodule "SmoothWin"]
+	path = SmoothWin
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SmoothWin
+	subdir = SmoothWin
 [submodule "SparseTSCGM"]
 	path = SparseTSCGM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/addScales
 	subdir = addScales
+[submodule "arnie"]
+	path = arnie
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/arnie
+	subdir = arnie
 [submodule "astrodatR"]
 	path = astrodatR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,6 +242,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesCT
 	subdir = bayesCT
+[submodule "bcgam"]
+	path = bcgam
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bcgam
+	subdir = bcgam
+[submodule "biodosetools"]
+	path = biodosetools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/biodosetools
+	subdir = biodosetools
 [submodule "carbonate"]
 	path = carbonate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,6 +282,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/crunchy
 	subdir = crunchy
+[submodule "dbflobr"]
+	path = dbflobr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dbflobr
+	subdir = dbflobr
 [submodule "demic"]
 	path = demic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/httpgd
 	subdir = httpgd
+[submodule "itsmr"]
+	path = itsmr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/itsmr
+	subdir = itsmr
 [submodule "jlme"]
 	path = jlme
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,6 +397,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mnis
 	subdir = mnis
+[submodule "mogavs"]
+	path = mogavs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mogavs
+	subdir = mogavs
 [submodule "neatR"]
 	path = neatR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
