@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ADMMsigma
 	subdir = ADMMsigma
-[submodule "Apollonius"]
-	path = Apollonius
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Apollonius
-	subdir = Apollonius
 [submodule "Bchron"]
 	path = Bchron
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/crunchy
 	subdir = crunchy
-[submodule "cxhull"]
-	path = cxhull
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cxhull
-	subdir = cxhull
 [submodule "demic"]
 	path = demic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,11 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gesttools
 	subdir = gesttools
-[submodule "gyro"]
-	path = gyro
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gyro
-	subdir = gyro
 [submodule "hacksaw"]
 	path = hacksaw
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
