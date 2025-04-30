@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ADMMsigma
 	subdir = ADMMsigma
+[submodule "ARPALData"]
+	path = ARPALData
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ARPALData
+	subdir = ARPALData
 [submodule "Bchron"]
 	path = Bchron
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -432,6 +437,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sgat
 	subdir = sgat
+[submodule "sleeperapi"]
+	path = sleeperapi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sleeperapi
+	subdir = sleeperapi
 [submodule "spsh"]
 	path = spsh
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
