@@ -147,6 +147,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rcrawler
 	subdir = Rcrawler
+[submodule "Rtwobitlib"]
+	path = Rtwobitlib
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rtwobitlib
+	subdir = Rtwobitlib
 [submodule "SeqNet"]
 	path = SeqNet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,21 +342,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mnis
 	subdir = mnis
-[submodule "neatR"]
-	path = neatR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/neatR
-	subdir = neatR
 [submodule "needmining"]
 	path = needmining
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/needmining
 	subdir = needmining
+[submodule "njtr1"]
+	path = njtr1
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/njtr1
+	subdir = njtr1
 [submodule "piglet"]
 	path = piglet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/piglet
 	subdir = piglet
+[submodule "psData"]
+	path = psData
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/psData
+	subdir = psData
 [submodule "qpcR"]
 	path = qpcR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
