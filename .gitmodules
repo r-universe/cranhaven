@@ -397,6 +397,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/jiebaR
 	subdir = jiebaR
+[submodule "jiebaRD"]
+	path = jiebaRD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/jiebaRD
+	subdir = jiebaRD
 [submodule "jlme"]
 	path = jlme
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
