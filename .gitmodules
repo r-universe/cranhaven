@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CANSIM2R
 	subdir = CANSIM2R
+[submodule "CTM"]
+	path = CTM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CTM
+	subdir = CTM
 [submodule "CohensdpLibrary"]
 	path = CohensdpLibrary
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/T2DFitTailor
 	subdir = T2DFitTailor
+[submodule "TangPoemR"]
+	path = TangPoemR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TangPoemR
+	subdir = TangPoemR
 [submodule "TensorComplete"]
 	path = TensorComplete
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cbcTools
 	subdir = cbcTools
+[submodule "chinese.misc"]
+	path = chinese.misc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/chinese.misc
+	subdir = chinese.misc
 [submodule "clusterability"]
 	path = clusterability
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,6 +387,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/itsmr
 	subdir = itsmr
+[submodule "jiebaR"]
+	path = jiebaR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/jiebaR
+	subdir = jiebaR
 [submodule "jlme"]
 	path = jlme
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
