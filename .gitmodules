@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BioMark
 	subdir = BioMark
+[submodule "CANSIM2R"]
+	path = CANSIM2R
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CANSIM2R
+	subdir = CANSIM2R
 [submodule "CohensdpLibrary"]
 	path = CohensdpLibrary
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
