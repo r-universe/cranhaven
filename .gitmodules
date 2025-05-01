@@ -267,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biodosetools
 	subdir = biodosetools
+[submodule "capm"]
+	path = capm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/capm
+	subdir = capm
 [submodule "carbonate"]
 	path = carbonate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
