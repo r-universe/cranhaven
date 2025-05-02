@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ADMMsigma
 	subdir = ADMMsigma
+[submodule "ADSIHT"]
+	path = ADSIHT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ADSIHT
+	subdir = ADSIHT
 [submodule "ARPALData"]
 	path = ARPALData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,6 +157,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PRSim
 	subdir = PRSim
+[submodule "PartialNetwork"]
+	path = PartialNetwork
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PartialNetwork
+	subdir = PartialNetwork
 [submodule "ProtE"]
 	path = ProtE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/T2DFitTailor
 	subdir = T2DFitTailor
+[submodule "TPCselect"]
+	path = TPCselect
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TPCselect
+	subdir = TPCselect
 [submodule "TangPoemR"]
 	path = TangPoemR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
