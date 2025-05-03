@@ -17,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ARPALData
 	subdir = ARPALData
+[submodule "AirMonitor"]
+	path = AirMonitor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AirMonitor
+	subdir = AirMonitor
 [submodule "Bchron"]
 	path = Bchron
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -37,11 +42,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CANSIM2R
 	subdir = CANSIM2R
+[submodule "CSIndicators"]
+	path = CSIndicators
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CSIndicators
+	subdir = CSIndicators
+[submodule "CSTools"]
+	path = CSTools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CSTools
+	subdir = CSTools
 [submodule "CTM"]
 	path = CTM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CTM
 	subdir = CTM
+[submodule "ClimProjDiags"]
+	path = ClimProjDiags
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ClimProjDiags
+	subdir = ClimProjDiags
 [submodule "CohensdpLibrary"]
 	path = CohensdpLibrary
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -122,6 +142,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MMRcaseselection
 	subdir = MMRcaseselection
+[submodule "MazamaRollUtils"]
+	path = MazamaRollUtils
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MazamaRollUtils
+	subdir = MazamaRollUtils
+[submodule "MazamaTimeSeries"]
+	path = MazamaTimeSeries
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MazamaTimeSeries
+	subdir = MazamaTimeSeries
 [submodule "MiDA"]
 	path = MiDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OCA
 	subdir = OCA
+[submodule "PCICt"]
+	path = PCICt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PCICt
+	subdir = PCICt
 [submodule "PRSim"]
 	path = PRSim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -362,6 +397,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/epitweetr
 	subdir = epitweetr
+[submodule "epwshiftr"]
+	path = epwshiftr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/epwshiftr
+	subdir = epwshiftr
+[submodule "eurocordexr"]
+	path = eurocordexr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/eurocordexr
+	subdir = eurocordexr
 [submodule "exactLTRE"]
 	path = exactLTRE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,6 +497,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mogavs
 	subdir = mogavs
+[submodule "ncdf4.helpers"]
+	path = ncdf4.helpers
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ncdf4.helpers
+	subdir = ncdf4.helpers
 [submodule "neatR"]
 	path = neatR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,6 +567,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rusquant
 	subdir = rusquant
+[submodule "s2dv"]
+	path = s2dv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/s2dv
+	subdir = s2dv
 [submodule "saotd"]
 	path = saotd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -542,6 +597,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spsh
 	subdir = spsh
+[submodule "startR"]
+	path = startR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/startR
+	subdir = startR
 [submodule "stelfi"]
 	path = stelfi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
