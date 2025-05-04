@@ -562,6 +562,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rusquant
 	subdir = rusquant
+[submodule "rwebstat"]
+	path = rwebstat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rwebstat
+	subdir = rwebstat
 [submodule "s2dv"]
 	path = s2dv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
