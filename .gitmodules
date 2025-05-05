@@ -97,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/E4tools
 	subdir = E4tools
-[submodule "EFS"]
-	path = EFS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EFS
-	subdir = EFS
 [submodule "EvaluateCore"]
 	path = EvaluateCore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MazamaTimeSeries
 	subdir = MazamaTimeSeries
-[submodule "MiDA"]
-	path = MiDA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MiDA
-	subdir = MiDA
 [submodule "MixAll"]
 	path = MixAll
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,11 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TensorComplete
 	subdir = TensorComplete
-[submodule "TestGenerator"]
-	path = TestGenerator
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TestGenerator
-	subdir = TestGenerator
 [submodule "Twitmo"]
 	path = Twitmo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,11 +422,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hacksig
 	subdir = hacksig
-[submodule "hilldiv"]
-	path = hilldiv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hilldiv
-	subdir = hilldiv
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
