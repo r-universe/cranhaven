@@ -397,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fpp
 	subdir = fpp
-[submodule "gdm"]
-	path = gdm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gdm
-	subdir = gdm
 [submodule "geovol"]
 	path = geovol
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
