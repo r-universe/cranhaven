@@ -237,11 +237,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VicmapR
 	subdir = VicmapR
-[submodule "addScales"]
-	path = addScales
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/addScales
-	subdir = addScales
 [submodule "arnie"]
 	path = arnie
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -532,11 +527,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/synlik
 	subdir = synlik
-[submodule "tigerstats"]
-	path = tigerstats
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tigerstats
-	subdir = tigerstats
 [submodule "trelloR"]
 	path = trelloR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
