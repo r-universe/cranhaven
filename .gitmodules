@@ -367,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/httpgd
 	subdir = httpgd
+[submodule "image.textlinedetector"]
+	path = image.textlinedetector
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/image.textlinedetector
+	subdir = image.textlinedetector
 [submodule "itsmr"]
 	path = itsmr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -447,6 +452,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rMR
 	subdir = rMR
+[submodule "randquotes"]
+	path = randquotes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/randquotes
+	subdir = randquotes
 [submodule "rpcss"]
 	path = rpcss
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
