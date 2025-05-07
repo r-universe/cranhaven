@@ -282,11 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/coppeCosenzaR
 	subdir = coppeCosenzaR
-[submodule "crplyr"]
-	path = crplyr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/crplyr
-	subdir = crplyr
 [submodule "crunchy"]
 	path = crunchy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,11 +447,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rMR
 	subdir = rMR
-[submodule "ropenmeteo"]
-	path = ropenmeteo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ropenmeteo
-	subdir = ropenmeteo
 [submodule "rpcss"]
 	path = rpcss
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,11 +507,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/startR
 	subdir = startR
-[submodule "stelfi"]
-	path = stelfi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/stelfi
-	subdir = stelfi
 [submodule "synlik"]
 	path = synlik
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
