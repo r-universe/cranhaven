@@ -352,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gesttools
 	subdir = gesttools
+[submodule "glossa"]
+	path = glossa
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/glossa
+	subdir = glossa
 [submodule "hacksaw"]
 	path = hacksaw
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
