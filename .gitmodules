@@ -162,11 +162,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PRSim
 	subdir = PRSim
-[submodule "PartialNetwork"]
-	path = PartialNetwork
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PartialNetwork
-	subdir = PartialNetwork
 [submodule "ProtE"]
 	path = ProtE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
