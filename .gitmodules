@@ -177,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RSocrata
 	subdir = RSocrata
-[submodule "Rcrawler"]
-	path = Rcrawler
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Rcrawler
-	subdir = Rcrawler
 [submodule "SeedMatchR"]
 	path = SeedMatchR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,11 +352,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glossa
 	subdir = glossa
-[submodule "hacksaw"]
-	path = hacksaw
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hacksaw
-	subdir = hacksaw
 [submodule "hacksig"]
 	path = hacksig
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
