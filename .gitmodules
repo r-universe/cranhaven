@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LDAShiny
 	subdir = LDAShiny
-[submodule "MazamaRollUtils"]
-	path = MazamaRollUtils
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MazamaRollUtils
-	subdir = MazamaRollUtils
 [submodule "MazamaTimeSeries"]
 	path = MazamaTimeSeries
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
