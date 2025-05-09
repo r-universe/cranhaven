@@ -197,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SmoothWin
 	subdir = SmoothWin
-[submodule "SplitSoftening"]
-	path = SplitSoftening
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SplitSoftening
-	subdir = SplitSoftening
 [submodule "T2DFitTailor"]
 	path = T2DFitTailor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
