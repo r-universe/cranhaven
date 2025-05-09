@@ -332,6 +332,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/exactLTRE
 	subdir = exactLTRE
+[submodule "fmds"]
+	path = fmds
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fmds
+	subdir = fmds
+[submodule "forestdata"]
+	path = forestdata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/forestdata
+	subdir = forestdata
 [submodule "fpp"]
 	path = fpp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
