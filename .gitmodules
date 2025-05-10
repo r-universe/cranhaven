@@ -92,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/E4tools
 	subdir = E4tools
-[submodule "EvaluateCore"]
-	path = EvaluateCore
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EvaluateCore
-	subdir = EvaluateCore
 [submodule "FishResp"]
 	path = FishResp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -377,11 +372,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/jiebaRD
 	subdir = jiebaRD
-[submodule "jlme"]
-	path = jlme
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/jlme
-	subdir = jlme
 [submodule "kpmt"]
 	path = kpmt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
