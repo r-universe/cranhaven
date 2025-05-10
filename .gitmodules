@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonoInc
 	subdir = MonoInc
-[submodule "NetFACS"]
-	path = NetFACS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NetFACS
-	subdir = NetFACS
 [submodule "OCA"]
 	path = OCA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
