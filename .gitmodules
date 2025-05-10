@@ -152,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ProtE
 	subdir = ProtE
-[submodule "RAMClustR"]
-	path = RAMClustR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RAMClustR
-	subdir = RAMClustR
 [submodule "RSocrata"]
 	path = RSocrata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
