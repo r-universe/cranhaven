@@ -437,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/randquotes
 	subdir = randquotes
-[submodule "rpcss"]
-	path = rpcss
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rpcss
-	subdir = rpcss
 [submodule "rpredictit"]
 	path = rpredictit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
