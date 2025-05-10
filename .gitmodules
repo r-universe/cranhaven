@@ -252,6 +252,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/coppeCosenzaR
 	subdir = coppeCosenzaR
+[submodule "crfsuite"]
+	path = crfsuite
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/crfsuite
+	subdir = crfsuite
 [submodule "crunchy"]
 	path = crunchy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,6 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dnapath
 	subdir = dnapath
+[submodule "dynsim"]
+	path = dynsim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dynsim
+	subdir = dynsim
 [submodule "episcan"]
 	path = episcan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
