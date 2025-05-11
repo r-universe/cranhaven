@@ -192,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TensorComplete
 	subdir = TensorComplete
-[submodule "Twitmo"]
-	path = Twitmo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Twitmo
-	subdir = Twitmo
 [submodule "VicmapR"]
 	path = VicmapR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
