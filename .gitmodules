@@ -77,11 +77,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DataCombine
 	subdir = DataCombine
-[submodule "DesignCTPB"]
-	path = DesignCTPB
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DesignCTPB
-	subdir = DesignCTPB
 [submodule "DiceOptim"]
 	path = DiceOptim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -102,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GSAfisherCombined
 	subdir = GSAfisherCombined
-[submodule "LCF"]
-	path = LCF
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LCF
-	subdir = LCF
 [submodule "LDABiplots"]
 	path = LDABiplots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TangPoemR
 	subdir = TangPoemR
-[submodule "TensorComplete"]
-	path = TensorComplete
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TensorComplete
-	subdir = TensorComplete
 [submodule "VicmapR"]
 	path = VicmapR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/disprose
 	subdir = disprose
+[submodule "distfreereg"]
+	path = distfreereg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/distfreereg
+	subdir = distfreereg
 [submodule "distillML"]
 	path = distillML
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
