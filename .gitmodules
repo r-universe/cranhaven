@@ -352,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/image.textlinedetector
 	subdir = image.textlinedetector
+[submodule "intsel"]
+	path = intsel
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/intsel
+	subdir = intsel
 [submodule "itsmr"]
 	path = itsmr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -432,6 +437,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/randquotes
 	subdir = randquotes
+[submodule "resultant"]
+	path = resultant
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/resultant
+	subdir = resultant
 [submodule "rpredictit"]
 	path = rpredictit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,6 +502,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/synlik
 	subdir = synlik
+[submodule "tabr"]
+	path = tabr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tabr
+	subdir = tabr
 [submodule "trelloR"]
 	path = trelloR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
