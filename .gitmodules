@@ -277,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dynsim
 	subdir = dynsim
+[submodule "easySimData"]
+	path = easySimData
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/easySimData
+	subdir = easySimData
 [submodule "easycsv"]
 	path = easycsv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
