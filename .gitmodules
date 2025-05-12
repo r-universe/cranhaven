@@ -207,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/capm
 	subdir = capm
-[submodule "carbonate"]
-	path = carbonate
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/carbonate
-	subdir = carbonate
 [submodule "cbcTools"]
 	path = cbcTools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -282,11 +277,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/episcan
 	subdir = episcan
-[submodule "epitweetr"]
-	path = epitweetr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/epitweetr
-	subdir = epitweetr
 [submodule "epwshiftr"]
 	path = epwshiftr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,11 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eurocordexr
 	subdir = eurocordexr
-[submodule "exactLTRE"]
-	path = exactLTRE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/exactLTRE
-	subdir = exactLTRE
 [submodule "fmds"]
 	path = fmds
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forestdata
 	subdir = forestdata
-[submodule "fpp"]
-	path = fpp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fpp
-	subdir = fpp
 [submodule "gesttools"]
 	path = gesttools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -392,11 +372,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/neatR
 	subdir = neatR
-[submodule "needmining"]
-	path = needmining
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/needmining
-	subdir = needmining
 [submodule "njtr1"]
 	path = njtr1
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -442,11 +417,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rties
 	subdir = rties
-[submodule "rtweet"]
-	path = rtweet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rtweet
-	subdir = rtweet
 [submodule "rusquant"]
 	path = rusquant
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -462,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/s2dv
 	subdir = s2dv
-[submodule "saotd"]
-	path = saotd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/saotd
-	subdir = saotd
 [submodule "sesem"]
 	path = sesem
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
