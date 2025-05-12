@@ -287,6 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eurocordexr
 	subdir = eurocordexr
+[submodule "flobr"]
+	path = flobr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/flobr
+	subdir = flobr
 [submodule "fmds"]
 	path = fmds
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
