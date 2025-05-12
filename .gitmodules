@@ -387,6 +387,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ldatuning
 	subdir = ldatuning
+[submodule "leabRa"]
+	path = leabRa
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/leabRa
+	subdir = leabRa
 [submodule "mnis"]
 	path = mnis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
