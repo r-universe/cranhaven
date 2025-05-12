@@ -107,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LDAShiny
 	subdir = LDAShiny
+[submodule "LibOPF"]
+	path = LibOPF
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LibOPF
+	subdir = LibOPF
 [submodule "MazamaTimeSeries"]
 	path = MazamaTimeSeries
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dynsim
 	subdir = dynsim
+[submodule "easycsv"]
+	path = easycsv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/easycsv
+	subdir = easycsv
 [submodule "episcan"]
 	path = episcan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,11 +312,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forestdata
 	subdir = forestdata
+[submodule "gamlss.spatial"]
+	path = gamlss.spatial
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gamlss.spatial
+	subdir = gamlss.spatial
 [submodule "gesttools"]
 	path = gesttools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gesttools
 	subdir = gesttools
+[submodule "gimmeTools"]
+	path = gimmeTools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gimmeTools
+	subdir = gimmeTools
 [submodule "glossa"]
 	path = glossa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,6 +402,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/njtr1
 	subdir = njtr1
+[submodule "paropt"]
+	path = paropt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/paropt
+	subdir = paropt
 [submodule "piglet"]
 	path = piglet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,11 +477,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sleeperapi
 	subdir = sleeperapi
+[submodule "smcryptoR"]
+	path = smcryptoR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/smcryptoR
+	subdir = smcryptoR
 [submodule "startR"]
 	path = startR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/startR
 	subdir = startR
+[submodule "sundialr"]
+	path = sundialr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sundialr
+	subdir = sundialr
 [submodule "synlik"]
 	path = synlik
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -477,6 +512,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ukbtools
 	subdir = ukbtools
+[submodule "uniset"]
+	path = uniset
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/uniset
+	subdir = uniset
 [submodule "varrank"]
 	path = varrank
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
