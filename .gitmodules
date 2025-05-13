@@ -187,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/arnie
 	subdir = arnie
-[submodule "astrodatR"]
-	path = astrodatR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/astrodatR
-	subdir = astrodatR
 [submodule "bcgam"]
 	path = bcgam
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
