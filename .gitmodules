@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "ADMMsigma"]
-	path = ADMMsigma
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ADMMsigma
-	subdir = ADMMsigma
 [submodule "ADSIHT"]
 	path = ADSIHT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,11 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/easycsv
 	subdir = easycsv
-[submodule "episcan"]
-	path = episcan
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/episcan
-	subdir = episcan
 [submodule "epwshiftr"]
 	path = epwshiftr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -532,8 +522,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/uniset
 	subdir = uniset
-[submodule "varrank"]
-	path = varrank
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/varrank
-	subdir = varrank
