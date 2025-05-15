@@ -62,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CrossVA
 	subdir = CrossVA
+[submodule "CruzPlot"]
+	path = CruzPlot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CruzPlot
+	subdir = CruzPlot
 [submodule "DataCombine"]
 	path = DataCombine
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -597,6 +602,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sundialr
 	subdir = sundialr
+[submodule "swfscAirDAS"]
+	path = swfscAirDAS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/swfscAirDAS
+	subdir = swfscAirDAS
+[submodule "swfscDAS"]
+	path = swfscDAS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/swfscDAS
+	subdir = swfscDAS
+[submodule "swfscMisc"]
+	path = swfscMisc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/swfscMisc
+	subdir = swfscMisc
+[submodule "symbolicDA"]
+	path = symbolicDA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/symbolicDA
+	subdir = symbolicDA
 [submodule "synlik"]
 	path = synlik
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -607,6 +632,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tabr
 	subdir = tabr
+[submodule "traineR"]
+	path = traineR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/traineR
+	subdir = traineR
 [submodule "trelloR"]
 	path = trelloR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -622,3 +652,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/uniset
 	subdir = uniset
+[submodule "viralx"]
+	path = viralx
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/viralx
+	subdir = viralx
