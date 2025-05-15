@@ -112,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GSAfisherCombined
 	subdir = GSAfisherCombined
+[submodule "HDDesign"]
+	path = HDDesign
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HDDesign
+	subdir = HDDesign
 [submodule "HDSpatialScan"]
 	path = HDSpatialScan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LDAShiny
 	subdir = LDAShiny
+[submodule "LPWC"]
+	path = LPWC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LPWC
+	subdir = LPWC
 [submodule "LibOPF"]
 	path = LibOPF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -547,6 +557,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rminer
 	subdir = rminer
+[submodule "robustsae"]
+	path = robustsae
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/robustsae
+	subdir = robustsae
 [submodule "rpredictit"]
 	path = rpredictit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -602,6 +617,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/startR
 	subdir = startR
+[submodule "stratifyR"]
+	path = stratifyR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/stratifyR
+	subdir = stratifyR
 [submodule "sundialr"]
 	path = sundialr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
