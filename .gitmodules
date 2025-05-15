@@ -272,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/crunchy
 	subdir = crunchy
+[submodule "dataSDA"]
+	path = dataSDA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dataSDA
+	subdir = dataSDA
 [submodule "dbflobr"]
 	path = dbflobr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
