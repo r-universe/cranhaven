@@ -517,6 +517,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/randquotes
 	subdir = randquotes
+[submodule "regressoR"]
+	path = regressoR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/regressoR
+	subdir = regressoR
 [submodule "resultant"]
 	path = resultant
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -542,6 +547,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rminer
 	subdir = rminer
+[submodule "robustsae"]
+	path = robustsae
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/robustsae
+	subdir = robustsae
 [submodule "rpredictit"]
 	path = rpredictit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
