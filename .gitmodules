@@ -77,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DiceOptim
 	subdir = DiceOptim
+[submodule "E4tools"]
+	path = E4tools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/E4tools
+	subdir = E4tools
 [submodule "EnsembleBase"]
 	path = EnsembleBase
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cbcTools
 	subdir = cbcTools
+[submodule "chinese.misc"]
+	path = chinese.misc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/chinese.misc
+	subdir = chinese.misc
 [submodule "coppeCosenzaR"]
 	path = coppeCosenzaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,6 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/easySimData
 	subdir = easySimData
+[submodule "easycsv"]
+	path = easycsv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/easycsv
+	subdir = easycsv
 [submodule "epwshiftr"]
 	path = epwshiftr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
