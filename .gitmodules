@@ -7,6 +7,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ADSIHT
 	subdir = ADSIHT
+[submodule "ARPALData"]
+	path = ARPALData
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ARPALData
+	subdir = ARPALData
+[submodule "AirMonitor"]
+	path = AirMonitor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AirMonitor
+	subdir = AirMonitor
+[submodule "BioMark"]
+	path = BioMark
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BioMark
+	subdir = BioMark
 [submodule "CANSIM2R"]
 	path = CANSIM2R
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -22,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CSTools
 	subdir = CSTools
+[submodule "CTM"]
+	path = CTM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CTM
+	subdir = CTM
 [submodule "ClimProjDiags"]
 	path = ClimProjDiags
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LDAShiny
 	subdir = LDAShiny
+[submodule "LPWC"]
+	path = LPWC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LPWC
+	subdir = LPWC
 [submodule "LibOPF"]
 	path = LibOPF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SmoothWin
 	subdir = SmoothWin
+[submodule "T2DFitTailor"]
+	path = T2DFitTailor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/T2DFitTailor
+	subdir = T2DFitTailor
 [submodule "TPCselect"]
 	path = TPCselect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,11 +222,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VicmapR
 	subdir = VicmapR
+[submodule "abmR"]
+	path = abmR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/abmR
+	subdir = abmR
 [submodule "arnie"]
 	path = arnie
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/arnie
 	subdir = arnie
+[submodule "banter"]
+	path = banter
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/banter
+	subdir = banter
 [submodule "bcgam"]
 	path = bcgam
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -277,6 +317,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dnapath
 	subdir = dnapath
+[submodule "dynsim"]
+	path = dynsim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dynsim
+	subdir = dynsim
 [submodule "easySimData"]
 	path = easySimData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,6 +372,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gamlss.spatial
 	subdir = gamlss.spatial
+[submodule "gesttools"]
+	path = gesttools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gesttools
+	subdir = gesttools
 [submodule "ggESDA"]
 	path = ggESDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -377,6 +427,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/jrSiCKLSNMF
 	subdir = jrSiCKLSNMF
+[submodule "kknn"]
+	path = kknn
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/kknn
+	subdir = kknn
+[submodule "kpmt"]
+	path = kpmt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/kpmt
+	subdir = kpmt
 [submodule "ldatuning"]
 	path = ldatuning
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,6 +462,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mogavs
 	subdir = mogavs
+[submodule "ncdf4.helpers"]
+	path = ncdf4.helpers
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ncdf4.helpers
+	subdir = ncdf4.helpers
 [submodule "neatR"]
 	path = neatR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
