@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VicmapR
 	subdir = VicmapR
-[submodule "aRtsy"]
-	path = aRtsy
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/aRtsy
-	subdir = aRtsy
 [submodule "abmR"]
 	path = abmR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -422,11 +417,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/intsel
 	subdir = intsel
-[submodule "itsmr"]
-	path = itsmr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/itsmr
-	subdir = itsmr
 [submodule "jiebaR"]
 	path = jiebaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
