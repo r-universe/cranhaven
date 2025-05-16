@@ -542,6 +542,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/resultant
 	subdir = resultant
+[submodule "rextendr"]
+	path = rextendr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rextendr
+	subdir = rextendr
 [submodule "rfPermute"]
 	path = rfPermute
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
