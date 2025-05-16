@@ -72,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DataCombine
 	subdir = DataCombine
-[submodule "DiceOptim"]
-	path = DiceOptim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DiceOptim
-	subdir = DiceOptim
 [submodule "E4tools"]
 	path = E4tools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EnsembleCV
 	subdir = EnsembleCV
-[submodule "EnsemblePCReg"]
-	path = EnsemblePCReg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EnsemblePCReg
-	subdir = EnsemblePCReg
 [submodule "EnsemblePenReg"]
 	path = EnsemblePenReg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MixAll
 	subdir = MixAll
-[submodule "MonoInc"]
-	path = MonoInc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MonoInc
-	subdir = MonoInc
 [submodule "OCA"]
 	path = OCA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,11 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/demu
 	subdir = demu
-[submodule "dexterMST"]
-	path = dexterMST
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dexterMST
-	subdir = dexterMST
 [submodule "distfreereg"]
 	path = distfreereg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,16 +362,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggESDA
 	subdir = ggESDA
-[submodule "gimmeTools"]
-	path = gimmeTools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gimmeTools
-	subdir = gimmeTools
-[submodule "glossa"]
-	path = glossa
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/glossa
-	subdir = glossa
 [submodule "hacksig"]
 	path = hacksig
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -407,11 +377,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/image.textlinedetector
 	subdir = image.textlinedetector
-[submodule "intsel"]
-	path = intsel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/intsel
-	subdir = intsel
 [submodule "jiebaR"]
 	path = jiebaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ncdf4.helpers
 	subdir = ncdf4.helpers
-[submodule "neatR"]
-	path = neatR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/neatR
-	subdir = neatR
 [submodule "njtr1"]
 	path = njtr1
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -622,11 +582,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/swfscAirDAS
 	subdir = swfscAirDAS
-[submodule "swfscDAS"]
-	path = swfscDAS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/swfscDAS
-	subdir = swfscDAS
 [submodule "swfscMisc"]
 	path = swfscMisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
