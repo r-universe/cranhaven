@@ -47,16 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ClimProjDiags
 	subdir = ClimProjDiags
-[submodule "CohensdpLibrary"]
-	path = CohensdpLibrary
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CohensdpLibrary
-	subdir = CohensdpLibrary
-[submodule "CornerstoneR"]
-	path = CornerstoneR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CornerstoneR
-	subdir = CornerstoneR
 [submodule "CrossVA"]
 	path = CrossVA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EnsemblePCReg
 	subdir = EnsemblePCReg
-[submodule "EnsemblePenReg"]
-	path = EnsemblePenReg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EnsemblePenReg
-	subdir = EnsemblePenReg
 [submodule "FishResp"]
 	path = FishResp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GridOnClusters
 	subdir = GridOnClusters
-[submodule "HDDesign"]
-	path = HDDesign
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HDDesign
-	subdir = HDDesign
 [submodule "HDSpatialScan"]
 	path = HDSpatialScan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MazamaTimeSeries
 	subdir = MazamaTimeSeries
+[submodule "MixAll"]
+	path = MixAll
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MixAll
+	subdir = MixAll
 [submodule "MonoInc"]
 	path = MonoInc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,16 +277,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dataSDA
 	subdir = dataSDA
-[submodule "dbflobr"]
-	path = dbflobr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dbflobr
-	subdir = dbflobr
-[submodule "demic"]
-	path = demic
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/demic
-	subdir = demic
 [submodule "demu"]
 	path = demu
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,11 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dexterMST
 	subdir = dexterMST
-[submodule "distfreereg"]
-	path = distfreereg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/distfreereg
-	subdir = distfreereg
 [submodule "distillML"]
 	path = distillML
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,11 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/easycsv
 	subdir = easycsv
-[submodule "epwshiftr"]
-	path = epwshiftr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/epwshiftr
-	subdir = epwshiftr
 [submodule "eurocordexr"]
 	path = eurocordexr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -422,6 +387,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/intsel
 	subdir = intsel
+[submodule "jiebaR"]
+	path = jiebaR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/jiebaR
+	subdir = jiebaR
 [submodule "jiebaRD"]
 	path = jiebaRD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
