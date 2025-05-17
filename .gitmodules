@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "ADSIHT"]
+	path = ADSIHT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ADSIHT
+	subdir = ADSIHT
 [submodule "ARPALData"]
 	path = ARPALData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PerMallows
 	subdir = PerMallows
+[submodule "ProtE"]
+	path = ProtE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ProtE
+	subdir = ProtE
 [submodule "RSDA"]
 	path = RSDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -442,6 +452,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kpmt
 	subdir = kpmt
+[submodule "ldatuning"]
+	path = ldatuning
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ldatuning
+	subdir = ldatuning
 [submodule "leabRa"]
 	path = leabRa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -472,11 +487,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ncdf4.helpers
 	subdir = ncdf4.helpers
+[submodule "neatR"]
+	path = neatR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/neatR
+	subdir = neatR
 [submodule "njtr1"]
 	path = njtr1
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/njtr1
 	subdir = njtr1
+[submodule "ntdr"]
+	path = ntdr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ntdr
+	subdir = ntdr
 [submodule "paropt"]
 	path = paropt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -522,6 +547,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/randquotes
 	subdir = randquotes
+[submodule "regressoR"]
+	path = regressoR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/regressoR
+	subdir = regressoR
 [submodule "resultant"]
 	path = resultant
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -647,6 +677,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/synlik
 	subdir = synlik
+[submodule "tabr"]
+	path = tabr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tabr
+	subdir = tabr
 [submodule "traineR"]
 	path = traineR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
