@@ -2,16 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "ADSIHT"]
-	path = ADSIHT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ADSIHT
-	subdir = ADSIHT
-[submodule "ARPALData"]
-	path = ARPALData
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ARPALData
-	subdir = ARPALData
 [submodule "AirMonitor"]
 	path = AirMonitor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,21 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ClimProjDiags
 	subdir = ClimProjDiags
-[submodule "CohensdpLibrary"]
-	path = CohensdpLibrary
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CohensdpLibrary
-	subdir = CohensdpLibrary
 [submodule "CornerstoneR"]
 	path = CornerstoneR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CornerstoneR
 	subdir = CornerstoneR
-[submodule "CrossVA"]
-	path = CrossVA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CrossVA
-	subdir = CrossVA
 [submodule "CruzPlot"]
 	path = CruzPlot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VicmapR
 	subdir = VicmapR
-[submodule "abmR"]
-	path = abmR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/abmR
-	subdir = abmR
 [submodule "arnie"]
 	path = arnie
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/banter
 	subdir = banter
-[submodule "bcgam"]
-	path = bcgam
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bcgam
-	subdir = bcgam
 [submodule "biodosetools"]
 	path = biodosetools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,31 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/capm
 	subdir = capm
-[submodule "cbcTools"]
-	path = cbcTools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cbcTools
-	subdir = cbcTools
-[submodule "chinese.misc"]
-	path = chinese.misc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/chinese.misc
-	subdir = chinese.misc
 [submodule "coppeCosenzaR"]
 	path = coppeCosenzaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/coppeCosenzaR
 	subdir = coppeCosenzaR
-[submodule "crfsuite"]
-	path = crfsuite
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/crfsuite
-	subdir = crfsuite
-[submodule "crunchy"]
-	path = crunchy
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/crunchy
-	subdir = crunchy
 [submodule "dataSDA"]
 	path = dataSDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,11 +307,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flobr
 	subdir = flobr
-[submodule "fmds"]
-	path = fmds
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fmds
-	subdir = fmds
 [submodule "forestdata"]
 	path = forestdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
