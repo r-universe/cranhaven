@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CANSIM2R
 	subdir = CANSIM2R
+[submodule "CSIndicators"]
+	path = CSIndicators
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CSIndicators
+	subdir = CSIndicators
 [submodule "CSTools"]
 	path = CSTools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -52,6 +57,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CornerstoneR
 	subdir = CornerstoneR
+[submodule "CrossVA"]
+	path = CrossVA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CrossVA
+	subdir = CrossVA
 [submodule "CruzPlot"]
 	path = CruzPlot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MazamaTimeSeries
 	subdir = MazamaTimeSeries
-[submodule "MixAll"]
-	path = MixAll
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MixAll
-	subdir = MixAll
 [submodule "MonoInc"]
 	path = MonoInc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PerMallows
 	subdir = PerMallows
+[submodule "ProtE"]
+	path = ProtE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ProtE
+	subdir = ProtE
 [submodule "RSDA"]
 	path = RSDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +317,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/distfreereg
 	subdir = distfreereg
+[submodule "distillML"]
+	path = distillML
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/distillML
+	subdir = distillML
 [submodule "dnapath"]
 	path = dnapath
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -407,11 +422,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/intsel
 	subdir = intsel
-[submodule "jiebaR"]
-	path = jiebaR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/jiebaR
-	subdir = jiebaR
 [submodule "jiebaRD"]
 	path = jiebaRD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -557,6 +567,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rminer
 	subdir = rminer
+[submodule "robustsae"]
+	path = robustsae
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/robustsae
+	subdir = robustsae
 [submodule "rpredictit"]
 	path = rpredictit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
