@@ -607,11 +607,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/startR
 	subdir = startR
-[submodule "stratifyR"]
-	path = stratifyR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/stratifyR
-	subdir = stratifyR
 [submodule "sundialr"]
 	path = sundialr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -647,11 +642,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tabr
 	subdir = tabr
-[submodule "traineR"]
-	path = traineR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/traineR
-	subdir = traineR
 [submodule "trelloR"]
 	path = trelloR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
