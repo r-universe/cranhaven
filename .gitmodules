@@ -162,11 +162,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonoInc
 	subdir = MonoInc
-[submodule "OCA"]
-	path = OCA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/OCA
-	subdir = OCA
 [submodule "PCICt"]
 	path = PCICt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PRSim
 	subdir = PRSim
-[submodule "PerMallows"]
-	path = PerMallows
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PerMallows
-	subdir = PerMallows
 [submodule "ProtE"]
 	path = ProtE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,16 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/easySimData
 	subdir = easySimData
-[submodule "easycsv"]
-	path = easycsv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/easycsv
-	subdir = easycsv
-[submodule "epwshiftr"]
-	path = epwshiftr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/epwshiftr
-	subdir = epwshiftr
 [submodule "eurocordexr"]
 	path = eurocordexr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,11 +362,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forestdata
 	subdir = forestdata
-[submodule "gamlss.spatial"]
-	path = gamlss.spatial
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gamlss.spatial
-	subdir = gamlss.spatial
 [submodule "gesttools"]
 	path = gesttools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -407,11 +382,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glossa
 	subdir = glossa
-[submodule "hacksig"]
-	path = hacksig
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hacksig
-	subdir = hacksig
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -462,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leabRa
 	subdir = leabRa
-[submodule "lotterybr"]
-	path = lotterybr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lotterybr
-	subdir = lotterybr
 [submodule "mdsOpt"]
 	path = mdsOpt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -532,11 +497,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/psData
 	subdir = psData
-[submodule "qpcR"]
-	path = qpcR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qpcR
-	subdir = qpcR
 [submodule "rMR"]
 	path = rMR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -552,11 +512,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/regressoR
 	subdir = regressoR
-[submodule "resultant"]
-	path = resultant
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/resultant
-	subdir = resultant
 [submodule "rextendr"]
 	path = rextendr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
