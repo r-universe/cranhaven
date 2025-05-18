@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ARPALData
 	subdir = ARPALData
-[submodule "AirMonitor"]
-	path = AirMonitor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AirMonitor
-	subdir = AirMonitor
 [submodule "BioMark"]
 	path = BioMark
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,16 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EnsembleCV
 	subdir = EnsembleCV
-[submodule "EnsemblePCReg"]
-	path = EnsemblePCReg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EnsemblePCReg
-	subdir = EnsemblePCReg
-[submodule "EnsemblePenReg"]
-	path = EnsemblePenReg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EnsemblePenReg
-	subdir = EnsemblePenReg
 [submodule "FishResp"]
 	path = FishResp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/arnie
 	subdir = arnie
-[submodule "banter"]
-	path = banter
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/banter
-	subdir = banter
 [submodule "bcgam"]
 	path = bcgam
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -722,11 +702,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ukbtools
 	subdir = ukbtools
-[submodule "uniset"]
-	path = uniset
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/uniset
-	subdir = uniset
 [submodule "viralx"]
 	path = viralx
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
