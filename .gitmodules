@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CANSIM2R
 	subdir = CANSIM2R
+[submodule "CSIndicators"]
+	path = CSIndicators
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CSIndicators
+	subdir = CSIndicators
 [submodule "CSTools"]
 	path = CSTools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -52,6 +57,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CornerstoneR
 	subdir = CornerstoneR
+[submodule "CrossVA"]
+	path = CrossVA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CrossVA
+	subdir = CrossVA
+[submodule "CruzPlot"]
+	path = CruzPlot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CruzPlot
+	subdir = CruzPlot
 [submodule "DataCombine"]
 	path = DataCombine
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,6 +157,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonoInc
 	subdir = MonoInc
+[submodule "OCA"]
+	path = OCA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/OCA
+	subdir = OCA
 [submodule "PCICt"]
 	path = PCICt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/banter
 	subdir = banter
+[submodule "bcgam"]
+	path = bcgam
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bcgam
+	subdir = bcgam
 [submodule "biodosetools"]
 	path = biodosetools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/capm
 	subdir = capm
+[submodule "cbcTools"]
+	path = cbcTools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cbcTools
+	subdir = cbcTools
 [submodule "chinese.misc"]
 	path = chinese.misc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -282,6 +312,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dexterMST
 	subdir = dexterMST
+[submodule "distfreereg"]
+	path = distfreereg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/distfreereg
+	subdir = distfreereg
 [submodule "distillML"]
 	path = distillML
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dnapath
 	subdir = dnapath
+[submodule "dynsim"]
+	path = dynsim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dynsim
+	subdir = dynsim
 [submodule "easySimData"]
 	path = easySimData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flobr
 	subdir = flobr
+[submodule "fmds"]
+	path = fmds
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fmds
+	subdir = fmds
 [submodule "forestdata"]
 	path = forestdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,6 +457,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leabRa
 	subdir = leabRa
+[submodule "lotterybr"]
+	path = lotterybr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lotterybr
+	subdir = lotterybr
 [submodule "mdsOpt"]
 	path = mdsOpt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
