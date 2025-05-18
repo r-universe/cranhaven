@@ -247,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/arnie
 	subdir = arnie
-[submodule "banter"]
-	path = banter
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/banter
-	subdir = banter
 [submodule "bcgam"]
 	path = bcgam
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
