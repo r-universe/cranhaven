@@ -167,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PCICt
 	subdir = PCICt
+[submodule "PRSPGx"]
+	path = PRSPGx
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PRSPGx
+	subdir = PRSPGx
 [submodule "PRSim"]
 	path = PRSim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biodosetools
 	subdir = biodosetools
+[submodule "cape"]
+	path = cape
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cape
+	subdir = cape
 [submodule "capm"]
 	path = capm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -522,6 +532,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/predictoR
 	subdir = predictoR
+[submodule "propagate"]
+	path = propagate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/propagate
+	subdir = propagate
 [submodule "psData"]
 	path = psData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
