@@ -302,11 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/demic
 	subdir = demic
-[submodule "demu"]
-	path = demu
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/demu
-	subdir = demu
 [submodule "dexterMST"]
 	path = dexterMST
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,11 +362,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flobr
 	subdir = flobr
-[submodule "fmds"]
-	path = fmds
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fmds
-	subdir = fmds
 [submodule "forestdata"]
 	path = forestdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
