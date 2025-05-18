@@ -117,11 +117,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GSAfisherCombined
 	subdir = GSAfisherCombined
+[submodule "GridOnClusters"]
+	path = GridOnClusters
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GridOnClusters
+	subdir = GridOnClusters
 [submodule "HDDesign"]
 	path = HDDesign
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HDDesign
 	subdir = HDDesign
+[submodule "HDSpatialScan"]
+	path = HDSpatialScan
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HDSpatialScan
+	subdir = HDSpatialScan
 [submodule "InteRD"]
 	path = InteRD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biodosetools
 	subdir = biodosetools
+[submodule "cape"]
+	path = cape
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cape
+	subdir = cape
 [submodule "capm"]
 	path = capm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -482,6 +497,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mnis
 	subdir = mnis
+[submodule "mogavs"]
+	path = mogavs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mogavs
+	subdir = mogavs
 [submodule "ncdf4.helpers"]
 	path = ncdf4.helpers
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,16 +537,31 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/phreeqc
 	subdir = phreeqc
+[submodule "piglet"]
+	path = piglet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/piglet
+	subdir = piglet
 [submodule "predictoR"]
 	path = predictoR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/predictoR
 	subdir = predictoR
+[submodule "propagate"]
+	path = propagate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/propagate
+	subdir = propagate
 [submodule "psData"]
 	path = psData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/psData
 	subdir = psData
+[submodule "qpcR"]
+	path = qpcR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qpcR
+	subdir = qpcR
 [submodule "rMR"]
 	path = rMR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -592,6 +627,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rwebstat
 	subdir = rwebstat
+[submodule "s2dv"]
+	path = s2dv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/s2dv
+	subdir = s2dv
 [submodule "sesem"]
 	path = sesem
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
