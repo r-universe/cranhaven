@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ARPALData
 	subdir = ARPALData
-[submodule "AirMonitor"]
-	path = AirMonitor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AirMonitor
-	subdir = AirMonitor
 [submodule "BioMark"]
 	path = BioMark
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,11 +462,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/jrSiCKLSNMF
 	subdir = jrSiCKLSNMF
-[submodule "kknn"]
-	path = kknn
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/kknn
-	subdir = kknn
 [submodule "kpmt"]
 	path = kpmt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
