@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ADSIHT
 	subdir = ADSIHT
+[submodule "ARPALData"]
+	path = ARPALData
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ARPALData
+	subdir = ARPALData
 [submodule "AirMonitor"]
 	path = AirMonitor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -277,6 +282,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cape
 	subdir = cape
+[submodule "capm"]
+	path = capm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/capm
+	subdir = capm
 [submodule "cbcTools"]
 	path = cbcTools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +302,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/coppeCosenzaR
 	subdir = coppeCosenzaR
+[submodule "covid19br"]
+	path = covid19br
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/covid19br
+	subdir = covid19br
 [submodule "crfsuite"]
 	path = crfsuite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
