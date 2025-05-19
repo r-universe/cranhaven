@@ -182,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PRSPGx
 	subdir = PRSPGx
+[submodule "PRSim"]
+	path = PRSim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PRSim
+	subdir = PRSim
 [submodule "PerMallows"]
 	path = PerMallows
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SeedMatchR
 	subdir = SeedMatchR
+[submodule "SeqNet"]
+	path = SeqNet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SeqNet
+	subdir = SeqNet
 [submodule "SmoothWin"]
 	path = SmoothWin
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -542,11 +552,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/propagate
 	subdir = propagate
+[submodule "psData"]
+	path = psData
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/psData
+	subdir = psData
 [submodule "qpcR"]
 	path = qpcR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qpcR
 	subdir = qpcR
+[submodule "rMR"]
+	path = rMR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rMR
+	subdir = rMR
 [submodule "randquotes"]
 	path = randquotes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -667,6 +687,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/swfscDAS
 	subdir = swfscDAS
+[submodule "swfscMisc"]
+	path = swfscMisc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/swfscMisc
+	subdir = swfscMisc
 [submodule "symbolicDA"]
 	path = symbolicDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
