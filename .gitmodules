@@ -97,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EnsembleCV
 	subdir = EnsembleCV
+[submodule "EnsemblePCReg"]
+	path = EnsemblePCReg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EnsemblePCReg
+	subdir = EnsemblePCReg
 [submodule "EnsemblePenReg"]
 	path = EnsemblePenReg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MixAll
 	subdir = MixAll
+[submodule "MonoInc"]
+	path = MonoInc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MonoInc
+	subdir = MonoInc
 [submodule "OCA"]
 	path = OCA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PerMallows
 	subdir = PerMallows
+[submodule "ProtE"]
+	path = ProtE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ProtE
+	subdir = ProtE
 [submodule "RSDA"]
 	path = RSDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SticsRFiles
 	subdir = SticsRFiles
+[submodule "T2DFitTailor"]
+	path = T2DFitTailor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/T2DFitTailor
+	subdir = T2DFitTailor
 [submodule "TPCselect"]
 	path = TPCselect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/distfreereg
 	subdir = distfreereg
+[submodule "distillML"]
+	path = distillML
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/distillML
+	subdir = distillML
 [submodule "dnapath"]
 	path = dnapath
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,6 +377,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/epwshiftr
 	subdir = epwshiftr
+[submodule "eurocordexr"]
+	path = eurocordexr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/eurocordexr
+	subdir = eurocordexr
 [submodule "fcr"]
 	path = fcr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,6 +432,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glossa
 	subdir = glossa
+[submodule "hacksig"]
+	path = hacksig
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hacksig
+	subdir = hacksig
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -462,6 +497,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mdsOpt
 	subdir = mdsOpt
+[submodule "mnis"]
+	path = mnis
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mnis
+	subdir = mnis
 [submodule "mogavs"]
 	path = mogavs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -472,6 +512,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ncdf4.helpers
 	subdir = ncdf4.helpers
+[submodule "neatR"]
+	path = neatR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/neatR
+	subdir = neatR
 [submodule "njtr1"]
 	path = njtr1
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -612,6 +657,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/smcryptoR
 	subdir = smcryptoR
+[submodule "smiles"]
+	path = smiles
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/smiles
+	subdir = smiles
 [submodule "sprex"]
 	path = sprex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -622,6 +672,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/startR
 	subdir = startR
+[submodule "stratifyR"]
+	path = stratifyR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/stratifyR
+	subdir = stratifyR
+[submodule "sundialr"]
+	path = sundialr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sundialr
+	subdir = sundialr
 [submodule "swfscAirDAS"]
 	path = swfscAirDAS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -637,6 +697,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/swfscMisc
 	subdir = swfscMisc
+[submodule "symbolicDA"]
+	path = symbolicDA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/symbolicDA
+	subdir = symbolicDA
 [submodule "synlik"]
 	path = synlik
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
