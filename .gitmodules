@@ -162,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LibOPF
 	subdir = LibOPF
+[submodule "MixAll"]
+	path = MixAll
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MixAll
+	subdir = MixAll
 [submodule "MonoInc"]
 	path = MonoInc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RSDA
 	subdir = RSDA
+[submodule "RSocrata"]
+	path = RSocrata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RSocrata
+	subdir = RSocrata
 [submodule "SeedMatchR"]
 	path = SeedMatchR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,6 +357,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/distfreereg
 	subdir = distfreereg
+[submodule "distillML"]
+	path = distillML
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/distillML
+	subdir = distillML
+[submodule "dnapath"]
+	path = dnapath
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dnapath
+	subdir = dnapath
 [submodule "dynsim"]
 	path = dynsim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,6 +537,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ntdr
 	subdir = ntdr
+[submodule "paropt"]
+	path = paropt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/paropt
+	subdir = paropt
 [submodule "pheble"]
 	path = pheble
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -627,6 +652,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/s2dv
 	subdir = s2dv
+[submodule "sesem"]
+	path = sesem
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sesem
+	subdir = sesem
 [submodule "sgat"]
 	path = sgat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -672,6 +702,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/swfscAirDAS
 	subdir = swfscAirDAS
+[submodule "swfscDAS"]
+	path = swfscDAS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/swfscDAS
+	subdir = swfscDAS
 [submodule "swfscMisc"]
 	path = swfscMisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
