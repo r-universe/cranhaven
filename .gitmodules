@@ -107,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EnsemblePCReg
 	subdir = EnsemblePCReg
+[submodule "EnsemblePenReg"]
+	path = EnsemblePenReg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EnsemblePenReg
+	subdir = EnsemblePenReg
 [submodule "FishResp"]
 	path = FishResp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/banter
 	subdir = banter
+[submodule "bcgam"]
+	path = bcgam
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bcgam
+	subdir = bcgam
 [submodule "biodosetools"]
 	path = biodosetools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -387,6 +397,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fishboot
 	subdir = fishboot
+[submodule "flobr"]
+	path = flobr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/flobr
+	subdir = flobr
 [submodule "fmds"]
 	path = fmds
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -557,6 +572,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rMR
 	subdir = rMR
+[submodule "randquotes"]
+	path = randquotes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/randquotes
+	subdir = randquotes
 [submodule "regressoR"]
 	path = regressoR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
