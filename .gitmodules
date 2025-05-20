@@ -167,11 +167,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OCA
 	subdir = OCA
-[submodule "PCICt"]
-	path = PCICt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PCICt
-	subdir = PCICt
 [submodule "PRSPGx"]
 	path = PRSPGx
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -527,11 +522,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pheble
 	subdir = pheble
-[submodule "phreeqc"]
-	path = phreeqc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/phreeqc
-	subdir = phreeqc
 [submodule "piglet"]
 	path = piglet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
