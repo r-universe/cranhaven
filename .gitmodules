@@ -202,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ProtE
 	subdir = ProtE
-[submodule "RAGFlowChainR"]
-	path = RAGFlowChainR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RAGFlowChainR
-	subdir = RAGFlowChainR
 [submodule "RSDA"]
 	path = RSDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -752,8 +747,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/viralx
 	subdir = viralx
-[submodule "webdav"]
-	path = webdav
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/webdav
-	subdir = webdav
