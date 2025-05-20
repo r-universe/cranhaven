@@ -217,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SticsRFiles
 	subdir = SticsRFiles
-[submodule "T2DFitTailor"]
-	path = T2DFitTailor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/T2DFitTailor
-	subdir = T2DFitTailor
 [submodule "TPCselect"]
 	path = TPCselect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,6 +242,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/aides
 	subdir = aides
+[submodule "arnie"]
+	path = arnie
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/arnie
+	subdir = arnie
 [submodule "banter"]
 	path = banter
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,6 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/coppeCosenzaR
 	subdir = coppeCosenzaR
+[submodule "crfsuite"]
+	path = crfsuite
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/crfsuite
+	subdir = crfsuite
 [submodule "crunchy"]
 	path = crunchy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -422,16 +427,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/image.textlinedetector
 	subdir = image.textlinedetector
-[submodule "intsel"]
-	path = intsel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/intsel
-	subdir = intsel
-[submodule "jiebaR"]
-	path = jiebaR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/jiebaR
-	subdir = jiebaR
 [submodule "jiebaRD"]
 	path = jiebaRD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -572,11 +567,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rgnoisefilt
 	subdir = rgnoisefilt
-[submodule "rminer"]
-	path = rminer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rminer
-	subdir = rminer
 [submodule "robustsae"]
 	path = robustsae
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -607,11 +597,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/s2dv
 	subdir = s2dv
-[submodule "sesem"]
-	path = sesem
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sesem
-	subdir = sesem
 [submodule "sgat"]
 	path = sgat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -627,11 +612,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/smcryptoR
 	subdir = smcryptoR
-[submodule "smiles"]
-	path = smiles
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/smiles
-	subdir = smiles
 [submodule "sprex"]
 	path = sprex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -642,11 +622,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/startR
 	subdir = startR
-[submodule "stratifyR"]
-	path = stratifyR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/stratifyR
-	subdir = stratifyR
 [submodule "sundialr"]
 	path = sundialr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -667,16 +642,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/swfscMisc
 	subdir = swfscMisc
-[submodule "symbolicDA"]
-	path = symbolicDA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/symbolicDA
-	subdir = symbolicDA
-[submodule "synlik"]
-	path = synlik
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/synlik
-	subdir = synlik
 [submodule "tabr"]
 	path = tabr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -692,11 +657,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/trelloR
 	subdir = trelloR
-[submodule "ukbtools"]
-	path = ukbtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ukbtools
-	subdir = ukbtools
 [submodule "uniset"]
 	path = uniset
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
