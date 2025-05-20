@@ -152,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LDAShiny
 	subdir = LDAShiny
-[submodule "LPWC"]
-	path = LPWC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LPWC
-	subdir = LPWC
 [submodule "LibOPF"]
 	path = LibOPF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PCICt
 	subdir = PCICt
-[submodule "PRSPGx"]
-	path = PRSPGx
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PRSPGx
-	subdir = PRSPGx
 [submodule "PRSim"]
 	path = PRSim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ProtE
 	subdir = ProtE
+[submodule "RAGFlowChainR"]
+	path = RAGFlowChainR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RAGFlowChainR
+	subdir = RAGFlowChainR
 [submodule "RSDA"]
 	path = RSDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -487,6 +482,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leabRa
 	subdir = leabRa
+[submodule "libdeflate"]
+	path = libdeflate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/libdeflate
+	subdir = libdeflate
 [submodule "lotterybr"]
 	path = lotterybr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -512,21 +512,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ncdf4.helpers
 	subdir = ncdf4.helpers
-[submodule "neatR"]
-	path = neatR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/neatR
-	subdir = neatR
 [submodule "njtr1"]
 	path = njtr1
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/njtr1
 	subdir = njtr1
-[submodule "ntdr"]
-	path = ntdr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ntdr
-	subdir = ntdr
 [submodule "paropt"]
 	path = paropt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -547,11 +537,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/piglet
 	subdir = piglet
-[submodule "predictoR"]
-	path = predictoR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/predictoR
-	subdir = predictoR
 [submodule "propagate"]
 	path = propagate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -572,11 +557,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rMR
 	subdir = rMR
-[submodule "randquotes"]
-	path = randquotes
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/randquotes
-	subdir = randquotes
 [submodule "regressoR"]
 	path = regressoR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
