@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CANSIM2R
 	subdir = CANSIM2R
+[submodule "CKMRpop"]
+	path = CKMRpop
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CKMRpop
+	subdir = CKMRpop
 [submodule "CSIndicators"]
 	path = CSIndicators
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
