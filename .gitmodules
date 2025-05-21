@@ -207,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RSDA
 	subdir = RSDA
-[submodule "RSocrata"]
-	path = RSocrata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RSocrata
-	subdir = RSocrata
 [submodule "SeedMatchR"]
 	path = SeedMatchR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SticsRFiles
 	subdir = SticsRFiles
-[submodule "T2DFitTailor"]
-	path = T2DFitTailor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/T2DFitTailor
-	subdir = T2DFitTailor
 [submodule "TPCselect"]
 	path = TPCselect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,11 +507,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ncdf4.helpers
 	subdir = ncdf4.helpers
-[submodule "neatR"]
-	path = neatR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/neatR
-	subdir = neatR
 [submodule "njtr1"]
 	path = njtr1
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -622,11 +607,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/robustsae
 	subdir = robustsae
-[submodule "rpredictit"]
-	path = rpredictit
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rpredictit
-	subdir = rpredictit
 [submodule "rties"]
 	path = rties
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
