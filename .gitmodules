@@ -172,6 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonoInc
 	subdir = MonoInc
+[submodule "NSAE"]
+	path = NSAE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NSAE
+	subdir = NSAE
 [submodule "OCA"]
 	path = OCA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,16 +207,36 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ProtE
 	subdir = ProtE
+[submodule "RGS"]
+	path = RGS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RGS
+	subdir = RGS
 [submodule "RSDA"]
 	path = RSDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RSDA
 	subdir = RSDA
+[submodule "RclusTool"]
+	path = RclusTool
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RclusTool
+	subdir = RclusTool
+[submodule "SSLR"]
+	path = SSLR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SSLR
+	subdir = SSLR
 [submodule "SeedMatchR"]
 	path = SeedMatchR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SeedMatchR
 	subdir = SeedMatchR
+[submodule "SemiPar"]
+	path = SemiPar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SemiPar
+	subdir = SemiPar
 [submodule "SeqNet"]
 	path = SeqNet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,6 +252,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SticsRFiles
 	subdir = SticsRFiles
+[submodule "TCPMOR"]
+	path = TCPMOR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TCPMOR
+	subdir = TCPMOR
 [submodule "TPCselect"]
 	path = TPCselect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +322,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/chinese.misc
 	subdir = chinese.misc
+[submodule "conclust"]
+	path = conclust
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/conclust
+	subdir = conclust
 [submodule "coppeCosenzaR"]
 	path = coppeCosenzaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,6 +337,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/covid19br
 	subdir = covid19br
+[submodule "cpp11tesseract"]
+	path = cpp11tesseract
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cpp11tesseract
+	subdir = cpp11tesseract
 [submodule "crfsuite"]
 	path = crfsuite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,6 +467,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glossa
 	subdir = glossa
+[submodule "gpg"]
+	path = gpg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gpg
+	subdir = gpg
+[submodule "gsmoothr"]
+	path = gsmoothr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gsmoothr
+	subdir = gsmoothr
 [submodule "hacksig"]
 	path = hacksig
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
