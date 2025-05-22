@@ -67,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CruzPlot
 	subdir = CruzPlot
-[submodule "DLSSM"]
-	path = DLSSM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DLSSM
-	subdir = DLSSM
 [submodule "DataCombine"]
 	path = DataCombine
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fmds
 	subdir = fmds
-[submodule "forestdata"]
-	path = forestdata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/forestdata
-	subdir = forestdata
 [submodule "gamlss.spatial"]
 	path = gamlss.spatial
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
