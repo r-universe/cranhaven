@@ -357,11 +357,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dbflobr
 	subdir = dbflobr
-[submodule "demic"]
-	path = demic
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/demic
-	subdir = demic
 [submodule "demu"]
 	path = demu
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
