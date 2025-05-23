@@ -627,11 +627,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rfPermute
 	subdir = rfPermute
-[submodule "rgnoisefilt"]
-	path = rgnoisefilt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rgnoisefilt
-	subdir = rgnoisefilt
 [submodule "rigr"]
 	path = rigr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
