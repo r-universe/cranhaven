@@ -737,11 +737,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tabr
 	subdir = tabr
-[submodule "traineR"]
-	path = traineR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/traineR
-	subdir = traineR
 [submodule "trelloR"]
 	path = trelloR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
