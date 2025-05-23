@@ -17,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BioMark
 	subdir = BioMark
+[submodule "CAESAR.Suite"]
+	path = CAESAR.Suite
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CAESAR.Suite
+	subdir = CAESAR.Suite
 [submodule "CANSIM2R"]
 	path = CANSIM2R
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
