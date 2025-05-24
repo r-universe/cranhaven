@@ -52,11 +52,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ClimProjDiags
 	subdir = ClimProjDiags
-[submodule "CohensdpLibrary"]
-	path = CohensdpLibrary
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CohensdpLibrary
-	subdir = CohensdpLibrary
 [submodule "CornerstoneR"]
 	path = CornerstoneR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,11 +307,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/capm
 	subdir = capm
-[submodule "cbcTools"]
-	path = cbcTools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cbcTools
-	subdir = cbcTools
 [submodule "chinese.misc"]
 	path = chinese.misc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/conclust
 	subdir = conclust
-[submodule "coppeCosenzaR"]
-	path = coppeCosenzaR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/coppeCosenzaR
-	subdir = coppeCosenzaR
 [submodule "covid19br"]
 	path = covid19br
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -377,11 +362,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/distfreereg
 	subdir = distfreereg
-[submodule "distillML"]
-	path = distillML
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/distillML
-	subdir = distillML
 [submodule "dnapath"]
 	path = dnapath
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,11 +447,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gsmoothr
 	subdir = gsmoothr
-[submodule "hacksig"]
-	path = hacksig
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hacksig
-	subdir = hacksig
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -662,16 +637,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/s2dv
 	subdir = s2dv
-[submodule "sesem"]
-	path = sesem
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sesem
-	subdir = sesem
-[submodule "sgat"]
-	path = sgat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sgat
-	subdir = sgat
 [submodule "sleeperapi"]
 	path = sleeperapi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
