@@ -447,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gsmoothr
 	subdir = gsmoothr
+[submodule "haploR"]
+	path = haploR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/haploR
+	subdir = haploR
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
