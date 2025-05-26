@@ -352,11 +352,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/demu
 	subdir = demu
-[submodule "dexterMST"]
-	path = dexterMST
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dexterMST
-	subdir = dexterMST
 [submodule "distfreereg"]
 	path = distfreereg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -512,11 +507,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mdsOpt
 	subdir = mdsOpt
-[submodule "mnis"]
-	path = mnis
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mnis
-	subdir = mnis
 [submodule "mogavs"]
 	path = mogavs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
