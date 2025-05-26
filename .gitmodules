@@ -287,6 +287,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/banter
 	subdir = banter
+[submodule "bcgam"]
+	path = bcgam
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bcgam
+	subdir = bcgam
+[submodule "biodosetools"]
+	path = biodosetools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/biodosetools
+	subdir = biodosetools
 [submodule "cape"]
 	path = cape
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
