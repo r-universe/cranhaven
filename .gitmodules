@@ -502,6 +502,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mdsOpt
 	subdir = mdsOpt
+[submodule "medrxivr"]
+	path = medrxivr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/medrxivr
+	subdir = medrxivr
 [submodule "mogavs"]
 	path = mogavs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -642,6 +647,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/smiles
 	subdir = smiles
+[submodule "spatialGE"]
+	path = spatialGE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spatialGE
+	subdir = spatialGE
 [submodule "sprex"]
 	path = sprex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
