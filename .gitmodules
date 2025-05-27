@@ -112,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GSAfisherCombined
 	subdir = GSAfisherCombined
-[submodule "GridOnClusters"]
-	path = GridOnClusters
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GridOnClusters
-	subdir = GridOnClusters
 [submodule "HDDesign"]
 	path = HDDesign
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -487,11 +482,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leabRa
 	subdir = leabRa
-[submodule "libdeflate"]
-	path = libdeflate
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/libdeflate
-	subdir = libdeflate
 [submodule "lotterybr"]
 	path = lotterybr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
