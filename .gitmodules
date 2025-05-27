@@ -52,11 +52,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ClimProjDiags
 	subdir = ClimProjDiags
-[submodule "CornerstoneR"]
-	path = CornerstoneR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CornerstoneR
-	subdir = CornerstoneR
 [submodule "CrossVA"]
 	path = CrossVA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -687,11 +682,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/symbolicDA
 	subdir = symbolicDA
-[submodule "synlik"]
-	path = synlik
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/synlik
-	subdir = synlik
 [submodule "tabr"]
 	path = tabr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
