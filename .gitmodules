@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SemiPar
 	subdir = SemiPar
-[submodule "SeqNet"]
-	path = SeqNet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SeqNet
-	subdir = SeqNet
 [submodule "SmoothWin"]
 	path = SmoothWin
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/crfsuite
 	subdir = crfsuite
-[submodule "crunchy"]
-	path = crunchy
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/crunchy
-	subdir = crunchy
 [submodule "dataSDA"]
 	path = dataSDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,11 +337,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/distfreereg
 	subdir = distfreereg
-[submodule "dnapath"]
-	path = dnapath
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dnapath
-	subdir = dnapath
 [submodule "dynsim"]
 	path = dynsim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
