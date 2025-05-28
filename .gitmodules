@@ -417,11 +417,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/haploR
 	subdir = haploR
-[submodule "httpgd"]
-	path = httpgd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/httpgd
-	subdir = httpgd
 [submodule "image.textlinedetector"]
 	path = image.textlinedetector
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -487,11 +482,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ncdf4.helpers
 	subdir = ncdf4.helpers
-[submodule "njtr1"]
-	path = njtr1
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/njtr1
-	subdir = njtr1
 [submodule "ntdr"]
 	path = ntdr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -512,11 +502,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/phreeqc
 	subdir = phreeqc
-[submodule "piglet"]
-	path = piglet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/piglet
-	subdir = piglet
 [submodule "predictoR"]
 	path = predictoR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
