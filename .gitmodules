@@ -502,11 +502,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/phreeqc
 	subdir = phreeqc
-[submodule "predictoR"]
-	path = predictoR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/predictoR
-	subdir = predictoR
 [submodule "psData"]
 	path = psData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -527,11 +522,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/randquotes
 	subdir = randquotes
-[submodule "regressoR"]
-	path = regressoR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/regressoR
-	subdir = regressoR
 [submodule "resultant"]
 	path = resultant
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
