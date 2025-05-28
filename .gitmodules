@@ -417,11 +417,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gimmeTools
 	subdir = gimmeTools
-[submodule "glossa"]
-	path = glossa
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/glossa
-	subdir = glossa
 [submodule "gpg"]
 	path = gpg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -542,11 +537,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/predictoR
 	subdir = predictoR
-[submodule "propagate"]
-	path = propagate
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/propagate
-	subdir = propagate
 [submodule "psData"]
 	path = psData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
