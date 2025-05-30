@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ARPALData
 	subdir = ARPALData
-[submodule "BioMark"]
-	path = BioMark
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BioMark
-	subdir = BioMark
 [submodule "CAESAR.Suite"]
 	path = CAESAR.Suite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -642,11 +637,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/trelloR
 	subdir = trelloR
-[submodule "ukbtools"]
-	path = ukbtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ukbtools
-	subdir = ukbtools
 [submodule "uniset"]
 	path = uniset
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
