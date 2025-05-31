@@ -57,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CruzPlot
 	subdir = CruzPlot
-[submodule "DataCombine"]
-	path = DataCombine
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DataCombine
-	subdir = DataCombine
 [submodule "DemografixeR"]
 	path = DemografixeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -72,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DiceOptim
 	subdir = DiceOptim
-[submodule "E4tools"]
-	path = E4tools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/E4tools
-	subdir = E4tools
 [submodule "EnsembleBase"]
 	path = EnsembleBase
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,11 +372,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gamlss.spatial
 	subdir = gamlss.spatial
-[submodule "gesttools"]
-	path = gesttools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gesttools
-	subdir = gesttools
 [submodule "ggESDA"]
 	path = ggESDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -497,11 +482,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/phreeqc
 	subdir = phreeqc
-[submodule "psData"]
-	path = psData
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/psData
-	subdir = psData
 [submodule "qpcR"]
 	path = qpcR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -547,11 +527,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/robustsae
 	subdir = robustsae
-[submodule "rties"]
-	path = rties
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rties
-	subdir = rties
 [submodule "rusquant"]
 	path = rusquant
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
