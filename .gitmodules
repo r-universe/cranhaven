@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EnsemblePenReg
 	subdir = EnsemblePenReg
-[submodule "FishResp"]
-	path = FishResp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FishResp
-	subdir = FishResp
 [submodule "GSAfisherCombined"]
 	path = GSAfisherCombined
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -487,11 +482,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qpcR
 	subdir = qpcR
-[submodule "rMR"]
-	path = rMR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rMR
-	subdir = rMR
 [submodule "randquotes"]
 	path = randquotes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
