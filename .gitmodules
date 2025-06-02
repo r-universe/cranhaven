@@ -387,6 +387,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cds
 	subdir = cds
+[submodule "cgaim"]
+	path = cgaim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cgaim
+	subdir = cgaim
 [submodule "chinese.misc"]
 	path = chinese.misc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,6 +417,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/crfsuite
 	subdir = crfsuite
+[submodule "cta"]
+	path = cta
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cta
+	subdir = cta
 [submodule "dataSDA"]
 	path = dataSDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -457,6 +467,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eurocordexr
 	subdir = eurocordexr
+[submodule "evclust"]
+	path = evclust
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/evclust
+	subdir = evclust
+[submodule "evreg"]
+	path = evreg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/evreg
+	subdir = evreg
 [submodule "fcr"]
 	path = fcr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -482,11 +502,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fmds
 	subdir = fmds
+[submodule "fuzzyreg"]
+	path = fuzzyreg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fuzzyreg
+	subdir = fuzzyreg
 [submodule "gamlss.spatial"]
 	path = gamlss.spatial
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gamlss.spatial
 	subdir = gamlss.spatial
+[submodule "geospt"]
+	path = geospt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/geospt
+	subdir = geospt
+[submodule "geosptdb"]
+	path = geosptdb
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/geosptdb
+	subdir = geosptdb
 [submodule "ggESDA"]
 	path = ggESDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -502,6 +537,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gkwreg
 	subdir = gkwreg
+[submodule "gorica"]
+	path = gorica
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gorica
+	subdir = gorica
 [submodule "gpg"]
 	path = gpg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,6 +557,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/haploR
 	subdir = haploR
+[submodule "hgutils"]
+	path = hgutils
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hgutils
+	subdir = hgutils
 [submodule "image.textlinedetector"]
 	path = image.textlinedetector
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -547,6 +592,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leabRa
 	subdir = leabRa
+[submodule "limSolve"]
+	path = limSolve
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/limSolve
+	subdir = limSolve
 [submodule "lotterybr"]
 	path = lotterybr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -572,6 +622,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mogavs
 	subdir = mogavs
+[submodule "mrf"]
+	path = mrf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mrf
+	subdir = mrf
 [submodule "ncdf4.helpers"]
 	path = ncdf4.helpers
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -592,6 +647,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/paropt
 	subdir = paropt
+[submodule "pems.utils"]
+	path = pems.utils
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pems.utils
+	subdir = pems.utils
 [submodule "pheble"]
 	path = pheble
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -602,6 +662,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/phreeqc
 	subdir = phreeqc
+[submodule "powdR"]
+	path = powdR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/powdR
+	subdir = powdR
+[submodule "ragtop"]
+	path = ragtop
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ragtop
+	subdir = ragtop
 [submodule "randquotes"]
 	path = randquotes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -647,6 +717,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/s2dv
 	subdir = s2dv
+[submodule "scMappR"]
+	path = scMappR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/scMappR
+	subdir = scMappR
 [submodule "skedastic"]
 	path = skedastic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -672,6 +747,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spatialGE
 	subdir = spatialGE
+[submodule "spectacles"]
+	path = spectacles
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spectacles
+	subdir = spectacles
+[submodule "spectralAnalysis"]
+	path = spectralAnalysis
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spectralAnalysis
+	subdir = spectralAnalysis
 [submodule "sprex"]
 	path = sprex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -717,6 +802,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tabr
 	subdir = tabr
+[submodule "takos"]
+	path = takos
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/takos
+	subdir = takos
+[submodule "treedater"]
+	path = treedater
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/treedater
+	subdir = treedater
 [submodule "uniset"]
 	path = uniset
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -732,6 +827,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/viralx
 	subdir = viralx
+[submodule "waves"]
+	path = waves
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/waves
+	subdir = waves
 [submodule "write.snns"]
 	path = write.snns
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
