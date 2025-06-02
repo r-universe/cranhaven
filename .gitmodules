@@ -547,11 +547,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/haploR
 	subdir = haploR
-[submodule "hgutils"]
-	path = hgutils
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hgutils
-	subdir = hgutils
 [submodule "image.textlinedetector"]
 	path = image.textlinedetector
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
