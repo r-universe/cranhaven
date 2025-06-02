@@ -177,6 +177,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RclusTool
 	subdir = RclusTool
+[submodule "RobustCalibration"]
+	path = RobustCalibration
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RobustCalibration
+	subdir = RobustCalibration
+[submodule "RobustGaSP"]
+	path = RobustGaSP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RobustGaSP
+	subdir = RobustGaSP
 [submodule "SSLR"]
 	path = SSLR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,6 +252,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/banter
 	subdir = banter
+[submodule "bazar"]
+	path = bazar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bazar
+	subdir = bazar
 [submodule "bcgam"]
 	path = bcgam
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biodosetools
 	subdir = biodosetools
+[submodule "birp"]
+	path = birp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/birp
+	subdir = birp
 [submodule "cape"]
 	path = cape
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,6 +362,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fishboot
 	subdir = fishboot
+[submodule "flifo"]
+	path = flifo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/flifo
+	subdir = flifo
 [submodule "flobr"]
 	path = flobr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,6 +392,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gimmeTools
 	subdir = gimmeTools
+[submodule "gkwreg"]
+	path = gkwreg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gkwreg
+	subdir = gkwreg
 [submodule "gpg"]
 	path = gpg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lotterybr
 	subdir = lotterybr
+[submodule "m5"]
+	path = m5
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/m5
+	subdir = m5
 [submodule "mdsOpt"]
 	path = mdsOpt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,6 +472,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ncdf4.helpers
 	subdir = ncdf4.helpers
+[submodule "neotoma2"]
+	path = neotoma2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/neotoma2
+	subdir = neotoma2
 [submodule "ntdr"]
 	path = ntdr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -502,6 +542,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/s2dv
 	subdir = s2dv
+[submodule "skedastic"]
+	path = skedastic
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/skedastic
+	subdir = skedastic
 [submodule "sleeperapi"]
 	path = sleeperapi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -572,6 +617,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/uniset
 	subdir = uniset
+[submodule "utiml"]
+	path = utiml
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/utiml
+	subdir = utiml
 [submodule "viralx"]
 	path = viralx
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
