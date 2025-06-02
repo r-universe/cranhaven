@@ -492,11 +492,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/robustsae
 	subdir = robustsae
-[submodule "rusquant"]
-	path = rusquant
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rusquant
-	subdir = rusquant
 [submodule "rwebstat"]
 	path = rwebstat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -572,11 +567,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tabr
 	subdir = tabr
-[submodule "trelloR"]
-	path = trelloR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/trelloR
-	subdir = trelloR
 [submodule "uniset"]
 	path = uniset
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
