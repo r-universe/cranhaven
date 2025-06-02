@@ -12,6 +12,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ARPALData
 	subdir = ARPALData
+[submodule "BisqueRNA"]
+	path = BisqueRNA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BisqueRNA
+	subdir = BisqueRNA
 [submodule "CAESAR.Suite"]
 	path = CAESAR.Suite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,6 +72,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DiceOptim
 	subdir = DiceOptim
+[submodule "EAinference"]
+	path = EAinference
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EAinference
+	subdir = EAinference
+[submodule "EMMAgeo"]
+	path = EMMAgeo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EMMAgeo
+	subdir = EMMAgeo
 [submodule "EnsembleBase"]
 	path = EnsembleBase
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,6 +102,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EnsemblePenReg
 	subdir = EnsemblePenReg
+[submodule "FastSF"]
+	path = FastSF
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FastSF
+	subdir = FastSF
+[submodule "FindIt"]
+	path = FindIt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FindIt
+	subdir = FindIt
+[submodule "GRIDCOPULA"]
+	path = GRIDCOPULA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GRIDCOPULA
+	subdir = GRIDCOPULA
 [submodule "GSAfisherCombined"]
 	path = GSAfisherCombined
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +137,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/InteRD
 	subdir = InteRD
+[submodule "IntegratedMRF"]
+	path = IntegratedMRF
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/IntegratedMRF
+	subdir = IntegratedMRF
+[submodule "LIM"]
+	path = LIM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LIM
+	subdir = LIM
+[submodule "LMest"]
+	path = LMest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LMest
+	subdir = LMest
 [submodule "LPWC"]
 	path = LPWC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,6 +162,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LibOPF
 	subdir = LibOPF
+[submodule "MLCIRTwithin"]
+	path = MLCIRTwithin
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MLCIRTwithin
+	subdir = MLCIRTwithin
+[submodule "MLCOPULA"]
+	path = MLCOPULA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MLCOPULA
+	subdir = MLCOPULA
+[submodule "MPTmultiverse"]
+	path = MPTmultiverse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MPTmultiverse
+	subdir = MPTmultiverse
 [submodule "MixAll"]
 	path = MixAll
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,6 +187,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonoInc
 	subdir = MonoInc
+[submodule "MultiLCIRT"]
+	path = MultiLCIRT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MultiLCIRT
+	subdir = MultiLCIRT
+[submodule "NMRphasing"]
+	path = NMRphasing
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NMRphasing
+	subdir = NMRphasing
 [submodule "NSAE"]
 	path = NSAE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OCA
 	subdir = OCA
+[submodule "PACLasso"]
+	path = PACLasso
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PACLasso
+	subdir = PACLasso
 [submodule "PCICt"]
 	path = PCICt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,11 +262,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RobustGaSP
 	subdir = RobustGaSP
+[submodule "Rquefts"]
+	path = Rquefts
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rquefts
+	subdir = Rquefts
 [submodule "SSLR"]
 	path = SSLR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SSLR
 	subdir = SSLR
+[submodule "ScorePlus"]
+	path = ScorePlus
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ScorePlus
+	subdir = ScorePlus
 [submodule "SeedMatchR"]
 	path = SeedMatchR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TPCselect
 	subdir = TPCselect
+[submodule "TRMF"]
+	path = TRMF
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TRMF
+	subdir = TRMF
 [submodule "TangPoemR"]
 	path = TangPoemR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +342,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/banter
 	subdir = banter
+[submodule "baseline"]
+	path = baseline
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/baseline
+	subdir = baseline
 [submodule "bazar"]
 	path = bazar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -282,6 +377,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/capm
 	subdir = capm
+[submodule "ccrs"]
+	path = ccrs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ccrs
+	subdir = ccrs
+[submodule "cds"]
+	path = cds
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cds
+	subdir = cds
 [submodule "chinese.misc"]
 	path = chinese.misc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
