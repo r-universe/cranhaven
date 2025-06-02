@@ -52,11 +52,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ClimProjDiags
 	subdir = ClimProjDiags
-[submodule "CrossVA"]
-	path = CrossVA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CrossVA
-	subdir = CrossVA
 [submodule "CruzPlot"]
 	path = CruzPlot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
