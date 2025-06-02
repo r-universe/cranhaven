@@ -237,11 +237,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RGS
 	subdir = RGS
-[submodule "RSDA"]
-	path = RSDA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RSDA
-	subdir = RSDA
 [submodule "RclusTool"]
 	path = RclusTool
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
