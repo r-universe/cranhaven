@@ -62,11 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DemografixeR
 	subdir = DemografixeR
-[submodule "DiceOptim"]
-	path = DiceOptim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DiceOptim
-	subdir = DiceOptim
 [submodule "EAinference"]
 	path = EAinference
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PRSPGx
 	subdir = PRSPGx
-[submodule "PRSim"]
-	path = PRSim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PRSim
-	subdir = PRSim
 [submodule "PerMallows"]
 	path = PerMallows
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,11 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TangPoemR
 	subdir = TangPoemR
-[submodule "VicmapR"]
-	path = VicmapR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/VicmapR
-	subdir = VicmapR
 [submodule "abmR"]
 	path = abmR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
