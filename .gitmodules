@@ -482,11 +482,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flobr
 	subdir = flobr
-[submodule "fmds"]
-	path = fmds
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fmds
-	subdir = fmds
 [submodule "fuzzyreg"]
 	path = fuzzyreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
