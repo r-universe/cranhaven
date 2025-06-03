@@ -597,6 +597,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/medrxivr
 	subdir = medrxivr
+[submodule "mefdind"]
+	path = mefdind
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mefdind
+	subdir = mefdind
 [submodule "mogavs"]
 	path = mogavs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -642,6 +647,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/phreeqc
 	subdir = phreeqc
+[submodule "plasso"]
+	path = plasso
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/plasso
+	subdir = plasso
 [submodule "powdR"]
 	path = powdR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -702,6 +712,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scMappR
 	subdir = scMappR
+[submodule "segMGarch"]
+	path = segMGarch
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/segMGarch
+	subdir = segMGarch
 [submodule "skedastic"]
 	path = skedastic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
