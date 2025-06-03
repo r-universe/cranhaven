@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PerMallows
 	subdir = PerMallows
-[submodule "ProtE"]
-	path = ProtE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ProtE
-	subdir = ProtE
 [submodule "RGS"]
 	path = RGS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
