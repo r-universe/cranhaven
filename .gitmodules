@@ -262,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SmoothWin
 	subdir = SmoothWin
-[submodule "SticsRFiles"]
-	path = SticsRFiles
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SticsRFiles
-	subdir = SticsRFiles
 [submodule "TCPMOR"]
 	path = TCPMOR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
