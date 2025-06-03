@@ -67,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EAinference
 	subdir = EAinference
-[submodule "EMMAgeo"]
-	path = EMMAgeo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EMMAgeo
-	subdir = EMMAgeo
 [submodule "EnsembleBase"]
 	path = EnsembleBase
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NSAE
 	subdir = NSAE
-[submodule "OCA"]
-	path = OCA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/OCA
-	subdir = OCA
 [submodule "PACLasso"]
 	path = PACLasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -507,11 +497,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gsmoothr
 	subdir = gsmoothr
-[submodule "haploR"]
-	path = haploR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/haploR
-	subdir = haploR
 [submodule "image.textlinedetector"]
 	path = image.textlinedetector
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -722,11 +707,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spectralAnalysis
 	subdir = spectralAnalysis
-[submodule "sprex"]
-	path = sprex
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sprex
-	subdir = sprex
 [submodule "startR"]
 	path = startR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
