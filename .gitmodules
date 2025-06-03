@@ -172,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MPTmultiverse
 	subdir = MPTmultiverse
-[submodule "MixAll"]
-	path = MixAll
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MixAll
-	subdir = MixAll
 [submodule "MonoInc"]
 	path = MonoInc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
