@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ADSIHT
 	subdir = ADSIHT
-[submodule "ARPALData"]
-	path = ARPALData
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ARPALData
-	subdir = ARPALData
 [submodule "BisqueRNA"]
 	path = BisqueRNA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -692,11 +687,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/skedastic
 	subdir = skedastic
-[submodule "sleeperapi"]
-	path = sleeperapi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sleeperapi
-	subdir = sleeperapi
 [submodule "smcryptoR"]
 	path = smcryptoR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
