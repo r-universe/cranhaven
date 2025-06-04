@@ -102,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GRIDCOPULA
 	subdir = GRIDCOPULA
-[submodule "GSAfisherCombined"]
-	path = GSAfisherCombined
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GSAfisherCombined
-	subdir = GSAfisherCombined
 [submodule "HDDesign"]
 	path = HDDesign
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MPTmultiverse
 	subdir = MPTmultiverse
-[submodule "MonoInc"]
-	path = MonoInc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MonoInc
-	subdir = MonoInc
 [submodule "MultiLCIRT"]
 	path = MultiLCIRT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NSAE
 	subdir = NSAE
-[submodule "OCA"]
-	path = OCA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/OCA
-	subdir = OCA
 [submodule "PACLasso"]
 	path = PACLasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,11 +237,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SemiPar
 	subdir = SemiPar
-[submodule "SmoothWin"]
-	path = SmoothWin
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SmoothWin
-	subdir = SmoothWin
 [submodule "TCPMOR"]
 	path = TCPMOR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/aides
 	subdir = aides
-[submodule "arnie"]
-	path = arnie
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/arnie
-	subdir = arnie
 [submodule "banter"]
 	path = banter
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,16 +277,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bazar
 	subdir = bazar
-[submodule "bcgam"]
-	path = bcgam
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bcgam
-	subdir = bcgam
-[submodule "biodosetools"]
-	path = biodosetools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/biodosetools
-	subdir = biodosetools
 [submodule "birp"]
 	path = birp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -377,11 +342,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dataSDA
 	subdir = dataSDA
-[submodule "dbflobr"]
-	path = dbflobr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dbflobr
-	subdir = dbflobr
 [submodule "demu"]
 	path = demu
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -562,11 +522,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mefdind
 	subdir = mefdind
-[submodule "mogavs"]
-	path = mogavs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mogavs
-	subdir = mogavs
 [submodule "mrf"]
 	path = mrf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
