@@ -602,11 +602,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rigr
 	subdir = rigr
-[submodule "rminer"]
-	path = rminer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rminer
-	subdir = rminer
 [submodule "robustsae"]
 	path = robustsae
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
