@@ -297,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/banter
 	subdir = banter
-[submodule "baseline"]
-	path = baseline
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/baseline
-	subdir = baseline
 [submodule "bazar"]
 	path = bazar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -697,11 +692,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/smiles
 	subdir = smiles
-[submodule "spatialGE"]
-	path = spatialGE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spatialGE
-	subdir = spatialGE
 [submodule "spectacles"]
 	path = spectacles
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -742,11 +732,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/swfscDAS
 	subdir = swfscDAS
-[submodule "swfscMisc"]
-	path = swfscMisc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/swfscMisc
-	subdir = swfscMisc
 [submodule "symbolicDA"]
 	path = symbolicDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
