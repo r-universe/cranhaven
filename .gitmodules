@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CAESAR.Suite
 	subdir = CAESAR.Suite
-[submodule "CANSIM2R"]
-	path = CANSIM2R
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CANSIM2R
-	subdir = CANSIM2R
 [submodule "CKMRpop"]
 	path = CKMRpop
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
