@@ -32,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CSTools
 	subdir = CSTools
-[submodule "CTM"]
-	path = CTM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CTM
-	subdir = CTM
 [submodule "ClimProjDiags"]
 	path = ClimProjDiags
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TRMF
 	subdir = TRMF
-[submodule "TangPoemR"]
-	path = TangPoemR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TangPoemR
-	subdir = TangPoemR
 [submodule "abmR"]
 	path = abmR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cgaim
 	subdir = cgaim
-[submodule "chinese.misc"]
-	path = chinese.misc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/chinese.misc
-	subdir = chinese.misc
 [submodule "conclust"]
 	path = conclust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,11 +452,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/intsel
 	subdir = intsel
-[submodule "jiebaR"]
-	path = jiebaR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/jiebaR
-	subdir = jiebaR
 [submodule "jiebaRD"]
 	path = jiebaRD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
