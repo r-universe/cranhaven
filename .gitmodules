@@ -452,11 +452,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/intsel
 	subdir = intsel
-[submodule "jiebaRD"]
-	path = jiebaRD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/jiebaRD
-	subdir = jiebaRD
 [submodule "jrSiCKLSNMF"]
 	path = jrSiCKLSNMF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
