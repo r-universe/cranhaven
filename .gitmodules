@@ -97,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HDDesign
 	subdir = HDDesign
-[submodule "HDSpatialScan"]
-	path = HDSpatialScan
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HDSpatialScan
-	subdir = HDSpatialScan
 [submodule "InteRD"]
 	path = InteRD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
