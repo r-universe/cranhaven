@@ -272,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cape
 	subdir = cape
-[submodule "capm"]
-	path = capm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/capm
-	subdir = capm
 [submodule "ccrs"]
 	path = ccrs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
