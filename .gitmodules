@@ -447,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/limSolve
 	subdir = limSolve
+[submodule "locpolExpectile"]
+	path = locpolExpectile
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/locpolExpectile
+	subdir = locpolExpectile
 [submodule "lotterybr"]
 	path = lotterybr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -632,6 +637,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/swfscDAS
 	subdir = swfscDAS
+[submodule "switchboard"]
+	path = switchboard
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/switchboard
+	subdir = switchboard
 [submodule "symbolicDA"]
 	path = symbolicDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
