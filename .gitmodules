@@ -202,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SSLR
 	subdir = SSLR
+[submodule "ScorePlus"]
+	path = ScorePlus
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ScorePlus
+	subdir = ScorePlus
 [submodule "SeedMatchR"]
 	path = SeedMatchR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cape
 	subdir = cape
+[submodule "ccrs"]
+	path = ccrs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ccrs
+	subdir = ccrs
 [submodule "cds"]
 	path = cds
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
