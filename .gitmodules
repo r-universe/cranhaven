@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "ADSIHT"]
-	path = ADSIHT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ADSIHT
-	subdir = ADSIHT
 [submodule "BisqueRNA"]
 	path = BisqueRNA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TCPMOR
 	subdir = TCPMOR
-[submodule "TPCselect"]
-	path = TPCselect
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TPCselect
-	subdir = TPCselect
 [submodule "TRMF"]
 	path = TRMF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
