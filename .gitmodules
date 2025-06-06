@@ -352,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/evreg
 	subdir = evreg
+[submodule "expectreg"]
+	path = expectreg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/expectreg
+	subdir = expectreg
 [submodule "fcr"]
 	path = fcr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
