@@ -307,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/demu
 	subdir = demu
+[submodule "dirttee"]
+	path = dirttee
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dirttee
+	subdir = dirttee
 [submodule "distfreereg"]
 	path = distfreereg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
