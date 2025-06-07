@@ -17,21 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CKMRpop
 	subdir = CKMRpop
-[submodule "CSIndicators"]
-	path = CSIndicators
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CSIndicators
-	subdir = CSIndicators
-[submodule "CSTools"]
-	path = CSTools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CSTools
-	subdir = CSTools
-[submodule "ClimProjDiags"]
-	path = ClimProjDiags
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ClimProjDiags
-	subdir = ClimProjDiags
 [submodule "CruzPlot"]
 	path = CruzPlot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PACLasso
 	subdir = PACLasso
-[submodule "PCICt"]
-	path = PCICt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PCICt
-	subdir = PCICt
 [submodule "PRSPGx"]
 	path = PRSPGx
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,16 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/easycsv
 	subdir = easycsv
-[submodule "epwshiftr"]
-	path = epwshiftr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/epwshiftr
-	subdir = epwshiftr
-[submodule "eurocordexr"]
-	path = eurocordexr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/eurocordexr
-	subdir = eurocordexr
 [submodule "evclust"]
 	path = evclust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,11 +462,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mrf
 	subdir = mrf
-[submodule "ncdf4.helpers"]
-	path = ncdf4.helpers
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ncdf4.helpers
-	subdir = ncdf4.helpers
 [submodule "neotoma2"]
 	path = neotoma2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -577,11 +542,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rwebstat
 	subdir = rwebstat
-[submodule "s2dv"]
-	path = s2dv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/s2dv
-	subdir = s2dv
 [submodule "scMappR"]
 	path = scMappR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -622,11 +582,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sprex
 	subdir = sprex
-[submodule "startR"]
-	path = startR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/startR
-	subdir = startR
 [submodule "stratifyR"]
 	path = stratifyR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
