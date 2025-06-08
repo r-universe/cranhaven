@@ -277,11 +277,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cta
 	subdir = cta
-[submodule "dataSDA"]
-	path = dataSDA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dataSDA
-	subdir = dataSDA
 [submodule "demu"]
 	path = demu
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -552,11 +547,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/segMGarch
 	subdir = segMGarch
-[submodule "skedastic"]
-	path = skedastic
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/skedastic
-	subdir = skedastic
 [submodule "smcryptoR"]
 	path = smcryptoR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
