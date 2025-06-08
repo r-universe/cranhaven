@@ -537,11 +537,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/robustsae
 	subdir = robustsae
-[submodule "rwebstat"]
-	path = rwebstat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rwebstat
-	subdir = rwebstat
 [submodule "scMappR"]
 	path = scMappR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
