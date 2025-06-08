@@ -152,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PerMallows
 	subdir = PerMallows
+[submodule "R2ucare"]
+	path = R2ucare
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/R2ucare
+	subdir = R2ucare
 [submodule "RGS"]
 	path = RGS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
