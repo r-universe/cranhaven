@@ -217,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/abmR
 	subdir = abmR
+[submodule "abn"]
+	path = abn
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/abn
+	subdir = abn
 [submodule "aides"]
 	path = aides
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -632,6 +637,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/viralx
 	subdir = viralx
+[submodule "voteSim"]
+	path = voteSim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/voteSim
+	subdir = voteSim
 [submodule "waves"]
 	path = waves
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
