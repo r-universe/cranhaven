@@ -172,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RobustCalibration
 	subdir = RobustCalibration
-[submodule "RobustGaSP"]
-	path = RobustGaSP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RobustGaSP
-	subdir = RobustGaSP
 [submodule "Rquefts"]
 	path = Rquefts
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -522,11 +517,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rextendr
 	subdir = rextendr
-[submodule "rfPermute"]
-	path = rfPermute
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rfPermute
-	subdir = rfPermute
 [submodule "rigr"]
 	path = rigr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -567,11 +557,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spectralAnalysis
 	subdir = spectralAnalysis
-[submodule "sprex"]
-	path = sprex
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sprex
-	subdir = sprex
 [submodule "stratifyR"]
 	path = stratifyR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -587,11 +572,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/swfscAirDAS
 	subdir = swfscAirDAS
-[submodule "swfscDAS"]
-	path = swfscDAS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/swfscDAS
-	subdir = swfscDAS
 [submodule "switchboard"]
 	path = switchboard
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
