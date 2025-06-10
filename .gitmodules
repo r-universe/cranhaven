@@ -192,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ScorePlus
 	subdir = ScorePlus
-[submodule "SeedMatchR"]
-	path = SeedMatchR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SeedMatchR
-	subdir = SeedMatchR
 [submodule "SemiPar"]
 	path = SemiPar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
