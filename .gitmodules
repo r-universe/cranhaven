@@ -217,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/aides
 	subdir = aides
-[submodule "banter"]
-	path = banter
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/banter
-	subdir = banter
 [submodule "bazar"]
 	path = bazar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
