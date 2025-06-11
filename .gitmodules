@@ -407,11 +407,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leabRa
 	subdir = leabRa
-[submodule "limSolve"]
-	path = limSolve
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/limSolve
-	subdir = limSolve
 [submodule "locpolExpectile"]
 	path = locpolExpectile
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
