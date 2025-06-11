@@ -397,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/haploR
 	subdir = haploR
-[submodule "image.textlinedetector"]
-	path = image.textlinedetector
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/image.textlinedetector
-	subdir = image.textlinedetector
 [submodule "intsel"]
 	path = intsel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -502,11 +497,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ragtop
 	subdir = ragtop
-[submodule "randquotes"]
-	path = randquotes
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/randquotes
-	subdir = randquotes
 [submodule "resultant"]
 	path = resultant
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
