@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "AFM"]
+	path = AFM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AFM
+	subdir = AFM
 [submodule "BisqueRNA"]
 	path = BisqueRNA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -17,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CKMRpop
 	subdir = CKMRpop
+[submodule "Conake"]
+	path = Conake
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Conake
+	subdir = Conake
 [submodule "CruzPlot"]
 	path = CruzPlot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -37,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EMMAgeo
 	subdir = EMMAgeo
+[submodule "EcoVirtual"]
+	path = EcoVirtual
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EcoVirtual
+	subdir = EcoVirtual
 [submodule "EnsembleBase"]
 	path = EnsembleBase
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -62,11 +77,31 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FastSF
 	subdir = FastSF
+[submodule "FinancialInstrument"]
+	path = FinancialInstrument
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FinancialInstrument
+	subdir = FinancialInstrument
 [submodule "FindIt"]
 	path = FindIt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FindIt
 	subdir = FindIt
+[submodule "FunCC"]
+	path = FunCC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FunCC
+	subdir = FunCC
+[submodule "GGMncv"]
+	path = GGMncv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GGMncv
+	subdir = GGMncv
+[submodule "GGMnonreg"]
+	path = GGMnonreg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GGMnonreg
+	subdir = GGMnonreg
 [submodule "GRIDCOPULA"]
 	path = GRIDCOPULA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,6 +112,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HDDesign
 	subdir = HDDesign
+[submodule "HeritSeq"]
+	path = HeritSeq
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HeritSeq
+	subdir = HeritSeq
+[submodule "INSPIRE"]
+	path = INSPIRE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/INSPIRE
+	subdir = INSPIRE
+[submodule "IRCcheck"]
+	path = IRCcheck
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/IRCcheck
+	subdir = IRCcheck
 [submodule "InteRD"]
 	path = InteRD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,6 +137,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IntegratedMRF
 	subdir = IntegratedMRF
+[submodule "IsoCheck"]
+	path = IsoCheck
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/IsoCheck
+	subdir = IsoCheck
 [submodule "LIM"]
 	path = LIM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -102,6 +157,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LPWC
 	subdir = LPWC
+[submodule "LavaCvxr"]
+	path = LavaCvxr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LavaCvxr
+	subdir = LavaCvxr
+[submodule "Lavash"]
+	path = Lavash
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Lavash
+	subdir = Lavash
 [submodule "LibOPF"]
 	path = LibOPF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -122,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MPTmultiverse
 	subdir = MPTmultiverse
+[submodule "MatrixLDA"]
+	path = MatrixLDA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MatrixLDA
+	subdir = MatrixLDA
 [submodule "MultiLCIRT"]
 	path = MultiLCIRT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NSAE
 	subdir = NSAE
+[submodule "OEFPIL"]
+	path = OEFPIL
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/OEFPIL
+	subdir = OEFPIL
 [submodule "PACLasso"]
 	path = PACLasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PerMallows
 	subdir = PerMallows
+[submodule "R.temis"]
+	path = R.temis
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/R.temis
+	subdir = R.temis
 [submodule "R2ucare"]
 	path = R2ucare
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,11 +242,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RGS
 	subdir = RGS
+[submodule "RInno"]
+	path = RInno
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RInno
+	subdir = RInno
+[submodule "RJcluster"]
+	path = RJcluster
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RJcluster
+	subdir = RJcluster
 [submodule "RclusTool"]
 	path = RclusTool
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RclusTool
 	subdir = RclusTool
+[submodule "RcmdrPlugin.EcoVirtual"]
+	path = RcmdrPlugin.EcoVirtual
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RcmdrPlugin.EcoVirtual
+	subdir = RcmdrPlugin.EcoVirtual
 [submodule "RobustCalibration"]
 	path = RobustCalibration
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,6 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SemiPar
 	subdir = SemiPar
+[submodule "SmCCNet"]
+	path = SmCCNet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SmCCNet
+	subdir = SmCCNet
 [submodule "TCPMOR"]
 	path = TCPMOR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
