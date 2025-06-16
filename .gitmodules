@@ -502,11 +502,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dfmeta
 	subdir = dfmeta
-[submodule "dirttee"]
-	path = dirttee
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dirttee
-	subdir = dirttee
 [submodule "dmri.tracking"]
 	path = dmri.tracking
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -642,16 +637,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lifelogr
 	subdir = lifelogr
+[submodule "limSolve"]
+	path = limSolve
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/limSolve
+	subdir = limSolve
 [submodule "liminal"]
 	path = liminal
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/liminal
 	subdir = liminal
-[submodule "locpolExpectile"]
-	path = locpolExpectile
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/locpolExpectile
-	subdir = locpolExpectile
 [submodule "lsbclust"]
 	path = lsbclust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -797,6 +792,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pqantimalarials
 	subdir = pqantimalarials
+[submodule "psgp"]
+	path = psgp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/psgp
+	subdir = psgp
 [submodule "r6extended"]
 	path = r6extended
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -837,6 +837,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rgoogleslides
 	subdir = rgoogleslides
+[submodule "rlibkriging"]
+	path = rlibkriging
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rlibkriging
+	subdir = rlibkriging
 [submodule "robustsur"]
 	path = robustsur
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -927,11 +932,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/statVisual
 	subdir = statVisual
-[submodule "switchboard"]
-	path = switchboard
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/switchboard
-	subdir = switchboard
 [submodule "teamr"]
 	path = teamr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
