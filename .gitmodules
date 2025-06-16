@@ -527,11 +527,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/endoSwitch
 	subdir = endoSwitch
-[submodule "expectreg"]
-	path = expectreg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/expectreg
-	subdir = expectreg
 [submodule "fanovaGraph"]
 	path = fanovaGraph
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -722,6 +717,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/neverhpfilter
 	subdir = neverhpfilter
+[submodule "nser"]
+	path = nser
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nser
+	subdir = nser
 [submodule "oglmx"]
 	path = oglmx
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
