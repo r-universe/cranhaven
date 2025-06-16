@@ -412,11 +412,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/abn
 	subdir = abn
-[submodule "apc"]
-	path = apc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/apc
-	subdir = apc
 [submodule "aphylo"]
 	path = aphylo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
