@@ -222,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MatrixLDA
 	subdir = MatrixLDA
+[submodule "Mega2R"]
+	path = Mega2R
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Mega2R
+	subdir = Mega2R
 [submodule "MetGen"]
 	path = MetGen
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,11 +322,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/R.temis
 	subdir = R.temis
-[submodule "R2ucare"]
-	path = R2ucare
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/R2ucare
-	subdir = R2ucare
 [submodule "RDML"]
 	path = RDML
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
