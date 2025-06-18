@@ -612,6 +612,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leaflet.esri
 	subdir = leaflet.esri
+[submodule "libdeflate"]
+	path = libdeflate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/libdeflate
+	subdir = libdeflate
+[submodule "libimath"]
+	path = libimath
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/libimath
+	subdir = libimath
+[submodule "libopenexr"]
+	path = libopenexr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/libopenexr
+	subdir = libopenexr
 [submodule "lifelogr"]
 	path = lifelogr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -687,11 +702,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/musica
 	subdir = musica
-[submodule "natstrat"]
-	path = natstrat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/natstrat
-	subdir = natstrat
 [submodule "neverhpfilter"]
 	path = neverhpfilter
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -787,11 +797,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/psgp
 	subdir = psgp
-[submodule "r6extended"]
-	path = r6extended
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/r6extended
-	subdir = r6extended
 [submodule "ragnar"]
 	path = ragnar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -867,11 +872,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seleniumPipes
 	subdir = seleniumPipes
-[submodule "shinyMolBio"]
-	path = shinyMolBio
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shinyMolBio
-	subdir = shinyMolBio
 [submodule "shinysurveys"]
 	path = shinysurveys
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
