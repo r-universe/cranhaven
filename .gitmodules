@@ -682,11 +682,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/microclass
 	subdir = microclass
-[submodule "microcontax"]
-	path = microcontax
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/microcontax
-	subdir = microcontax
 [submodule "miscset"]
 	path = miscset
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -802,6 +797,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/r6extended
 	subdir = r6extended
+[submodule "ragnar"]
+	path = ragnar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ragnar
+	subdir = ragnar
 [submodule "rasclass"]
 	path = rasclass
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
