@@ -212,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MNLpred
 	subdir = MNLpred
-[submodule "MRQoL"]
-	path = MRQoL
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MRQoL
-	subdir = MRQoL
 [submodule "Mega2R"]
 	path = Mega2R
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
