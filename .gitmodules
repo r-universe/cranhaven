@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "A3"]
-	path = A3
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/A3
-	subdir = A3
 [submodule "ADMUR"]
 	path = ADMUR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -27,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AssocTests
 	subdir = AssocTests
+[submodule "BCSub"]
+	path = BCSub
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BCSub
+	subdir = BCSub
 [submodule "BMTAR"]
 	path = BMTAR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
