@@ -222,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetGen
 	subdir = MetGen
+[submodule "MiscMetabar"]
+	path = MiscMetabar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MiscMetabar
+	subdir = MiscMetabar
 [submodule "MtreeRing"]
 	path = MtreeRing
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -687,11 +692,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/medicalrisk
 	subdir = medicalrisk
-[submodule "microclass"]
-	path = microclass
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/microclass
-	subdir = microclass
 [submodule "miscset"]
 	path = miscset
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
