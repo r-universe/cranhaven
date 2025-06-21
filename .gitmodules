@@ -92,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EpiILMCT
 	subdir = EpiILMCT
-[submodule "ExplainPrediction"]
-	path = ExplainPrediction
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ExplainPrediction
-	subdir = ExplainPrediction
 [submodule "FluMoDL"]
 	path = FluMoDL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -607,6 +602,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/jvnVaR
 	subdir = jvnVaR
+[submodule "kbal"]
+	path = kbal
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/kbal
+	subdir = kbal
 [submodule "lar"]
 	path = lar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
