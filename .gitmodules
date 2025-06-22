@@ -47,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CVR
 	subdir = CVR
-[submodule "ClusVis"]
-	path = ClusVis
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ClusVis
-	subdir = ClusVis
 [submodule "ClusteredMutations"]
 	path = ClusteredMutations
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -82,16 +77,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EncDNA
 	subdir = EncDNA
-[submodule "EpiILM"]
-	path = EpiILM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EpiILM
-	subdir = EpiILM
 [submodule "EpiILMCT"]
 	path = EpiILMCT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EpiILMCT
 	subdir = EpiILMCT
+[submodule "ExplainPrediction"]
+	path = ExplainPrediction
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ExplainPrediction
+	subdir = ExplainPrediction
 [submodule "FluMoDL"]
 	path = FluMoDL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,6 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rtwalk
 	subdir = Rtwalk
+[submodule "SBMTrees"]
+	path = SBMTrees
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SBMTrees
+	subdir = SBMTrees
 [submodule "SC.MEB"]
 	path = SC.MEB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
