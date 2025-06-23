@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ALEPlot
 	subdir = ALEPlot
-[submodule "AcrossTic"]
-	path = AcrossTic
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AcrossTic
-	subdir = AcrossTic
 [submodule "AssocTests"]
 	path = AssocTests
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,6 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CVR
 	subdir = CVR
+[submodule "ClusVis"]
+	path = ClusVis
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ClusVis
+	subdir = ClusVis
 [submodule "ClusteredMutations"]
 	path = ClusteredMutations
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,26 +67,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DPBBM
 	subdir = DPBBM
-[submodule "DetR"]
-	path = DetR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DetR
-	subdir = DetR
 [submodule "EncDNA"]
 	path = EncDNA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EncDNA
 	subdir = EncDNA
-[submodule "EpiILMCT"]
-	path = EpiILMCT
+[submodule "EpiILM"]
+	path = EpiILM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EpiILMCT
-	subdir = EpiILMCT
-[submodule "ExplainPrediction"]
-	path = ExplainPrediction
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ExplainPrediction
-	subdir = ExplainPrediction
+	branch = package/EpiILM
+	subdir = EpiILM
 [submodule "FluMoDL"]
 	path = FluMoDL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -722,6 +712,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/omics
 	subdir = omics
+[submodule "opendataformat"]
+	path = opendataformat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/opendataformat
+	subdir = opendataformat
+[submodule "oppr"]
+	path = oppr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/oppr
+	subdir = oppr
 [submodule "overture"]
 	path = overture
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
