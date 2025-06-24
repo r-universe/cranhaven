@@ -617,11 +617,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lifelogr
 	subdir = lifelogr
-[submodule "limSolve"]
-	path = limSolve
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/limSolve
-	subdir = limSolve
 [submodule "liminal"]
 	path = liminal
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
