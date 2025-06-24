@@ -602,11 +602,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leaflet.esri
 	subdir = leaflet.esri
-[submodule "libdeflate"]
-	path = libdeflate
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/libdeflate
-	subdir = libdeflate
 [submodule "libimath"]
 	path = libimath
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
