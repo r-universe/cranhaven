@@ -12,11 +12,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ALEPlot
 	subdir = ALEPlot
-[submodule "AssocTests"]
-	path = AssocTests
+[submodule "AcrossTic"]
+	path = AcrossTic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AssocTests
-	subdir = AssocTests
+	branch = package/AcrossTic
+	subdir = AcrossTic
 [submodule "BCSub"]
 	path = BCSub
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -32,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BTYDplus
 	subdir = BTYDplus
-[submodule "BayesComm"]
-	path = BayesComm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BayesComm
-	subdir = BayesComm
 [submodule "CVR"]
 	path = CVR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,16 +62,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DPBBM
 	subdir = DPBBM
-[submodule "EncDNA"]
-	path = EncDNA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EncDNA
-	subdir = EncDNA
 [submodule "EpiILM"]
 	path = EpiILM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EpiILM
 	subdir = EpiILM
+[submodule "ExplainPrediction"]
+	path = ExplainPrediction
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ExplainPrediction
+	subdir = ExplainPrediction
 [submodule "FluMoDL"]
 	path = FluMoDL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -807,6 +802,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rfishdraw
 	subdir = rfishdraw
+[submodule "rgho"]
+	path = rgho
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rgho
+	subdir = rgho
 [submodule "rgoogleslides"]
 	path = rgoogleslides
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
