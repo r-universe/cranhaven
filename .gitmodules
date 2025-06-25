@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GLMMRR
 	subdir = GLMMRR
-[submodule "GOCompare"]
-	path = GOCompare
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GOCompare
-	subdir = GOCompare
 [submodule "GRS.test"]
 	path = GRS.test
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -632,11 +627,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/luca
 	subdir = luca
-[submodule "m2b"]
-	path = m2b
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/m2b
-	subdir = m2b
 [submodule "macc"]
 	path = macc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
