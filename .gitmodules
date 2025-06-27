@@ -692,11 +692,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/opendataformat
 	subdir = opendataformat
-[submodule "oppr"]
-	path = oppr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/oppr
-	subdir = oppr
 [submodule "overture"]
 	path = overture
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
