@@ -797,11 +797,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rlibkriging
 	subdir = rlibkriging
-[submodule "robustsur"]
-	path = robustsur
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/robustsur
-	subdir = robustsur
 [submodule "rucm"]
 	path = rucm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
