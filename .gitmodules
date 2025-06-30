@@ -937,6 +937,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/waterfall
 	subdir = waterfall
+[submodule "wingen"]
+	path = wingen
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/wingen
+	subdir = wingen
 [submodule "x.ent"]
 	path = x.ent
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
