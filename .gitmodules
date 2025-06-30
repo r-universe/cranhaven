@@ -12,41 +12,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ALEPlot
 	subdir = ALEPlot
-[submodule "AcrossTic"]
-	path = AcrossTic
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AcrossTic
-	subdir = AcrossTic
 [submodule "BCSub"]
 	path = BCSub
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BCSub
 	subdir = BCSub
-[submodule "BMTAR"]
-	path = BMTAR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BMTAR
-	subdir = BMTAR
-[submodule "BTYDplus"]
-	path = BTYDplus
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BTYDplus
-	subdir = BTYDplus
-[submodule "CVR"]
-	path = CVR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CVR
-	subdir = CVR
-[submodule "ClusVis"]
-	path = ClusVis
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ClusVis
-	subdir = ClusVis
-[submodule "ClusteredMutations"]
-	path = ClusteredMutations
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ClusteredMutations
-	subdir = ClusteredMutations
 [submodule "DBEST"]
 	path = DBEST
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -62,26 +32,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DPBBM
 	subdir = DPBBM
-[submodule "EpiILM"]
-	path = EpiILM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EpiILM
-	subdir = EpiILM
-[submodule "ExplainPrediction"]
-	path = ExplainPrediction
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ExplainPrediction
-	subdir = ExplainPrediction
-[submodule "FluMoDL"]
-	path = FluMoDL
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FluMoDL
-	subdir = FluMoDL
 [submodule "ForecastComb"]
 	path = ForecastComb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ForecastComb
 	subdir = ForecastComb
+[submodule "GDELTtools"]
+	path = GDELTtools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GDELTtools
+	subdir = GDELTtools
 [submodule "GLMMRR"]
 	path = GLMMRR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +137,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MGDrivE
 	subdir = MGDrivE
+[submodule "MGDrivE2"]
+	path = MGDrivE2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MGDrivE2
+	subdir = MGDrivE2
 [submodule "MNLpred"]
 	path = MNLpred
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,6 +297,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SensusR
 	subdir = SensusR
+[submodule "SigTree"]
+	path = SigTree
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SigTree
+	subdir = SigTree
 [submodule "SubpathwayLNCE"]
 	path = SubpathwayLNCE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,6 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/artfima
 	subdir = artfima
+[submodule "bayou"]
+	path = bayou
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bayou
+	subdir = bayou
 [submodule "bisectr"]
 	path = bisectr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -507,6 +482,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/endoSwitch
 	subdir = endoSwitch
+[submodule "etwfe"]
+	path = etwfe
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/etwfe
+	subdir = etwfe
 [submodule "fanovaGraph"]
 	path = fanovaGraph
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -667,6 +647,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/neverhpfilter
 	subdir = neverhpfilter
+[submodule "njgeo"]
+	path = njgeo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/njgeo
+	subdir = njgeo
 [submodule "nparACT"]
 	path = nparACT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -822,6 +807,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sclr
 	subdir = sclr
+[submodule "seawaveQ"]
+	path = seawaveQ
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/seawaveQ
+	subdir = seawaveQ
 [submodule "seeds"]
 	path = seeds
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -877,6 +867,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sparseBC
 	subdir = sparseBC
+[submodule "spatialfusion"]
+	path = spatialfusion
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spatialfusion
+	subdir = spatialfusion
 [submodule "sse"]
 	path = sse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -917,6 +912,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tfplot
 	subdir = tfplot
+[submodule "tframePlus"]
+	path = tframePlus
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tframePlus
+	subdir = tframePlus
 [submodule "ttScreening"]
 	path = ttScreening
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
