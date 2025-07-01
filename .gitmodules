@@ -77,21 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MCMC.OTU
 	subdir = MCMC.OTU
-[submodule "MDBED"]
-	path = MDBED
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MDBED
-	subdir = MDBED
 [submodule "MDplot"]
 	path = MDplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MDplot
 	subdir = MDplot
-[submodule "MGDrivE"]
-	path = MGDrivE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MGDrivE
-	subdir = MGDrivE
 [submodule "MGDrivE2"]
 	path = MGDrivE2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -122,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Morphoscape
 	subdir = Morphoscape
+[submodule "MtreeRing"]
+	path = MtreeRing
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MtreeRing
+	subdir = MtreeRing
 [submodule "MultiVarSel"]
 	path = MultiVarSel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +127,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NORMA
 	subdir = NORMA
-[submodule "ODB"]
-	path = ODB
+[submodule "NonNorMvtDist"]
+	path = NonNorMvtDist
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ODB
-	subdir = ODB
+	branch = package/NonNorMvtDist
+	subdir = NonNorMvtDist
 [submodule "OOS"]
 	path = OOS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PolyTrend
 	subdir = PolyTrend
-[submodule "PortRisk"]
-	path = PortRisk
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PortRisk
-	subdir = PortRisk
 [submodule "PowerNormal"]
 	path = PowerNormal
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -487,6 +477,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggQC
 	subdir = ggQC
+[submodule "ggRandomForests"]
+	path = ggRandomForests
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ggRandomForests
+	subdir = ggRandomForests
 [submodule "ggseas"]
 	path = ggseas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -922,6 +917,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vesselr
 	subdir = vesselr
+[submodule "volleystat"]
+	path = volleystat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/volleystat
+	subdir = volleystat
 [submodule "vsd"]
 	path = vsd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
