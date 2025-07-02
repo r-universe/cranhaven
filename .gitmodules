@@ -102,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MultiVarSel
 	subdir = MultiVarSel
-[submodule "ODB"]
-	path = ODB
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ODB
-	subdir = ODB
 [submodule "OOS"]
 	path = OOS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -707,6 +702,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pqantimalarials
 	subdir = pqantimalarials
+[submodule "prettifyAddins"]
+	path = prettifyAddins
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/prettifyAddins
+	subdir = prettifyAddins
 [submodule "progenyClust"]
 	path = progenyClust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
