@@ -82,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MGDrivE2
 	subdir = MGDrivE2
-[submodule "MSclassifR"]
-	path = MSclassifR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MSclassifR
-	subdir = MSclassifR
 [submodule "Mega2R"]
 	path = Mega2R
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
