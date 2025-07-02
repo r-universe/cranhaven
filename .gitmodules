@@ -12,6 +12,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ALEPlot
 	subdir = ALEPlot
+[submodule "ARUtools"]
+	path = ARUtools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ARUtools
+	subdir = ARUtools
 [submodule "BCSub"]
 	path = BCSub
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LIStest
 	subdir = LIStest
-[submodule "MAVE"]
-	path = MAVE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MAVE
-	subdir = MAVE
 [submodule "MCMC.OTU"]
 	path = MCMC.OTU
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -82,16 +82,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MDplot
 	subdir = MDplot
+[submodule "MGDrivE"]
+	path = MGDrivE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MGDrivE
+	subdir = MGDrivE
 [submodule "MGDrivE2"]
 	path = MGDrivE2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MGDrivE2
 	subdir = MGDrivE2
-[submodule "MNLpred"]
-	path = MNLpred
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MNLpred
-	subdir = MNLpred
 [submodule "MSclassifR"]
 	path = MSclassifR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -102,61 +102,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Mega2R
 	subdir = Mega2R
-[submodule "MetGen"]
-	path = MetGen
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MetGen
-	subdir = MetGen
 [submodule "Morphoscape"]
 	path = Morphoscape
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Morphoscape
 	subdir = Morphoscape
-[submodule "MtreeRing"]
-	path = MtreeRing
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MtreeRing
-	subdir = MtreeRing
 [submodule "MultiVarSel"]
 	path = MultiVarSel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MultiVarSel
 	subdir = MultiVarSel
-[submodule "NORMA"]
-	path = NORMA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NORMA
-	subdir = NORMA
-[submodule "NonNorMvtDist"]
-	path = NonNorMvtDist
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NonNorMvtDist
-	subdir = NonNorMvtDist
 [submodule "OOS"]
 	path = OOS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OOS
 	subdir = OOS
-[submodule "PHENIX"]
-	path = PHENIX
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PHENIX
-	subdir = PHENIX
 [submodule "PolyTrend"]
 	path = PolyTrend
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PolyTrend
 	subdir = PolyTrend
-[submodule "PowerNormal"]
-	path = PowerNormal
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PowerNormal
-	subdir = PowerNormal
-[submodule "PredCRG"]
-	path = PredCRG
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PredCRG
-	subdir = PredCRG
 [submodule "PrevMap"]
 	path = PrevMap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +237,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/UBL
 	subdir = UBL
+[submodule "ale"]
+	path = ale
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ale
+	subdir = ale
 [submodule "archivist.github"]
 	path = archivist.github
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -457,6 +427,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flexmixNL
 	subdir = flexmixNL
+[submodule "flightsbr"]
+	path = flightsbr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/flightsbr
+	subdir = flightsbr
 [submodule "foodingraph"]
 	path = foodingraph
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -527,6 +502,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/intamapInteractive
 	subdir = intamapInteractive
+[submodule "ipcwswitch"]
+	path = ipcwswitch
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ipcwswitch
+	subdir = ipcwswitch
 [submodule "jlctree"]
 	path = jlctree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -617,6 +597,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/miscset
 	subdir = miscset
+[submodule "mixtur"]
+	path = mixtur
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mixtur
+	subdir = mixtur
 [submodule "musica"]
 	path = musica
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -702,6 +687,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pltesim
 	subdir = pltesim
+[submodule "pollimetry"]
+	path = pollimetry
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pollimetry
+	subdir = pollimetry
 [submodule "pooling"]
 	path = pooling
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -767,6 +757,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rgoogleslides
 	subdir = rgoogleslides
+[submodule "rim"]
+	path = rim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rim
+	subdir = rim
 [submodule "rlibkriging"]
 	path = rlibkriging
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
