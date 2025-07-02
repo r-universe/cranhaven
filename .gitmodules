@@ -662,6 +662,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/papci
 	subdir = papci
+[submodule "parzer"]
+	path = parzer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/parzer
+	subdir = parzer
 [submodule "pcdpca"]
 	path = pcdpca
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
