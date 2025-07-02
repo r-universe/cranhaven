@@ -532,11 +532,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/libdeflate
 	subdir = libdeflate
-[submodule "libimath"]
-	path = libimath
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/libimath
-	subdir = libimath
 [submodule "libopenexr"]
 	path = libopenexr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
