@@ -77,16 +77,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MCMC.OTU
 	subdir = MCMC.OTU
-[submodule "MDplot"]
-	path = MDplot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MDplot
-	subdir = MDplot
-[submodule "MGDrivE"]
-	path = MGDrivE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MGDrivE
-	subdir = MGDrivE
 [submodule "MGDrivE2"]
 	path = MGDrivE2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MultiVarSel
 	subdir = MultiVarSel
+[submodule "ODB"]
+	path = ODB
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ODB
+	subdir = ODB
 [submodule "OOS"]
 	path = OOS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -532,6 +527,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leaflet.esri
 	subdir = leaflet.esri
+[submodule "libdeflate"]
+	path = libdeflate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/libdeflate
+	subdir = libdeflate
 [submodule "libimath"]
 	path = libimath
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
