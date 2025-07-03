@@ -717,11 +717,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rasclass
 	subdir = rasclass
-[submodule "rbioapi"]
-	path = rbioapi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rbioapi
-	subdir = rbioapi
 [submodule "rdfp"]
 	path = rdfp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
