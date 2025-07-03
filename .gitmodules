@@ -72,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LIStest
 	subdir = LIStest
+[submodule "MAGEE"]
+	path = MAGEE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MAGEE
+	subdir = MAGEE
 [submodule "MCMC.OTU"]
 	path = MCMC.OTU
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,16 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PolyTrend
 	subdir = PolyTrend
-[submodule "PrevMap"]
-	path = PrevMap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PrevMap
-	subdir = PrevMap
-[submodule "ProfoundData"]
-	path = ProfoundData
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ProfoundData
-	subdir = ProfoundData
 [submodule "PupilPre"]
 	path = PupilPre
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RNCBIEUtilsLibs
 	subdir = RNCBIEUtilsLibs
-[submodule "RSauceLabs"]
-	path = RSauceLabs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RSauceLabs
-	subdir = RSauceLabs
 [submodule "RZabbix"]
 	path = RZabbix
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -727,6 +717,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rasclass
 	subdir = rasclass
+[submodule "rbioapi"]
+	path = rbioapi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rbioapi
+	subdir = rbioapi
 [submodule "rdfp"]
 	path = rdfp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -822,6 +817,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/simexaft
 	subdir = simexaft
+[submodule "simpleMLP"]
+	path = simpleMLP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/simpleMLP
+	subdir = simpleMLP
 [submodule "slickR"]
 	path = slickR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
