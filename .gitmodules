@@ -112,11 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PolyTrend
 	subdir = PolyTrend
-[submodule "PupilPre"]
-	path = PupilPre
+[submodule "ProfoundData"]
+	path = ProfoundData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PupilPre
-	subdir = PupilPre
+	branch = package/ProfoundData
+	subdir = ProfoundData
 [submodule "QRegVCM"]
 	path = QRegVCM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RNCBIEUtilsLibs
 	subdir = RNCBIEUtilsLibs
-[submodule "RZabbix"]
-	path = RZabbix
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RZabbix
-	subdir = RZabbix
 [submodule "RcmdrPlugin.GWRM"]
 	path = RcmdrPlugin.GWRM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clikcorr
 	subdir = clikcorr
+[submodule "clmplus"]
+	path = clmplus
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clmplus
+	subdir = clmplus
 [submodule "cloudml"]
 	path = cloudml
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
