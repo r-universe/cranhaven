@@ -892,11 +892,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tframePlus
 	subdir = tframePlus
-[submodule "ttScreening"]
-	path = ttScreening
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ttScreening
-	subdir = ttScreening
 [submodule "vesselr"]
 	path = vesselr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
