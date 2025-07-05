@@ -112,21 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PolyTrend
 	subdir = PolyTrend
-[submodule "ProfoundData"]
-	path = ProfoundData
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ProfoundData
-	subdir = ProfoundData
-[submodule "QRegVCM"]
-	path = QRegVCM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/QRegVCM
-	subdir = QRegVCM
-[submodule "RMBC"]
-	path = RMBC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RMBC
-	subdir = RMBC
 [submodule "RNCBIEUtilsLibs"]
 	path = RNCBIEUtilsLibs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,6 +232,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/breakpoint
 	subdir = breakpoint
+[submodule "cellularautomata"]
+	path = cellularautomata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cellularautomata
+	subdir = cellularautomata
 [submodule "cfma"]
 	path = cfma
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,6 +427,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggseas
 	subdir = ggseas
+[submodule "ggsmc"]
+	path = ggsmc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ggsmc
+	subdir = ggsmc
 [submodule "githubinstall"]
 	path = githubinstall
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,6 +487,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/jvnVaR
 	subdir = jvnVaR
+[submodule "karel"]
+	path = karel
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/karel
+	subdir = karel
 [submodule "kbal"]
 	path = kbal
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
