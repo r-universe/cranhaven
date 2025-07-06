@@ -202,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/archivist.github
 	subdir = archivist.github
-[submodule "artfima"]
-	path = artfima
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/artfima
-	subdir = artfima
 [submodule "automap"]
 	path = automap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,11 +487,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/karel
 	subdir = karel
-[submodule "kbal"]
-	path = kbal
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/kbal
-	subdir = kbal
 [submodule "lar"]
 	path = lar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -707,6 +697,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qlcVisualize
 	subdir = qlcVisualize
+[submodule "rLakeHabitat"]
+	path = rLakeHabitat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rLakeHabitat
+	subdir = rLakeHabitat
 [submodule "ragnar"]
 	path = ragnar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
