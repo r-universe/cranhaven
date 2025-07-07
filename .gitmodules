@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RcmdrPlugin.GWRM
 	subdir = RcmdrPlugin.GWRM
-[submodule "RmarineHeatWaves"]
-	path = RmarineHeatWaves
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RmarineHeatWaves
-	subdir = RmarineHeatWaves
 [submodule "RsimMosaic"]
 	path = RsimMosaic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TP.idm
 	subdir = TP.idm
-[submodule "TrendSLR"]
-	path = TrendSLR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TrendSLR
-	subdir = TrendSLR
 [submodule "UBL"]
 	path = UBL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/archivist.github
 	subdir = archivist.github
+[submodule "artfima"]
+	path = artfima
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/artfima
+	subdir = artfima
 [submodule "automap"]
 	path = automap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clmplus
 	subdir = clmplus
-[submodule "cloudml"]
-	path = cloudml
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cloudml
-	subdir = cloudml
 [submodule "collUtils"]
 	path = collUtils
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +297,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cumstats
 	subdir = cumstats
+[submodule "cvwrapr"]
+	path = cvwrapr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cvwrapr
+	subdir = cvwrapr
 [submodule "datastepr"]
 	path = datastepr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,6 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dfped
 	subdir = dfped
+[submodule "disaggR"]
+	path = disaggR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/disaggR
+	subdir = disaggR
 [submodule "diverse"]
 	path = diverse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
