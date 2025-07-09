@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RNCBIEUtilsLibs
 	subdir = RNCBIEUtilsLibs
-[submodule "RcmdrPlugin.GWRM"]
-	path = RcmdrPlugin.GWRM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RcmdrPlugin.GWRM
-	subdir = RcmdrPlugin.GWRM
 [submodule "RmarineHeatWaves"]
 	path = RmarineHeatWaves
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SBMTrees
 	subdir = SBMTrees
-[submodule "SC.MEB"]
-	path = SC.MEB
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SC.MEB
-	subdir = SC.MEB
 [submodule "SCEM"]
 	path = SCEM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ale
 	subdir = ale
+[submodule "archivist.github"]
+	path = archivist.github
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/archivist.github
+	subdir = archivist.github
 [submodule "automap"]
 	path = automap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,11 +252,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/collUtils
 	subdir = collUtils
-[submodule "colocr"]
-	path = colocr
+[submodule "colorpatch"]
+	path = colorpatch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/colocr
-	subdir = colocr
+	branch = package/colorpatch
+	subdir = colorpatch
 [submodule "cooccur"]
 	path = cooccur
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -887,6 +882,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tframePlus
 	subdir = tframePlus
+[submodule "valueSetCompare"]
+	path = valueSetCompare
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/valueSetCompare
+	subdir = valueSetCompare
 [submodule "vesselr"]
 	path = vesselr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
