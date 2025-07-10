@@ -132,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RmarineHeatWaves
 	subdir = RmarineHeatWaves
+[submodule "RsimMosaic"]
+	path = RsimMosaic
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RsimMosaic
+	subdir = RsimMosaic
 [submodule "Rtwalk"]
 	path = Rtwalk
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,26 +167,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SelfControlledCaseSeries
 	subdir = SelfControlledCaseSeries
-[submodule "SensusR"]
-	path = SensusR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SensusR
-	subdir = SensusR
 [submodule "SigTree"]
 	path = SigTree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SigTree
 	subdir = SigTree
+[submodule "SubpathwayLNCE"]
+	path = SubpathwayLNCE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SubpathwayLNCE
+	subdir = SubpathwayLNCE
 [submodule "TP.idm"]
 	path = TP.idm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TP.idm
 	subdir = TP.idm
-[submodule "TrendSLR"]
-	path = TrendSLR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TrendSLR
-	subdir = TrendSLR
 [submodule "UBL"]
 	path = UBL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clmplus
 	subdir = clmplus
-[submodule "cloudml"]
-	path = cloudml
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cloudml
-	subdir = cloudml
 [submodule "collUtils"]
 	path = collUtils
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/habCluster
 	subdir = habCluster
+[submodule "hakaiApi"]
+	path = hakaiApi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hakaiApi
+	subdir = hakaiApi
 [submodule "intamap"]
 	path = intamap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
