@@ -492,11 +492,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/habCluster
 	subdir = habCluster
-[submodule "hakaiApi"]
-	path = hakaiApi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hakaiApi
-	subdir = hakaiApi
 [submodule "handyFunctions"]
 	path = handyFunctions
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
