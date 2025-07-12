@@ -152,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LongMemoryTS
 	subdir = LongMemoryTS
-[submodule "MAGEE"]
-	path = MAGEE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MAGEE
-	subdir = MAGEE
 [submodule "MCMC.OTU"]
 	path = MCMC.OTU
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -677,11 +672,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rTensor2
 	subdir = rTensor2
-[submodule "ragnar"]
-	path = ragnar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ragnar
-	subdir = ragnar
 [submodule "rdd"]
 	path = rdd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
