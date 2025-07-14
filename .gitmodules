@@ -322,11 +322,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autoGO
 	subdir = autoGO
-[submodule "automap"]
-	path = automap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/automap
-	subdir = automap
 [submodule "bayou"]
 	path = bayou
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
