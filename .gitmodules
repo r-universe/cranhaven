@@ -17,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ARUtools
 	subdir = ARUtools
+[submodule "AgePopDenom"]
+	path = AgePopDenom
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AgePopDenom
+	subdir = AgePopDenom
 [submodule "AutoScore"]
 	path = AutoScore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,6 +197,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NADA2
 	subdir = NADA2
+[submodule "NHSRwaitinglist"]
+	path = NHSRwaitinglist
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NHSRwaitinglist
+	subdir = NHSRwaitinglist
 [submodule "NMADiagT"]
 	path = NMADiagT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -677,6 +687,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rddtools
 	subdir = rddtools
+[submodule "reutils"]
+	path = reutils
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/reutils
+	subdir = reutils
 [submodule "rfishdraw"]
 	path = rfishdraw
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -687,11 +702,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rgho
 	subdir = rgho
-[submodule "rgoogleslides"]
-	path = rgoogleslides
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rgoogleslides
-	subdir = rgoogleslides
 [submodule "rim"]
 	path = rim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -707,11 +717,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rlibkriging
 	subdir = rlibkriging
-[submodule "ruin"]
-	path = ruin
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ruin
-	subdir = ruin
 [submodule "s4vd"]
 	path = s4vd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -732,11 +737,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scaleboot
 	subdir = scaleboot
-[submodule "sclr"]
-	path = sclr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sclr
-	subdir = sclr
 [submodule "seawaveQ"]
 	path = seawaveQ
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
