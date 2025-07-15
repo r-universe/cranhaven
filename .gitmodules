@@ -497,6 +497,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/handyFunctions
 	subdir = handyFunctions
+[submodule "i2extras"]
+	path = i2extras
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/i2extras
+	subdir = i2extras
 [submodule "imguR"]
 	path = imguR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -687,11 +692,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rddtools
 	subdir = rddtools
-[submodule "reutils"]
-	path = reutils
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/reutils
-	subdir = reutils
 [submodule "rfishdraw"]
 	path = rfishdraw
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -702,6 +702,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rgho
 	subdir = rgho
+[submodule "rgoogleslides"]
+	path = rgoogleslides
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rgoogleslides
+	subdir = rgoogleslides
 [submodule "rim"]
 	path = rim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -717,6 +722,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rlibkriging
 	subdir = rlibkriging
+[submodule "ruin"]
+	path = ruin
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ruin
+	subdir = ruin
 [submodule "s4vd"]
 	path = s4vd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -727,11 +737,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/saturnin
 	subdir = saturnin
-[submodule "scaffolder"]
-	path = scaffolder
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/scaffolder
-	subdir = scaffolder
 [submodule "scaleboot"]
 	path = scaleboot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
