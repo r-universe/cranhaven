@@ -292,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Select
 	subdir = Select
-[submodule "SelfControlledCaseSeries"]
-	path = SelfControlledCaseSeries
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SelfControlledCaseSeries
-	subdir = SelfControlledCaseSeries
 [submodule "SigTree"]
 	path = SigTree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
