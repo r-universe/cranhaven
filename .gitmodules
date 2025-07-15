@@ -197,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NADA2
 	subdir = NADA2
-[submodule "NHSRwaitinglist"]
-	path = NHSRwaitinglist
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NHSRwaitinglist
-	subdir = NHSRwaitinglist
 [submodule "NMADiagT"]
 	path = NMADiagT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,11 +462,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggsmc
 	subdir = ggsmc
-[submodule "glossa"]
-	path = glossa
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/glossa
-	subdir = glossa
 [submodule "gma"]
 	path = gma
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
