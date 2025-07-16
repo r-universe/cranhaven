@@ -622,6 +622,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pafr
 	subdir = pafr
+[submodule "pageviews"]
+	path = pageviews
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pageviews
+	subdir = pageviews
 [submodule "parzer"]
 	path = parzer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -687,11 +692,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rgho
 	subdir = rgho
-[submodule "rgoogleslides"]
-	path = rgoogleslides
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rgoogleslides
-	subdir = rgoogleslides
 [submodule "rim"]
 	path = rim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
