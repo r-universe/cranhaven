@@ -542,6 +542,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lmreg
 	subdir = lmreg
+[submodule "lsnstat"]
+	path = lsnstat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lsnstat
+	subdir = lsnstat
 [submodule "macc"]
 	path = macc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -677,11 +682,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rddtools
 	subdir = rddtools
-[submodule "rfishdraw"]
-	path = rfishdraw
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rfishdraw
-	subdir = rfishdraw
 [submodule "rgho"]
 	path = rgho
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -707,11 +707,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rlibkriging
 	subdir = rlibkriging
-[submodule "ruin"]
-	path = ruin
+[submodule "ruimtehol"]
+	path = ruimtehol
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ruin
-	subdir = ruin
+	branch = package/ruimtehol
+	subdir = ruimtehol
 [submodule "s4vd"]
 	path = s4vd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
