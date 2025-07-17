@@ -142,6 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/JAGStree
 	subdir = JAGStree
+[submodule "JGL"]
+	path = JGL
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/JGL
+	subdir = JGL
 [submodule "LIStest"]
 	path = LIStest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -447,6 +452,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/etwfe
 	subdir = etwfe
+[submodule "fgm"]
+	path = fgm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fgm
+	subdir = fgm
 [submodule "flightsbr"]
 	path = flightsbr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -732,16 +742,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seawaveQ
 	subdir = seawaveQ
-[submodule "seeds"]
-	path = seeds
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/seeds
-	subdir = seeds
-[submodule "seleniumPipes"]
-	path = seleniumPipes
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/seleniumPipes
-	subdir = seleniumPipes
 [submodule "shinysurveys"]
 	path = shinysurveys
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
