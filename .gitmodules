@@ -347,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/breakpoint
 	subdir = breakpoint
+[submodule "bsamGP"]
+	path = bsamGP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bsamGP
+	subdir = bsamGP
 [submodule "bsplinePsd"]
 	path = bsplinePsd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -462,6 +467,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flightsbr
 	subdir = flightsbr
+[submodule "gadget2"]
+	path = gadget2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gadget2
+	subdir = gadget2
 [submodule "ggRandomForests"]
 	path = ggRandomForests
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
