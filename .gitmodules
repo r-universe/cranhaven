@@ -742,11 +742,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shopifyr
 	subdir = shopifyr
-[submodule "simMP"]
-	path = simMP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/simMP
-	subdir = simMP
 [submodule "simexaft"]
 	path = simexaft
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -777,11 +772,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/snpReady
 	subdir = snpReady
-[submodule "soc.ca"]
-	path = soc.ca
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/soc.ca
-	subdir = soc.ca
 [submodule "sparseBC"]
 	path = sparseBC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
