@@ -347,11 +347,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/breakpoint
 	subdir = breakpoint
-[submodule "bsamGP"]
-	path = bsamGP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bsamGP
-	subdir = bsamGP
 [submodule "bsplinePsd"]
 	path = bsplinePsd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
