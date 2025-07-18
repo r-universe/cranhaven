@@ -657,11 +657,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/progenyClust
 	subdir = progenyClust
-[submodule "psgp"]
-	path = psgp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/psgp
-	subdir = psgp
 [submodule "qlcVisualize"]
 	path = qlcVisualize
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
