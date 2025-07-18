@@ -697,11 +697,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rgho
 	subdir = rgho
-[submodule "rim"]
-	path = rim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rim
-	subdir = rim
 [submodule "rjmcmc"]
 	path = rjmcmc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
