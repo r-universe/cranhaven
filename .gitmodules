@@ -737,16 +737,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seawaveQ
 	subdir = seawaveQ
-[submodule "shinysurveys"]
-	path = shinysurveys
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shinysurveys
-	subdir = shinysurveys
-[submodule "shopifyr"]
-	path = shopifyr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shopifyr
-	subdir = shopifyr
 [submodule "simexaft"]
 	path = simexaft
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -767,11 +757,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/slickR
 	subdir = slickR
-[submodule "smoothROCtime"]
-	path = smoothROCtime
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/smoothROCtime
-	subdir = smoothROCtime
 [submodule "snpReady"]
 	path = snpReady
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -787,16 +772,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spatialfusion
 	subdir = spatialfusion
-[submodule "sse"]
-	path = sse
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sse
-	subdir = sse
-[submodule "statVisual"]
-	path = statVisual
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/statVisual
-	subdir = statVisual
 [submodule "stmCorrViz"]
 	path = stmCorrViz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -812,26 +787,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/subspace
 	subdir = subspace
-[submodule "teamr"]
-	path = teamr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/teamr
-	subdir = teamr
 [submodule "textile"]
 	path = textile
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/textile
 	subdir = textile
-[submodule "tfestimators"]
-	path = tfestimators
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tfestimators
-	subdir = tfestimators
-[submodule "tfplot"]
-	path = tfplot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tfplot
-	subdir = tfplot
 [submodule "tframePlus"]
 	path = tframePlus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -847,46 +807,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/valueSetCompare
 	subdir = valueSetCompare
-[submodule "vesselr"]
-	path = vesselr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vesselr
-	subdir = vesselr
 [submodule "volleystat"]
 	path = volleystat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/volleystat
 	subdir = volleystat
-[submodule "vsd"]
-	path = vsd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vsd
-	subdir = vsd
-[submodule "waterData"]
-	path = waterData
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/waterData
-	subdir = waterData
-[submodule "waterfall"]
-	path = waterfall
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/waterfall
-	subdir = waterfall
 [submodule "wingen"]
 	path = wingen
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wingen
 	subdir = wingen
-[submodule "x.ent"]
-	path = x.ent
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/x.ent
-	subdir = x.ent
-[submodule "xlink"]
-	path = xlink
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/xlink
-	subdir = xlink
 [submodule "yarrr"]
 	path = yarrr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
