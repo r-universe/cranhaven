@@ -42,6 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Bodi
 	subdir = Bodi
+[submodule "CEOdata"]
+	path = CEOdata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CEOdata
+	subdir = CEOdata
 [submodule "ConfZIC"]
 	path = ConfZIC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
