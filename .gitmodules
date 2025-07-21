@@ -592,21 +592,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/memochange
 	subdir = memochange
-[submodule "metaGE"]
-	path = metaGE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/metaGE
-	subdir = metaGE
 [submodule "minimapR"]
 	path = minimapR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/minimapR
 	subdir = minimapR
-[submodule "mixtur"]
-	path = mixtur
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mixtur
-	subdir = mixtur
 [submodule "njgeo"]
 	path = njgeo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
