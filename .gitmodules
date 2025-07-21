@@ -337,6 +337,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayou
 	subdir = bayou
+[submodule "birp"]
+	path = birp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/birp
+	subdir = birp
 [submodule "bisectr"]
 	path = bisectr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
