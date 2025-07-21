@@ -702,11 +702,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rjmcmc
 	subdir = rjmcmc
-[submodule "rlibkriging"]
-	path = rlibkriging
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rlibkriging
-	subdir = rlibkriging
 [submodule "ruimtehol"]
 	path = ruimtehol
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
