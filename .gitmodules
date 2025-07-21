@@ -612,11 +612,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nparACT
 	subdir = nparACT
-[submodule "nser"]
-	path = nser
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nser
-	subdir = nser
 [submodule "opendataformat"]
 	path = opendataformat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
