@@ -542,11 +542,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lactcurves
 	subdir = lactcurves
-[submodule "libdeflate"]
-	path = libdeflate
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/libdeflate
-	subdir = libdeflate
 [submodule "libopenexr"]
 	path = libopenexr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -797,6 +792,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/volleystat
 	subdir = volleystat
+[submodule "wiesbaden"]
+	path = wiesbaden
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/wiesbaden
+	subdir = wiesbaden
 [submodule "wingen"]
 	path = wingen
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
