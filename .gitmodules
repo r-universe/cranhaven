@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MGDrivE2
 	subdir = MGDrivE2
-[submodule "Mega2R"]
-	path = Mega2R
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Mega2R
-	subdir = Mega2R
 [submodule "Morphoscape"]
 	path = Morphoscape
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
