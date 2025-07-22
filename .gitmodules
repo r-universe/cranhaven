@@ -72,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GDELTtools
 	subdir = GDELTtools
+[submodule "GPGame"]
+	path = GPGame
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GPGame
+	subdir = GPGame
 [submodule "GUIProfiler"]
 	path = GUIProfiler
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,6 +252,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cellularautomata
 	subdir = cellularautomata
+[submodule "chkptstanr"]
+	path = chkptstanr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/chkptstanr
+	subdir = chkptstanr
 [submodule "clmplus"]
 	path = clmplus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/concatenate
 	subdir = concatenate
+[submodule "conformalbayes"]
+	path = conformalbayes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/conformalbayes
+	subdir = conformalbayes
 [submodule "countTransformers"]
 	path = countTransformers
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/etwfe
 	subdir = etwfe
+[submodule "europeanaR"]
+	path = europeanaR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/europeanaR
+	subdir = europeanaR
 [submodule "fgm"]
 	path = fgm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,6 +392,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lsnstat
 	subdir = lsnstat
+[submodule "maic"]
+	path = maic
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/maic
+	subdir = maic
 [submodule "mcmcplots"]
 	path = mcmcplots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,6 +452,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/performanceEstimation
 	subdir = performanceEstimation
+[submodule "phaseR"]
+	path = phaseR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/phaseR
+	subdir = phaseR
 [submodule "pollimetry"]
 	path = pollimetry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,6 +467,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/prettifyAddins
 	subdir = prettifyAddins
+[submodule "processanimateR"]
+	path = processanimateR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/processanimateR
+	subdir = processanimateR
 [submodule "qlcVisualize"]
 	path = qlcVisualize
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -522,6 +557,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tframePlus
 	subdir = tframePlus
+[submodule "time.slots"]
+	path = time.slots
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/time.slots
+	subdir = time.slots
 [submodule "vICC"]
 	path = vICC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
