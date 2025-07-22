@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "ALEPlot"]
-	path = ALEPlot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ALEPlot
-	subdir = ALEPlot
 [submodule "ARUtools"]
 	path = ARUtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -52,26 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CovCombR
 	subdir = CovCombR
-[submodule "DBEST"]
-	path = DBEST
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DBEST
-	subdir = DBEST
-[submodule "DCODE"]
-	path = DCODE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DCODE
-	subdir = DCODE
 [submodule "DMwR2"]
 	path = DMwR2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DMwR2
 	subdir = DMwR2
-[submodule "DPBBM"]
-	path = DPBBM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DPBBM
-	subdir = DPBBM
 [submodule "DTSR"]
 	path = DTSR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,26 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GDELTtools
 	subdir = GDELTtools
-[submodule "GRS.test"]
-	path = GRS.test
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GRS.test
-	subdir = GRS.test
 [submodule "GUIProfiler"]
 	path = GUIProfiler
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GUIProfiler
 	subdir = GUIProfiler
-[submodule "GameTheoryAllocation"]
-	path = GameTheoryAllocation
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GameTheoryAllocation
-	subdir = GameTheoryAllocation
-[submodule "GrimR"]
-	path = GrimR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GrimR
-	subdir = GrimR
 [submodule "HydroMe"]
 	path = HydroMe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IPCAPS
 	subdir = IPCAPS
-[submodule "Inventorymodel"]
-	path = Inventorymodel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Inventorymodel
-	subdir = Inventorymodel
 [submodule "JAGStree"]
 	path = JAGStree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/JGL
 	subdir = JGL
-[submodule "LIStest"]
-	path = LIStest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LIStest
-	subdir = LIStest
 [submodule "LTAR"]
 	path = LTAR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LongMemoryTS
 	subdir = LongMemoryTS
-[submodule "MCMC.OTU"]
-	path = MCMC.OTU
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MCMC.OTU
-	subdir = MCMC.OTU
 [submodule "MG1StationaryProbability"]
 	path = MG1StationaryProbability
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Morphoscape
 	subdir = Morphoscape
-[submodule "MultiVarSel"]
-	path = MultiVarSel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MultiVarSel
-	subdir = MultiVarSel
 [submodule "NADA"]
 	path = NADA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OSTE
 	subdir = OSTE
-[submodule "PolyTrend"]
-	path = PolyTrend
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PolyTrend
-	subdir = PolyTrend
 [submodule "RSP"]
 	path = RSP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SCRIP
 	subdir = SCRIP
-[submodule "SPmlficmcm"]
-	path = SPmlficmcm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SPmlficmcm
-	subdir = SPmlficmcm
 [submodule "SUNGEO"]
 	path = SUNGEO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SigTree
 	subdir = SigTree
-[submodule "TP.idm"]
-	path = TP.idm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TP.idm
-	subdir = TP.idm
 [submodule "TensorTools"]
 	path = TensorTools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/birp
 	subdir = birp
-[submodule "breakpoint"]
-	path = breakpoint
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/breakpoint
-	subdir = breakpoint
 [submodule "bsplinePsd"]
 	path = bsplinePsd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,36 +252,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cellularautomata
 	subdir = cellularautomata
-[submodule "cfma"]
-	path = cfma
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cfma
-	subdir = cfma
-[submodule "clikcorr"]
-	path = clikcorr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clikcorr
-	subdir = clikcorr
 [submodule "clmplus"]
 	path = clmplus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clmplus
 	subdir = clmplus
-[submodule "collUtils"]
-	path = collUtils
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/collUtils
-	subdir = collUtils
 [submodule "concatenate"]
 	path = concatenate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/concatenate
 	subdir = concatenate
-[submodule "cooccur"]
-	path = cooccur
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cooccur
-	subdir = cooccur
 [submodule "countTransformers"]
 	path = countTransformers
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
