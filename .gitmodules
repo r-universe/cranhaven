@@ -32,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CEOdata
 	subdir = CEOdata
+[submodule "CIDER"]
+	path = CIDER
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CIDER
+	subdir = CIDER
 [submodule "ConfZIC"]
 	path = ConfZIC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SBMTrees
 	subdir = SBMTrees
+[submodule "SCIntRuler"]
+	path = SCIntRuler
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SCIntRuler
+	subdir = SCIntRuler
 [submodule "SCRIP"]
 	path = SCRIP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,6 +342,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/disaggR
 	subdir = disaggR
+[submodule "ebreg"]
+	path = ebreg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ebreg
+	subdir = ebreg
 [submodule "ecpc"]
 	path = ecpc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
