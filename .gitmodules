@@ -107,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/JGL
 	subdir = JGL
+[submodule "JNplots"]
+	path = JNplots
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/JNplots
+	subdir = JNplots
 [submodule "LTAR"]
 	path = LTAR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,6 +132,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MGDrivE2
 	subdir = MGDrivE2
+[submodule "MTest"]
+	path = MTest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MTest
+	subdir = MTest
+[submodule "MixSemiRob"]
+	path = MixSemiRob
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MixSemiRob
+	subdir = MixSemiRob
 [submodule "Morphoscape"]
 	path = Morphoscape
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RSP
 	subdir = RSP
+[submodule "RchivalTag"]
+	path = RchivalTag
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RchivalTag
+	subdir = RchivalTag
 [submodule "RcmdrPlugin.BiclustGUI"]
 	path = RcmdrPlugin.BiclustGUI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +197,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rwclust
 	subdir = Rwclust
+[submodule "SASmarkdown"]
+	path = SASmarkdown
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SASmarkdown
+	subdir = SASmarkdown
 [submodule "SBMTrees"]
 	path = SBMTrees
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +232,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SigTree
 	subdir = SigTree
+[submodule "Statamarkdown"]
+	path = Statamarkdown
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Statamarkdown
+	subdir = Statamarkdown
 [submodule "TensorTools"]
 	path = TensorTools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,11 +287,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/chkptstanr
 	subdir = chkptstanr
+[submodule "civis"]
+	path = civis
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/civis
+	subdir = civis
 [submodule "clmplus"]
 	path = clmplus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clmplus
 	subdir = clmplus
+[submodule "clusEvol"]
+	path = clusEvol
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clusEvol
+	subdir = clusEvol
 [submodule "concatenate"]
 	path = concatenate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +332,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/disaggR
 	subdir = disaggR
+[submodule "ecpc"]
+	path = ecpc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ecpc
+	subdir = ecpc
 [submodule "epimdr2"]
 	path = epimdr2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,6 +457,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/njgeo
 	subdir = njgeo
+[submodule "oceanmap"]
+	path = oceanmap
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/oceanmap
+	subdir = oceanmap
 [submodule "opendataformat"]
 	path = opendataformat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
