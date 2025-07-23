@@ -377,11 +377,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lactcurves
 	subdir = lactcurves
-[submodule "libopenexr"]
-	path = libopenexr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/libopenexr
-	subdir = libopenexr
 [submodule "linkcomm"]
 	path = linkcomm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
