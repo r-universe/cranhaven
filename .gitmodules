@@ -402,6 +402,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gofCopula
 	subdir = gofCopula
+[submodule "graphTweets"]
+	path = graphTweets
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/graphTweets
+	subdir = graphTweets
 [submodule "handyFunctions"]
 	path = handyFunctions
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
