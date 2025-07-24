@@ -507,11 +507,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pageviews
 	subdir = pageviews
-[submodule "parzer"]
-	path = parzer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/parzer
-	subdir = parzer
 [submodule "performanceEstimation"]
 	path = performanceEstimation
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
