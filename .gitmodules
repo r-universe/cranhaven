@@ -282,6 +282,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bsplinePsd
 	subdir = bsplinePsd
+[submodule "cbbreadr"]
+	path = cbbreadr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cbbreadr
+	subdir = cbbreadr
 [submodule "cellularautomata"]
 	path = cellularautomata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
