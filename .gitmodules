@@ -377,11 +377,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fgm
 	subdir = fgm
-[submodule "flightsbr"]
-	path = flightsbr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/flightsbr
-	subdir = flightsbr
 [submodule "gadget2"]
 	path = gadget2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
