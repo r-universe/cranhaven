@@ -312,11 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/concatenate
 	subdir = concatenate
-[submodule "conformalbayes"]
-	path = conformalbayes
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/conformalbayes
-	subdir = conformalbayes
 [submodule "countTransformers"]
 	path = countTransformers
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
