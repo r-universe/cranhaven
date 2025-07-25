@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AutoScore
 	subdir = AutoScore
-[submodule "BCSub"]
-	path = BCSub
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BCSub
-	subdir = BCSub
 [submodule "BayesOrdDesign"]
 	path = BayesOrdDesign
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
