@@ -197,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SASmarkdown
 	subdir = SASmarkdown
-[submodule "SBMTrees"]
-	path = SBMTrees
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SBMTrees
-	subdir = SBMTrees
 [submodule "SCIntRuler"]
 	path = SCIntRuler
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
