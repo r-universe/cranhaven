@@ -362,6 +362,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fgm
 	subdir = fgm
+[submodule "fluxfinder"]
+	path = fluxfinder
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fluxfinder
+	subdir = fluxfinder
 [submodule "gadget2"]
 	path = gadget2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
