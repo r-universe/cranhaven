@@ -407,6 +407,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/imguR
 	subdir = imguR
+[submodule "inldata"]
+	path = inldata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/inldata
+	subdir = inldata
 [submodule "intamapInteractive"]
 	path = intamapInteractive
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -457,6 +462,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/minimapR
 	subdir = minimapR
+[submodule "mlms"]
+	path = mlms
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mlms
+	subdir = mlms
 [submodule "njgeo"]
 	path = njgeo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
