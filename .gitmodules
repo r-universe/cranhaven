@@ -462,6 +462,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/njgeo
 	subdir = njgeo
+[submodule "nprcgenekeepr"]
+	path = nprcgenekeepr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nprcgenekeepr
+	subdir = nprcgenekeepr
 [submodule "oceanmap"]
 	path = oceanmap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
