@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "ARUtools"]
-	path = ARUtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ARUtools
-	subdir = ARUtools
 [submodule "AutoScore"]
 	path = AutoScore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
