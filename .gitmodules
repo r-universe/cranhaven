@@ -107,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LTAR
 	subdir = LTAR
+[submodule "LongMemoryTS"]
+	path = LongMemoryTS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LongMemoryTS
+	subdir = LongMemoryTS
 [submodule "MG1StationaryProbability"]
 	path = MG1StationaryProbability
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -442,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/memochange
 	subdir = memochange
+[submodule "minimapR"]
+	path = minimapR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/minimapR
+	subdir = minimapR
 [submodule "mlms"]
 	path = mlms
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
