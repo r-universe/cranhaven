@@ -162,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OSTE
 	subdir = OSTE
+[submodule "RSP"]
+	path = RSP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RSP
+	subdir = RSP
 [submodule "RchivalTag"]
 	path = RchivalTag
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RcmdrPlugin.BiclustGUI
 	subdir = RcmdrPlugin.BiclustGUI
+[submodule "RevEcoR"]
+	path = RevEcoR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RevEcoR
+	subdir = RevEcoR
 [submodule "Rwclust"]
 	path = Rwclust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
