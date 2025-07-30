@@ -547,11 +547,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rddtools
 	subdir = rddtools
-[submodule "rgho"]
-	path = rgho
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rgho
-	subdir = rgho
 [submodule "rjmcmc"]
 	path = rjmcmc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
