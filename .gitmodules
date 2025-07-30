@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AutoScore
 	subdir = AutoScore
+[submodule "BRVM"]
+	path = BRVM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BRVM
+	subdir = BRVM
 [submodule "BayesOrdDesign"]
 	path = BayesOrdDesign
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OSTE
 	subdir = OSTE
+[submodule "PointedSDMs"]
+	path = PointedSDMs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PointedSDMs
+	subdir = PointedSDMs
 [submodule "RSP"]
 	path = RSP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SCRIP
 	subdir = SCRIP
+[submodule "SPUTNIK"]
+	path = SPUTNIK
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SPUTNIK
+	subdir = SPUTNIK
 [submodule "SUNGEO"]
 	path = SUNGEO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/birp
 	subdir = birp
+[submodule "blockCV"]
+	path = blockCV
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/blockCV
+	subdir = blockCV
 [submodule "bsplinePsd"]
 	path = bsplinePsd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,6 +377,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fluxfinder
 	subdir = fluxfinder
+[submodule "forestecology"]
+	path = forestecology
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/forestecology
+	subdir = forestecology
 [submodule "gadget2"]
 	path = gadget2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,6 +397,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggsmc
 	subdir = ggsmc
+[submodule "glossa"]
+	path = glossa
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/glossa
+	subdir = glossa
 [submodule "gofCopula"]
 	path = gofCopula
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,6 +432,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/inldata
 	subdir = inldata
+[submodule "intSDM"]
+	path = intSDM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/intSDM
+	subdir = intSDM
 [submodule "intamapInteractive"]
 	path = intamapInteractive
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
