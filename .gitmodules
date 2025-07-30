@@ -342,6 +342,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/disaggR
 	subdir = disaggR
+[submodule "dtmapi"]
+	path = dtmapi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dtmapi
+	subdir = dtmapi
 [submodule "ebreg"]
 	path = ebreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
