@@ -307,11 +307,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/civis
 	subdir = civis
-[submodule "clmplus"]
-	path = clmplus
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clmplus
-	subdir = clmplus
 [submodule "clusEvol"]
 	path = clusEvol
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
