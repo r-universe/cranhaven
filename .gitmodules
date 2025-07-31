@@ -502,6 +502,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/njgeo
 	subdir = njgeo
+[submodule "nomisr"]
+	path = nomisr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nomisr
+	subdir = nomisr
 [submodule "nprcgenekeepr"]
 	path = nprcgenekeepr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -587,6 +592,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rddtools
 	subdir = rddtools
+[submodule "rdracor"]
+	path = rdracor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rdracor
+	subdir = rdracor
+[submodule "rfars"]
+	path = rfars
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rfars
+	subdir = rfars
 [submodule "rjmcmc"]
 	path = rjmcmc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
