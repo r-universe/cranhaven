@@ -667,8 +667,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wingen
 	subdir = wingen
-[submodule "yarrr"]
-	path = yarrr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/yarrr
-	subdir = yarrr
