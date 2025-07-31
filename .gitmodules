@@ -192,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RevEcoR
 	subdir = RevEcoR
+[submodule "Rraven"]
+	path = Rraven
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rraven
+	subdir = Rraven
 [submodule "Rwclust"]
 	path = Rwclust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autoGO
 	subdir = autoGO
+[submodule "baRulho"]
+	path = baRulho
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/baRulho
+	subdir = baRulho
 [submodule "bayou"]
 	path = bayou
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dtmapi
 	subdir = dtmapi
+[submodule "dynaSpec"]
+	path = dynaSpec
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dynaSpec
+	subdir = dynaSpec
 [submodule "ebreg"]
 	path = ebreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -512,6 +527,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oceanmap
 	subdir = oceanmap
+[submodule "ohun"]
+	path = ohun
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ohun
+	subdir = ohun
 [submodule "opera"]
 	path = opera
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -667,6 +687,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/volleystat
 	subdir = volleystat
+[submodule "warbleR"]
+	path = warbleR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/warbleR
+	subdir = warbleR
 [submodule "wiesbaden"]
 	path = wiesbaden
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
