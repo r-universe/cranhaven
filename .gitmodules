@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "AutoScore"]
-	path = AutoScore
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AutoScore
-	subdir = AutoScore
 [submodule "BRVM"]
 	path = BRVM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
