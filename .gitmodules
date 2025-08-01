@@ -627,6 +627,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ruimtehol
 	subdir = ruimtehol
+[submodule "rvif"]
+	path = rvif
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rvif
+	subdir = rvif
 [submodule "s4vd"]
 	path = s4vd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
