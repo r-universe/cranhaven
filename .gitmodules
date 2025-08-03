@@ -392,6 +392,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forestecology
 	subdir = forestecology
+[submodule "fscaret"]
+	path = fscaret
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fscaret
+	subdir = fscaret
 [submodule "gadget2"]
 	path = gadget2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,6 +407,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggRandomForests
 	subdir = ggRandomForests
+[submodule "ggalt"]
+	path = ggalt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ggalt
+	subdir = ggalt
 [submodule "ggsmc"]
 	path = ggsmc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,6 +437,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/handyFunctions
 	subdir = handyFunctions
+[submodule "hmeasure"]
+	path = hmeasure
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hmeasure
+	subdir = hmeasure
 [submodule "i2extras"]
 	path = i2extras
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -682,6 +697,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/valueSetCompare
 	subdir = valueSetCompare
+[submodule "vivid"]
+	path = vivid
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vivid
+	subdir = vivid
 [submodule "volleystat"]
 	path = volleystat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
