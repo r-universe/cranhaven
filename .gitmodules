@@ -62,11 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FeedbackTS
 	subdir = FeedbackTS
-[submodule "GDELTtools"]
-	path = GDELTtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GDELTtools
-	subdir = GDELTtools
 [submodule "GPGame"]
 	path = GPGame
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MG1StationaryProbability
 	subdir = MG1StationaryProbability
-[submodule "MGDrivE2"]
-	path = MGDrivE2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MGDrivE2
-	subdir = MGDrivE2
 [submodule "MTest"]
 	path = MTest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Select
 	subdir = Select
-[submodule "SigTree"]
-	path = SigTree
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SigTree
-	subdir = SigTree
 [submodule "Statamarkdown"]
 	path = Statamarkdown
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/baRulho
 	subdir = baRulho
-[submodule "bayou"]
-	path = bayou
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bayou
-	subdir = bayou
 [submodule "birp"]
 	path = birp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,11 +347,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/epimdr2
 	subdir = epimdr2
-[submodule "etwfe"]
-	path = etwfe
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/etwfe
-	subdir = etwfe
 [submodule "europeanaR"]
 	path = europeanaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,11 +492,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mlms
 	subdir = mlms
-[submodule "njgeo"]
-	path = njgeo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/njgeo
-	subdir = njgeo
 [submodule "nomisr"]
 	path = nomisr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -652,11 +622,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scaleboot
 	subdir = scaleboot
-[submodule "seawaveQ"]
-	path = seawaveQ
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/seawaveQ
-	subdir = seawaveQ
 [submodule "simpleMLP"]
 	path = simpleMLP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -667,21 +632,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/simplexreg
 	subdir = simplexreg
-[submodule "spatialfusion"]
-	path = spatialfusion
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spatialfusion
-	subdir = spatialfusion
 [submodule "subspace"]
 	path = subspace
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/subspace
 	subdir = subspace
-[submodule "tframePlus"]
-	path = tframePlus
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tframePlus
-	subdir = tframePlus
 [submodule "time.slots"]
 	path = time.slots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
