@@ -57,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EMTscore
 	subdir = EMTscore
-[submodule "FeedbackTS"]
-	path = FeedbackTS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FeedbackTS
-	subdir = FeedbackTS
 [submodule "GPGame"]
 	path = GPGame
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -122,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MixSemiRob
 	subdir = MixSemiRob
-[submodule "Morphoscape"]
-	path = Morphoscape
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Morphoscape
-	subdir = Morphoscape
 [submodule "NADA"]
 	path = NADA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SPUTNIK
 	subdir = SPUTNIK
-[submodule "SUNGEO"]
-	path = SUNGEO
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SUNGEO
-	subdir = SUNGEO
 [submodule "SeedCalc"]
 	path = SeedCalc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TensorTools
 	subdir = TensorTools
-[submodule "UBL"]
-	path = UBL
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/UBL
-	subdir = UBL
 [submodule "VIRF"]
 	path = VIRF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,11 +417,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/intSDM
 	subdir = intSDM
-[submodule "intamapInteractive"]
-	path = intamapInteractive
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/intamapInteractive
-	subdir = intamapInteractive
 [submodule "ipcwswitch"]
 	path = ipcwswitch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -557,11 +532,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/processanimateR
 	subdir = processanimateR
-[submodule "qlcVisualize"]
-	path = qlcVisualize
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qlcVisualize
-	subdir = qlcVisualize
 [submodule "rENA"]
 	path = rENA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -672,8 +642,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wiesbaden
 	subdir = wiesbaden
-[submodule "wingen"]
-	path = wingen
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wingen
-	subdir = wingen
