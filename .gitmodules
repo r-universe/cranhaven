@@ -357,11 +357,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gadget2
 	subdir = gadget2
-[submodule "ggRandomForests"]
-	path = ggRandomForests
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ggRandomForests
-	subdir = ggRandomForests
 [submodule "ggalt"]
 	path = ggalt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -627,11 +622,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vivid
 	subdir = vivid
-[submodule "volleystat"]
-	path = volleystat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/volleystat
-	subdir = volleystat
 [submodule "warbleR"]
 	path = warbleR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
