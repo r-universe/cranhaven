@@ -502,11 +502,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/phaseR
 	subdir = phaseR
-[submodule "prettifyAddins"]
-	path = prettifyAddins
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/prettifyAddins
-	subdir = prettifyAddins
 [submodule "processanimateR"]
 	path = processanimateR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
