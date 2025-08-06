@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VIRF
 	subdir = VIRF
-[submodule "ale"]
-	path = ale
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ale
-	subdir = ale
 [submodule "autoGO"]
 	path = autoGO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,11 +407,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/intSDM
 	subdir = intSDM
-[submodule "ipcwswitch"]
-	path = ipcwswitch
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ipcwswitch
-	subdir = ipcwswitch
 [submodule "karel"]
 	path = karel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -512,11 +502,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/phaseR
 	subdir = phaseR
-[submodule "pollimetry"]
-	path = pollimetry
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pollimetry
-	subdir = pollimetry
 [submodule "prettifyAddins"]
 	path = prettifyAddins
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
