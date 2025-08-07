@@ -567,11 +567,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scaleboot
 	subdir = scaleboot
-[submodule "simpleMLP"]
-	path = simpleMLP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/simpleMLP
-	subdir = simpleMLP
 [submodule "simplexreg"]
 	path = simplexreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
