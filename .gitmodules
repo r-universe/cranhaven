@@ -252,11 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cbbreadr
 	subdir = cbbreadr
-[submodule "cellularautomata"]
-	path = cellularautomata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cellularautomata
-	subdir = cellularautomata
 [submodule "chkptstanr"]
 	path = chkptstanr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,11 +352,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggalt
 	subdir = ggalt
-[submodule "ggsmc"]
-	path = ggsmc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ggsmc
-	subdir = ggsmc
 [submodule "glossa"]
 	path = glossa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -407,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/intSDM
 	subdir = intSDM
-[submodule "karel"]
-	path = karel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/karel
-	subdir = karel
 [submodule "lactcurves"]
 	path = lactcurves
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
