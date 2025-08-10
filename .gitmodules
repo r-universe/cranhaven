@@ -497,11 +497,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rENA
 	subdir = rENA
-[submodule "rLakeHabitat"]
-	path = rLakeHabitat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rLakeHabitat
-	subdir = rLakeHabitat
 [submodule "rTensor2"]
 	path = rTensor2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
