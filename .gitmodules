@@ -282,16 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/coxed
 	subdir = coxed
-[submodule "cvwrapr"]
-	path = cvwrapr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cvwrapr
-	subdir = cvwrapr
-[submodule "disaggR"]
-	path = disaggR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/disaggR
-	subdir = disaggR
 [submodule "dtmapi"]
 	path = dtmapi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
