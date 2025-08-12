@@ -47,16 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DTSR
 	subdir = DTSR
-[submodule "DistributionIV"]
-	path = DistributionIV
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DistributionIV
-	subdir = DistributionIV
-[submodule "EMTscore"]
-	path = EMTscore
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EMTscore
-	subdir = EMTscore
 [submodule "GPGame"]
 	path = GPGame
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
