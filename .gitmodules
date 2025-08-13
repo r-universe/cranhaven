@@ -552,11 +552,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vICC
 	subdir = vICC
-[submodule "valueSetCompare"]
-	path = valueSetCompare
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/valueSetCompare
-	subdir = valueSetCompare
 [submodule "vivid"]
 	path = vivid
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
