@@ -192,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/intSDM
 	subdir = intSDM
-[submodule "linkcomm"]
-	path = linkcomm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/linkcomm
-	subdir = linkcomm
 [submodule "lsnstat"]
 	path = lsnstat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,21 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/maic
 	subdir = maic
-[submodule "mcmcplots"]
-	path = mcmcplots
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mcmcplots
-	subdir = mcmcplots
-[submodule "memochange"]
-	path = memochange
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/memochange
-	subdir = memochange
-[submodule "minimapR"]
-	path = minimapR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/minimapR
-	subdir = minimapR
 [submodule "mlms"]
 	path = mlms
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,31 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ohun
 	subdir = ohun
-[submodule "opera"]
-	path = opera
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/opera
-	subdir = opera
-[submodule "outqrf"]
-	path = outqrf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/outqrf
-	subdir = outqrf
-[submodule "pafr"]
-	path = pafr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pafr
-	subdir = pafr
 [submodule "pageviews"]
 	path = pageviews
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pageviews
 	subdir = pageviews
-[submodule "performanceEstimation"]
-	path = performanceEstimation
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/performanceEstimation
-	subdir = performanceEstimation
 [submodule "phaseR"]
 	path = phaseR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,26 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qsort
 	subdir = qsort
-[submodule "rENA"]
-	path = rENA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rENA
-	subdir = rENA
-[submodule "rTensor2"]
-	path = rTensor2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rTensor2
-	subdir = rTensor2
-[submodule "rdd"]
-	path = rdd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rdd
-	subdir = rdd
-[submodule "rddtools"]
-	path = rddtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rddtools
-	subdir = rddtools
 [submodule "rdracor"]
 	path = rdracor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,11 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rfars
 	subdir = rfars
-[submodule "rjmcmc"]
-	path = rjmcmc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rjmcmc
-	subdir = rjmcmc
 [submodule "ruimtehol"]
 	path = ruimtehol
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,36 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rvif
 	subdir = rvif
-[submodule "s4vd"]
-	path = s4vd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/s4vd
-	subdir = s4vd
-[submodule "scaleboot"]
-	path = scaleboot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/scaleboot
-	subdir = scaleboot
-[submodule "simplexreg"]
-	path = simplexreg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/simplexreg
-	subdir = simplexreg
-[submodule "subspace"]
-	path = subspace
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/subspace
-	subdir = subspace
 [submodule "time.slots"]
 	path = time.slots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/time.slots
 	subdir = time.slots
-[submodule "vICC"]
-	path = vICC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vICC
-	subdir = vICC
 [submodule "vivid"]
 	path = vivid
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
