@@ -7,16 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BRVM
 	subdir = BRVM
-[submodule "BayesOrdDesign"]
-	path = BayesOrdDesign
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BayesOrdDesign
-	subdir = BayesOrdDesign
-[submodule "Bodi"]
-	path = Bodi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Bodi
-	subdir = Bodi
 [submodule "CEOdata"]
 	path = CEOdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -27,76 +17,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CIDER
 	subdir = CIDER
-[submodule "ConfZIC"]
-	path = ConfZIC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ConfZIC
-	subdir = ConfZIC
-[submodule "CovCombR"]
-	path = CovCombR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CovCombR
-	subdir = CovCombR
-[submodule "DMwR2"]
-	path = DMwR2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DMwR2
-	subdir = DMwR2
-[submodule "DTSR"]
-	path = DTSR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DTSR
-	subdir = DTSR
 [submodule "GPGame"]
 	path = GPGame
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GPGame
 	subdir = GPGame
-[submodule "GUIProfiler"]
-	path = GUIProfiler
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GUIProfiler
-	subdir = GUIProfiler
-[submodule "HydroMe"]
-	path = HydroMe
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HydroMe
-	subdir = HydroMe
-[submodule "IGCities"]
-	path = IGCities
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/IGCities
-	subdir = IGCities
-[submodule "IPCAPS"]
-	path = IPCAPS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/IPCAPS
-	subdir = IPCAPS
-[submodule "JAGStree"]
-	path = JAGStree
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/JAGStree
-	subdir = JAGStree
 [submodule "JGL"]
 	path = JGL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/JGL
 	subdir = JGL
-[submodule "LTAR"]
-	path = LTAR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LTAR
-	subdir = LTAR
-[submodule "LongMemoryTS"]
-	path = LongMemoryTS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LongMemoryTS
-	subdir = LongMemoryTS
-[submodule "MG1StationaryProbability"]
-	path = MG1StationaryProbability
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MG1StationaryProbability
-	subdir = MG1StationaryProbability
 [submodule "MTest"]
 	path = MTest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,31 +37,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MixSemiRob
 	subdir = MixSemiRob
-[submodule "NADA"]
-	path = NADA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NADA
-	subdir = NADA
-[submodule "NADA2"]
-	path = NADA2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NADA2
-	subdir = NADA2
-[submodule "NMADiagT"]
-	path = NMADiagT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NMADiagT
-	subdir = NMADiagT
-[submodule "Nozzle.R1"]
-	path = Nozzle.R1
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Nozzle.R1
-	subdir = Nozzle.R1
-[submodule "OSTE"]
-	path = OSTE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/OSTE
-	subdir = OSTE
 [submodule "PointedSDMs"]
 	path = PointedSDMs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
