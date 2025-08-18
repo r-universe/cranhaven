@@ -132,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/europeanaR
 	subdir = europeanaR
+[submodule "factset.analyticsapi.engines"]
+	path = factset.analyticsapi.engines
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/factset.analyticsapi.engines
+	subdir = factset.analyticsapi.engines
 [submodule "fgm"]
 	path = fgm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
