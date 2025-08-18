@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hmeasure
 	subdir = hmeasure
-[submodule "i2extras"]
-	path = i2extras
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/i2extras
-	subdir = i2extras
 [submodule "inldata"]
 	path = inldata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
