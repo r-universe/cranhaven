@@ -267,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rvif
 	subdir = rvif
-[submodule "tepr"]
-	path = tepr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tepr
-	subdir = tepr
 [submodule "time.slots"]
 	path = time.slots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
