@@ -192,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/intSDM
 	subdir = intSDM
-[submodule "lsnstat"]
-	path = lsnstat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lsnstat
-	subdir = lsnstat
 [submodule "maic"]
 	path = maic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,11 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rfars
 	subdir = rfars
-[submodule "ruimtehol"]
-	path = ruimtehol
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ruimtehol
-	subdir = ruimtehol
 [submodule "rvif"]
 	path = rvif
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
