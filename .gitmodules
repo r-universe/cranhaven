@@ -247,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ohun
 	subdir = ohun
-[submodule "pageviews"]
-	path = pageviews
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pageviews
-	subdir = pageviews
 [submodule "phaseR"]
 	path = phaseR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
