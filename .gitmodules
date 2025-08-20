@@ -17,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CIDER
 	subdir = CIDER
+[submodule "GGMselect"]
+	path = GGMselect
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GGMselect
+	subdir = GGMselect
 [submodule "GPGame"]
 	path = GPGame
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,6 +82,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/baRulho
 	subdir = baRulho
+[submodule "batchLLM"]
+	path = batchLLM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/batchLLM
+	subdir = batchLLM
 [submodule "birp"]
 	path = birp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -122,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ebreg
 	subdir = ebreg
+[submodule "ech"]
+	path = ech
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ech
+	subdir = ech
 [submodule "ecpc"]
 	path = ecpc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gadget2
 	subdir = gadget2
+[submodule "geouy"]
+	path = geouy
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/geouy
+	subdir = geouy
 [submodule "ggalt"]
 	path = ggalt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +197,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/graphTweets
 	subdir = graphTweets
+[submodule "hellmer"]
+	path = hellmer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hellmer
+	subdir = hellmer
 [submodule "hmeasure"]
 	path = hmeasure
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +282,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rvif
 	subdir = rvif
+[submodule "samesies"]
+	path = samesies
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/samesies
+	subdir = samesies
+[submodule "shock"]
+	path = shock
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/shock
+	subdir = shock
 [submodule "time.slots"]
 	path = time.slots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
