@@ -147,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/factset.analyticsapi.engines
 	subdir = factset.analyticsapi.engines
-[submodule "fluxfinder"]
-	path = fluxfinder
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fluxfinder
-	subdir = fluxfinder
 [submodule "forestecology"]
 	path = forestecology
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
