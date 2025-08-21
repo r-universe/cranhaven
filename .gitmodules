@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/birp
 	subdir = birp
-[submodule "blockCV"]
-	path = blockCV
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/blockCV
-	subdir = blockCV
 [submodule "cbbreadr"]
 	path = cbbreadr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
