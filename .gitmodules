@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GPGame
 	subdir = GPGame
-[submodule "JGL"]
-	path = JGL
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/JGL
-	subdir = JGL
 [submodule "MTest"]
 	path = MTest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/factset.analyticsapi.engines
 	subdir = factset.analyticsapi.engines
-[submodule "fgm"]
-	path = fgm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fgm
-	subdir = fgm
 [submodule "fluxfinder"]
 	path = fluxfinder
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
