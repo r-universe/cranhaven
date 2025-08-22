@@ -152,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fscaret
 	subdir = fscaret
-[submodule "gadget2"]
-	path = gadget2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gadget2
-	subdir = gadget2
 [submodule "geouy"]
 	path = geouy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
