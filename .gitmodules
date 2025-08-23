@@ -37,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PointedSDMs
 	subdir = PointedSDMs
+[submodule "PublicWorksFinanceIT"]
+	path = PublicWorksFinanceIT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PublicWorksFinanceIT
+	subdir = PublicWorksFinanceIT
 [submodule "RchivalTag"]
 	path = RchivalTag
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
