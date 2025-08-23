@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GPGame
 	subdir = GPGame
+[submodule "LifemapR"]
+	path = LifemapR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LifemapR
+	subdir = LifemapR
 [submodule "MTest"]
 	path = MTest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
