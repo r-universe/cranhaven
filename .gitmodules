@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BRVM
 	subdir = BRVM
-[submodule "CEOdata"]
-	path = CEOdata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CEOdata
-	subdir = CEOdata
 [submodule "CIDER"]
 	path = CIDER
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
