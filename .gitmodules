@@ -72,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SPUTNIK
 	subdir = SPUTNIK
-[submodule "Statamarkdown"]
-	path = Statamarkdown
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Statamarkdown
-	subdir = Statamarkdown
 [submodule "baRulho"]
 	path = baRulho
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clusEvol
 	subdir = clusEvol
-[submodule "dtmapi"]
-	path = dtmapi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dtmapi
-	subdir = dtmapi
 [submodule "dynaSpec"]
 	path = dynaSpec
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/time.slots
 	subdir = time.slots
-[submodule "vivid"]
-	path = vivid
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vivid
-	subdir = vivid
 [submodule "warbleR"]
 	path = warbleR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
