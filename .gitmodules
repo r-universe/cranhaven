@@ -82,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/batchLLM
 	subdir = batchLLM
-[submodule "birp"]
-	path = birp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/birp
-	subdir = birp
 [submodule "cbbreadr"]
 	path = cbbreadr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
