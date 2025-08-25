@@ -282,6 +282,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qsort
 	subdir = qsort
+[submodule "rbioacc"]
+	path = rbioacc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rbioacc
+	subdir = rbioacc
 [submodule "rdracor"]
 	path = rdracor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +297,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rfars
 	subdir = rfars
+[submodule "rhymer"]
+	path = rhymer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rhymer
+	subdir = rhymer
 [submodule "rlibkriging"]
 	path = rlibkriging
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,6 +342,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/squeezy
 	subdir = squeezy
+[submodule "tidycomm"]
+	path = tidycomm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tidycomm
+	subdir = tidycomm
 [submodule "time.slots"]
 	path = time.slots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,8 +372,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/weatherOz
 	subdir = weatherOz
-[submodule "wiesbaden"]
-	path = wiesbaden
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wiesbaden
-	subdir = wiesbaden
