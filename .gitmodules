@@ -67,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rraven
 	subdir = Rraven
-[submodule "SASmarkdown"]
-	path = SASmarkdown
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SASmarkdown
-	subdir = SASmarkdown
 [submodule "SCIntRuler"]
 	path = SCIntRuler
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
