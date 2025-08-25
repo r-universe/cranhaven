@@ -127,6 +127,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/confcons
 	subdir = confcons
+[submodule "dsBase"]
+	path = dsBase
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dsBase
+	subdir = dsBase
 [submodule "dynaSpec"]
 	path = dynaSpec
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
