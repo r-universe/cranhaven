@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GGMselect
 	subdir = GGMselect
-[submodule "GPGame"]
-	path = GPGame
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GPGame
-	subdir = GPGame
 [submodule "LTFGRS"]
 	path = LTFGRS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cbbreadr
 	subdir = cbbreadr
-[submodule "chkptstanr"]
-	path = chkptstanr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/chkptstanr
-	subdir = chkptstanr
 [submodule "civis"]
 	path = civis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ecpc
 	subdir = ecpc
-[submodule "europeanaR"]
-	path = europeanaR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/europeanaR
-	subdir = europeanaR
 [submodule "extractox"]
 	path = extractox
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/intSDM
 	subdir = intSDM
-[submodule "maic"]
-	path = maic
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/maic
-	subdir = maic
 [submodule "mlms"]
 	path = mlms
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
