@@ -17,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DSMolgenisArmadillo
 	subdir = DSMolgenisArmadillo
+[submodule "EDFtest"]
+	path = EDFtest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EDFtest
+	subdir = EDFtest
 [submodule "GGMselect"]
 	path = GGMselect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,16 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pema
 	subdir = pema
-[submodule "phaseR"]
-	path = phaseR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/phaseR
-	subdir = phaseR
-[submodule "processanimateR"]
-	path = processanimateR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/processanimateR
-	subdir = processanimateR
 [submodule "psvd"]
 	path = psvd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,11 +322,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidycomm
 	subdir = tidycomm
-[submodule "time.slots"]
-	path = time.slots
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/time.slots
-	subdir = time.slots
 [submodule "tntpr"]
 	path = tntpr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
