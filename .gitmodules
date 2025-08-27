@@ -37,16 +37,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LifemapR
 	subdir = LifemapR
-[submodule "MTest"]
-	path = MTest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MTest
-	subdir = MTest
-[submodule "MixSemiRob"]
-	path = MixSemiRob
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MixSemiRob
-	subdir = MixSemiRob
 [submodule "PointedSDMs"]
 	path = PointedSDMs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PublicWorksFinanceIT
 	subdir = PublicWorksFinanceIT
-[submodule "RchivalTag"]
-	path = RchivalTag
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RchivalTag
-	subdir = RchivalTag
 [submodule "Rraven"]
 	path = Rraven
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -102,16 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cbbreadr
 	subdir = cbbreadr
-[submodule "civis"]
-	path = civis
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/civis
-	subdir = civis
-[submodule "clusEvol"]
-	path = clusEvol
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clusEvol
-	subdir = clusEvol
 [submodule "comparer"]
 	path = comparer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ech
 	subdir = ech
-[submodule "ecpc"]
-	path = ecpc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ecpc
-	subdir = ecpc
 [submodule "extractox"]
 	path = extractox
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nprcgenekeepr
 	subdir = nprcgenekeepr
-[submodule "oceanmap"]
-	path = oceanmap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/oceanmap
-	subdir = oceanmap
 [submodule "ohun"]
 	path = ohun
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
