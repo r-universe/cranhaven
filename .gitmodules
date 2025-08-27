@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LTFGRS
 	subdir = LTFGRS
-[submodule "LifemapR"]
-	path = LifemapR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LifemapR
-	subdir = LifemapR
 [submodule "PointedSDMs"]
 	path = PointedSDMs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/factset.analyticsapi.engines
 	subdir = factset.analyticsapi.engines
-[submodule "forestecology"]
-	path = forestecology
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/forestecology
-	subdir = forestecology
 [submodule "fscaret"]
 	path = fscaret
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rbioacc
 	subdir = rbioacc
-[submodule "rdracor"]
-	path = rdracor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rdracor
-	subdir = rdracor
 [submodule "rfars"]
 	path = rfars
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
