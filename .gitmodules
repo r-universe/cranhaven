@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggalt
 	subdir = ggalt
-[submodule "goat"]
-	path = goat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/goat
-	subdir = goat
 [submodule "graphTweets"]
 	path = graphTweets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
