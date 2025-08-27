@@ -207,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rhymer
 	subdir = rhymer
-[submodule "rlibkriging"]
-	path = rlibkriging
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rlibkriging
-	subdir = rlibkriging
 [submodule "rvif"]
 	path = rvif
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
