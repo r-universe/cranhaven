@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BRVM
 	subdir = BRVM
-[submodule "CIDER"]
-	path = CIDER
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CIDER
-	subdir = CIDER
 [submodule "DSMolgenisArmadillo"]
 	path = DSMolgenisArmadillo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -52,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rraven
 	subdir = Rraven
-[submodule "SCIntRuler"]
-	path = SCIntRuler
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SCIntRuler
-	subdir = SCIntRuler
 [submodule "SPUTNIK"]
 	path = SPUTNIK
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dynaSpec
 	subdir = dynaSpec
-[submodule "ebreg"]
-	path = ebreg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ebreg
-	subdir = ebreg
 [submodule "ech"]
 	path = ech
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
