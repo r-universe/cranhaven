@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggalt
 	subdir = ggalt
-[submodule "glossa"]
-	path = glossa
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/glossa
-	subdir = glossa
 [submodule "goat"]
 	path = goat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
