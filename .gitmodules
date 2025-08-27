@@ -257,11 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/squeezy
 	subdir = squeezy
-[submodule "tidycomm"]
-	path = tidycomm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tidycomm
-	subdir = tidycomm
 [submodule "tntpr"]
 	path = tntpr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
