@@ -147,6 +147,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/intSDM
 	subdir = intSDM
+[submodule "interpret"]
+	path = interpret
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/interpret
+	subdir = interpret
 [submodule "mlms"]
 	path = mlms
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
