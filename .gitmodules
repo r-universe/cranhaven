@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggalt
 	subdir = ggalt
-[submodule "graphTweets"]
-	path = graphTweets
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/graphTweets
-	subdir = graphTweets
 [submodule "hellmer"]
 	path = hellmer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
