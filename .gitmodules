@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GGMselect
 	subdir = GGMselect
-[submodule "LTFGRS"]
-	path = LTFGRS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LTFGRS
-	subdir = LTFGRS
 [submodule "PointedSDMs"]
 	path = PointedSDMs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/comparer
 	subdir = comparer
-[submodule "confcons"]
-	path = confcons
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/confcons
-	subdir = confcons
 [submodule "dsBase"]
 	path = dsBase
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
