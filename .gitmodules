@@ -57,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biclustermd
 	subdir = biclustermd
-[submodule "cbbreadr"]
-	path = cbbreadr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cbbreadr
-	subdir = cbbreadr
 [submodule "comparer"]
 	path = comparer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
