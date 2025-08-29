@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GGMselect
 	subdir = GGMselect
-[submodule "PointedSDMs"]
-	path = PointedSDMs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PointedSDMs
-	subdir = PointedSDMs
 [submodule "PublicWorksFinanceIT"]
 	path = PublicWorksFinanceIT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
