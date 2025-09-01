@@ -117,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hmeasure
 	subdir = hmeasure
-[submodule "inldata"]
-	path = inldata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/inldata
-	subdir = inldata
 [submodule "intSDM"]
 	path = intSDM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/interpret
 	subdir = interpret
-[submodule "mlms"]
-	path = mlms
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mlms
-	subdir = mlms
 [submodule "mlr3spatiotempcv"]
 	path = mlr3spatiotempcv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
