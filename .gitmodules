@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GGMselect
 	subdir = GGMselect
+[submodule "PLStests"]
+	path = PLStests
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PLStests
+	subdir = PLStests
 [submodule "PublicWorksFinanceIT"]
 	path = PublicWorksFinanceIT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
