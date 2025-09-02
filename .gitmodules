@@ -37,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SPUTNIK
 	subdir = SPUTNIK
+[submodule "apLCMS"]
+	path = apLCMS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/apLCMS
+	subdir = apLCMS
 [submodule "bRacatus"]
 	path = bRacatus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
