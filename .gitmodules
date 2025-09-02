@@ -137,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nomisr
 	subdir = nomisr
-[submodule "nprcgenekeepr"]
-	path = nprcgenekeepr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nprcgenekeepr
-	subdir = nprcgenekeepr
 [submodule "ohun"]
 	path = ohun
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
