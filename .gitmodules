@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "BRVM"]
-	path = BRVM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BRVM
-	subdir = BRVM
 [submodule "DSMolgenisArmadillo"]
 	path = DSMolgenisArmadillo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -37,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rraven
 	subdir = Rraven
-[submodule "SPUTNIK"]
-	path = SPUTNIK
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SPUTNIK
-	subdir = SPUTNIK
 [submodule "apLCMS"]
 	path = apLCMS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hmeasure
 	subdir = hmeasure
-[submodule "intSDM"]
-	path = intSDM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/intSDM
-	subdir = intSDM
 [submodule "interpret"]
 	path = interpret
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
