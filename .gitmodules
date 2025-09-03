@@ -177,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/samesies
 	subdir = samesies
-[submodule "seminrExtras"]
-	path = seminrExtras
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/seminrExtras
-	subdir = seminrExtras
 [submodule "sgapi"]
 	path = sgapi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
