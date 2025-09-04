@@ -57,6 +57,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biclustermd
 	subdir = biclustermd
+[submodule "classifly"]
+	path = classifly
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/classifly
+	subdir = classifly
 [submodule "comparer"]
 	path = comparer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
