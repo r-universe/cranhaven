@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PublicWorksFinanceIT
 	subdir = PublicWorksFinanceIT
-[submodule "Rraven"]
-	path = Rraven
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Rraven
-	subdir = Rraven
 [submodule "UKB.COVID19"]
 	path = UKB.COVID19
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bRacatus
 	subdir = bRacatus
-[submodule "baRulho"]
-	path = baRulho
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/baRulho
-	subdir = baRulho
 [submodule "batchLLM"]
 	path = batchLLM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dsBase
 	subdir = dsBase
-[submodule "dynaSpec"]
-	path = dynaSpec
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dynaSpec
-	subdir = dynaSpec
 [submodule "ech"]
 	path = ech
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mlr3spatiotempcv
 	subdir = mlr3spatiotempcv
-[submodule "ohun"]
-	path = ohun
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ohun
-	subdir = ohun
 [submodule "pema"]
 	path = pema
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tntpr
 	subdir = tntpr
-[submodule "warbleR"]
-	path = warbleR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/warbleR
-	subdir = warbleR
 [submodule "wbstats"]
 	path = wbstats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
