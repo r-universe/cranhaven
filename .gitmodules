@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mlr3spatiotempcv
 	subdir = mlr3spatiotempcv
-[submodule "nomisr"]
-	path = nomisr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nomisr
-	subdir = nomisr
 [submodule "ohun"]
 	path = ohun
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rbioacc
 	subdir = rbioacc
-[submodule "rfars"]
-	path = rfars
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rfars
-	subdir = rfars
 [submodule "rhymer"]
 	path = rhymer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
