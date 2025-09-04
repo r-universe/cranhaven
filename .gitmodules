@@ -32,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rraven
 	subdir = Rraven
+[submodule "UKB.COVID19"]
+	path = UKB.COVID19
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/UKB.COVID19
+	subdir = UKB.COVID19
 [submodule "apLCMS"]
 	path = apLCMS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
