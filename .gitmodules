@@ -97,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/factset.analyticsapi.engines
 	subdir = factset.analyticsapi.engines
+[submodule "fireexposuR"]
+	path = fireexposuR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fireexposuR
+	subdir = fireexposuR
 [submodule "fscaret"]
 	path = fscaret
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
