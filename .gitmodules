@@ -152,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rhymer
 	subdir = rhymer
-[submodule "rvif"]
-	path = rvif
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rvif
-	subdir = rvif
 [submodule "samesies"]
 	path = samesies
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
