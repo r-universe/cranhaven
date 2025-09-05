@@ -27,6 +27,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PublicWorksFinanceIT
 	subdir = PublicWorksFinanceIT
+[submodule "RCreliability"]
+	path = RCreliability
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RCreliability
+	subdir = RCreliability
+[submodule "RVenn"]
+	path = RVenn
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RVenn
+	subdir = RVenn
 [submodule "apLCMS"]
 	path = apLCMS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
