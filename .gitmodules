@@ -62,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/comparer
 	subdir = comparer
+[submodule "covid19br"]
+	path = covid19br
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/covid19br
+	subdir = covid19br
 [submodule "dsBase"]
 	path = dsBase
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
