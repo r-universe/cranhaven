@@ -187,6 +187,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tntpr
 	subdir = tntpr
+[submodule "tranSurv"]
+	path = tranSurv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tranSurv
+	subdir = tranSurv
+[submodule "truncSP"]
+	path = truncSP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/truncSP
+	subdir = truncSP
 [submodule "wbstats"]
 	path = wbstats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
