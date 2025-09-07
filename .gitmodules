@@ -102,31 +102,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fireexposuR
 	subdir = fireexposuR
-[submodule "fscaret"]
-	path = fscaret
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fscaret
-	subdir = fscaret
 [submodule "geouy"]
 	path = geouy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geouy
 	subdir = geouy
-[submodule "ggalt"]
-	path = ggalt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ggalt
-	subdir = ggalt
 [submodule "hellmer"]
 	path = hellmer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hellmer
 	subdir = hellmer
-[submodule "hmeasure"]
-	path = hmeasure
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hmeasure
-	subdir = hmeasure
 [submodule "interpret"]
 	path = interpret
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
