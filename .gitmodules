@@ -112,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hellmer
 	subdir = hellmer
+[submodule "implicitMeasures"]
+	path = implicitMeasures
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/implicitMeasures
+	subdir = implicitMeasures
 [submodule "interpret"]
 	path = interpret
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
