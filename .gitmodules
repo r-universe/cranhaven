@@ -57,6 +57,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biclustermd
 	subdir = biclustermd
+[submodule "bridger"]
+	path = bridger
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bridger
+	subdir = bridger
 [submodule "classifly"]
 	path = classifly
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geouy
 	subdir = geouy
+[submodule "ggedit"]
+	path = ggedit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ggedit
+	subdir = ggedit
 [submodule "hellmer"]
 	path = hellmer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
