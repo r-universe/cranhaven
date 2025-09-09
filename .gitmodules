@@ -2,6 +2,16 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "BrailleR"]
+	path = BrailleR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BrailleR
+	subdir = BrailleR
+[submodule "CSGo"]
+	path = CSGo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CSGo
+	subdir = CSGo
 [submodule "DSMolgenisArmadillo"]
 	path = DSMolgenisArmadillo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -37,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RVenn
 	subdir = RVenn
+[submodule "Rttf2pt1"]
+	path = Rttf2pt1
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rttf2pt1
+	subdir = Rttf2pt1
 [submodule "apLCMS"]
 	path = apLCMS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -102,6 +117,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/extractox
 	subdir = extractox
+[submodule "extrafont"]
+	path = extrafont
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/extrafont
+	subdir = extrafont
 [submodule "ezEDA"]
 	path = ezEDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/factset.analyticsapi.engines
 	subdir = factset.analyticsapi.engines
+[submodule "fergm"]
+	path = fergm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fergm
+	subdir = fergm
 [submodule "fireexposuR"]
 	path = fireexposuR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,6 +157,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hellmer
 	subdir = hellmer
+[submodule "hrbrthemes"]
+	path = hrbrthemes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hrbrthemes
+	subdir = hrbrthemes
 [submodule "implicitMeasures"]
 	path = implicitMeasures
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mlr3spatiotempcv
 	subdir = mlr3spatiotempcv
+[submodule "oesr"]
+	path = oesr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/oesr
+	subdir = oesr
 [submodule "pema"]
 	path = pema
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,6 +197,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qsort
 	subdir = qsort
+[submodule "ratlas"]
+	path = ratlas
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ratlas
+	subdir = ratlas
 [submodule "rbioacc"]
 	path = rbioacc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,11 +227,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shock
 	subdir = shock
+[submodule "spreadr"]
+	path = spreadr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spreadr
+	subdir = spreadr
 [submodule "squeezy"]
 	path = squeezy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/squeezy
 	subdir = squeezy
+[submodule "tidytidbits"]
+	path = tidytidbits
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tidytidbits
+	subdir = tidytidbits
 [submodule "tntpr"]
 	path = tntpr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +257,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/truncSP
 	subdir = truncSP
+[submodule "tvthemes"]
+	path = tvthemes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tvthemes
+	subdir = tvthemes
+[submodule "usaidplot"]
+	path = usaidplot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/usaidplot
+	subdir = usaidplot
+[submodule "waffle"]
+	path = waffle
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/waffle
+	subdir = waffle
 [submodule "wbstats"]
 	path = wbstats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,3 +282,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/weatherOz
 	subdir = weatherOz
+[submodule "xkcd"]
+	path = xkcd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/xkcd
+	subdir = xkcd
