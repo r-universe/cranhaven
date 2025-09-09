@@ -22,11 +22,31 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EDFtest
 	subdir = EDFtest
+[submodule "EntropicStatistics"]
+	path = EntropicStatistics
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EntropicStatistics
+	subdir = EntropicStatistics
+[submodule "EstimateBreed"]
+	path = EstimateBreed
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EstimateBreed
+	subdir = EstimateBreed
 [submodule "GGMselect"]
 	path = GGMselect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GGMselect
 	subdir = GGMselect
+[submodule "GTFSwizard"]
+	path = GTFSwizard
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GTFSwizard
+	subdir = GTFSwizard
+[submodule "HMDA"]
+	path = HMDA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HMDA
+	subdir = HMDA
 [submodule "PLStests"]
 	path = PLStests
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/comparer
 	subdir = comparer
+[submodule "conformalInference.multi"]
+	path = conformalInference.multi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/conformalInference.multi
+	subdir = conformalInference.multi
 [submodule "covid19br"]
 	path = covid19br
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,11 +167,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fireexposuR
 	subdir = fireexposuR
+[submodule "forensIT"]
+	path = forensIT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/forensIT
+	subdir = forensIT
+[submodule "gamblers.ruin.gameplay"]
+	path = gamblers.ruin.gameplay
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gamblers.ruin.gameplay
+	subdir = gamblers.ruin.gameplay
 [submodule "geouy"]
 	path = geouy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geouy
 	subdir = geouy
+[submodule "ggScatRidges"]
+	path = ggScatRidges
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ggScatRidges
+	subdir = ggScatRidges
 [submodule "ggedit"]
 	path = ggedit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +217,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mlr3spatiotempcv
 	subdir = mlr3spatiotempcv
+[submodule "multilevelcoda"]
+	path = multilevelcoda
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/multilevelcoda
+	subdir = multilevelcoda
+[submodule "occCite"]
+	path = occCite
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/occCite
+	subdir = occCite
 [submodule "oesr"]
 	path = oesr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,6 +237,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pema
 	subdir = pema
+[submodule "psc"]
+	path = psc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/psc
+	subdir = psc
 [submodule "psvd"]
 	path = psvd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sgapi
 	subdir = sgapi
+[submodule "shapley"]
+	path = shapley
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/shapley
+	subdir = shapley
 [submodule "shock"]
 	path = shock
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,6 +297,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/squeezy
 	subdir = squeezy
+[submodule "survivalAnalysis"]
+	path = survivalAnalysis
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/survivalAnalysis
+	subdir = survivalAnalysis
 [submodule "tidytidbits"]
 	path = tidytidbits
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,6 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tvthemes
 	subdir = tvthemes
+[submodule "umx"]
+	path = umx
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/umx
+	subdir = umx
 [submodule "usaidplot"]
 	path = usaidplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
