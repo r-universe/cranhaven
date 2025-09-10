@@ -347,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/weatherOz
 	subdir = weatherOz
+[submodule "wkutils"]
+	path = wkutils
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/wkutils
+	subdir = wkutils
 [submodule "xkcd"]
 	path = xkcd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
