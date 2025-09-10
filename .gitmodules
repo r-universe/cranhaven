@@ -117,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/covid19br
 	subdir = covid19br
-[submodule "czso"]
-	path = czso
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/czso
-	subdir = czso
 [submodule "dacc"]
 	path = dacc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
