@@ -322,11 +322,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tranSurv
 	subdir = tranSurv
-[submodule "truncSP"]
-	path = truncSP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/truncSP
-	subdir = truncSP
 [submodule "tvthemes"]
 	path = tvthemes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
