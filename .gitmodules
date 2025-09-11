@@ -122,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dacc
 	subdir = dacc
+[submodule "designmatch"]
+	path = designmatch
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/designmatch
+	subdir = designmatch
 [submodule "dsBase"]
 	path = dsBase
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
