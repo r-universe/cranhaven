@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HMDA
 	subdir = HMDA
+[submodule "NBDCtools"]
+	path = NBDCtools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NBDCtools
+	subdir = NBDCtools
 [submodule "PLStests"]
 	path = PLStests
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
