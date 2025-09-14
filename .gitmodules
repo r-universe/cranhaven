@@ -342,11 +342,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/waffle
 	subdir = waffle
-[submodule "wbstats"]
-	path = wbstats
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wbstats
-	subdir = wbstats
 [submodule "weatherOz"]
 	path = weatherOz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
