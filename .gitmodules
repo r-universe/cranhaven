@@ -257,11 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/psvd
 	subdir = psvd
-[submodule "qsort"]
-	path = qsort
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qsort
-	subdir = qsort
 [submodule "ratlas"]
 	path = ratlas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
