@@ -207,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggedit
 	subdir = ggedit
+[submodule "hdtg"]
+	path = hdtg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hdtg
+	subdir = hdtg
 [submodule "hellmer"]
 	path = hellmer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
