@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "ArctosR"]
-	path = ArctosR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ArctosR
-	subdir = ArctosR
 [submodule "BrailleR"]
 	path = BrailleR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
