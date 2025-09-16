@@ -117,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/comparer
 	subdir = comparer
-[submodule "conformalInference.multi"]
-	path = conformalInference.multi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/conformalInference.multi
-	subdir = conformalInference.multi
 [submodule "covid19br"]
 	path = covid19br
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
