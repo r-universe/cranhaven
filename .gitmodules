@@ -52,6 +52,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HMDA
 	subdir = HMDA
+[submodule "MLwrap"]
+	path = MLwrap
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MLwrap
+	subdir = MLwrap
 [submodule "NBDCtools"]
 	path = NBDCtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bridger
 	subdir = bridger
+[submodule "brpop"]
+	path = brpop
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/brpop
+	subdir = brpop
 [submodule "classifly"]
 	path = classifly
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
