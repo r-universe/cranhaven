@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/D2MCS
 	subdir = D2MCS
-[submodule "DSMolgenisArmadillo"]
-	path = DSMolgenisArmadillo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DSMolgenisArmadillo
-	subdir = DSMolgenisArmadillo
 [submodule "EDFtest"]
 	path = EDFtest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/covid19br
 	subdir = covid19br
-[submodule "dacc"]
-	path = dacc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dacc
-	subdir = dacc
 [submodule "designmatch"]
 	path = designmatch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
