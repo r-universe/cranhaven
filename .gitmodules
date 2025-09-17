@@ -267,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gfoRmulaICE
 	subdir = gfoRmulaICE
-[submodule "ggScatRidges"]
-	path = ggScatRidges
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ggScatRidges
-	subdir = ggScatRidges
 [submodule "ggedit"]
 	path = ggedit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,6 +322,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multilevelcoda
 	subdir = multilevelcoda
+[submodule "netcmc"]
+	path = netcmc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/netcmc
+	subdir = netcmc
 [submodule "occCite"]
 	path = occCite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,11 +367,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rhymer
 	subdir = rhymer
+[submodule "robustcov"]
+	path = robustcov
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/robustcov
+	subdir = robustcov
+[submodule "rocTree"]
+	path = rocTree
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rocTree
+	subdir = rocTree
 [submodule "samesies"]
 	path = samesies
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/samesies
 	subdir = samesies
+[submodule "seedreg"]
+	path = seedreg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/seedreg
+	subdir = seedreg
 [submodule "sgapi"]
 	path = sgapi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,11 +412,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/squeezy
 	subdir = squeezy
+[submodule "sssc"]
+	path = sssc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sssc
+	subdir = sssc
 [submodule "survivalAnalysis"]
 	path = survivalAnalysis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/survivalAnalysis
 	subdir = survivalAnalysis
+[submodule "telefit"]
+	path = telefit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/telefit
+	subdir = telefit
 [submodule "tidytidbits"]
 	path = tidytidbits
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,6 +442,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tranSurv
 	subdir = tranSurv
+[submodule "treenomial"]
+	path = treenomial
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/treenomial
+	subdir = treenomial
 [submodule "tvthemes"]
 	path = tvthemes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -432,6 +462,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/usaidplot
 	subdir = usaidplot
+[submodule "vanquish"]
+	path = vanquish
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vanquish
+	subdir = vanquish
 [submodule "waffle"]
 	path = waffle
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
