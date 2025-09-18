@@ -92,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MAPITR
 	subdir = MAPITR
-[submodule "MLwrap"]
-	path = MLwrap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MLwrap
-	subdir = MLwrap
 [submodule "NBDCtools"]
 	path = NBDCtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/designmatch
 	subdir = designmatch
-[submodule "dsBase"]
-	path = dsBase
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dsBase
-	subdir = dsBase
 [submodule "ech"]
 	path = ech
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,11 +392,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sgapi
 	subdir = sgapi
-[submodule "shapley"]
-	path = shapley
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shapley
-	subdir = shapley
 [submodule "shock"]
 	path = shock
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
