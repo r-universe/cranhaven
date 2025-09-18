@@ -177,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/brpop
 	subdir = brpop
+[submodule "camelsCL"]
+	path = camelsCL
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/camelsCL
+	subdir = camelsCL
 [submodule "classifly"]
 	path = classifly
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
