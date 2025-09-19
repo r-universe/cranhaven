@@ -137,6 +137,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bRacatus
 	subdir = bRacatus
+[submodule "bardr"]
+	path = bardr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bardr
+	subdir = bardr
 [submodule "batchLLM"]
 	path = batchLLM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
