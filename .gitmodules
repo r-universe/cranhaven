@@ -462,11 +462,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/waffle
 	subdir = waffle
-[submodule "weatherOz"]
-	path = weatherOz
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/weatherOz
-	subdir = weatherOz
 [submodule "wkutils"]
 	path = wkutils
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
