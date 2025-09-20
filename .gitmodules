@@ -272,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggedit
 	subdir = ggedit
+[submodule "greta"]
+	path = greta
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/greta
+	subdir = greta
 [submodule "greta.censored"]
 	path = greta.censored
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
