@@ -102,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PLStests
 	subdir = PLStests
+[submodule "ProgModule"]
+	path = ProgModule
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ProgModule
+	subdir = ProgModule
 [submodule "PublicWorksFinanceIT"]
 	path = PublicWorksFinanceIT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -362,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oesr
 	subdir = oesr
+[submodule "pathwayTMB"]
+	path = pathwayTMB
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pathwayTMB
+	subdir = pathwayTMB
 [submodule "pema"]
 	path = pema
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
