@@ -472,11 +472,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tntpr
 	subdir = tntpr
-[submodule "tranSurv"]
-	path = tranSurv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tranSurv
-	subdir = tranSurv
 [submodule "treenomial"]
 	path = treenomial
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
