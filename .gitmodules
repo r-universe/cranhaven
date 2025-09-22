@@ -342,6 +342,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/meshed
 	subdir = meshed
+[submodule "mpactr"]
+	path = mpactr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mpactr
+	subdir = mpactr
 [submodule "multilevelcoda"]
 	path = multilevelcoda
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
