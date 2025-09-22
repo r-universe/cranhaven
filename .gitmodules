@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BEAMR
 	subdir = BEAMR
-[submodule "BKP"]
-	path = BKP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BKP
-	subdir = BKP
 [submodule "BayesReversePLLH"]
 	path = BayesReversePLLH
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
