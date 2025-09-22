@@ -237,11 +237,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ezEDA
 	subdir = ezEDA
-[submodule "factset.analyticsapi.engines"]
-	path = factset.analyticsapi.engines
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/factset.analyticsapi.engines
-	subdir = factset.analyticsapi.engines
 [submodule "fctbases"]
 	path = fctbases
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
