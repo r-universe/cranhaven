@@ -322,6 +322,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/implicitMeasures
 	subdir = implicitMeasures
+[submodule "inTextSummaryTable"]
+	path = inTextSummaryTable
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/inTextSummaryTable
+	subdir = inTextSummaryTable
 [submodule "interpret"]
 	path = interpret
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -422,6 +427,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/samesies
 	subdir = samesies
+[submodule "schtools"]
+	path = schtools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/schtools
+	subdir = schtools
 [submodule "seedreg"]
 	path = seedreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
