@@ -92,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MAPITR
 	subdir = MAPITR
+[submodule "MLVSBM"]
+	path = MLVSBM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MLVSBM
+	subdir = MLVSBM
 [submodule "NBDCtools"]
 	path = NBDCtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rttf2pt1
 	subdir = Rttf2pt1
+[submodule "SeqExpMatch"]
+	path = SeqExpMatch
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SeqExpMatch
+	subdir = SeqExpMatch
 [submodule "UtilityFrailtyPH12"]
 	path = UtilityFrailtyPH12
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,6 +242,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ezEDA
 	subdir = ezEDA
+[submodule "factset.protobuf.stachextensions"]
+	path = factset.protobuf.stachextensions
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/factset.protobuf.stachextensions
+	subdir = factset.protobuf.stachextensions
 [submodule "fctbases"]
 	path = fctbases
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,6 +342,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/inTextSummaryTable
 	subdir = inTextSummaryTable
+[submodule "influxdbclient"]
+	path = influxdbclient
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/influxdbclient
+	subdir = influxdbclient
 [submodule "interpret"]
 	path = interpret
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,6 +372,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mpactr
 	subdir = mpactr
+[submodule "mstrio"]
+	path = mstrio
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mstrio
+	subdir = mstrio
 [submodule "multilevelcoda"]
 	path = multilevelcoda
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,6 +397,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oesr
 	subdir = oesr
+[submodule "openaistream"]
+	path = openaistream
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/openaistream
+	subdir = openaistream
 [submodule "pathwayTMB"]
 	path = pathwayTMB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,6 +442,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rlibkriging
 	subdir = rlibkriging
+[submodule "rminizinc"]
+	path = rminizinc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rminizinc
+	subdir = rminizinc
 [submodule "robustcov"]
 	path = robustcov
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -442,6 +477,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sgapi
 	subdir = sgapi
+[submodule "shinyreforms"]
+	path = shinyreforms
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/shinyreforms
+	subdir = shinyreforms
 [submodule "shock"]
 	path = shock
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
