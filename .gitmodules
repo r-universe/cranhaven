@@ -212,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/extractox
 	subdir = extractox
-[submodule "extrafont"]
-	path = extrafont
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/extrafont
-	subdir = extrafont
 [submodule "ezEDA"]
 	path = ezEDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
