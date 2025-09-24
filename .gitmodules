@@ -67,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FamilyRank
 	subdir = FamilyRank
-[submodule "GGMselect"]
-	path = GGMselect
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GGMselect
-	subdir = GGMselect
 [submodule "GTFSwizard"]
 	path = GTFSwizard
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bardr
 	subdir = bardr
-[submodule "batchLLM"]
-	path = batchLLM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/batchLLM
-	subdir = batchLLM
 [submodule "biclustermd"]
 	path = biclustermd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/designmatch
 	subdir = designmatch
-[submodule "ech"]
-	path = ech
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ech
-	subdir = ech
 [submodule "extractox"]
 	path = extractox
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +257,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gamblers.ruin.gameplay
 	subdir = gamblers.ruin.gameplay
-[submodule "geouy"]
-	path = geouy
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/geouy
-	subdir = geouy
 [submodule "gfoRmulaICE"]
 	path = gfoRmulaICE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,11 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hdtg
 	subdir = hdtg
-[submodule "hellmer"]
-	path = hellmer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hellmer
-	subdir = hellmer
 [submodule "hrbrthemes"]
 	path = hrbrthemes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -457,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rocTree
 	subdir = rocTree
-[submodule "samesies"]
-	path = samesies
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/samesies
-	subdir = samesies
 [submodule "schtools"]
 	path = schtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -482,11 +452,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shinyreforms
 	subdir = shinyreforms
-[submodule "shock"]
-	path = shock
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shock
-	subdir = shock
 [submodule "spreadr"]
 	path = spreadr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
