@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RVenn
 	subdir = RVenn
-[submodule "Rttf2pt1"]
-	path = Rttf2pt1
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Rttf2pt1
-	subdir = Rttf2pt1
 [submodule "SeqExpMatch"]
 	path = SeqExpMatch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
