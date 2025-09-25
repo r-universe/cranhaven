@@ -302,11 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/implicitMeasures
 	subdir = implicitMeasures
-[submodule "inTextSummaryTable"]
-	path = inTextSummaryTable
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/inTextSummaryTable
-	subdir = inTextSummaryTable
 [submodule "influxdbclient"]
 	path = influxdbclient
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
