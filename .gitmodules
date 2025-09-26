@@ -312,6 +312,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/interpret
 	subdir = interpret
+[submodule "lazyWeave"]
+	path = lazyWeave
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lazyWeave
+	subdir = lazyWeave
 [submodule "linconGaussR"]
 	path = linconGaussR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
