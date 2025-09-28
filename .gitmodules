@@ -127,6 +127,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/UtilityFrailtyPH12
 	subdir = UtilityFrailtyPH12
+[submodule "aidar"]
+	path = aidar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/aidar
+	subdir = aidar
 [submodule "alpaca"]
 	path = alpaca
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,6 +232,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fergm
 	subdir = fergm
+[submodule "fgdr"]
+	path = fgdr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fgdr
+	subdir = fgdr
 [submodule "fireexposuR"]
 	path = fireexposuR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +317,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/interpret
 	subdir = interpret
+[submodule "jstor"]
+	path = jstor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/jstor
+	subdir = jstor
 [submodule "lazyWeave"]
 	path = lazyWeave
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
