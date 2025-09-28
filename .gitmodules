@@ -327,11 +327,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/meshed
 	subdir = meshed
-[submodule "mpactr"]
-	path = mpactr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mpactr
-	subdir = mpactr
 [submodule "mstrio"]
 	path = mstrio
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
