@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/apLCMS
 	subdir = apLCMS
-[submodule "bRacatus"]
-	path = bRacatus
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bRacatus
-	subdir = bRacatus
 [submodule "bardr"]
 	path = bardr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/classifly
 	subdir = classifly
-[submodule "comparer"]
-	path = comparer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/comparer
-	subdir = comparer
 [submodule "corrcoverage"]
 	path = corrcoverage
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,16 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/designmatch
 	subdir = designmatch
-[submodule "extractox"]
-	path = extractox
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/extractox
-	subdir = extractox
-[submodule "ezEDA"]
-	path = ezEDA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ezEDA
-	subdir = ezEDA
 [submodule "factset.protobuf.stachextensions"]
 	path = factset.protobuf.stachextensions
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -377,21 +357,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pathwayTMB
 	subdir = pathwayTMB
-[submodule "pema"]
-	path = pema
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pema
-	subdir = pema
 [submodule "psc"]
 	path = psc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/psc
 	subdir = psc
-[submodule "psvd"]
-	path = psvd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/psvd
-	subdir = psvd
 [submodule "ratlas"]
 	path = ratlas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -432,11 +402,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seedreg
 	subdir = seedreg
-[submodule "sgapi"]
-	path = sgapi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sgapi
-	subdir = sgapi
 [submodule "shinyreforms"]
 	path = shinyreforms
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -447,11 +412,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spreadr
 	subdir = spreadr
-[submodule "squeezy"]
-	path = squeezy
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/squeezy
-	subdir = squeezy
 [submodule "sssc"]
 	path = sssc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -472,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidytidbits
 	subdir = tidytidbits
-[submodule "tntpr"]
-	path = tntpr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tntpr
-	subdir = tntpr
 [submodule "treenomial"]
 	path = treenomial
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
