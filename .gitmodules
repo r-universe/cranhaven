@@ -337,11 +337,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/netcmc
 	subdir = netcmc
-[submodule "occCite"]
-	path = occCite
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/occCite
-	subdir = occCite
 [submodule "oesr"]
 	path = oesr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
