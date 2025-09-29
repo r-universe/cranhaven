@@ -367,11 +367,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ratlas
 	subdir = ratlas
-[submodule "rhymer"]
-	path = rhymer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rhymer
-	subdir = rhymer
 [submodule "rlibkriging"]
 	path = rlibkriging
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
