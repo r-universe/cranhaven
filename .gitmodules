@@ -137,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bardr
 	subdir = bardr
-[submodule "biclustermd"]
-	path = biclustermd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/biclustermd
-	subdir = biclustermd
 [submodule "bife"]
 	path = bife
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
