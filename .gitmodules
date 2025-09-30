@@ -37,11 +37,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DCSmooth
 	subdir = DCSmooth
-[submodule "EDFtest"]
-	path = EDFtest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EDFtest
-	subdir = EDFtest
 [submodule "ElevDistr"]
 	path = ElevDistr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
