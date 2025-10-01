@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AntMAN
 	subdir = AntMAN
+[submodule "Asiaverse"]
+	path = Asiaverse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Asiaverse
+	subdir = Asiaverse
 [submodule "BEAMR"]
 	path = BEAMR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,6 +117,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SeqExpMatch
 	subdir = SeqExpMatch
+[submodule "SouthKoreAPIs"]
+	path = SouthKoreAPIs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SouthKoreAPIs
+	subdir = SouthKoreAPIs
 [submodule "UtilityFrailtyPH12"]
 	path = UtilityFrailtyPH12
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/covid19br
 	subdir = covid19br
+[submodule "cxreg"]
+	path = cxreg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cxreg
+	subdir = cxreg
 [submodule "designmatch"]
 	path = designmatch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,11 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fgdr
 	subdir = fgdr
-[submodule "fireexposuR"]
-	path = fireexposuR
+[submodule "figuRes2"]
+	path = figuRes2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fireexposuR
-	subdir = fireexposuR
+	branch = package/figuRes2
+	subdir = figuRes2
 [submodule "forensIT"]
 	path = forensIT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +322,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/meshed
 	subdir = meshed
+[submodule "mnreadR"]
+	path = mnreadR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mnreadR
+	subdir = mnreadR
+[submodule "mrgdp"]
+	path = mrgdp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mrgdp
+	subdir = mrgdp
 [submodule "mstrio"]
 	path = mstrio
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,6 +372,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ratlas
 	subdir = ratlas
+[submodule "repo.data"]
+	path = repo.data
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/repo.data
+	subdir = repo.data
 [submodule "rlibkriging"]
 	path = rlibkriging
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
