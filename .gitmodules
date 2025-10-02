@@ -62,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FamilyRank
 	subdir = FamilyRank
+[submodule "ForecastTB"]
+	path = ForecastTB
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ForecastTB
+	subdir = ForecastTB
 [submodule "GTFSwizard"]
 	path = GTFSwizard
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PLStests
 	subdir = PLStests
+[submodule "PopPsiSeqR"]
+	path = PopPsiSeqR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PopPsiSeqR
+	subdir = PopPsiSeqR
 [submodule "ProgModule"]
 	path = ProgModule
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,6 +137,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/UtilityFrailtyPH12
 	subdir = UtilityFrailtyPH12
+[submodule "ahpsurvey"]
+	path = ahpsurvey
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ahpsurvey
+	subdir = ahpsurvey
 [submodule "aidar"]
 	path = aidar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
