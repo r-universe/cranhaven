@@ -292,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/influxdbclient
 	subdir = influxdbclient
-[submodule "interpret"]
-	path = interpret
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/interpret
-	subdir = interpret
 [submodule "jstor"]
 	path = jstor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
