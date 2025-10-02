@@ -207,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cxreg
 	subdir = cxreg
+[submodule "dafishr"]
+	path = dafishr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dafishr
+	subdir = dafishr
 [submodule "designmatch"]
 	path = designmatch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
