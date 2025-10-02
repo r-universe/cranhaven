@@ -212,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/designmatch
 	subdir = designmatch
+[submodule "edgemodelr"]
+	path = edgemodelr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/edgemodelr
+	subdir = edgemodelr
 [submodule "factset.protobuf.stachextensions"]
 	path = factset.protobuf.stachextensions
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
