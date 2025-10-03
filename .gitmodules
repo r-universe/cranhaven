@@ -187,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/camelsCL
 	subdir = camelsCL
+[submodule "cesR"]
+	path = cesR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cesR
+	subdir = cesR
 [submodule "classifly"]
 	path = classifly
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggedit
 	subdir = ggedit
+[submodule "glmtree"]
+	path = glmtree
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/glmtree
+	subdir = glmtree
 [submodule "greta"]
 	path = greta
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
