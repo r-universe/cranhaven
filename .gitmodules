@@ -402,6 +402,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/repo.data
 	subdir = repo.data
+[submodule "rfars"]
+	path = rfars
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rfars
+	subdir = rfars
 [submodule "rlibkriging"]
 	path = rlibkriging
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,6 +457,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/survivalAnalysis
 	subdir = survivalAnalysis
+[submodule "tangles"]
+	path = tangles
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tangles
+	subdir = tangles
 [submodule "telefit"]
 	path = telefit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
