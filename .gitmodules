@@ -92,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MLVSBM
 	subdir = MLVSBM
-[submodule "PLStests"]
-	path = PLStests
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PLStests
-	subdir = PLStests
 [submodule "PopPsiSeqR"]
 	path = PopPsiSeqR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/alpaca
 	subdir = alpaca
-[submodule "apLCMS"]
-	path = apLCMS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/apLCMS
-	subdir = apLCMS
 [submodule "bardr"]
 	path = bardr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,6 +362,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/netcmc
 	subdir = netcmc
+[submodule "nopp"]
+	path = nopp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nopp
+	subdir = nopp
 [submodule "oesr"]
 	path = oesr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
