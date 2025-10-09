@@ -177,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cesR
 	subdir = cesR
-[submodule "classifly"]
-	path = classifly
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/classifly
-	subdir = classifly
 [submodule "corrcoverage"]
 	path = corrcoverage
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
