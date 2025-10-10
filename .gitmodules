@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ProgModule
 	subdir = ProgModule
-[submodule "RCreliability"]
-	path = RCreliability
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RCreliability
-	subdir = RCreliability
 [submodule "SIPmg"]
 	path = SIPmg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
