@@ -72,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GTFSwizard
 	subdir = GTFSwizard
+[submodule "GWASinlps"]
+	path = GWASinlps
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GWASinlps
+	subdir = GWASinlps
 [submodule "HMB"]
 	path = HMB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +297,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hdtg
 	subdir = hdtg
+[submodule "horseshoe"]
+	path = horseshoe
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/horseshoe
+	subdir = horseshoe
 [submodule "hrbrthemes"]
 	path = hrbrthemes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
