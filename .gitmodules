@@ -112,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RVenn
 	subdir = RVenn
+[submodule "SIPmg"]
+	path = SIPmg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SIPmg
+	subdir = SIPmg
 [submodule "SeqExpMatch"]
 	path = SeqExpMatch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
