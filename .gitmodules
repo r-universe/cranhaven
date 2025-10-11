@@ -67,6 +67,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ForecastTB
 	subdir = ForecastTB
+[submodule "GSEMA"]
+	path = GSEMA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GSEMA
+	subdir = GSEMA
 [submodule "GTFSwizard"]
 	path = GTFSwizard
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
