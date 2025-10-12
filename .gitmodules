@@ -302,11 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hrbrthemes
 	subdir = hrbrthemes
-[submodule "implicitMeasures"]
-	path = implicitMeasures
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/implicitMeasures
-	subdir = implicitMeasures
 [submodule "influxdbclient"]
 	path = influxdbclient
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
