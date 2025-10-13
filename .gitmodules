@@ -162,11 +162,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bisque
 	subdir = bisque
-[submodule "bridger"]
-	path = bridger
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bridger
-	subdir = bridger
 [submodule "brpop"]
 	path = brpop
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gfoRmulaICE
 	subdir = gfoRmulaICE
-[submodule "ggedit"]
-	path = ggedit
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ggedit
-	subdir = ggedit
 [submodule "glmtree"]
 	path = glmtree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
