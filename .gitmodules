@@ -22,16 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesReversePLLH
 	subdir = BayesReversePLLH
-[submodule "BrailleR"]
-	path = BrailleR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BrailleR
-	subdir = BrailleR
-[submodule "CSGo"]
-	path = CSGo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CSGo
-	subdir = CSGo
 [submodule "D2MCS"]
 	path = D2MCS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fctbases
 	subdir = fctbases
-[submodule "fergm"]
-	path = fergm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fergm
-	subdir = fergm
 [submodule "fgdr"]
 	path = fgdr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/horseshoe
 	subdir = horseshoe
-[submodule "hrbrthemes"]
-	path = hrbrthemes
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hrbrthemes
-	subdir = hrbrthemes
 [submodule "influxdbclient"]
 	path = influxdbclient
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nopp
 	subdir = nopp
-[submodule "oesr"]
-	path = oesr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/oesr
-	subdir = oesr
 [submodule "openaistream"]
 	path = openaistream
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,11 +347,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/psc
 	subdir = psc
-[submodule "ratlas"]
-	path = ratlas
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ratlas
-	subdir = ratlas
 [submodule "repo.data"]
 	path = repo.data
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -422,11 +392,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shinyreforms
 	subdir = shinyreforms
-[submodule "spreadr"]
-	path = spreadr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spreadr
-	subdir = spreadr
 [submodule "sssc"]
 	path = sssc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -447,48 +412,23 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/telefit
 	subdir = telefit
-[submodule "tidytidbits"]
-	path = tidytidbits
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tidytidbits
-	subdir = tidytidbits
 [submodule "treenomial"]
 	path = treenomial
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/treenomial
 	subdir = treenomial
-[submodule "tvthemes"]
-	path = tvthemes
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tvthemes
-	subdir = tvthemes
 [submodule "umx"]
 	path = umx
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/umx
 	subdir = umx
-[submodule "usaidplot"]
-	path = usaidplot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/usaidplot
-	subdir = usaidplot
 [submodule "vanquish"]
 	path = vanquish
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vanquish
 	subdir = vanquish
-[submodule "waffle"]
-	path = waffle
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/waffle
-	subdir = waffle
 [submodule "wkutils"]
 	path = wkutils
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wkutils
 	subdir = wkutils
-[submodule "xkcd"]
-	path = xkcd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/xkcd
-	subdir = xkcd
