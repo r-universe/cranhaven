@@ -37,11 +37,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ElevDistr
 	subdir = ElevDistr
-[submodule "EstimateBreed"]
-	path = EstimateBreed
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EstimateBreed
-	subdir = EstimateBreed
 [submodule "FMCCSD"]
 	path = FMCCSD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -62,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GSEMA
 	subdir = GSEMA
-[submodule "GTFSwizard"]
-	path = GTFSwizard
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GTFSwizard
-	subdir = GTFSwizard
 [submodule "GWASinlps"]
 	path = GWASinlps
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,16 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/figuRes2
 	subdir = figuRes2
-[submodule "forensIT"]
-	path = forensIT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/forensIT
-	subdir = forensIT
-[submodule "gamblers.ruin.gameplay"]
-	path = gamblers.ruin.gameplay
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gamblers.ruin.gameplay
-	subdir = gamblers.ruin.gameplay
 [submodule "gfoRmulaICE"]
 	path = gfoRmulaICE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mstrio
 	subdir = mstrio
-[submodule "multilevelcoda"]
-	path = multilevelcoda
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/multilevelcoda
-	subdir = multilevelcoda
 [submodule "netcmc"]
 	path = netcmc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pathwayTMB
 	subdir = pathwayTMB
-[submodule "psc"]
-	path = psc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/psc
-	subdir = psc
 [submodule "repo.data"]
 	path = repo.data
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,11 +367,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sssc
 	subdir = sssc
-[submodule "survivalAnalysis"]
-	path = survivalAnalysis
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/survivalAnalysis
-	subdir = survivalAnalysis
 [submodule "tangles"]
 	path = tangles
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,11 +382,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/treenomial
 	subdir = treenomial
-[submodule "umx"]
-	path = umx
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/umx
-	subdir = umx
 [submodule "vanquish"]
 	path = vanquish
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
