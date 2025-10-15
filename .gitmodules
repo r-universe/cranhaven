@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "AnalysisLin"]
+	path = AnalysisLin
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AnalysisLin
+	subdir = AnalysisLin
 [submodule "AntMAN"]
 	path = AntMAN
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,6 +117,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/UtilityFrailtyPH12
 	subdir = UtilityFrailtyPH12
+[submodule "agriutilities"]
+	path = agriutilities
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/agriutilities
+	subdir = agriutilities
 [submodule "ahpsurvey"]
 	path = ahpsurvey
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,11 +187,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/designmatch
 	subdir = designmatch
+[submodule "dsmSearch"]
+	path = dsmSearch
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dsmSearch
+	subdir = dsmSearch
 [submodule "edgemodelr"]
 	path = edgemodelr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/edgemodelr
 	subdir = edgemodelr
+[submodule "expowo"]
+	path = expowo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/expowo
+	subdir = expowo
 [submodule "factset.protobuf.stachextensions"]
 	path = factset.protobuf.stachextensions
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/figuRes2
 	subdir = figuRes2
+[submodule "flexFitR"]
+	path = flexFitR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/flexFitR
+	subdir = flexFitR
 [submodule "gfoRmulaICE"]
 	path = gfoRmulaICE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,6 +342,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pathwayTMB
 	subdir = pathwayTMB
+[submodule "piecepackr"]
+	path = piecepackr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/piecepackr
+	subdir = piecepackr
+[submodule "plothelper"]
+	path = plothelper
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/plothelper
+	subdir = plothelper
+[submodule "quicR"]
+	path = quicR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/quicR
+	subdir = quicR
 [submodule "repo.data"]
 	path = repo.data
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -362,6 +402,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seedreg
 	subdir = seedreg
+[submodule "sentopics"]
+	path = sentopics
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sentopics
+	subdir = sentopics
 [submodule "shinyreforms"]
 	path = shinyreforms
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
