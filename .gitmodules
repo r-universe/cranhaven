@@ -402,11 +402,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seedreg
 	subdir = seedreg
-[submodule "sentopics"]
-	path = sentopics
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sentopics
-	subdir = sentopics
 [submodule "shinyreforms"]
 	path = shinyreforms
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
