@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dafishr
 	subdir = dafishr
-[submodule "designmatch"]
-	path = designmatch
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/designmatch
-	subdir = designmatch
 [submodule "dsmSearch"]
 	path = dsmSearch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
