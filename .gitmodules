@@ -57,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ForecastTB
 	subdir = ForecastTB
-[submodule "GSEMA"]
-	path = GSEMA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GSEMA
-	subdir = GSEMA
 [submodule "GWASinlps"]
 	path = GWASinlps
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pathwayTMB
 	subdir = pathwayTMB
-[submodule "piecepackr"]
-	path = piecepackr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/piecepackr
-	subdir = piecepackr
 [submodule "plothelper"]
 	path = plothelper
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
