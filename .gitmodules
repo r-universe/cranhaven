@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/UtilityFrailtyPH12
 	subdir = UtilityFrailtyPH12
-[submodule "agriutilities"]
-	path = agriutilities
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/agriutilities
-	subdir = agriutilities
 [submodule "ahpsurvey"]
 	path = ahpsurvey
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
