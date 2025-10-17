@@ -342,11 +342,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rfars
 	subdir = rfars
-[submodule "rlibkriging"]
-	path = rlibkriging
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rlibkriging
-	subdir = rlibkriging
 [submodule "rminizinc"]
 	path = rminizinc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
