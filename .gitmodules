@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesReversePLLH
 	subdir = BayesReversePLLH
-[submodule "D2MCS"]
-	path = D2MCS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/D2MCS
-	subdir = D2MCS
 [submodule "DCSmooth"]
 	path = DCSmooth
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
