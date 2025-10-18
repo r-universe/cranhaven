@@ -32,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DCSmooth
 	subdir = DCSmooth
+[submodule "DescrTab2"]
+	path = DescrTab2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DescrTab2
+	subdir = DescrTab2
 [submodule "ElevDistr"]
 	path = ElevDistr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,6 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/meshed
 	subdir = meshed
+[submodule "metacoder"]
+	path = metacoder
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/metacoder
+	subdir = metacoder
 [submodule "mnreadR"]
 	path = mnreadR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -392,6 +402,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/telefit
 	subdir = telefit
+[submodule "tidystats"]
+	path = tidystats
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tidystats
+	subdir = tidystats
 [submodule "treenomial"]
 	path = treenomial
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
