@@ -127,6 +127,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/alpaca
 	subdir = alpaca
+[submodule "baker"]
+	path = baker
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/baker
+	subdir = baker
 [submodule "bardr"]
 	path = bardr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,6 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lodr
 	subdir = lodr
+[submodule "matrixCorr"]
+	path = matrixCorr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/matrixCorr
+	subdir = matrixCorr
 [submodule "meshed"]
 	path = meshed
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
