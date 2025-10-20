@@ -162,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cesR
 	subdir = cesR
+[submodule "ciccr"]
+	path = ciccr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ciccr
+	subdir = ciccr
 [submodule "corrcoverage"]
 	path = corrcoverage
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flexFitR
 	subdir = flexFitR
+[submodule "forestdata"]
+	path = forestdata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/forestdata
+	subdir = forestdata
 [submodule "gfoRmulaICE"]
 	path = gfoRmulaICE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
