@@ -147,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bisque
 	subdir = bisque
-[submodule "brpop"]
-	path = brpop
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/brpop
-	subdir = brpop
 [submodule "camelsCL"]
 	path = camelsCL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
