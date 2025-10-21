@@ -142,6 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bife
 	subdir = bife
+[submodule "bimets"]
+	path = bimets
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bimets
+	subdir = bimets
 [submodule "bisque"]
 	path = bisque
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
