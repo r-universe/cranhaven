@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bimets
 	subdir = bimets
-[submodule "camelsCL"]
-	path = camelsCL
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/camelsCL
-	subdir = camelsCL
 [submodule "cesR"]
 	path = cesR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
