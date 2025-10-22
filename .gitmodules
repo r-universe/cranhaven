@@ -227,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mstrio
 	subdir = mstrio
-[submodule "netcmc"]
-	path = netcmc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/netcmc
-	subdir = netcmc
 [submodule "nopp"]
 	path = nopp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,16 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rminizinc
 	subdir = rminizinc
-[submodule "robustcov"]
-	path = robustcov
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/robustcov
-	subdir = robustcov
-[submodule "rocTree"]
-	path = rocTree
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rocTree
-	subdir = rocTree
 [submodule "rsetse"]
 	path = rsetse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,43 +272,18 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/schtools
 	subdir = schtools
-[submodule "seedreg"]
-	path = seedreg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/seedreg
-	subdir = seedreg
 [submodule "shinyreforms"]
 	path = shinyreforms
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shinyreforms
 	subdir = shinyreforms
-[submodule "sssc"]
-	path = sssc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sssc
-	subdir = sssc
 [submodule "tangles"]
 	path = tangles
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tangles
 	subdir = tangles
-[submodule "telefit"]
-	path = telefit
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/telefit
-	subdir = telefit
 [submodule "tidystats"]
 	path = tidystats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidystats
 	subdir = tidystats
-[submodule "treenomial"]
-	path = treenomial
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/treenomial
-	subdir = treenomial
-[submodule "vanquish"]
-	path = vanquish
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vanquish
-	subdir = vanquish
