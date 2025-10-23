@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ProgModule
 	subdir = ProgModule
+[submodule "RobLoxBioC"]
+	path = RobLoxBioC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RobLoxBioC
+	subdir = RobLoxBioC
 [submodule "SIPmg"]
 	path = SIPmg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dafishr
 	subdir = dafishr
+[submodule "devRate"]
+	path = devRate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/devRate
+	subdir = devRate
 [submodule "dsmSearch"]
 	path = dsmSearch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,11 +232,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mstrio
 	subdir = mstrio
+[submodule "multiDEGGs"]
+	path = multiDEGGs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/multiDEGGs
+	subdir = multiDEGGs
 [submodule "nopp"]
 	path = nopp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nopp
 	subdir = nopp
+[submodule "oncoPredict"]
+	path = oncoPredict
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/oncoPredict
+	subdir = oncoPredict
 [submodule "openaistream"]
 	path = openaistream
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
