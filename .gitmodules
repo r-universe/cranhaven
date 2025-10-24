@@ -32,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GWASinlps
 	subdir = GWASinlps
+[submodule "MARVEL"]
+	path = MARVEL
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MARVEL
+	subdir = MARVEL
 [submodule "MLVSBM"]
 	path = MLVSBM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SouthKoreAPIs
 	subdir = SouthKoreAPIs
+[submodule "UComp"]
+	path = UComp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/UComp
+	subdir = UComp
 [submodule "ahpsurvey"]
 	path = ahpsurvey
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +302,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shinyreforms
 	subdir = shinyreforms
+[submodule "skyscapeR"]
+	path = skyscapeR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/skyscapeR
+	subdir = skyscapeR
 [submodule "tangles"]
 	path = tangles
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
