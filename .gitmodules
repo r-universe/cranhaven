@@ -92,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/baker
 	subdir = baker
-[submodule "bardr"]
-	path = bardr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bardr
-	subdir = bardr
 [submodule "bimets"]
 	path = bimets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/devRate
 	subdir = devRate
-[submodule "dsmSearch"]
-	path = dsmSearch
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dsmSearch
-	subdir = dsmSearch
 [submodule "edgemodelr"]
 	path = edgemodelr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,11 +232,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mstrio
 	subdir = mstrio
-[submodule "multiDEGGs"]
-	path = multiDEGGs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/multiDEGGs
-	subdir = multiDEGGs
 [submodule "nopp"]
 	path = nopp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
