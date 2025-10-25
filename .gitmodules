@@ -192,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mnreadR
 	subdir = mnreadR
+[submodule "moranajp"]
+	path = moranajp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/moranajp
+	subdir = moranajp
 [submodule "mrgdp"]
 	path = mrgdp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
