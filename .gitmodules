@@ -227,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pathwayTMB
 	subdir = pathwayTMB
+[submodule "planningML"]
+	path = planningML
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/planningML
+	subdir = planningML
 [submodule "plothelper"]
 	path = plothelper
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
