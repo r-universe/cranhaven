@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DescrTab2
 	subdir = DescrTab2
-[submodule "ElevDistr"]
-	path = ElevDistr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ElevDistr
-	subdir = ElevDistr
 [submodule "ForecastTB"]
 	path = ForecastTB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,31 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glmtree
 	subdir = glmtree
-[submodule "greta"]
-	path = greta
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/greta
-	subdir = greta
-[submodule "greta.censored"]
-	path = greta.censored
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/greta.censored
-	subdir = greta.censored
-[submodule "greta.dynamics"]
-	path = greta.dynamics
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/greta.dynamics
-	subdir = greta.dynamics
-[submodule "greta.gam"]
-	path = greta.gam
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/greta.gam
-	subdir = greta.gam
-[submodule "greta.gp"]
-	path = greta.gp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/greta.gp
-	subdir = greta.gp
 [submodule "horseshoe"]
 	path = horseshoe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
