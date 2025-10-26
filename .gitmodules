@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PopPsiSeqR
 	subdir = PopPsiSeqR
-[submodule "ProgModule"]
-	path = ProgModule
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ProgModule
-	subdir = ProgModule
 [submodule "RobLoxBioC"]
 	path = RobLoxBioC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/openaistream
 	subdir = openaistream
-[submodule "pathwayTMB"]
-	path = pathwayTMB
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pathwayTMB
-	subdir = pathwayTMB
 [submodule "planningML"]
 	path = planningML
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
