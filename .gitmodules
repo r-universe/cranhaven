@@ -97,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ciccr
 	subdir = ciccr
+[submodule "codebook"]
+	path = codebook
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/codebook
+	subdir = codebook
 [submodule "cxreg"]
 	path = cxreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
