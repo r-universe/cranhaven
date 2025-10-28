@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dafishr
 	subdir = dafishr
-[submodule "devRate"]
-	path = devRate
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/devRate
-	subdir = devRate
 [submodule "edgemodelr"]
 	path = edgemodelr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
