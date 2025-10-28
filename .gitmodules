@@ -32,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MARVEL
 	subdir = MARVEL
-[submodule "MLVSBM"]
-	path = MLVSBM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MLVSBM
-	subdir = MLVSBM
 [submodule "PopPsiSeqR"]
 	path = PopPsiSeqR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -52,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SIPmg
 	subdir = SIPmg
-[submodule "SeqExpMatch"]
-	path = SeqExpMatch
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SeqExpMatch
-	subdir = SeqExpMatch
 [submodule "SouthKoreAPIs"]
 	path = SouthKoreAPIs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/expowo
 	subdir = expowo
-[submodule "factset.protobuf.stachextensions"]
-	path = factset.protobuf.stachextensions
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/factset.protobuf.stachextensions
-	subdir = factset.protobuf.stachextensions
 [submodule "fgdr"]
 	path = fgdr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/horseshoe
 	subdir = horseshoe
-[submodule "influxdbclient"]
-	path = influxdbclient
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/influxdbclient
-	subdir = influxdbclient
 [submodule "jstor"]
 	path = jstor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mrgdp
 	subdir = mrgdp
-[submodule "mstrio"]
-	path = mstrio
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mstrio
-	subdir = mstrio
 [submodule "nopp"]
 	path = nopp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oncoPredict
 	subdir = oncoPredict
-[submodule "openaistream"]
-	path = openaistream
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/openaistream
-	subdir = openaistream
 [submodule "planningML"]
 	path = planningML
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,21 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/repo.data
 	subdir = repo.data
-[submodule "rminizinc"]
-	path = rminizinc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rminizinc
-	subdir = rminizinc
 [submodule "rsetse"]
 	path = rsetse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsetse
 	subdir = rsetse
-[submodule "shinyreforms"]
-	path = shinyreforms
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shinyreforms
-	subdir = shinyreforms
 [submodule "skyscapeR"]
 	path = skyscapeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
