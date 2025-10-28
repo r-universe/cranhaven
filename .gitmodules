@@ -252,11 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsetse
 	subdir = rsetse
-[submodule "schtools"]
-	path = schtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/schtools
-	subdir = schtools
 [submodule "shinyreforms"]
 	path = shinyreforms
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
