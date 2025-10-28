@@ -12,6 +12,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Asiaverse
 	subdir = Asiaverse
+[submodule "DLSSM"]
+	path = DLSSM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DLSSM
+	subdir = DLSSM
 [submodule "DescrTab2"]
 	path = DescrTab2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsetse
 	subdir = rsetse
+[submodule "sivirep"]
+	path = sivirep
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sivirep
+	subdir = sivirep
 [submodule "skyscapeR"]
 	path = skyscapeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
