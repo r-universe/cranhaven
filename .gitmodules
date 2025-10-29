@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ForecastTB
 	subdir = ForecastTB
-[submodule "GWASinlps"]
-	path = GWASinlps
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GWASinlps
-	subdir = GWASinlps
 [submodule "MARVEL"]
 	path = MARVEL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
