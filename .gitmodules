@@ -147,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/jstor
 	subdir = jstor
-[submodule "lazyWeave"]
-	path = lazyWeave
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lazyWeave
-	subdir = lazyWeave
 [submodule "matrixCorr"]
 	path = matrixCorr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
