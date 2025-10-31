@@ -97,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dafishr
 	subdir = dafishr
-[submodule "dispersionIndicators"]
-	path = dispersionIndicators
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dispersionIndicators
-	subdir = dispersionIndicators
 [submodule "edgemodelr"]
 	path = edgemodelr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
