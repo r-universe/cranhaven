@@ -22,11 +22,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DescrTab2
 	subdir = DescrTab2
+[submodule "FAMT"]
+	path = FAMT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FAMT
+	subdir = FAMT
 [submodule "ForecastTB"]
 	path = ForecastTB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ForecastTB
 	subdir = ForecastTB
+[submodule "ImHD"]
+	path = ImHD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ImHD
+	subdir = ImHD
 [submodule "MARVEL"]
 	path = MARVEL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -37,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PopPsiSeqR
 	subdir = PopPsiSeqR
+[submodule "RTIGER"]
+	path = RTIGER
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RTIGER
+	subdir = RTIGER
 [submodule "RobLoxBioC"]
 	path = RobLoxBioC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SIPmg
 	subdir = SIPmg
+[submodule "SortedEffects"]
+	path = SortedEffects
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SortedEffects
+	subdir = SortedEffects
 [submodule "SouthKoreAPIs"]
 	path = SouthKoreAPIs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,6 +87,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/baker
 	subdir = baker
+[submodule "bayesassurance"]
+	path = bayesassurance
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bayesassurance
+	subdir = bayesassurance
+[submodule "catregs"]
+	path = catregs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/catregs
+	subdir = catregs
 [submodule "cesR"]
 	path = cesR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ciccr
 	subdir = ciccr
+[submodule "clockSim"]
+	path = clockSim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clockSim
+	subdir = clockSim
 [submodule "codebook"]
 	path = codebook
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forestdata
 	subdir = forestdata
+[submodule "geneSLOPE"]
+	path = geneSLOPE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/geneSLOPE
+	subdir = geneSLOPE
 [submodule "glmtree"]
 	path = glmtree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,6 +167,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/horseshoe
 	subdir = horseshoe
+[submodule "hypsoLoop"]
+	path = hypsoLoop
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hypsoLoop
+	subdir = hypsoLoop
+[submodule "knitrdata"]
+	path = knitrdata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/knitrdata
+	subdir = knitrdata
 [submodule "matrixCorr"]
 	path = matrixCorr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,6 +252,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/skyscapeR
 	subdir = skyscapeR
+[submodule "summclust"]
+	path = summclust
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/summclust
+	subdir = summclust
 [submodule "tangles"]
 	path = tangles
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
