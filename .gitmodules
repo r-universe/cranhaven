@@ -62,11 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ahpsurvey
 	subdir = ahpsurvey
-[submodule "aidar"]
-	path = aidar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/aidar
-	subdir = aidar
 [submodule "baker"]
 	path = baker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/expowo
 	subdir = expowo
-[submodule "fgdr"]
-	path = fgdr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fgdr
-	subdir = fgdr
 [submodule "figuRes2"]
 	path = figuRes2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/horseshoe
 	subdir = horseshoe
-[submodule "jstor"]
-	path = jstor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/jstor
-	subdir = jstor
 [submodule "matrixCorr"]
 	path = matrixCorr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/repo.data
 	subdir = repo.data
+[submodule "rlibkriging"]
+	path = rlibkriging
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rlibkriging
+	subdir = rlibkriging
 [submodule "rsetse"]
 	path = rsetse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
