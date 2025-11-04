@@ -92,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesassurance
 	subdir = bayesassurance
+[submodule "cancensus"]
+	path = cancensus
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cancensus
+	subdir = cancensus
 [submodule "catregs"]
 	path = catregs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/codebook
 	subdir = codebook
+[submodule "cvdprevent"]
+	path = cvdprevent
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cvdprevent
+	subdir = cvdprevent
 [submodule "cxreg"]
 	path = cxreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,16 +147,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/expowo
 	subdir = expowo
+[submodule "fastTopics"]
+	path = fastTopics
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fastTopics
+	subdir = fastTopics
 [submodule "figuRes2"]
 	path = figuRes2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/figuRes2
 	subdir = figuRes2
-[submodule "flexFitR"]
-	path = flexFitR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/flexFitR
-	subdir = flexFitR
 [submodule "forestdata"]
 	path = forestdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,6 +252,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsetse
 	subdir = rsetse
+[submodule "sidra"]
+	path = sidra
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sidra
+	subdir = sidra
 [submodule "sivirep"]
 	path = sivirep
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
