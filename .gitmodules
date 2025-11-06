@@ -67,6 +67,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesassurance
 	subdir = bayesassurance
+[submodule "bndesr"]
+	path = bndesr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bndesr
+	subdir = bndesr
 [submodule "catregs"]
 	path = catregs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/codebook
 	subdir = codebook
-[submodule "dafishr"]
-	path = dafishr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dafishr
-	subdir = dafishr
 [submodule "expowo"]
 	path = expowo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,3 +217,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidystats
 	subdir = tidystats
+[submodule "tind"]
+	path = tind
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tind
+	subdir = tind
