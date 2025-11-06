@@ -72,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bndesr
 	subdir = bndesr
-[submodule "catregs"]
-	path = catregs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/catregs
-	subdir = catregs
 [submodule "cesR"]
 	path = cesR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/plothelper
 	subdir = plothelper
+[submodule "psycModel"]
+	path = psycModel
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/psycModel
+	subdir = psycModel
 [submodule "quicR"]
 	path = quicR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
