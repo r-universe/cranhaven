@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FAMT
 	subdir = FAMT
-[submodule "ForecastTB"]
-	path = ForecastTB
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ForecastTB
-	subdir = ForecastTB
 [submodule "ImHD"]
 	path = ImHD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -37,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MARVEL
 	subdir = MARVEL
-[submodule "PopPsiSeqR"]
-	path = PopPsiSeqR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PopPsiSeqR
-	subdir = PopPsiSeqR
 [submodule "RTIGER"]
 	path = RTIGER
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/UComp
 	subdir = UComp
-[submodule "ahpsurvey"]
-	path = ahpsurvey
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ahpsurvey
-	subdir = ahpsurvey
 [submodule "baker"]
 	path = baker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -82,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesassurance
 	subdir = bayesassurance
-[submodule "cancensus"]
-	path = cancensus
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cancensus
-	subdir = cancensus
 [submodule "catregs"]
 	path = catregs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/codebook
 	subdir = codebook
-[submodule "cvdprevent"]
-	path = cvdprevent
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cvdprevent
-	subdir = cvdprevent
 [submodule "dafishr"]
 	path = dafishr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
