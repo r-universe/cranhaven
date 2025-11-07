@@ -77,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ciccr
 	subdir = ciccr
+[submodule "clifford"]
+	path = clifford
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clifford
+	subdir = clifford
 [submodule "clockSim"]
 	path = clockSim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,6 +197,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/skyscapeR
 	subdir = skyscapeR
+[submodule "solaR2"]
+	path = solaR2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/solaR2
+	subdir = solaR2
 [submodule "summclust"]
 	path = summclust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,3 +222,13 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tind
 	subdir = tind
+[submodule "ucsfindustrydocs"]
+	path = ucsfindustrydocs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ucsfindustrydocs
+	subdir = ucsfindustrydocs
+[submodule "worldbank"]
+	path = worldbank
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/worldbank
+	subdir = worldbank
