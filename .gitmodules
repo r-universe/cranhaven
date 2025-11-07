@@ -72,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bndesr
 	subdir = bndesr
-[submodule "cesR"]
-	path = cesR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cesR
-	subdir = cesR
 [submodule "ciccr"]
 	path = ciccr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geneSLOPE
 	subdir = geneSLOPE
-[submodule "glmtree"]
-	path = glmtree
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/glmtree
-	subdir = glmtree
 [submodule "horseshoe"]
 	path = horseshoe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
