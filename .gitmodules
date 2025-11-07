@@ -217,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidystats
 	subdir = tidystats
-[submodule "tind"]
-	path = tind
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tind
-	subdir = tind
 [submodule "ucsfindustrydocs"]
 	path = ucsfindustrydocs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
