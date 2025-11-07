@@ -157,21 +157,46 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/arena2r
 	subdir = arena2r
+[submodule "autoplotly"]
+	path = autoplotly
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/autoplotly
+	subdir = autoplotly
 [submodule "baker"]
 	path = baker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/baker
 	subdir = baker
+[submodule "bayesAB"]
+	path = bayesAB
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bayesAB
+	subdir = bayesAB
 [submodule "bayesassurance"]
 	path = bayesassurance
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesassurance
 	subdir = bayesassurance
+[submodule "bcfrailphdv"]
+	path = bcfrailphdv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bcfrailphdv
+	subdir = bcfrailphdv
+[submodule "benchr"]
+	path = benchr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/benchr
+	subdir = benchr
 [submodule "bndesr"]
 	path = bndesr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bndesr
 	subdir = bndesr
+[submodule "checkpoint"]
+	path = checkpoint
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/checkpoint
+	subdir = checkpoint
 [submodule "ciccr"]
 	path = ciccr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,16 +207,56 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clifford
 	subdir = clifford
+[submodule "clifro"]
+	path = clifro
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clifro
+	subdir = clifro
 [submodule "clockSim"]
 	path = clockSim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clockSim
 	subdir = clockSim
+[submodule "cmcR"]
+	path = cmcR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cmcR
+	subdir = cmcR
 [submodule "codebook"]
 	path = codebook
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/codebook
 	subdir = codebook
+[submodule "coreCollection"]
+	path = coreCollection
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/coreCollection
+	subdir = coreCollection
+[submodule "dams"]
+	path = dams
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dams
+	subdir = dams
+[submodule "ddpcr"]
+	path = ddpcr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ddpcr
+	subdir = ddpcr
+[submodule "duke"]
+	path = duke
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/duke
+	subdir = duke
+[submodule "dyn.log"]
+	path = dyn.log
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dyn.log
+	subdir = dyn.log
+[submodule "dynamic"]
+	path = dynamic
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dynamic
+	subdir = dynamic
 [submodule "expowo"]
 	path = expowo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,11 +267,41 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastTopics
 	subdir = fastTopics
+[submodule "fitode"]
+	path = fitode
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fitode
+	subdir = fitode
+[submodule "forestPSD"]
+	path = forestPSD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/forestPSD
+	subdir = forestPSD
 [submodule "forestdata"]
 	path = forestdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forestdata
 	subdir = forestdata
+[submodule "freqdom.fda"]
+	path = freqdom.fda
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/freqdom.fda
+	subdir = freqdom.fda
+[submodule "funLBM"]
+	path = funLBM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/funLBM
+	subdir = funLBM
+[submodule "gamboostMSM"]
+	path = gamboostMSM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gamboostMSM
+	subdir = gamboostMSM
+[submodule "geneHapR"]
+	path = geneHapR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/geneHapR
+	subdir = geneHapR
 [submodule "geneSLOPE"]
 	path = geneSLOPE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
