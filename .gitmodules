@@ -7,6 +7,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AnalysisLin
 	subdir = AnalysisLin
+[submodule "BANOVA"]
+	path = BANOVA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BANOVA
+	subdir = BANOVA
+[submodule "CGPfunctions"]
+	path = CGPfunctions
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CGPfunctions
+	subdir = CGPfunctions
+[submodule "CopSens"]
+	path = CopSens
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CopSens
+	subdir = CopSens
 [submodule "DLSSM"]
 	path = DLSSM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -17,11 +32,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DescrTab2
 	subdir = DescrTab2
+[submodule "DiSCos"]
+	path = DiSCos
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DiSCos
+	subdir = DiSCos
 [submodule "FAMT"]
 	path = FAMT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FAMT
 	subdir = FAMT
+[submodule "GHap"]
+	path = GHap
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GHap
+	subdir = GHap
 [submodule "ImHD"]
 	path = ImHD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -32,31 +57,106 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MARVEL
 	subdir = MARVEL
+[submodule "MCMC.qpcr"]
+	path = MCMC.qpcr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MCMC.qpcr
+	subdir = MCMC.qpcr
+[submodule "MiMIR"]
+	path = MiMIR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MiMIR
+	subdir = MiMIR
 [submodule "RTIGER"]
 	path = RTIGER
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RTIGER
 	subdir = RTIGER
+[submodule "RVA"]
+	path = RVA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RVA
+	subdir = RVA
+[submodule "RamanMP"]
+	path = RamanMP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RamanMP
+	subdir = RamanMP
+[submodule "RapidoPGS"]
+	path = RapidoPGS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RapidoPGS
+	subdir = RapidoPGS
+[submodule "RcmdrPlugin.cpd"]
+	path = RcmdrPlugin.cpd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RcmdrPlugin.cpd
+	subdir = RcmdrPlugin.cpd
 [submodule "RobLoxBioC"]
 	path = RobLoxBioC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RobLoxBioC
 	subdir = RobLoxBioC
+[submodule "Rwtss"]
+	path = Rwtss
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rwtss
+	subdir = Rwtss
 [submodule "SIPmg"]
 	path = SIPmg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SIPmg
 	subdir = SIPmg
+[submodule "SPARSEMODr"]
+	path = SPARSEMODr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SPARSEMODr
+	subdir = SPARSEMODr
 [submodule "SortedEffects"]
 	path = SortedEffects
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SortedEffects
 	subdir = SortedEffects
+[submodule "SpatialfdaR"]
+	path = SpatialfdaR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SpatialfdaR
+	subdir = SpatialfdaR
 [submodule "UComp"]
 	path = UComp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/UComp
 	subdir = UComp
+[submodule "UpSetVP"]
+	path = UpSetVP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/UpSetVP
+	subdir = UpSetVP
+[submodule "abcrf"]
+	path = abcrf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/abcrf
+	subdir = abcrf
+[submodule "adklakedata"]
+	path = adklakedata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/adklakedata
+	subdir = adklakedata
+[submodule "ahw"]
+	path = ahw
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ahw
+	subdir = ahw
+[submodule "andurinha"]
+	path = andurinha
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/andurinha
+	subdir = andurinha
+[submodule "arena2r"]
+	path = arena2r
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/arena2r
+	subdir = arena2r
 [submodule "baker"]
 	path = baker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
