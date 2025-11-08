@@ -442,21 +442,56 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/plantTracker
 	subdir = plantTracker
+[submodule "plotDK"]
+	path = plotDK
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/plotDK
+	subdir = plotDK
 [submodule "plothelper"]
 	path = plothelper
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/plothelper
 	subdir = plothelper
+[submodule "pollster"]
+	path = pollster
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pollster
+	subdir = pollster
+[submodule "precintcon"]
+	path = precintcon
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/precintcon
+	subdir = precintcon
+[submodule "profiplots"]
+	path = profiplots
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/profiplots
+	subdir = profiplots
 [submodule "psycModel"]
 	path = psycModel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/psycModel
 	subdir = psycModel
+[submodule "qacBase"]
+	path = qacBase
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qacBase
+	subdir = qacBase
+[submodule "qqboxplot"]
+	path = qqboxplot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qqboxplot
+	subdir = qqboxplot
 [submodule "quicR"]
 	path = quicR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/quicR
 	subdir = quicR
+[submodule "quickReg"]
+	path = quickReg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/quickReg
+	subdir = quickReg
 [submodule "rlibkriging"]
 	path = rlibkriging
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,6 +502,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsetse
 	subdir = rsetse
+[submodule "seAMLess"]
+	path = seAMLess
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/seAMLess
+	subdir = seAMLess
+[submodule "shinydlplot"]
+	path = shinydlplot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/shinydlplot
+	subdir = shinydlplot
 [submodule "sidra"]
 	path = sidra
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -487,16 +532,46 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/solaR2
 	subdir = solaR2
+[submodule "spacejamr"]
+	path = spacejamr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spacejamr
+	subdir = spacejamr
+[submodule "spcr"]
+	path = spcr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spcr
+	subdir = spcr
+[submodule "stacomiR"]
+	path = stacomiR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/stacomiR
+	subdir = stacomiR
 [submodule "summclust"]
 	path = summclust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/summclust
 	subdir = summclust
+[submodule "superMICE"]
+	path = superMICE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/superMICE
+	subdir = superMICE
 [submodule "tangles"]
 	path = tangles
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tangles
 	subdir = tangles
+[submodule "thaipdf"]
+	path = thaipdf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/thaipdf
+	subdir = thaipdf
+[submodule "tidyEdSurvey"]
+	path = tidyEdSurvey
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tidyEdSurvey
+	subdir = tidyEdSurvey
 [submodule "tidystats"]
 	path = tidystats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -507,11 +582,36 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tind
 	subdir = tind
+[submodule "tradeoffaucdim"]
+	path = tradeoffaucdim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tradeoffaucdim
+	subdir = tradeoffaucdim
+[submodule "triplot"]
+	path = triplot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/triplot
+	subdir = triplot
 [submodule "ucsfindustrydocs"]
 	path = ucsfindustrydocs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ucsfindustrydocs
 	subdir = ucsfindustrydocs
+[submodule "vprr"]
+	path = vprr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vprr
+	subdir = vprr
+[submodule "vvshiny"]
+	path = vvshiny
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vvshiny
+	subdir = vvshiny
+[submodule "windfarmGA"]
+	path = windfarmGA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/windfarmGA
+	subdir = windfarmGA
 [submodule "worldbank"]
 	path = worldbank
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
