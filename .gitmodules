@@ -57,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MARVEL
 	subdir = MARVEL
-[submodule "MCMC.qpcr"]
-	path = MCMC.qpcr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MCMC.qpcr
-	subdir = MCMC.qpcr
 [submodule "MiMIR"]
 	path = MiMIR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,11 +232,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dams
 	subdir = dams
-[submodule "ddpcr"]
-	path = ddpcr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ddpcr
-	subdir = ddpcr
 [submodule "duke"]
 	path = duke
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -542,11 +532,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spacejamr
 	subdir = spacejamr
-[submodule "spcr"]
-	path = spcr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spcr
-	subdir = spcr
 [submodule "stacomiR"]
 	path = stacomiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
