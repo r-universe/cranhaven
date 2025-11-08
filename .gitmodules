@@ -262,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/expowo
 	subdir = expowo
+[submodule "extraSuperpower"]
+	path = extraSuperpower
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/extraSuperpower
+	subdir = extraSuperpower
 [submodule "fastTopics"]
 	path = fastTopics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
