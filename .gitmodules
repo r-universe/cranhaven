@@ -307,6 +307,46 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geneSLOPE
 	subdir = geneSLOPE
+[submodule "ggdark"]
+	path = ggdark
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ggdark
+	subdir = ggdark
+[submodule "gggenomes"]
+	path = gggenomes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gggenomes
+	subdir = gggenomes
+[submodule "ggparallel"]
+	path = ggparallel
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ggparallel
+	subdir = ggparallel
+[submodule "ggpie"]
+	path = ggpie
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ggpie
+	subdir = ggpie
+[submodule "ggstream"]
+	path = ggstream
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ggstream
+	subdir = ggstream
+[submodule "gppm"]
+	path = gppm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gppm
+	subdir = gppm
+[submodule "graphPAF"]
+	path = graphPAF
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/graphPAF
+	subdir = graphPAF
+[submodule "hglasso"]
+	path = hglasso
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hglasso
+	subdir = hglasso
 [submodule "horseshoe"]
 	path = horseshoe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,11 +357,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hypsoLoop
 	subdir = hypsoLoop
+[submodule "imola"]
+	path = imola
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/imola
+	subdir = imola
 [submodule "knitrdata"]
 	path = knitrdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/knitrdata
 	subdir = knitrdata
+[submodule "lcc"]
+	path = lcc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lcc
+	subdir = lcc
+[submodule "listdown"]
+	path = listdown
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/listdown
+	subdir = listdown
 [submodule "matrixCorr"]
 	path = matrixCorr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,26 +387,61 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/metacoder
 	subdir = metacoder
+[submodule "miRetrieve"]
+	path = miRetrieve
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/miRetrieve
+	subdir = miRetrieve
+[submodule "mmcif"]
+	path = mmcif
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mmcif
+	subdir = mmcif
 [submodule "moranajp"]
 	path = moranajp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/moranajp
 	subdir = moranajp
+[submodule "mshap"]
+	path = mshap
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mshap
+	subdir = mshap
 [submodule "nopp"]
 	path = nopp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nopp
 	subdir = nopp
+[submodule "nzelect"]
+	path = nzelect
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nzelect
+	subdir = nzelect
+[submodule "o2plsda"]
+	path = o2plsda
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/o2plsda
+	subdir = o2plsda
 [submodule "oncoPredict"]
 	path = oncoPredict
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oncoPredict
 	subdir = oncoPredict
+[submodule "pcr"]
+	path = pcr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pcr
+	subdir = pcr
 [submodule "planningML"]
 	path = planningML
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/planningML
 	subdir = planningML
+[submodule "plantTracker"]
+	path = plantTracker
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/plantTracker
+	subdir = plantTracker
 [submodule "plothelper"]
 	path = plothelper
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
