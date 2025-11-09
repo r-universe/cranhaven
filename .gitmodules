@@ -37,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DiSCos
 	subdir = DiSCos
+[submodule "EEMDlstm"]
+	path = EEMDlstm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EEMDlstm
+	subdir = EEMDlstm
 [submodule "FAMT"]
 	path = FAMT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,6 +52,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GHap
 	subdir = GHap
+[submodule "GeneSelectR"]
+	path = GeneSelectR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GeneSelectR
+	subdir = GeneSelectR
 [submodule "ImHD"]
 	path = ImHD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/extraSuperpower
 	subdir = extraSuperpower
+[submodule "fDMA"]
+	path = fDMA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fDMA
+	subdir = fDMA
 [submodule "fastTopics"]
 	path = fastTopics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
