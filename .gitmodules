@@ -562,11 +562,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/superMICE
 	subdir = superMICE
-[submodule "tangles"]
-	path = tangles
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tangles
-	subdir = tangles
 [submodule "thaipdf"]
 	path = thaipdf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
