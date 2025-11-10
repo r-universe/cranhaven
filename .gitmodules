@@ -182,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesassurance
 	subdir = bayesassurance
+[submodule "bcfrailph"]
+	path = bcfrailph
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bcfrailph
+	subdir = bcfrailph
 [submodule "bcfrailphdv"]
 	path = bcfrailphdv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,6 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gggenomes
 	subdir = gggenomes
+[submodule "ggmosaic"]
+	path = ggmosaic
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ggmosaic
+	subdir = ggmosaic
 [submodule "ggparallel"]
 	path = ggparallel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,6 +427,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nzelect
 	subdir = nzelect
+[submodule "nzilbb.vowels"]
+	path = nzilbb.vowels
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nzilbb.vowels
+	subdir = nzilbb.vowels
 [submodule "o2plsda"]
 	path = o2plsda
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,6 +442,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oncoPredict
 	subdir = oncoPredict
+[submodule "parquetize"]
+	path = parquetize
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/parquetize
+	subdir = parquetize
 [submodule "pcr"]
 	path = pcr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -587,6 +607,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/triplot
 	subdir = triplot
+[submodule "tvmediation"]
+	path = tvmediation
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tvmediation
+	subdir = tvmediation
 [submodule "ucsfindustrydocs"]
 	path = ucsfindustrydocs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
