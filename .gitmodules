@@ -412,11 +412,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mshap
 	subdir = mshap
-[submodule "nopp"]
-	path = nopp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nopp
-	subdir = nopp
 [submodule "nzelect"]
 	path = nzelect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
