@@ -477,6 +477,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/profiplots
 	subdir = profiplots
+[submodule "promor"]
+	path = promor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/promor
+	subdir = promor
 [submodule "psycModel"]
 	path = psycModel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
