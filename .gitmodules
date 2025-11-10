@@ -207,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ciccr
 	subdir = ciccr
-[submodule "clifford"]
-	path = clifford
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clifford
-	subdir = clifford
 [submodule "clifro"]
 	path = clifro
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
