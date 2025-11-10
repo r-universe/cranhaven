@@ -612,8 +612,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/windfarmGA
 	subdir = windfarmGA
-[submodule "worldbank"]
-	path = worldbank
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/worldbank
-	subdir = worldbank
