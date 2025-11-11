@@ -277,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastTopics
 	subdir = fastTopics
+[submodule "fdicdata"]
+	path = fdicdata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fdicdata
+	subdir = fdicdata
 [submodule "fitode"]
 	path = fitode
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,6 +457,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pcr
 	subdir = pcr
+[submodule "peruflorads43"]
+	path = peruflorads43
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/peruflorads43
+	subdir = peruflorads43
 [submodule "planningML"]
 	path = planningML
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
