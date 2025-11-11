@@ -457,6 +457,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/parquetize
 	subdir = parquetize
+[submodule "pcIRT"]
+	path = pcIRT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pcIRT
+	subdir = pcIRT
 [submodule "pcr"]
 	path = pcr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
