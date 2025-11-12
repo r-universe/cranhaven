@@ -402,6 +402,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/listdown
 	subdir = listdown
+[submodule "lolliplot"]
+	path = lolliplot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lolliplot
+	subdir = lolliplot
 [submodule "matrixCorr"]
 	path = matrixCorr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
