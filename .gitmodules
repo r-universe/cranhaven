@@ -267,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/expowo
 	subdir = expowo
-[submodule "extraSuperpower"]
-	path = extraSuperpower
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/extraSuperpower
-	subdir = extraSuperpower
 [submodule "fDMA"]
 	path = fDMA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
