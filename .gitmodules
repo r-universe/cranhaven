@@ -17,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CGPfunctions
 	subdir = CGPfunctions
+[submodule "CatPredi"]
+	path = CatPredi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CatPredi
+	subdir = CatPredi
 [submodule "CopSens"]
 	path = CopSens
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
