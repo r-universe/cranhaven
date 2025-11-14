@@ -112,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rwtss
 	subdir = Rwtss
-[submodule "SIPmg"]
-	path = SIPmg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SIPmg
-	subdir = SIPmg
 [submodule "SPARSEMODr"]
 	path = SPARSEMODr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
