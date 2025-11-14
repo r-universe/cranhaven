@@ -237,6 +237,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/coreCollection
 	subdir = coreCollection
+[submodule "crosstalkr"]
+	path = crosstalkr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/crosstalkr
+	subdir = crosstalkr
 [submodule "dams"]
 	path = dams
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
