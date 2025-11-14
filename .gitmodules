@@ -327,11 +327,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggdark
 	subdir = ggdark
-[submodule "gggenomes"]
-	path = gggenomes
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gggenomes
-	subdir = gggenomes
 [submodule "ggmosaic"]
 	path = ggmosaic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
