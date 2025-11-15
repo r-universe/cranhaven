@@ -267,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/expowo
 	subdir = expowo
-[submodule "fDMA"]
-	path = fDMA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fDMA
-	subdir = fDMA
 [submodule "fastTopics"]
 	path = fastTopics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,11 +392,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lolliplot
 	subdir = lolliplot
-[submodule "matrixCorr"]
-	path = matrixCorr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/matrixCorr
-	subdir = matrixCorr
 [submodule "metacoder"]
 	path = metacoder
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
