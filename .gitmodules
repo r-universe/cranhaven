@@ -22,6 +22,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CatPredi
 	subdir = CatPredi
+[submodule "CohortAlgebra"]
+	path = CohortAlgebra
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CohortAlgebra
+	subdir = CohortAlgebra
+[submodule "CohortExplorer"]
+	path = CohortExplorer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CohortExplorer
+	subdir = CohortExplorer
+[submodule "CohortPathways"]
+	path = CohortPathways
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CohortPathways
+	subdir = CohortPathways
 [submodule "CopSens"]
 	path = CopSens
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -632,3 +647,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/windfarmGA
 	subdir = windfarmGA
+[submodule "xtune"]
+	path = xtune
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/xtune
+	subdir = xtune
