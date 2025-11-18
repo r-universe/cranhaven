@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SpatialfdaR
 	subdir = SpatialfdaR
-[submodule "UComp"]
-	path = UComp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/UComp
-	subdir = UComp
 [submodule "UpSetVP"]
 	path = UpSetVP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
