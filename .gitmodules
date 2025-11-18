@@ -532,11 +532,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rlibkriging
 	subdir = rlibkriging
-[submodule "rsetse"]
-	path = rsetse
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rsetse
-	subdir = rsetse
 [submodule "seAMLess"]
 	path = seAMLess
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
