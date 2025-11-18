@@ -367,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/graphPAF
 	subdir = graphPAF
+[submodule "hdf5lib"]
+	path = hdf5lib
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hdf5lib
+	subdir = hdf5lib
 [submodule "hglasso"]
 	path = hglasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
