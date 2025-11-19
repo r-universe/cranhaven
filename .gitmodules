@@ -462,6 +462,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pcr
 	subdir = pcr
+[submodule "pdxTrees"]
+	path = pdxTrees
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pdxTrees
+	subdir = pdxTrees
 [submodule "peruflorads43"]
 	path = peruflorads43
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
