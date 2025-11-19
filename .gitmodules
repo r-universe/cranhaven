@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "AnalysisLin"]
-	path = AnalysisLin
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AnalysisLin
-	subdir = AnalysisLin
 [submodule "BANOVA"]
 	path = BANOVA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dynamic
 	subdir = dynamic
-[submodule "expowo"]
-	path = expowo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/expowo
-	subdir = expowo
 [submodule "fastTopics"]
 	path = fastTopics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -482,11 +472,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/plotDK
 	subdir = plotDK
-[submodule "plothelper"]
-	path = plothelper
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/plothelper
-	subdir = plothelper
 [submodule "pollster"]
 	path = pollster
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,11 +502,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qqboxplot
 	subdir = qqboxplot
-[submodule "quicR"]
-	path = quicR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/quicR
-	subdir = quicR
 [submodule "quickReg"]
 	path = quickReg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
