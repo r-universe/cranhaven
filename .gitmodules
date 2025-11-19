@@ -357,6 +357,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/graphPAF
 	subdir = graphPAF
+[submodule "hdf5lib"]
+	path = hdf5lib
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hdf5lib
+	subdir = hdf5lib
 [submodule "hglasso"]
 	path = hglasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,6 +377,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/imola
 	subdir = imola
+[submodule "junco"]
+	path = junco
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/junco
+	subdir = junco
 [submodule "knitrdata"]
 	path = knitrdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -507,6 +517,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/quickReg
 	subdir = quickReg
+[submodule "rbmi"]
+	path = rbmi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rbmi
+	subdir = rbmi
+[submodule "rbmiUtils"]
+	path = rbmiUtils
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rbmiUtils
+	subdir = rbmiUtils
 [submodule "rlibkriging"]
 	path = rlibkriging
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -562,6 +582,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/superMICE
 	subdir = superMICE
+[submodule "tern.rbmi"]
+	path = tern.rbmi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tern.rbmi
+	subdir = tern.rbmi
 [submodule "thaipdf"]
 	path = thaipdf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
