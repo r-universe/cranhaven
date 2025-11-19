@@ -42,6 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DLSSM
 	subdir = DLSSM
+[submodule "DYNATE"]
+	path = DYNATE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DYNATE
+	subdir = DYNATE
 [submodule "DescrTab2"]
 	path = DescrTab2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
