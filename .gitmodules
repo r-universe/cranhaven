@@ -87,6 +87,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MARVEL
 	subdir = MARVEL
+[submodule "MCDA"]
+	path = MCDA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MCDA
+	subdir = MCDA
 [submodule "MiMIR"]
 	path = MiMIR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dams
 	subdir = dams
+[submodule "danstat"]
+	path = danstat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/danstat
+	subdir = danstat
 [submodule "duke"]
 	path = duke
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
