@@ -122,6 +122,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RcmdrPlugin.cpd
 	subdir = RcmdrPlugin.cpd
+[submodule "ReliaGrowR"]
+	path = ReliaGrowR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ReliaGrowR
+	subdir = ReliaGrowR
+[submodule "ReliaPlotR"]
+	path = ReliaPlotR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ReliaPlotR
+	subdir = ReliaPlotR
 [submodule "RobLoxBioC"]
 	path = RobLoxBioC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,11 +157,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SpatialfdaR
 	subdir = SpatialfdaR
+[submodule "TidyConsultant"]
+	path = TidyConsultant
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TidyConsultant
+	subdir = TidyConsultant
 [submodule "UpSetVP"]
 	path = UpSetVP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/UpSetVP
 	subdir = UpSetVP
+[submodule "WeibullR.shiny"]
+	path = WeibullR.shiny
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/WeibullR.shiny
+	subdir = WeibullR.shiny
 [submodule "abcrf"]
 	path = abcrf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
