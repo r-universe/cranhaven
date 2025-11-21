@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RcmdrPlugin.cpd
 	subdir = RcmdrPlugin.cpd
-[submodule "ReliaGrowR"]
-	path = ReliaGrowR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ReliaGrowR
-	subdir = ReliaGrowR
 [submodule "ReliaPlotR"]
 	path = ReliaPlotR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
