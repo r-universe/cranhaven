@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "AssetCorr"]
+	path = AssetCorr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AssetCorr
+	subdir = AssetCorr
 [submodule "BANOVA"]
 	path = BANOVA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/arena2r
 	subdir = arena2r
+[submodule "autoMFA"]
+	path = autoMFA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/autoMFA
+	subdir = autoMFA
 [submodule "autoplotly"]
 	path = autoplotly
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
