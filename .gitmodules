@@ -47,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DYNATE
 	subdir = DYNATE
-[submodule "DescrTab2"]
-	path = DescrTab2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DescrTab2
-	subdir = DescrTab2
 [submodule "DiSCos"]
 	path = DiSCos
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,11 +422,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lolliplot
 	subdir = lolliplot
-[submodule "metacoder"]
-	path = metacoder
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/metacoder
-	subdir = metacoder
 [submodule "miRetrieve"]
 	path = miRetrieve
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -627,11 +617,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidyEdSurvey
 	subdir = tidyEdSurvey
-[submodule "tidystats"]
-	path = tidystats
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tidystats
-	subdir = tidystats
 [submodule "tind"]
 	path = tind
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
