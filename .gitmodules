@@ -152,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SpatialfdaR
 	subdir = SpatialfdaR
+[submodule "TSdeeplearning"]
+	path = TSdeeplearning
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TSdeeplearning
+	subdir = TSdeeplearning
 [submodule "TidyConsultant"]
 	path = TidyConsultant
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -282,6 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/danstat
 	subdir = danstat
+[submodule "decompDL"]
+	path = decompDL
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/decompDL
+	subdir = decompDL
 [submodule "duke"]
 	path = duke
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
