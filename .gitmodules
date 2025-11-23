@@ -202,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autoplotly
 	subdir = autoplotly
-[submodule "baker"]
-	path = baker
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/baker
-	subdir = baker
 [submodule "bayesAB"]
 	path = bayesAB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
