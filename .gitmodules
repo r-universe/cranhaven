@@ -12,6 +12,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BANOVA
 	subdir = BANOVA
+[submodule "BRBVS"]
+	path = BRBVS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BRBVS
+	subdir = BRBVS
 [submodule "CGPfunctions"]
 	path = CGPfunctions
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
