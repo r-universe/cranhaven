@@ -487,11 +487,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pdxTrees
 	subdir = pdxTrees
-[submodule "peruflorads43"]
-	path = peruflorads43
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/peruflorads43
-	subdir = peruflorads43
 [submodule "planningML"]
 	path = planningML
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -582,6 +577,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/skyscapeR
 	subdir = skyscapeR
+[submodule "sodaR"]
+	path = sodaR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sodaR
+	subdir = sodaR
 [submodule "solaR2"]
 	path = solaR2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -592,6 +592,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spacejamr
 	subdir = spacejamr
+[submodule "sspm"]
+	path = sspm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sspm
+	subdir = sspm
 [submodule "stacomiR"]
 	path = stacomiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
