@@ -247,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/checkpoint
 	subdir = checkpoint
-[submodule "ciccr"]
-	path = ciccr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ciccr
-	subdir = ciccr
 [submodule "clifro"]
 	path = clifro
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,11 +327,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forestPSD
 	subdir = forestPSD
-[submodule "forestdata"]
-	path = forestdata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/forestdata
-	subdir = forestdata
 [submodule "freqdom.fda"]
 	path = freqdom.fda
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
