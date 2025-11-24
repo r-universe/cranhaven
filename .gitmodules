@@ -412,6 +412,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/junco
 	subdir = junco
+[submodule "klassR"]
+	path = klassR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/klassR
+	subdir = klassR
 [submodule "knitrdata"]
 	path = knitrdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
