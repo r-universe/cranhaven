@@ -317,6 +317,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fdicdata
 	subdir = fdicdata
+[submodule "filibustr"]
+	path = filibustr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/filibustr
+	subdir = filibustr
 [submodule "fitode"]
 	path = fitode
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
