@@ -137,6 +137,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ReliaPlotR
 	subdir = ReliaPlotR
+[submodule "ReliaShiny"]
+	path = ReliaShiny
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ReliaShiny
+	subdir = ReliaShiny
 [submodule "RobLoxBioC"]
 	path = RobLoxBioC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +182,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/UpSetVP
 	subdir = UpSetVP
+[submodule "WeibullR.learnr"]
+	path = WeibullR.learnr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/WeibullR.learnr
+	subdir = WeibullR.learnr
+[submodule "WeibullR.plotly"]
+	path = WeibullR.plotly
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/WeibullR.plotly
+	subdir = WeibullR.plotly
 [submodule "WeibullR.shiny"]
 	path = WeibullR.shiny
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
