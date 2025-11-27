@@ -117,6 +117,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MDEI
 	subdir = MDEI
+[submodule "MHD"]
+	path = MHD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MHD
+	subdir = MHD
 [submodule "MiMIR"]
 	path = MiMIR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,6 +407,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/filibustr
 	subdir = filibustr
+[submodule "fipp"]
+	path = fipp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fipp
+	subdir = fipp
 [submodule "fitode"]
 	path = fitode
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -532,6 +542,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mangoro
 	subdir = mangoro
+[submodule "manifold"]
+	path = manifold
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/manifold
+	subdir = manifold
 [submodule "meetupapi"]
 	path = meetupapi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -542,6 +557,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/meteorits
 	subdir = meteorits
+[submodule "mgss"]
+	path = mgss
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mgss
+	subdir = mgss
 [submodule "miRetrieve"]
 	path = miRetrieve
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -557,6 +577,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/moranajp
 	subdir = moranajp
+[submodule "msce"]
+	path = msce
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/msce
+	subdir = msce
 [submodule "mshap"]
 	path = mshap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -687,6 +712,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/runMCMCbtadjust
 	subdir = runMCMCbtadjust
+[submodule "sbo"]
+	path = sbo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sbo
+	subdir = sbo
 [submodule "seAMLess"]
 	path = seAMLess
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
