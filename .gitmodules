@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ReliaShiny
 	subdir = ReliaShiny
-[submodule "RobLoxBioC"]
-	path = RobLoxBioC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RobLoxBioC
-	subdir = RobLoxBioC
 [submodule "Rwtss"]
 	path = Rwtss
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -497,11 +492,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/o2plsda
 	subdir = o2plsda
-[submodule "oncoPredict"]
-	path = oncoPredict
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/oncoPredict
-	subdir = oncoPredict
 [submodule "parquetize"]
 	path = parquetize
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
