@@ -682,6 +682,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rlibkriging
 	subdir = rlibkriging
+[submodule "runMCMCbtadjust"]
+	path = runMCMCbtadjust
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/runMCMCbtadjust
+	subdir = runMCMCbtadjust
 [submodule "seAMLess"]
 	path = seAMLess
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
