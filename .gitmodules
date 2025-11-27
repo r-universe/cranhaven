@@ -282,6 +282,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/codebook
 	subdir = codebook
+[submodule "cookiemonster"]
+	path = cookiemonster
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cookiemonster
+	subdir = cookiemonster
 [submodule "coreCollection"]
 	path = coreCollection
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -667,6 +672,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tradeoffaucdim
 	subdir = tradeoffaucdim
+[submodule "traktok"]
+	path = traktok
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/traktok
+	subdir = traktok
 [submodule "triplot"]
 	path = triplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
