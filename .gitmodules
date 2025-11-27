@@ -712,6 +712,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/runMCMCbtadjust
 	subdir = runMCMCbtadjust
+[submodule "sasfunclust"]
+	path = sasfunclust
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sasfunclust
+	subdir = sasfunclust
 [submodule "sbo"]
 	path = sbo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
