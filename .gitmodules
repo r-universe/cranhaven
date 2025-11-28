@@ -62,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DYNATE
 	subdir = DYNATE
+[submodule "DiSCos"]
+	path = DiSCos
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DiSCos
+	subdir = DiSCos
 [submodule "EEMDlstm"]
 	path = EEMDlstm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FORTLS
 	subdir = FORTLS
-[submodule "GHap"]
-	path = GHap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GHap
-	subdir = GHap
 [submodule "GeneSelectR"]
 	path = GeneSelectR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,11 +157,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RXshrink
 	subdir = RXshrink
-[submodule "RapidoPGS"]
-	path = RapidoPGS
+[submodule "RcmdrPlugin.cpd"]
+	path = RcmdrPlugin.cpd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RapidoPGS
-	subdir = RapidoPGS
+	branch = package/RcmdrPlugin.cpd
+	subdir = RcmdrPlugin.cpd
 [submodule "ReliaPlotR"]
 	path = ReliaPlotR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SBCK
 	subdir = SBCK
-[submodule "SPARSEMODr"]
-	path = SPARSEMODr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SPARSEMODr
-	subdir = SPARSEMODr
 [submodule "SWMPrExtension"]
 	path = SWMPrExtension
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -797,6 +792,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shinydlplot
 	subdir = shinydlplot
+[submodule "shipunov"]
+	path = shipunov
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/shipunov
+	subdir = shipunov
 [submodule "signatureSurvival"]
 	path = signatureSurvival
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
