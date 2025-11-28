@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AssetCorr
 	subdir = AssetCorr
-[submodule "BANOVA"]
-	path = BANOVA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BANOVA
-	subdir = BANOVA
 [submodule "BRBVS"]
 	path = BRBVS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -37,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CAMML
 	subdir = CAMML
-[submodule "CGPfunctions"]
-	path = CGPfunctions
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CGPfunctions
-	subdir = CGPfunctions
 [submodule "CatPredi"]
 	path = CatPredi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -62,11 +52,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CohortPathways
 	subdir = CohortPathways
-[submodule "CopSens"]
-	path = CopSens
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CopSens
-	subdir = CopSens
 [submodule "DMQ"]
 	path = DMQ
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,11 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DYNATE
 	subdir = DYNATE
-[submodule "DiSCos"]
-	path = DiSCos
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DiSCos
-	subdir = DiSCos
 [submodule "EEMDlstm"]
 	path = EEMDlstm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,11 +162,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RapidoPGS
 	subdir = RapidoPGS
-[submodule "RcmdrPlugin.cpd"]
-	path = RcmdrPlugin.cpd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RcmdrPlugin.cpd
-	subdir = RcmdrPlugin.cpd
 [submodule "ReliaPlotR"]
 	path = ReliaPlotR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TidyConsultant
 	subdir = TidyConsultant
-[submodule "UpSetVP"]
-	path = UpSetVP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/UpSetVP
-	subdir = UpSetVP
 [submodule "WeibullR.learnr"]
 	path = WeibullR.learnr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,16 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/XRJulia
 	subdir = XRJulia
-[submodule "abcrf"]
-	path = abcrf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/abcrf
-	subdir = abcrf
-[submodule "ahw"]
-	path = ahw
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ahw
-	subdir = ahw
 [submodule "alphaci"]
 	path = alphaci
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -777,6 +737,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rSpectral
 	subdir = rSpectral
+[submodule "rWCVP"]
+	path = rWCVP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rWCVP
+	subdir = rWCVP
 [submodule "rbmi"]
 	path = rbmi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -792,6 +757,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/registr
 	subdir = registr
+[submodule "rlc"]
+	path = rlc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rlc
+	subdir = rlc
+[submodule "rosetta"]
+	path = rosetta
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rosetta
+	subdir = rosetta
+[submodule "rtsplot"]
+	path = rtsplot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rtsplot
+	subdir = rtsplot
 [submodule "runMCMCbtadjust"]
 	path = runMCMCbtadjust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -817,6 +797,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shinydlplot
 	subdir = shinydlplot
+[submodule "signatureSurvival"]
+	path = signatureSurvival
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/signatureSurvival
+	subdir = signatureSurvival
 [submodule "skm"]
 	path = skm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -827,11 +812,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sodaR
 	subdir = sodaR
+[submodule "somspace"]
+	path = somspace
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/somspace
+	subdir = somspace
 [submodule "spacejamr"]
 	path = spacejamr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spacejamr
 	subdir = spacejamr
+[submodule "squat"]
+	path = squat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/squat
+	subdir = squat
 [submodule "sspm"]
 	path = sspm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -852,6 +847,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/superMICE
 	subdir = superMICE
+[submodule "superml"]
+	path = superml
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/superml
+	subdir = superml
 [submodule "tern.rbmi"]
 	path = tern.rbmi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -887,6 +887,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tvmediation
 	subdir = tvmediation
+[submodule "vdg"]
+	path = vdg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vdg
+	subdir = vdg
 [submodule "vprr"]
 	path = vprr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
