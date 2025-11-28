@@ -102,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ImHD
 	subdir = ImHD
-[submodule "MARVEL"]
-	path = MARVEL
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MARVEL
-	subdir = MARVEL
 [submodule "MCDA"]
 	path = MCDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -737,11 +732,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sivirep
 	subdir = sivirep
-[submodule "skyscapeR"]
-	path = skyscapeR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/skyscapeR
-	subdir = skyscapeR
 [submodule "sodaR"]
 	path = sodaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
