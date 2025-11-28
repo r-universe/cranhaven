@@ -72,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EEMDlstm
 	subdir = EEMDlstm
+[submodule "EstMix"]
+	path = EstMix
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EstMix
+	subdir = EstMix
 [submodule "FAMT"]
 	path = FAMT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MHD
 	subdir = MHD
+[submodule "MMVBVS"]
+	path = MMVBVS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MMVBVS
+	subdir = MMVBVS
 [submodule "MiMIR"]
 	path = MiMIR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -587,6 +597,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/netcontrol
 	subdir = netcontrol
+[submodule "netdiffuseR"]
+	path = netdiffuseR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/netdiffuseR
+	subdir = netdiffuseR
 [submodule "nzelect"]
 	path = nzelect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -732,6 +747,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sivirep
 	subdir = sivirep
+[submodule "skm"]
+	path = skm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/skm
+	subdir = skm
 [submodule "sodaR"]
 	path = sodaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
