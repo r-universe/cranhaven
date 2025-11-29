@@ -62,11 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DYNATE
 	subdir = DYNATE
-[submodule "DiSCos"]
-	path = DiSCos
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DiSCos
-	subdir = DiSCos
 [submodule "EEMDlstm"]
 	path = EEMDlstm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GeneSelectR
 	subdir = GeneSelectR
+[submodule "GitAI"]
+	path = GitAI
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GitAI
+	subdir = GitAI
 [submodule "KODAMA"]
 	path = KODAMA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RXshrink
 	subdir = RXshrink
-[submodule "RcmdrPlugin.cpd"]
-	path = RcmdrPlugin.cpd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RcmdrPlugin.cpd
-	subdir = RcmdrPlugin.cpd
 [submodule "ReliaPlotR"]
 	path = ReliaPlotR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SBCK
 	subdir = SBCK
+[submodule "SPARSEMODr"]
+	path = SPARSEMODr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SPARSEMODr
+	subdir = SPARSEMODr
 [submodule "SWMPrExtension"]
 	path = SWMPrExtension
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SpatialML
 	subdir = SpatialML
-[submodule "SpatialfdaR"]
-	path = SpatialfdaR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SpatialfdaR
-	subdir = SpatialfdaR
 [submodule "TSdeeplearning"]
 	path = TSdeeplearning
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/XRJulia
 	subdir = XRJulia
+[submodule "abcrf"]
+	path = abcrf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/abcrf
+	subdir = abcrf
 [submodule "alphaci"]
 	path = alphaci
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
