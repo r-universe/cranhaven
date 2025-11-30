@@ -287,11 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cmcR
 	subdir = cmcR
-[submodule "cookiemonster"]
-	path = cookiemonster
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cookiemonster
-	subdir = cookiemonster
 [submodule "coreCollection"]
 	path = coreCollection
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
