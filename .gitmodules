@@ -172,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SBCK
 	subdir = SBCK
-[submodule "SPARSEMODr"]
-	path = SPARSEMODr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SPARSEMODr
-	subdir = SPARSEMODr
 [submodule "SWMPrExtension"]
 	path = SWMPrExtension
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SpatialML
 	subdir = SpatialML
+[submodule "SpatialfdaR"]
+	path = SpatialfdaR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SpatialfdaR
+	subdir = SpatialfdaR
 [submodule "TSdeeplearning"]
 	path = TSdeeplearning
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/XRJulia
 	subdir = XRJulia
-[submodule "abcrf"]
-	path = abcrf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/abcrf
-	subdir = abcrf
 [submodule "alphaci"]
 	path = alphaci
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -477,6 +472,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggstream
 	subdir = ggstream
+[submodule "gkwreg"]
+	path = gkwreg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gkwreg
+	subdir = gkwreg
 [submodule "gppm"]
 	path = gppm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
