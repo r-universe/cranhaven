@@ -237,11 +237,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autoplotly
 	subdir = autoplotly
-[submodule "bayesAB"]
-	path = bayesAB
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bayesAB
-	subdir = bayesAB
 [submodule "bayeslm"]
 	path = bayeslm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bcfrailph
 	subdir = bcfrailph
-[submodule "bcfrailphdv"]
-	path = bcfrailphdv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bcfrailphdv
-	subdir = bcfrailphdv
 [submodule "benchr"]
 	path = benchr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,16 +257,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/checkpoint
 	subdir = checkpoint
+[submodule "clifro"]
+	path = clifro
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clifro
+	subdir = clifro
 [submodule "clrng"]
 	path = clrng
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clrng
 	subdir = clrng
-[submodule "cmcR"]
-	path = cmcR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cmcR
-	subdir = cmcR
 [submodule "coreCollection"]
 	path = coreCollection
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
