@@ -557,11 +557,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mangoro
 	subdir = mangoro
-[submodule "manifold"]
-	path = manifold
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/manifold
-	subdir = manifold
 [submodule "meetupapi"]
 	path = meetupapi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
