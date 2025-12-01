@@ -222,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/alphaci
 	subdir = alphaci
+[submodule "ast2ast"]
+	path = ast2ast
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ast2ast
+	subdir = ast2ast
 [submodule "autoMFA"]
 	path = autoMFA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/depigner
 	subdir = depigner
+[submodule "dfdr"]
+	path = dfdr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dfdr
+	subdir = dfdr
 [submodule "distreg.vis"]
 	path = distreg.vis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
