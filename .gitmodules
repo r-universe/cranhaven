@@ -97,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GitAI
 	subdir = GitAI
+[submodule "ISEtools"]
+	path = ISEtools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ISEtools
+	subdir = ISEtools
 [submodule "KODAMA"]
 	path = KODAMA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SpatialML
 	subdir = SpatialML
-[submodule "SpatialfdaR"]
-	path = SpatialfdaR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SpatialfdaR
-	subdir = SpatialfdaR
 [submodule "TSdeeplearning"]
 	path = TSdeeplearning
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/checkpoint
 	subdir = checkpoint
-[submodule "clifro"]
-	path = clifro
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clifro
-	subdir = clifro
 [submodule "clrng"]
 	path = clrng
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/egcm
 	subdir = egcm
+[submodule "emend"]
+	path = emend
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/emend
+	subdir = emend
 [submodule "epiCleanr"]
 	path = epiCleanr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
