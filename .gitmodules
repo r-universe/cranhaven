@@ -637,11 +637,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nzilbb.vowels
 	subdir = nzilbb.vowels
-[submodule "o2plsda"]
-	path = o2plsda
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/o2plsda
-	subdir = o2plsda
 [submodule "ordPens"]
 	path = ordPens
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
