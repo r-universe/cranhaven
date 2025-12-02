@@ -262,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bcfrailph
 	subdir = bcfrailph
+[submodule "bigchess"]
+	path = bigchess
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bigchess
+	subdir = bigchess
 [submodule "clrng"]
 	path = clrng
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
