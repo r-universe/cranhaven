@@ -172,6 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RXshrink
 	subdir = RXshrink
+[submodule "ReliaGrowR"]
+	path = ReliaGrowR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ReliaGrowR
+	subdir = ReliaGrowR
 [submodule "ReliaPlotR"]
 	path = ReliaPlotR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,11 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autoRasch
 	subdir = autoRasch
-[submodule "bayesAB"]
-	path = bayesAB
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bayesAB
-	subdir = bayesAB
 [submodule "bayeslm"]
 	path = bayeslm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/duke
 	subdir = duke
-[submodule "dyn.log"]
-	path = dyn.log
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dyn.log
-	subdir = dyn.log
 [submodule "dynamic"]
 	path = dynamic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -612,6 +607,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/netdiffuseR
 	subdir = netdiffuseR
+[submodule "nser"]
+	path = nser
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nser
+	subdir = nser
 [submodule "nzelect"]
 	path = nzelect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
