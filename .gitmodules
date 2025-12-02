@@ -262,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bcfrailph
 	subdir = bcfrailph
-[submodule "benchr"]
-	path = benchr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/benchr
-	subdir = benchr
 [submodule "clrng"]
 	path = clrng
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
