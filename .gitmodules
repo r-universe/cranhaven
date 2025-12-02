@@ -62,11 +62,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DYNATE
 	subdir = DYNATE
+[submodule "EEAaq"]
+	path = EEAaq
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EEAaq
+	subdir = EEAaq
 [submodule "EEMDlstm"]
 	path = EEMDlstm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EEMDlstm
 	subdir = EEMDlstm
+[submodule "EntropyMCMC"]
+	path = EntropyMCMC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EntropyMCMC
+	subdir = EntropyMCMC
 [submodule "EstMix"]
 	path = EstMix
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,11 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autoRasch
 	subdir = autoRasch
-[submodule "autoplotly"]
-	path = autoplotly
+[submodule "bayesAB"]
+	path = bayesAB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/autoplotly
-	subdir = autoplotly
+	branch = package/bayesAB
+	subdir = bayesAB
 [submodule "bayeslm"]
 	path = bayeslm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,26 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/benchr
 	subdir = benchr
-[submodule "checkpoint"]
-	path = checkpoint
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/checkpoint
-	subdir = checkpoint
-[submodule "clifro"]
-	path = clifro
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clifro
-	subdir = clifro
 [submodule "clrng"]
 	path = clrng
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clrng
 	subdir = clrng
-[submodule "coreCollection"]
-	path = coreCollection
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/coreCollection
-	subdir = coreCollection
 [submodule "covdepGE"]
 	path = covdepGE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,11 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/crosstalkr
 	subdir = crosstalkr
-[submodule "dams"]
-	path = dams
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dams
-	subdir = dams
 [submodule "danstat"]
 	path = danstat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -732,11 +722,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rbmiUtils
 	subdir = rbmiUtils
+[submodule "rcdf"]
+	path = rcdf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rcdf
+	subdir = rcdf
 [submodule "registr"]
 	path = registr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/registr
 	subdir = registr
+[submodule "riemstats"]
+	path = riemstats
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/riemstats
+	subdir = riemstats
 [submodule "rlc"]
 	path = rlc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
