@@ -277,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/covdepGE
 	subdir = covdepGE
+[submodule "covid19swiss"]
+	path = covid19swiss
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/covid19swiss
+	subdir = covid19swiss
 [submodule "crosstalkr"]
 	path = crosstalkr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dsld
 	subdir = dsld
-[submodule "duke"]
-	path = duke
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/duke
-	subdir = duke
 [submodule "dynamic"]
 	path = dynamic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fmf
 	subdir = fmf
-[submodule "forestPSD"]
-	path = forestPSD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/forestPSD
-	subdir = forestPSD
 [submodule "freqdom.fda"]
 	path = freqdom.fda
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,21 +407,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/funLBM
 	subdir = funLBM
-[submodule "gamboostMSM"]
-	path = gamboostMSM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gamboostMSM
-	subdir = gamboostMSM
 [submodule "gamlss.ggplots"]
 	path = gamlss.ggplots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gamlss.ggplots
 	subdir = gamlss.ggplots
-[submodule "geneHapR"]
-	path = geneHapR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/geneHapR
-	subdir = geneHapR
 [submodule "gfcanalysis"]
 	path = gfcanalysis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -457,6 +442,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggstream
 	subdir = ggstream
+[submodule "gimap"]
+	path = gimap
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gimap
+	subdir = gimap
 [submodule "gkwreg"]
 	path = gkwreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -497,6 +487,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ips
 	subdir = ips
+[submodule "istat"]
+	path = istat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/istat
+	subdir = istat
 [submodule "junco"]
 	path = junco
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -592,6 +587,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mshap
 	subdir = mshap
+[submodule "nJira"]
+	path = nJira
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nJira
+	subdir = nJira
 [submodule "netcontrol"]
 	path = netcontrol
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -817,6 +817,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stacomiR
 	subdir = stacomiR
+[submodule "statcanR"]
+	path = statcanR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/statcanR
+	subdir = statcanR
 [submodule "superMICE"]
 	path = superMICE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
