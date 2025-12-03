@@ -367,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fipp
 	subdir = fipp
+[submodule "fitode"]
+	path = fitode
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fitode
+	subdir = fitode
 [submodule "fixedpointproperty"]
 	path = fixedpointproperty
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,21 +387,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fmf
 	subdir = fmf
-[submodule "freqdom.fda"]
-	path = freqdom.fda
+[submodule "forestPSD"]
+	path = forestPSD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/freqdom.fda
-	subdir = freqdom.fda
+	branch = package/forestPSD
+	subdir = forestPSD
+[submodule "fwsim"]
+	path = fwsim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fwsim
+	subdir = fwsim
 [submodule "gamlss.ggplots"]
 	path = gamlss.ggplots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gamlss.ggplots
 	subdir = gamlss.ggplots
-[submodule "geneHapR"]
-	path = geneHapR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/geneHapR
-	subdir = geneHapR
 [submodule "gfcanalysis"]
 	path = gfcanalysis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
