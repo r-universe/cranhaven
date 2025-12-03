@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AICcPermanova
 	subdir = AICcPermanova
+[submodule "ARpLMEC"]
+	path = ARpLMEC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ARpLMEC
+	subdir = ARpLMEC
 [submodule "AnimalHabitatNetwork"]
 	path = AnimalHabitatNetwork
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,11 +372,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fipp
 	subdir = fipp
-[submodule "fitode"]
-	path = fitode
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fitode
-	subdir = fitode
 [submodule "fixedpointproperty"]
 	path = fixedpointproperty
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
