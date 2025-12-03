@@ -167,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PStrata
 	subdir = PStrata
+[submodule "RKHSMetaMod"]
+	path = RKHSMetaMod
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RKHSMetaMod
+	subdir = RKHSMetaMod
 [submodule "RXshrink"]
 	path = RXshrink
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,11 +322,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dsld
 	subdir = dsld
-[submodule "dynamic"]
-	path = dynamic
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dynamic
-	subdir = dynamic
 [submodule "eHOF"]
 	path = eHOF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -377,11 +377,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fipp
 	subdir = fipp
-[submodule "fitode"]
-	path = fitode
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fitode
-	subdir = fitode
 [submodule "fixedpointproperty"]
 	path = fixedpointproperty
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,16 +397,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/freqdom.fda
 	subdir = freqdom.fda
-[submodule "funLBM"]
-	path = funLBM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/funLBM
-	subdir = funLBM
 [submodule "gamlss.ggplots"]
 	path = gamlss.ggplots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gamlss.ggplots
 	subdir = gamlss.ggplots
+[submodule "geneHapR"]
+	path = geneHapR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/geneHapR
+	subdir = geneHapR
 [submodule "gfcanalysis"]
 	path = gfcanalysis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -737,6 +732,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rlc
 	subdir = rlc
+[submodule "romic"]
+	path = romic
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/romic
+	subdir = romic
 [submodule "rosetta"]
 	path = rosetta
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
