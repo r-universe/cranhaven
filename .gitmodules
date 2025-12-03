@@ -102,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GeneSelectR
 	subdir = GeneSelectR
-[submodule "GitAI"]
-	path = GitAI
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GitAI
-	subdir = GitAI
 [submodule "ISEtools"]
 	path = ISEtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MDEI
 	subdir = MDEI
-[submodule "MHD"]
-	path = MHD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MHD
-	subdir = MHD
 [submodule "MMVBVS"]
 	path = MMVBVS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -712,11 +702,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rbmiUtils
 	subdir = rbmiUtils
-[submodule "rcdf"]
-	path = rcdf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rcdf
-	subdir = rcdf
 [submodule "registr"]
 	path = registr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -807,11 +792,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/squat
 	subdir = squat
-[submodule "sspm"]
-	path = sspm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sspm
-	subdir = sspm
 [submodule "stacomiR"]
 	path = stacomiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
