@@ -597,11 +597,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nzelect
 	subdir = nzelect
-[submodule "nzilbb.vowels"]
-	path = nzilbb.vowels
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nzilbb.vowels
-	subdir = nzilbb.vowels
 [submodule "oncrawlR"]
 	path = oncrawlR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
