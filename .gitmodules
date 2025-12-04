@@ -517,11 +517,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ips
 	subdir = ips
-[submodule "istat"]
-	path = istat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/istat
-	subdir = istat
 [submodule "itsadug"]
 	path = itsadug
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -632,6 +627,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/netdiffuseR
 	subdir = netdiffuseR
+[submodule "nse"]
+	path = nse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nse
+	subdir = nse
 [submodule "nser"]
 	path = nser
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -697,16 +697,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/profiplots
 	subdir = profiplots
-[submodule "qacBase"]
-	path = qacBase
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qacBase
-	subdir = qacBase
-[submodule "qqboxplot"]
-	path = qqboxplot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qqboxplot
-	subdir = qqboxplot
 [submodule "rSpectral"]
 	path = rSpectral
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -772,6 +762,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sbo
 	subdir = sbo
+[submodule "scUtils"]
+	path = scUtils
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/scUtils
+	subdir = scUtils
+[submodule "scipub"]
+	path = scipub
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/scipub
+	subdir = scipub
 [submodule "seAMLess"]
 	path = seAMLess
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -827,11 +827,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/statcanR
 	subdir = statcanR
-[submodule "superMICE"]
-	path = superMICE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/superMICE
-	subdir = superMICE
 [submodule "superml"]
 	path = superml
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -842,16 +837,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tern.rbmi
 	subdir = tern.rbmi
-[submodule "thaipdf"]
-	path = thaipdf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/thaipdf
-	subdir = thaipdf
-[submodule "tradeoffaucdim"]
-	path = tradeoffaucdim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tradeoffaucdim
-	subdir = tradeoffaucdim
 [submodule "traktok"]
 	path = traktok
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -867,6 +852,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tvmediation
 	subdir = tvmediation
+[submodule "vDiveR"]
+	path = vDiveR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vDiveR
+	subdir = vDiveR
 [submodule "vdg"]
 	path = vdg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -887,6 +877,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/windfarmGA
 	subdir = windfarmGA
+[submodule "wiqid"]
+	path = wiqid
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/wiqid
+	subdir = wiqid
 [submodule "xtune"]
 	path = xtune
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
