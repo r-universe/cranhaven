@@ -827,11 +827,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/thaipdf
 	subdir = thaipdf
-[submodule "tidyEdSurvey"]
-	path = tidyEdSurvey
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tidyEdSurvey
-	subdir = tidyEdSurvey
 [submodule "tradeoffaucdim"]
 	path = tradeoffaucdim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
