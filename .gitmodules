@@ -412,11 +412,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fdicdata
 	subdir = fdicdata
-[submodule "filibustr"]
-	path = filibustr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/filibustr
-	subdir = filibustr
 [submodule "fipp"]
 	path = fipp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
