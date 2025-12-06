@@ -62,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CohortPathways
 	subdir = CohortPathways
+[submodule "CureAuxSP"]
+	path = CureAuxSP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CureAuxSP
+	subdir = CureAuxSP
 [submodule "DMQ"]
 	path = DMQ
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -687,16 +692,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/povmap
 	subdir = povmap
-[submodule "precintcon"]
-	path = precintcon
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/precintcon
-	subdir = precintcon
-[submodule "profiplots"]
-	path = profiplots
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/profiplots
-	subdir = profiplots
 [submodule "qacBase"]
 	path = qacBase
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -787,6 +782,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scipub
 	subdir = scipub
+[submodule "seAMLess"]
+	path = seAMLess
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/seAMLess
+	subdir = seAMLess
 [submodule "shipunov"]
 	path = shipunov
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -812,6 +812,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/somspace
 	subdir = somspace
+[submodule "spacejamr"]
+	path = spacejamr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spacejamr
+	subdir = spacejamr
 [submodule "squat"]
 	path = squat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -822,11 +827,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/statcanR
 	subdir = statcanR
-[submodule "superMICE"]
-	path = superMICE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/superMICE
-	subdir = superMICE
 [submodule "superml"]
 	path = superml
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -847,11 +847,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/traktok
 	subdir = traktok
-[submodule "triplot"]
-	path = triplot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/triplot
-	subdir = triplot
 [submodule "tvmediation"]
 	path = tvmediation
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -867,6 +862,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vdg
 	subdir = vdg
+[submodule "vprr"]
+	path = vprr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vprr
+	subdir = vprr
 [submodule "vvshiny"]
 	path = vvshiny
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -882,6 +882,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wiqid
 	subdir = wiqid
+[submodule "worldbank"]
+	path = worldbank
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/worldbank
+	subdir = worldbank
 [submodule "xtune"]
 	path = xtune
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
