@@ -842,11 +842,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/thaipdf
 	subdir = thaipdf
-[submodule "traktok"]
-	path = traktok
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/traktok
-	subdir = traktok
 [submodule "tvmediation"]
 	path = tvmediation
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -882,11 +877,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wiqid
 	subdir = wiqid
-[submodule "worldbank"]
-	path = worldbank
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/worldbank
-	subdir = worldbank
 [submodule "xtune"]
 	path = xtune
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
