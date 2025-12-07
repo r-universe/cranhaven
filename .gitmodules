@@ -707,11 +707,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/quickReg
 	subdir = quickReg
-[submodule "rSpectral"]
-	path = rSpectral
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rSpectral
-	subdir = rSpectral
 [submodule "rWCVP"]
 	path = rWCVP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
