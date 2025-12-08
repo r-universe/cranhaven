@@ -582,6 +582,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mangoro
 	subdir = mangoro
+[submodule "mappoly"]
+	path = mappoly
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mappoly
+	subdir = mappoly
 [submodule "mcmcOutput"]
 	path = mcmcOutput
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -707,11 +712,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/povmap
 	subdir = povmap
-[submodule "precintcon"]
-	path = precintcon
+[submodule "qqboxplot"]
+	path = qqboxplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/precintcon
-	subdir = precintcon
+	branch = package/qqboxplot
+	subdir = qqboxplot
+[submodule "qtlpoly"]
+	path = qtlpoly
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qtlpoly
+	subdir = qtlpoly
 [submodule "quickReg"]
 	path = quickReg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -822,11 +832,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/squat
 	subdir = squat
-[submodule "stacomiR"]
-	path = stacomiR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/stacomiR
-	subdir = stacomiR
 [submodule "statcanR"]
 	path = statcanR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
