@@ -712,11 +712,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/povmap
 	subdir = povmap
-[submodule "qqboxplot"]
-	path = qqboxplot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qqboxplot
-	subdir = qqboxplot
 [submodule "qtlpoly"]
 	path = qtlpoly
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -747,6 +742,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/registr
 	subdir = registr
+[submodule "rhosp"]
+	path = rhosp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rhosp
+	subdir = rhosp
 [submodule "riemstats"]
 	path = riemstats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -797,11 +797,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scipub
 	subdir = scipub
-[submodule "shinydlplot"]
-	path = shinydlplot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shinydlplot
-	subdir = shinydlplot
 [submodule "shipunov"]
 	path = shipunov
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -867,6 +862,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vdg
 	subdir = vdg
+[submodule "vprr"]
+	path = vprr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vprr
+	subdir = vprr
 [submodule "vvshiny"]
 	path = vvshiny
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
