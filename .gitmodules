@@ -122,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/I14Y
 	subdir = I14Y
+[submodule "IOHanalyzer"]
+	path = IOHanalyzer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/IOHanalyzer
+	subdir = IOHanalyzer
 [submodule "ISEtools"]
 	path = ISEtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -277,6 +282,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/alphaci
 	subdir = alphaci
+[submodule "amerifluxr"]
+	path = amerifluxr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/amerifluxr
+	subdir = amerifluxr
 [submodule "ast2ast"]
 	path = ast2ast
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/crosstalkr
 	subdir = crosstalkr
+[submodule "d3po"]
+	path = d3po
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/d3po
+	subdir = d3po
 [submodule "danstat"]
 	path = danstat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,6 +467,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gapfill
 	subdir = gapfill
+[submodule "geosed"]
+	path = geosed
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/geosed
+	subdir = geosed
 [submodule "gfcanalysis"]
 	path = gfcanalysis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -667,6 +687,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pdxTrees
 	subdir = pdxTrees
+[submodule "phylospatial"]
+	path = phylospatial
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/phylospatial
+	subdir = phylospatial
 [submodule "pipenostics"]
 	path = pipenostics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -817,6 +842,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tern.rbmi
 	subdir = tern.rbmi
+[submodule "tgver"]
+	path = tgver
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tgver
+	subdir = tgver
 [submodule "tvmediation"]
 	path = tvmediation
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
