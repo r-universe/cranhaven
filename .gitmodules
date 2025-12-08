@@ -672,16 +672,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pipenostics
 	subdir = pipenostics
-[submodule "plotDK"]
-	path = plotDK
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/plotDK
-	subdir = plotDK
-[submodule "pollster"]
-	path = pollster
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pollster
-	subdir = pollster
 [submodule "poolABC"]
 	path = poolABC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -692,16 +682,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/povmap
 	subdir = povmap
-[submodule "qacBase"]
-	path = qacBase
+[submodule "precintcon"]
+	path = precintcon
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qacBase
-	subdir = qacBase
-[submodule "qqboxplot"]
-	path = qqboxplot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qqboxplot
-	subdir = qqboxplot
+	branch = package/precintcon
+	subdir = precintcon
 [submodule "quickReg"]
 	path = quickReg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -777,11 +762,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scipub
 	subdir = scipub
-[submodule "seAMLess"]
-	path = seAMLess
+[submodule "shinydlplot"]
+	path = shinydlplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/seAMLess
-	subdir = seAMLess
+	branch = package/shinydlplot
+	subdir = shinydlplot
 [submodule "shipunov"]
 	path = shipunov
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -807,16 +792,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/somspace
 	subdir = somspace
-[submodule "spacejamr"]
-	path = spacejamr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spacejamr
-	subdir = spacejamr
 [submodule "squat"]
 	path = squat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/squat
 	subdir = squat
+[submodule "stacomiR"]
+	path = stacomiR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/stacomiR
+	subdir = stacomiR
 [submodule "statcanR"]
 	path = statcanR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -832,11 +817,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tern.rbmi
 	subdir = tern.rbmi
-[submodule "thaipdf"]
-	path = thaipdf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/thaipdf
-	subdir = thaipdf
 [submodule "tvmediation"]
 	path = tvmediation
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -852,11 +832,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vdg
 	subdir = vdg
-[submodule "vprr"]
-	path = vprr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vprr
-	subdir = vprr
 [submodule "vvshiny"]
 	path = vvshiny
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
