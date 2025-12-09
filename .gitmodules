@@ -322,6 +322,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clrng
 	subdir = clrng
+[submodule "conflr"]
+	path = conflr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/conflr
+	subdir = conflr
 [submodule "covdepGE"]
 	path = covdepGE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,6 +372,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/distreg.vis
 	subdir = distreg.vis
+[submodule "doseminer"]
+	path = doseminer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/doseminer
+	subdir = doseminer
+[submodule "drugprepr"]
+	path = drugprepr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/drugprepr
+	subdir = drugprepr
 [submodule "dsld"]
 	path = dsld
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -757,6 +772,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rosetta
 	subdir = rosetta
+[submodule "rosetteApi"]
+	path = rosetteApi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rosetteApi
+	subdir = rosetteApi
 [submodule "rtsplot"]
 	path = rtsplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
