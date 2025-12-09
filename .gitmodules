@@ -82,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EEAaq
 	subdir = EEAaq
-[submodule "EEMDlstm"]
-	path = EEMDlstm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EEMDlstm
-	subdir = EEMDlstm
 [submodule "EntropyMCMC"]
 	path = EntropyMCMC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FORTLS
 	subdir = FORTLS
-[submodule "GeneSelectR"]
-	path = GeneSelectR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GeneSelectR
-	subdir = GeneSelectR
 [submodule "I14Y"]
 	path = I14Y
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RXshrink
 	subdir = RXshrink
-[submodule "ReliaGrowR"]
-	path = ReliaGrowR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ReliaGrowR
-	subdir = ReliaGrowR
 [submodule "ReliaPlotR"]
 	path = ReliaPlotR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -667,11 +652,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/netcontrol
 	subdir = netcontrol
-[submodule "netdiffuseR"]
-	path = netdiffuseR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/netdiffuseR
-	subdir = netdiffuseR
 [submodule "nse"]
 	path = nse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
