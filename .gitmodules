@@ -312,6 +312,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bcfrailph
 	subdir = bcfrailph
+[submodule "beanz"]
+	path = beanz
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/beanz
+	subdir = beanz
 [submodule "bigchess"]
 	path = bigchess
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -537,6 +542,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ips
 	subdir = ips
+[submodule "isotracer"]
+	path = isotracer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/isotracer
+	subdir = isotracer
 [submodule "itsadug"]
 	path = itsadug
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -547,6 +557,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/junco
 	subdir = junco
+[submodule "kDGLM"]
+	path = kDGLM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/kDGLM
+	subdir = kDGLM
 [submodule "klassR"]
 	path = klassR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -612,6 +627,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/meteorits
 	subdir = meteorits
+[submodule "metricminer"]
+	path = metricminer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/metricminer
+	subdir = metricminer
 [submodule "mgss"]
 	path = mgss
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -712,11 +732,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qtlpoly
 	subdir = qtlpoly
-[submodule "quickReg"]
-	path = quickReg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/quickReg
-	subdir = quickReg
 [submodule "rWCVP"]
 	path = rWCVP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -857,21 +872,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vdg
 	subdir = vdg
-[submodule "vprr"]
-	path = vprr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vprr
-	subdir = vprr
-[submodule "vvshiny"]
-	path = vvshiny
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vvshiny
-	subdir = vvshiny
-[submodule "windfarmGA"]
-	path = windfarmGA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/windfarmGA
-	subdir = windfarmGA
 [submodule "wiqid"]
 	path = wiqid
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
