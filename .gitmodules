@@ -212,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SWMPrExtension
 	subdir = SWMPrExtension
+[submodule "SpatialDDLS"]
+	path = SpatialDDLS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SpatialDDLS
+	subdir = SpatialDDLS
 [submodule "SpatialML"]
 	path = SpatialML
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayeslm
 	subdir = bayeslm
-[submodule "bcfrailph"]
-	path = bcfrailph
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bcfrailph
-	subdir = bcfrailph
 [submodule "beanz"]
 	path = beanz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,11 +347,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/danstat
 	subdir = danstat
-[submodule "dataone"]
-	path = dataone
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dataone
-	subdir = dataone
 [submodule "decompDL"]
 	path = decompDL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -522,6 +517,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gpuR
 	subdir = gpuR
+[submodule "grr"]
+	path = grr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/grr
+	subdir = grr
 [submodule "hdmed"]
 	path = hdmed
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -832,6 +832,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/somspace
 	subdir = somspace
+[submodule "specleanr"]
+	path = specleanr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/specleanr
+	subdir = specleanr
 [submodule "squat"]
 	path = squat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
