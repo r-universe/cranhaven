@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CAMML
 	subdir = CAMML
-[submodule "CatPredi"]
-	path = CatPredi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CatPredi
-	subdir = CatPredi
 [submodule "CohortAlgebra"]
 	path = CohortAlgebra
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/XRJulia
 	subdir = XRJulia
+[submodule "alarmdata"]
+	path = alarmdata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/alarmdata
+	subdir = alarmdata
 [submodule "alphaci"]
 	path = alphaci
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,11 +337,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/covid19swiss
 	subdir = covid19swiss
-[submodule "crosstalkr"]
-	path = crosstalkr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/crosstalkr
-	subdir = crosstalkr
 [submodule "danstat"]
 	path = danstat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -422,11 +417,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fdacluster
 	subdir = fdacluster
-[submodule "fdicdata"]
-	path = fdicdata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fdicdata
-	subdir = fdicdata
 [submodule "fipp"]
 	path = fipp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -462,6 +452,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gapfill
 	subdir = gapfill
+[submodule "geomander"]
+	path = geomander
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/geomander
+	subdir = geomander
 [submodule "geosed"]
 	path = geosed
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,11 +487,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggheatmap
 	subdir = ggheatmap
-[submodule "ggmosaic"]
-	path = ggmosaic
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ggmosaic
-	subdir = ggmosaic
 [submodule "ggpol"]
 	path = ggpol
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -582,11 +572,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/letsR
 	subdir = letsR
-[submodule "lolliplot"]
-	path = lolliplot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lolliplot
-	subdir = lolliplot
 [submodule "mangoro"]
 	path = mangoro
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -692,11 +677,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pbox
 	subdir = pbox
-[submodule "pcIRT"]
-	path = pcIRT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pcIRT
-	subdir = pcIRT
 [submodule "pdxTrees"]
 	path = pdxTrees
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -742,6 +722,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rbmiUtils
 	subdir = rbmiUtils
+[submodule "redistverse"]
+	path = redistverse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/redistverse
+	subdir = redistverse
 [submodule "registr"]
 	path = registr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -862,11 +847,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tgver
 	subdir = tgver
-[submodule "tvmediation"]
-	path = tvmediation
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tvmediation
-	subdir = tvmediation
 [submodule "vDiveR"]
 	path = vDiveR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
