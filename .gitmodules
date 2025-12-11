@@ -432,6 +432,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flexOR
 	subdir = flexOR
+[submodule "flowml"]
+	path = flowml
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/flowml
+	subdir = flowml
 [submodule "fmf"]
 	path = fmf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -632,6 +637,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/modelgrid
 	subdir = modelgrid
+[submodule "moreparty"]
+	path = moreparty
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/moreparty
+	subdir = moreparty
 [submodule "msce"]
 	path = msce
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -702,6 +712,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/povmap
 	subdir = povmap
+[submodule "prettyglm"]
+	path = prettyglm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/prettyglm
+	subdir = prettyglm
 [submodule "qtlpoly"]
 	path = qtlpoly
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -712,6 +727,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rWCVP
 	subdir = rWCVP
+[submodule "radiant"]
+	path = radiant
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/radiant
+	subdir = radiant
+[submodule "radiant.model"]
+	path = radiant.model
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/radiant.model
+	subdir = radiant.model
+[submodule "radiant.multivariate"]
+	path = radiant.multivariate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/radiant.multivariate
+	subdir = radiant.multivariate
 [submodule "rbmi"]
 	path = rbmi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -857,6 +887,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vdg
 	subdir = vdg
+[submodule "vip"]
+	path = vip
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vip
+	subdir = vip
 [submodule "wiqid"]
 	path = wiqid
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
