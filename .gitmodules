@@ -457,11 +457,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gapfill
 	subdir = gapfill
-[submodule "geomander"]
-	path = geomander
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/geomander
-	subdir = geomander
 [submodule "geosed"]
 	path = geosed
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
