@@ -612,11 +612,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/meteorits
 	subdir = meteorits
-[submodule "metricminer"]
-	path = metricminer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/metricminer
-	subdir = metricminer
 [submodule "mgss"]
 	path = mgss
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -882,11 +877,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vdg
 	subdir = vdg
-[submodule "vip"]
-	path = vip
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vip
-	subdir = vip
 [submodule "wiqid"]
 	path = wiqid
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
