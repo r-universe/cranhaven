@@ -262,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/XRJulia
 	subdir = XRJulia
-[submodule "alarmdata"]
-	path = alarmdata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/alarmdata
-	subdir = alarmdata
 [submodule "alphaci"]
 	path = alphaci
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -657,11 +652,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nse
 	subdir = nse
-[submodule "nser"]
-	path = nser
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nser
-	subdir = nser
 [submodule "oncrawlR"]
 	path = oncrawlR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
