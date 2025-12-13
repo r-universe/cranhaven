@@ -547,11 +547,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kDGLM
 	subdir = kDGLM
-[submodule "klassR"]
-	path = klassR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/klassR
-	subdir = klassR
 [submodule "lazy"]
 	path = lazy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
