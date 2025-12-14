@@ -392,11 +392,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ergmito
 	subdir = ergmito
-[submodule "fairness"]
-	path = fairness
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fairness
-	subdir = fairness
 [submodule "fdacluster"]
 	path = fdacluster
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
