@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/KODAMA
 	subdir = KODAMA
-[submodule "MCDA"]
-	path = MCDA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MCDA
-	subdir = MCDA
 [submodule "MDEI"]
 	path = MDEI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/covid19swiss
 	subdir = covid19swiss
-[submodule "danstat"]
-	path = danstat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/danstat
-	subdir = danstat
 [submodule "decompDL"]
 	path = decompDL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -522,11 +512,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/itsadug
 	subdir = itsadug
-[submodule "junco"]
-	path = junco
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/junco
-	subdir = junco
 [submodule "kDGLM"]
 	path = kDGLM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -647,6 +632,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nse
 	subdir = nse
+[submodule "nser"]
+	path = nser
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nser
+	subdir = nser
 [submodule "oncrawlR"]
 	path = oncrawlR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -662,11 +652,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pbox
 	subdir = pbox
-[submodule "pdxTrees"]
-	path = pdxTrees
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pdxTrees
-	subdir = pdxTrees
 [submodule "phenofit"]
 	path = phenofit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -697,6 +682,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/prettyglm
 	subdir = prettyglm
+[submodule "pubtatordb"]
+	path = pubtatordb
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pubtatordb
+	subdir = pubtatordb
 [submodule "qtlpoly"]
 	path = qtlpoly
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -707,6 +697,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/quincunx
 	subdir = quincunx
+[submodule "rSHAPE"]
+	path = rSHAPE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rSHAPE
+	subdir = rSHAPE
 [submodule "rWCVP"]
 	path = rWCVP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -727,6 +722,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/radiant.multivariate
 	subdir = radiant.multivariate
+[submodule "read.dbc"]
+	path = read.dbc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/read.dbc
+	subdir = read.dbc
 [submodule "redistverse"]
 	path = redistverse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
