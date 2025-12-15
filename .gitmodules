@@ -697,6 +697,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/quincunx
 	subdir = quincunx
+[submodule "quotedargs"]
+	path = quotedargs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/quotedargs
+	subdir = quotedargs
 [submodule "rSHAPE"]
 	path = rSHAPE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
