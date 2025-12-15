@@ -727,11 +727,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/read.dbc
 	subdir = read.dbc
-[submodule "redistverse"]
-	path = redistverse
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/redistverse
-	subdir = redistverse
 [submodule "registr"]
 	path = registr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
