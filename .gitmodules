@@ -137,6 +137,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Momocs
 	subdir = Momocs
+[submodule "NAIR"]
+	path = NAIR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NAIR
+	subdir = NAIR
 [submodule "PPLasso"]
 	path = PPLasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,16 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RXshrink
 	subdir = RXshrink
-[submodule "ReliaPlotR"]
-	path = ReliaPlotR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ReliaPlotR
-	subdir = ReliaPlotR
-[submodule "ReliaShiny"]
-	path = ReliaShiny
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ReliaShiny
-	subdir = ReliaShiny
 [submodule "SBCK"]
 	path = SBCK
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TSdeeplearning
 	subdir = TSdeeplearning
-[submodule "TidyConsultant"]
-	path = TidyConsultant
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TidyConsultant
-	subdir = TidyConsultant
 [submodule "Tlasso"]
 	path = Tlasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,21 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TransTGGM
 	subdir = TransTGGM
-[submodule "WeibullR.learnr"]
-	path = WeibullR.learnr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/WeibullR.learnr
-	subdir = WeibullR.learnr
 [submodule "WeibullR.plotly"]
 	path = WeibullR.plotly
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WeibullR.plotly
 	subdir = WeibullR.plotly
-[submodule "WeibullR.shiny"]
-	path = WeibullR.shiny
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/WeibullR.shiny
-	subdir = WeibullR.shiny
 [submodule "XRJulia"]
 	path = XRJulia
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,6 +282,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clrng
 	subdir = clrng
+[submodule "cometExactTest"]
+	path = cometExactTest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cometExactTest
+	subdir = cometExactTest
 [submodule "conflr"]
 	path = conflr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/decompDL
 	subdir = decompDL
+[submodule "deepredeff"]
+	path = deepredeff
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/deepredeff
+	subdir = deepredeff
 [submodule "depigner"]
 	path = depigner
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -647,6 +637,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ordPens
 	subdir = ordPens
+[submodule "ox"]
+	path = ox
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ox
+	subdir = ox
 [submodule "pbox"]
 	path = pbox
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -827,6 +822,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/specleanr
 	subdir = specleanr
+[submodule "spectre"]
+	path = spectre
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spectre
+	subdir = spectre
 [submodule "squat"]
 	path = squat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
