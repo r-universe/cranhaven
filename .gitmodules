@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AnimalHabitatNetwork
 	subdir = AnimalHabitatNetwork
-[submodule "AssetCorr"]
-	path = AssetCorr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AssetCorr
-	subdir = AssetCorr
 [submodule "BRBVS"]
 	path = BRBVS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +102,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/KODAMA
 	subdir = KODAMA
+[submodule "LowWAFOMNX"]
+	path = LowWAFOMNX
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LowWAFOMNX
+	subdir = LowWAFOMNX
+[submodule "LowWAFOMSobol"]
+	path = LowWAFOMSobol
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LowWAFOMSobol
+	subdir = LowWAFOMSobol
 [submodule "MDEI"]
 	path = MDEI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RXshrink
 	subdir = RXshrink
+[submodule "Ryacas0"]
+	path = Ryacas0
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Ryacas0
+	subdir = Ryacas0
 [submodule "SBCK"]
 	path = SBCK
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TransTGGM
 	subdir = TransTGGM
-[submodule "WeibullR.plotly"]
-	path = WeibullR.plotly
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/WeibullR.plotly
-	subdir = WeibullR.plotly
 [submodule "XRJulia"]
 	path = XRJulia
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ast2ast
 	subdir = ast2ast
-[submodule "autoMFA"]
-	path = autoMFA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/autoMFA
-	subdir = autoMFA
 [submodule "autoRasch"]
 	path = autoRasch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
