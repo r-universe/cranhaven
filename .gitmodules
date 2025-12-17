@@ -152,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PStrata
 	subdir = PStrata
+[submodule "ParallelPC"]
+	path = ParallelPC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ParallelPC
+	subdir = ParallelPC
 [submodule "RKHSMetaMod"]
 	path = RKHSMetaMod
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,6 +497,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hdmed
 	subdir = hdmed
+[submodule "healthyR.ts"]
+	path = healthyR.ts
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/healthyR.ts
+	subdir = healthyR.ts
+[submodule "healthyverse"]
+	path = healthyverse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/healthyverse
+	subdir = healthyverse
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -692,6 +707,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/quotedargs
 	subdir = quotedargs
+[submodule "r2pmml"]
+	path = r2pmml
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/r2pmml
+	subdir = r2pmml
 [submodule "rSHAPE"]
 	path = rSHAPE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -767,6 +787,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/runMCMCbtadjust
 	subdir = runMCMCbtadjust
+[submodule "sae.projection"]
+	path = sae.projection
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sae.projection
+	subdir = sae.projection
 [submodule "sasfunclust"]
 	path = sasfunclust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -787,6 +812,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scipub
 	subdir = scipub
+[submodule "shapr"]
+	path = shapr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/shapr
+	subdir = shapr
 [submodule "shipunov"]
 	path = shipunov
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -852,6 +882,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidybins
 	subdir = tidybins
+[submodule "treeshap"]
+	path = treeshap
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/treeshap
+	subdir = treeshap
 [submodule "vDiveR"]
 	path = vDiveR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
