@@ -592,11 +592,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/moreparty
 	subdir = moreparty
-[submodule "msce"]
-	path = msce
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/msce
-	subdir = msce
 [submodule "mskcc.oncotree"]
 	path = mskcc.oncotree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
