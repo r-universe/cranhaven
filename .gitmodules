@@ -37,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CPAT
 	subdir = CPAT
+[submodule "CodeDepends"]
+	path = CodeDepends
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CodeDepends
+	subdir = CodeDepends
 [submodule "CureAuxSP"]
 	path = CureAuxSP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EEAaq
 	subdir = EEAaq
+[submodule "EHRtemporalVariability"]
+	path = EHRtemporalVariability
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EHRtemporalVariability
+	subdir = EHRtemporalVariability
 [submodule "EntropyMCMC"]
 	path = EntropyMCMC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LowWAFOMSobol
 	subdir = LowWAFOMSobol
-[submodule "MDEI"]
-	path = MDEI
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MDEI
-	subdir = MDEI
 [submodule "MMVBVS"]
 	path = MMVBVS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NAIR
 	subdir = NAIR
-[submodule "PPLasso"]
-	path = PPLasso
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PPLasso
-	subdir = PPLasso
 [submodule "PST"]
 	path = PST
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +177,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RPANDA
 	subdir = RPANDA
+[submodule "RPEGLMEN"]
+	path = RPEGLMEN
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RPEGLMEN
+	subdir = RPEGLMEN
+[submodule "RPEIF"]
+	path = RPEIF
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RPEIF
+	subdir = RPEIF
+[submodule "RPESE"]
+	path = RPESE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RPESE
+	subdir = RPESE
 [submodule "RXshrink"]
 	path = RXshrink
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RcppCensSpatial
 	subdir = RcppCensSpatial
+[submodule "Rediscover"]
+	path = Rediscover
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rediscover
+	subdir = Rediscover
 [submodule "Ryacas0"]
 	path = Ryacas0
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SBCK
 	subdir = SBCK
+[submodule "SRTsim"]
+	path = SRTsim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SRTsim
+	subdir = SRTsim
 [submodule "SWMPrExtension"]
 	path = SWMPrExtension
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,11 +277,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ast2ast
 	subdir = ast2ast
-[submodule "autoRasch"]
-	path = autoRasch
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/autoRasch
-	subdir = autoRasch
 [submodule "bayeslm"]
 	path = bayeslm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bigchess
 	subdir = bigchess
+[submodule "bulkAnalyseR"]
+	path = bulkAnalyseR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bulkAnalyseR
+	subdir = bulkAnalyseR
 [submodule "casino"]
 	path = casino
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,11 +377,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dsld
 	subdir = dsld
-[submodule "eHOF"]
-	path = eHOF
+[submodule "eclust"]
+	path = eclust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/eHOF
-	subdir = eHOF
+	branch = package/eclust
+	subdir = eclust
 [submodule "egcm"]
 	path = egcm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -557,11 +582,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mcmcOutput
 	subdir = mcmcOutput
-[submodule "meetupapi"]
-	path = meetupapi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/meetupapi
-	subdir = meetupapi
 [submodule "meltr"]
 	path = meltr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -642,11 +662,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oncrawlR
 	subdir = oncrawlR
-[submodule "ordPens"]
-	path = ordPens
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ordPens
-	subdir = ordPens
 [submodule "ox"]
 	path = ox
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -882,6 +897,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vdg
 	subdir = vdg
+[submodule "volcano3D"]
+	path = volcano3D
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/volcano3D
+	subdir = volcano3D
 [submodule "wiqid"]
 	path = wiqid
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
