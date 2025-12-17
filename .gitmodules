@@ -42,6 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CureAuxSP
 	subdir = CureAuxSP
+[submodule "DLFM"]
+	path = DLFM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DLFM
+	subdir = DLFM
 [submodule "DMQ"]
 	path = DMQ
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,6 +102,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/KODAMA
 	subdir = KODAMA
+[submodule "LFM"]
+	path = LFM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LFM
+	subdir = LFM
+[submodule "LLIC"]
+	path = LLIC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LLIC
+	subdir = LLIC
 [submodule "LowWAFOMNX"]
 	path = LowWAFOMNX
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RXshrink
 	subdir = RXshrink
+[submodule "RcppCensSpatial"]
+	path = RcppCensSpatial
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RcppCensSpatial
+	subdir = RcppCensSpatial
 [submodule "Ryacas0"]
 	path = Ryacas0
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TESS
 	subdir = TESS
+[submodule "TFM"]
+	path = TFM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TFM
+	subdir = TFM
 [submodule "Tlasso"]
 	path = Tlasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +297,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clrng
 	subdir = clrng
+[submodule "cmaRs"]
+	path = cmaRs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cmaRs
+	subdir = cmaRs
 [submodule "cometExactTest"]
 	path = cometExactTest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -712,6 +742,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/registr
 	subdir = registr
+[submodule "relliptical"]
+	path = relliptical
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/relliptical
+	subdir = relliptical
 [submodule "rhosp"]
 	path = rhosp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -782,6 +817,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/signatureSurvival
 	subdir = signatureSurvival
+[submodule "skewlmm"]
+	path = skewlmm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/skewlmm
+	subdir = skewlmm
 [submodule "skm"]
 	path = skm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
