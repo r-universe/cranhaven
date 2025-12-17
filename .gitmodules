@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AnimalHabitatNetwork
 	subdir = AnimalHabitatNetwork
-[submodule "BRBVS"]
-	path = BRBVS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BRBVS
-	subdir = BRBVS
 [submodule "BT"]
 	path = BT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TESS
 	subdir = TESS
-[submodule "TSdeeplearning"]
-	path = TSdeeplearning
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TSdeeplearning
-	subdir = TSdeeplearning
 [submodule "Tlasso"]
 	path = Tlasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/covid19swiss
 	subdir = covid19swiss
-[submodule "decompDL"]
-	path = decompDL
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/decompDL
-	subdir = decompDL
 [submodule "deepredeff"]
 	path = deepredeff
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -802,11 +787,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/skm
 	subdir = skm
-[submodule "sodaR"]
-	path = sodaR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sodaR
-	subdir = sodaR
 [submodule "somspace"]
 	path = somspace
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
