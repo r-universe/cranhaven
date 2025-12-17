@@ -82,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FACT
 	subdir = FACT
-[submodule "FCMapper"]
-	path = FCMapper
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FCMapper
-	subdir = FCMapper
 [submodule "I14Y"]
 	path = I14Y
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,21 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetChem
 	subdir = MetChem
-[submodule "Momocs"]
-	path = Momocs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Momocs
-	subdir = Momocs
 [submodule "NAIR"]
 	path = NAIR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NAIR
 	subdir = NAIR
-[submodule "PST"]
-	path = PST
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PST
-	subdir = PST
 [submodule "PStrata"]
 	path = PStrata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -277,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ast2ast
 	subdir = ast2ast
-[submodule "bayeslm"]
-	path = bayeslm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bayeslm
-	subdir = bayeslm
 [submodule "beanz"]
 	path = beanz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,11 +417,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flowml
 	subdir = flowml
-[submodule "fmf"]
-	path = fmf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fmf
-	subdir = fmf
 [submodule "fwsim"]
 	path = fwsim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -567,11 +542,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/letsR
 	subdir = letsR
-[submodule "mangoro"]
-	path = mangoro
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mangoro
-	subdir = mangoro
 [submodule "mappoly"]
 	path = mappoly
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -642,11 +612,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nesRdata
 	subdir = nesRdata
-[submodule "netcontrol"]
-	path = netcontrol
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/netcontrol
-	subdir = netcontrol
 [submodule "nse"]
 	path = nse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -662,6 +627,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oncrawlR
 	subdir = oncrawlR
+[submodule "ordPens"]
+	path = ordPens
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ordPens
+	subdir = ordPens
 [submodule "ox"]
 	path = ox
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -752,11 +722,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/read.dbc
 	subdir = read.dbc
-[submodule "registr"]
-	path = registr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/registr
-	subdir = registr
 [submodule "relliptical"]
 	path = relliptical
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
