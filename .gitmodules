@@ -77,11 +77,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FCMapper
 	subdir = FCMapper
-[submodule "FORTLS"]
-	path = FORTLS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FORTLS
-	subdir = FORTLS
 [submodule "I14Y"]
 	path = I14Y
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -387,6 +382,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ergmito
 	subdir = ergmito
+[submodule "fanc"]
+	path = fanc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fanc
+	subdir = fanc
 [submodule "fdacluster"]
 	path = fdacluster
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,6 +492,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hdmed
 	subdir = hdmed
+[submodule "ichimoku"]
+	path = ichimoku
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ichimoku
+	subdir = ichimoku
 [submodule "igapfill"]
 	path = igapfill
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -527,11 +532,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kerastuneR
 	subdir = kerastuneR
-[submodule "lazy"]
-	path = lazy
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lazy
-	subdir = lazy
 [submodule "lctools"]
 	path = lctools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
