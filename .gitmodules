@@ -172,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RPEGLMEN
 	subdir = RPEGLMEN
-[submodule "RPEIF"]
-	path = RPEIF
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RPEIF
-	subdir = RPEIF
 [submodule "RPESE"]
 	path = RPESE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
