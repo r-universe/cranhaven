@@ -12,6 +12,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ARpLMEC
 	subdir = ARpLMEC
+[submodule "AnimalHabitatNetwork"]
+	path = AnimalHabitatNetwork
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AnimalHabitatNetwork
+	subdir = AnimalHabitatNetwork
 [submodule "BT"]
 	path = BT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ast2ast
 	subdir = ast2ast
-[submodule "autoRasch"]
-	path = autoRasch
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/autoRasch
-	subdir = autoRasch
 [submodule "beanz"]
 	path = beanz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,11 +352,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/drugprepr
 	subdir = drugprepr
-[submodule "eHOF"]
-	path = eHOF
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/eHOF
-	subdir = eHOF
 [submodule "eclust"]
 	path = eclust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -542,6 +537,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kerastuneR
 	subdir = kerastuneR
+[submodule "lazyarray"]
+	path = lazyarray
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lazyarray
+	subdir = lazyarray
 [submodule "lctools"]
 	path = lctools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -617,6 +617,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nesRdata
 	subdir = nesRdata
+[submodule "netcontrol"]
+	path = netcontrol
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/netcontrol
+	subdir = netcontrol
 [submodule "nse"]
 	path = nse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -632,11 +637,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oncrawlR
 	subdir = oncrawlR
-[submodule "ordPens"]
-	path = ordPens
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ordPens
-	subdir = ordPens
 [submodule "ox"]
 	path = ox
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
