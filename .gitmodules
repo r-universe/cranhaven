@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ARpLMEC
 	subdir = ARpLMEC
-[submodule "AnimalHabitatNetwork"]
-	path = AnimalHabitatNetwork
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AnimalHabitatNetwork
-	subdir = AnimalHabitatNetwork
 [submodule "BT"]
 	path = BT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,6 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NAIR
 	subdir = NAIR
+[submodule "PPLasso"]
+	path = PPLasso
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PPLasso
+	subdir = PPLasso
 [submodule "PStrata"]
 	path = PStrata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -617,11 +617,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nesRdata
 	subdir = nesRdata
-[submodule "netcontrol"]
-	path = netcontrol
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/netcontrol
-	subdir = netcontrol
 [submodule "nse"]
 	path = nse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -637,6 +632,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oncrawlR
 	subdir = oncrawlR
+[submodule "openmeteo"]
+	path = openmeteo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/openmeteo
+	subdir = openmeteo
 [submodule "ox"]
 	path = ox
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -867,6 +867,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tgver
 	subdir = tgver
+[submodule "tibblify"]
+	path = tibblify
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tibblify
+	subdir = tibblify
 [submodule "tidybins"]
 	path = tidybins
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
