@@ -12,6 +12,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesianFactorZoo
 	subdir = BayesianFactorZoo
+[submodule "BiBitR"]
+	path = BiBitR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BiBitR
+	subdir = BiBitR
 [submodule "CPAT"]
 	path = CPAT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,6 +62,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FACT
 	subdir = FACT
+[submodule "FuzzyDBScan"]
+	path = FuzzyDBScan
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FuzzyDBScan
+	subdir = FuzzyDBScan
+[submodule "GAS"]
+	path = GAS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GAS
+	subdir = GAS
+[submodule "GPUmatrix"]
+	path = GPUmatrix
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GPUmatrix
+	subdir = GPUmatrix
 [submodule "I14Y"]
 	path = I14Y
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,26 +152,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ParallelPC
 	subdir = ParallelPC
-[submodule "PupillometryR"]
-	path = PupillometryR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PupillometryR
-	subdir = PupillometryR
 [submodule "RKHSMetaMod"]
 	path = RKHSMetaMod
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RKHSMetaMod
 	subdir = RKHSMetaMod
+[submodule "RMaCzek"]
+	path = RMaCzek
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RMaCzek
+	subdir = RMaCzek
 [submodule "RPANDA"]
 	path = RPANDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RPANDA
 	subdir = RPANDA
-[submodule "RPEGLMEN"]
-	path = RPEGLMEN
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RPEGLMEN
-	subdir = RPEGLMEN
 [submodule "RPESE"]
 	path = RPESE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/amerifluxr
 	subdir = amerifluxr
+[submodule "ari"]
+	path = ari
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ari
+	subdir = ari
 [submodule "ast2ast"]
 	path = ast2ast
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/beanz
 	subdir = beanz
+[submodule "biclust"]
+	path = biclust
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/biclust
+	subdir = biclust
 [submodule "bigchess"]
 	path = bigchess
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,6 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bulkAnalyseR
 	subdir = bulkAnalyseR
+[submodule "bulletr"]
+	path = bulletr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bulletr
+	subdir = bulletr
 [submodule "casino"]
 	path = casino
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -777,6 +807,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shipunov
 	subdir = shipunov
+[submodule "sigQC"]
+	path = sigQC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sigQC
+	subdir = sigQC
 [submodule "signatureSurvival"]
 	path = signatureSurvival
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -787,6 +822,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/skewlmm
 	subdir = skewlmm
+[submodule "smoother"]
+	path = smoother
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/smoother
+	subdir = smoother
 [submodule "somspace"]
 	path = somspace
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -817,11 +857,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stoRy
 	subdir = stoRy
+[submodule "superbiclust"]
+	path = superbiclust
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/superbiclust
+	subdir = superbiclust
 [submodule "superml"]
 	path = superml
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/superml
 	subdir = superml
+[submodule "text2speech"]
+	path = text2speech
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/text2speech
+	subdir = text2speech
 [submodule "tgver"]
 	path = tgver
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
