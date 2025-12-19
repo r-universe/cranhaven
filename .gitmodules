@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RcppCensSpatial
 	subdir = RcppCensSpatial
-[submodule "Rediscover"]
-	path = Rediscover
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Rediscover
-	subdir = Rediscover
 [submodule "Ryacas0"]
 	path = Ryacas0
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
