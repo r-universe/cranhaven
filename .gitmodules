@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NAIR
 	subdir = NAIR
-[submodule "PPLasso"]
-	path = PPLasso
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PPLasso
-	subdir = PPLasso
 [submodule "PStrata"]
 	path = PStrata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/XRJulia
 	subdir = XRJulia
+[submodule "ads"]
+	path = ads
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ads
+	subdir = ads
 [submodule "alphaci"]
 	path = alphaci
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
