@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MTAFT
 	subdir = MTAFT
-[submodule "MetChem"]
-	path = MetChem
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MetChem
-	subdir = MetChem
 [submodule "NAIR"]
 	path = NAIR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,11 +342,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dfdr
 	subdir = dfdr
-[submodule "distreg.vis"]
-	path = distreg.vis
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/distreg.vis
-	subdir = distreg.vis
 [submodule "doseminer"]
 	path = doseminer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,11 +357,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eclust
 	subdir = eclust
-[submodule "egcm"]
-	path = egcm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/egcm
-	subdir = egcm
 [submodule "emend"]
 	path = emend
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -562,6 +547,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mappoly
 	subdir = mappoly
+[submodule "mathml"]
+	path = mathml
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mathml
+	subdir = mathml
 [submodule "mcmcOutput"]
 	path = mcmcOutput
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -752,6 +742,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rlc
 	subdir = rlc
+[submodule "rolog"]
+	path = rolog
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rolog
+	subdir = rolog
 [submodule "romic"]
 	path = romic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -767,6 +762,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rosetteApi
 	subdir = rosetteApi
+[submodule "rswipl"]
+	path = rswipl
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rswipl
+	subdir = rswipl
 [submodule "rtsplot"]
 	path = rtsplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
