@@ -387,11 +387,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/epiflows
 	subdir = epiflows
-[submodule "ergmito"]
-	path = ergmito
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ergmito
-	subdir = ergmito
 [submodule "fanc"]
 	path = fanc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
