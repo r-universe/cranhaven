@@ -642,11 +642,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/phenofit
 	subdir = phenofit
-[submodule "phylospatial"]
-	path = phylospatial
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/phylospatial
-	subdir = phylospatial
 [submodule "pipenostics"]
 	path = pipenostics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
