@@ -187,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Ryacas0
 	subdir = Ryacas0
-[submodule "SBCK"]
-	path = SBCK
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SBCK
-	subdir = SBCK
 [submodule "SRTsim"]
 	path = SRTsim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SpatialKWD
 	subdir = SpatialKWD
-[submodule "SpatialML"]
-	path = SpatialML
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SpatialML
-	subdir = SpatialML
 [submodule "TESS"]
 	path = TESS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TransTGGM
 	subdir = TransTGGM
+[submodule "XRJulia"]
+	path = XRJulia
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/XRJulia
+	subdir = XRJulia
 [submodule "ads"]
 	path = ads
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,11 +327,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/deepredeff
 	subdir = deepredeff
-[submodule "depigner"]
-	path = depigner
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/depigner
-	subdir = depigner
 [submodule "dfdr"]
 	path = dfdr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eclust
 	subdir = eclust
+[submodule "egcm"]
+	path = egcm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/egcm
+	subdir = egcm
 [submodule "emend"]
 	path = emend
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/epiflows
 	subdir = epiflows
+[submodule "extRatum"]
+	path = extRatum
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/extRatum
+	subdir = extRatum
 [submodule "fanc"]
 	path = fanc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
