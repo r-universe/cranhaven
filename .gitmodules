@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ARpLMEC
 	subdir = ARpLMEC
+[submodule "BCT"]
+	path = BCT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BCT
+	subdir = BCT
 [submodule "BayesianFactorZoo"]
 	path = BayesianFactorZoo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,16 +137,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MTAFT
 	subdir = MTAFT
+[submodule "MetChem"]
+	path = MetChem
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MetChem
+	subdir = MetChem
 [submodule "NAIR"]
 	path = NAIR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NAIR
 	subdir = NAIR
-[submodule "PStrata"]
-	path = PStrata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PStrata
-	subdir = PStrata
 [submodule "ParallelPC"]
 	path = ParallelPC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +237,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TransTGGM
 	subdir = TransTGGM
-[submodule "XRJulia"]
-	path = XRJulia
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/XRJulia
-	subdir = XRJulia
 [submodule "ads"]
 	path = ads
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
