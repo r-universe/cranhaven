@@ -487,11 +487,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/howzatR
 	subdir = howzatR
-[submodule "hySpc.testthat"]
-	path = hySpc.testthat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hySpc.testthat
-	subdir = hySpc.testthat
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
