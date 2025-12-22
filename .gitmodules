@@ -792,11 +792,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scipub
 	subdir = scipub
-[submodule "shapr"]
-	path = shapr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shapr
-	subdir = shapr
 [submodule "shiny.benchmark"]
 	path = shiny.benchmark
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
