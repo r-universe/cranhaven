@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DLFM
 	subdir = DLFM
+[submodule "DataMetProcess"]
+	path = DataMetProcess
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DataMetProcess
+	subdir = DataMetProcess
 [submodule "EEAaq"]
 	path = EEAaq
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,16 +62,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EHRtemporalVariability
 	subdir = EHRtemporalVariability
+[submodule "EmbedSOM"]
+	path = EmbedSOM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EmbedSOM
+	subdir = EmbedSOM
 [submodule "EntropyMCMC"]
 	path = EntropyMCMC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EntropyMCMC
 	subdir = EntropyMCMC
-[submodule "FACT"]
-	path = FACT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FACT
-	subdir = FACT
 [submodule "FuzzyDBScan"]
 	path = FuzzyDBScan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,21 +137,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MSmix
 	subdir = MSmix
-[submodule "MTAFT"]
-	path = MTAFT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MTAFT
-	subdir = MTAFT
-[submodule "MetChem"]
-	path = MetChem
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MetChem
-	subdir = MetChem
 [submodule "NAIR"]
 	path = NAIR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NAIR
 	subdir = NAIR
+[submodule "PStrata"]
+	path = PStrata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PStrata
+	subdir = PStrata
 [submodule "ParallelPC"]
 	path = ParallelPC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RPESE
 	subdir = RPESE
-[submodule "RXshrink"]
-	path = RXshrink
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RXshrink
-	subdir = RXshrink
 [submodule "RcppCensSpatial"]
 	path = RcppCensSpatial
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SpatialKWD
 	subdir = SpatialKWD
+[submodule "SummaryLasso"]
+	path = SummaryLasso
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SummaryLasso
+	subdir = SummaryLasso
 [submodule "TESS"]
 	path = TESS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TransTGGM
 	subdir = TransTGGM
-[submodule "XRJulia"]
-	path = XRJulia
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/XRJulia
-	subdir = XRJulia
 [submodule "ads"]
 	path = ads
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/citmre
 	subdir = citmre
-[submodule "clrng"]
-	path = clrng
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clrng
-	subdir = clrng
 [submodule "cmaRs"]
 	path = cmaRs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -622,6 +612,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oncrawlR
 	subdir = oncrawlR
+[submodule "onemap"]
+	path = onemap
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/onemap
+	subdir = onemap
 [submodule "openmeteo"]
 	path = openmeteo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -667,6 +662,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pubtatordb
 	subdir = pubtatordb
+[submodule "qtlhot"]
+	path = qtlhot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qtlhot
+	subdir = qtlhot
 [submodule "qtlpoly"]
 	path = qtlpoly
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
