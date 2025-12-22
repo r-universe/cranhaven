@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NAIR
 	subdir = NAIR
-[submodule "PStrata"]
-	path = PStrata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PStrata
-	subdir = PStrata
 [submodule "ParallelPC"]
 	path = ParallelPC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RPESE
 	subdir = RPESE
+[submodule "RXshrink"]
+	path = RXshrink
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RXshrink
+	subdir = RXshrink
 [submodule "RcppCensSpatial"]
 	path = RcppCensSpatial
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Ryacas0
 	subdir = Ryacas0
+[submodule "SBCK"]
+	path = SBCK
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SBCK
+	subdir = SBCK
 [submodule "SRTsim"]
 	path = SRTsim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +237,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ads
 	subdir = ads
-[submodule "alphaci"]
-	path = alphaci
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/alphaci
-	subdir = alphaci
 [submodule "amerifluxr"]
 	path = amerifluxr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,6 +317,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/deepredeff
 	subdir = deepredeff
+[submodule "depigner"]
+	path = depigner
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/depigner
+	subdir = depigner
 [submodule "dfdr"]
 	path = dfdr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,21 +342,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eclust
 	subdir = eclust
-[submodule "egcm"]
-	path = egcm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/egcm
-	subdir = egcm
 [submodule "emend"]
 	path = emend
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/emend
 	subdir = emend
-[submodule "epiCleanr"]
-	path = epiCleanr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/epiCleanr
-	subdir = epiCleanr
 [submodule "epiflows"]
 	path = epiflows
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -507,6 +502,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/itsadug
 	subdir = itsadug
+[submodule "jetset"]
+	path = jetset
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/jetset
+	subdir = jetset
 [submodule "kDGLM"]
 	path = kDGLM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
