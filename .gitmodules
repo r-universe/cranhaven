@@ -112,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IOHanalyzer
 	subdir = IOHanalyzer
-[submodule "ISEtools"]
-	path = ISEtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ISEtools
-	subdir = ISEtools
 [submodule "KoulMde"]
 	path = KoulMde
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,11 +352,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/deepredeff
 	subdir = deepredeff
-[submodule "dfdr"]
-	path = dfdr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dfdr
-	subdir = dfdr
 [submodule "digitize"]
 	path = digitize
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -532,6 +522,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lazyarray
 	subdir = lazyarray
+[submodule "leanpubr"]
+	path = leanpubr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/leanpubr
+	subdir = leanpubr
 [submodule "mappoly"]
 	path = mappoly
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -672,6 +667,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/prettyglm
 	subdir = prettyglm
+[submodule "psc"]
+	path = psc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/psc
+	subdir = psc
 [submodule "pubtatordb"]
 	path = pubtatordb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
