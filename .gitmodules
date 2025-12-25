@@ -262,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PLSiMCpp
 	subdir = PLSiMCpp
+[submodule "PQLseq"]
+	path = PQLseq
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PQLseq
+	subdir = PQLseq
 [submodule "ParallelPC"]
 	path = ParallelPC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
