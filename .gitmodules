@@ -72,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DGM
 	subdir = DGM
+[submodule "DLFM"]
+	path = DLFM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DLFM
+	subdir = DLFM
 [submodule "DSSP"]
 	path = DSSP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LFM
 	subdir = LFM
-[submodule "LLIC"]
-	path = LLIC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LLIC
-	subdir = LLIC
 [submodule "LassoGEE"]
 	path = LassoGEE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -807,11 +807,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/regmedint
 	subdir = regmedint
-[submodule "relliptical"]
-	path = relliptical
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/relliptical
-	subdir = relliptical
 [submodule "rmdl"]
 	path = rmdl
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
