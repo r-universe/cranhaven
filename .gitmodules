@@ -247,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RPESE
 	subdir = RPESE
+[submodule "Rcpp11"]
+	path = Rcpp11
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rcpp11
+	subdir = Rcpp11
 [submodule "RcppCensSpatial"]
 	path = RcppCensSpatial
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
