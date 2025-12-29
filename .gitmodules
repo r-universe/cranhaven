@@ -587,6 +587,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/healthyverse
 	subdir = healthyverse
+[submodule "heuristicsmineR"]
+	path = heuristicsmineR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/heuristicsmineR
+	subdir = heuristicsmineR
 [submodule "higlasso"]
 	path = higlasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
