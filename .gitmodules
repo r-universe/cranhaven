@@ -72,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DGM
 	subdir = DGM
-[submodule "DLFM"]
-	path = DLFM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DLFM
-	subdir = DLFM
 [submodule "DSSP"]
 	path = DSSP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,11 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/KoulMde
 	subdir = KoulMde
-[submodule "LFM"]
-	path = LFM
+[submodule "LLIC"]
+	path = LLIC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LFM
-	subdir = LFM
+	branch = package/LLIC
+	subdir = LLIC
 [submodule "LassoGEE"]
 	path = LassoGEE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rcpp11
 	subdir = Rcpp11
-[submodule "RcppCensSpatial"]
-	path = RcppCensSpatial
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RcppCensSpatial
-	subdir = RcppCensSpatial
 [submodule "Rexperigen"]
 	path = Rexperigen
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -447,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clusterHD
 	subdir = clusterHD
-[submodule "cmaRs"]
-	path = cmaRs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cmaRs
-	subdir = cmaRs
 [submodule "cmenet"]
 	path = cmenet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -812,6 +797,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/regmedint
 	subdir = regmedint
+[submodule "relliptical"]
+	path = relliptical
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/relliptical
+	subdir = relliptical
 [submodule "rmdl"]
 	path = rmdl
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -872,6 +862,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sigQC
 	subdir = sigQC
+[submodule "skewlmm"]
+	path = skewlmm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/skewlmm
+	subdir = skewlmm
 [submodule "slasso"]
 	path = slasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
