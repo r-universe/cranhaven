@@ -192,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/KoulMde
 	subdir = KoulMde
-[submodule "LLIC"]
-	path = LLIC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LLIC
-	subdir = LLIC
 [submodule "LassoGEE"]
 	path = LassoGEE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SRTsim
 	subdir = SRTsim
+[submodule "SeqDetect"]
+	path = SeqDetect
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SeqDetect
+	subdir = SeqDetect
 [submodule "SpatialKWD"]
 	path = SpatialKWD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -407,6 +407,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biclust
 	subdir = biclust
+[submodule "bigMap"]
+	path = bigMap
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bigMap
+	subdir = bigMap
 [submodule "bmabasket"]
 	path = bmabasket
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -577,6 +582,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/graphkernels
 	subdir = graphkernels
+[submodule "hBayesDM"]
+	path = hBayesDM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hBayesDM
+	subdir = hBayesDM
 [submodule "healthyR.ts"]
 	path = healthyR.ts
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -617,11 +627,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iccbeta
 	subdir = iccbeta
-[submodule "ichimoku"]
-	path = ichimoku
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ichimoku
-	subdir = ichimoku
 [submodule "imbalance"]
 	path = imbalance
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -802,11 +807,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/regmedint
 	subdir = regmedint
-[submodule "relliptical"]
-	path = relliptical
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/relliptical
-	subdir = relliptical
 [submodule "rmdl"]
 	path = rmdl
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -867,11 +867,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sigQC
 	subdir = sigQC
-[submodule "skewlmm"]
-	path = skewlmm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/skewlmm
-	subdir = skewlmm
 [submodule "slasso"]
 	path = slasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -942,6 +937,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tinyProject
 	subdir = tinyProject
+[submodule "tipitaka"]
+	path = tipitaka
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tipitaka
+	subdir = tipitaka
 [submodule "treeshap"]
 	path = treeshap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
