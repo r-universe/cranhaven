@@ -817,11 +817,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rolog
 	subdir = rolog
-[submodule "rswipl"]
-	path = rswipl
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rswipl
-	subdir = rswipl
 [submodule "rtk"]
 	path = rtk
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
