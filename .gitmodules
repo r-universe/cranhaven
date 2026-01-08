@@ -232,11 +232,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PhenotypeSimulator
 	subdir = PhenotypeSimulator
-[submodule "RPESE"]
-	path = RPESE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RPESE
-	subdir = RPESE
 [submodule "Rcpp11"]
 	path = Rcpp11
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
