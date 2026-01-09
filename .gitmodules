@@ -412,11 +412,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bmabasket
 	subdir = bmabasket
-[submodule "bulkAnalyseR"]
-	path = bulkAnalyseR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bulkAnalyseR
-	subdir = bulkAnalyseR
 [submodule "bulletr"]
 	path = bulletr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,6 +422,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cPCG
 	subdir = cPCG
+[submodule "captr"]
+	path = captr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/captr
+	subdir = captr
 [submodule "chunkR"]
 	path = chunkR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -497,11 +497,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/extRatum
 	subdir = extRatum
-[submodule "fanc"]
-	path = fanc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fanc
-	subdir = fanc
 [submodule "fastcmh"]
 	path = fastcmh
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -652,6 +647,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/jetset
 	subdir = jetset
+[submodule "knitLatex"]
+	path = knitLatex
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/knitLatex
+	subdir = knitLatex
 [submodule "latentgraph"]
 	path = latentgraph
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
