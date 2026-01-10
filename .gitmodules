@@ -722,6 +722,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multivar
 	subdir = multivar
+[submodule "ncdump"]
+	path = ncdump
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ncdump
+	subdir = ncdump
 [submodule "nhlapi"]
 	path = nhlapi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
