@@ -57,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CoOL
 	subdir = CoOL
-[submodule "CodeDepends"]
-	path = CodeDepends
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CodeDepends
-	subdir = CodeDepends
 [submodule "CompMix"]
 	path = CompMix
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,6 +407,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bmabasket
 	subdir = bmabasket
+[submodule "bulkAnalyseR"]
+	path = bulkAnalyseR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bulkAnalyseR
+	subdir = bulkAnalyseR
 [submodule "bulletr"]
 	path = bulletr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -947,8 +947,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/unine
 	subdir = unine
-[submodule "volcano3D"]
-	path = volcano3D
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/volcano3D
-	subdir = volcano3D
