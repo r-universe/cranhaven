@@ -92,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DySS
 	subdir = DySS
-[submodule "EHRtemporalVariability"]
-	path = EHRtemporalVariability
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EHRtemporalVariability
-	subdir = EHRtemporalVariability
 [submodule "EmbedSOM"]
 	path = EmbedSOM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SPlit
 	subdir = SPlit
-[submodule "SRTsim"]
-	path = SRTsim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SRTsim
-	subdir = SRTsim
 [submodule "SeqDetect"]
 	path = SeqDetect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -407,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bmabasket
 	subdir = bmabasket
-[submodule "bulkAnalyseR"]
-	path = bulkAnalyseR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bulkAnalyseR
-	subdir = bulkAnalyseR
 [submodule "bulletr"]
 	path = bulletr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -482,11 +467,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dsmisc
 	subdir = dsmisc
-[submodule "eclust"]
-	path = eclust
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/eclust
-	subdir = eclust
 [submodule "em"]
 	path = em
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -577,16 +557,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hBayesDM
 	subdir = hBayesDM
-[submodule "healthyR.ts"]
-	path = healthyR.ts
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/healthyR.ts
-	subdir = healthyR.ts
-[submodule "healthyverse"]
-	path = healthyverse
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/healthyverse
-	subdir = healthyverse
 [submodule "heuristicsmineR"]
 	path = heuristicsmineR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
