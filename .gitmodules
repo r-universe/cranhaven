@@ -172,6 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IMEC
 	subdir = IMEC
+[submodule "INSPECTumours"]
+	path = INSPECTumours
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/INSPECTumours
+	subdir = INSPECTumours
 [submodule "JFM"]
 	path = JFM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,6 +242,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rpolyhedra
 	subdir = Rpolyhedra
+[submodule "SBMSplitMerge"]
+	path = SBMSplitMerge
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SBMSplitMerge
+	subdir = SBMSplitMerge
 [submodule "SFS"]
 	path = SFS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +282,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SeqDetect
 	subdir = SeqDetect
+[submodule "SmoothTensor"]
+	path = SmoothTensor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SmoothTensor
+	subdir = SmoothTensor
 [submodule "SpatialKWD"]
 	path = SpatialKWD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,6 +382,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayescopulareg
 	subdir = bayescopulareg
+[submodule "bayesdistreg"]
+	path = bayesdistreg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bayesdistreg
+	subdir = bayesdistreg
 [submodule "bayesianETAS"]
 	path = bayesianETAS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,6 +437,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/chunkR
 	subdir = chunkR
+[submodule "cluscov"]
+	path = cluscov
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cluscov
+	subdir = cluscov
 [submodule "clusterHD"]
 	path = clusterHD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,6 +452,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cmenet
 	subdir = cmenet
+[submodule "combinationpvalues"]
+	path = combinationpvalues
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/combinationpvalues
+	subdir = combinationpvalues
 [submodule "concom"]
 	path = concom
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -602,6 +632,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/infinitefactor
 	subdir = infinitefactor
+[submodule "infoDecompuTE"]
+	path = infoDecompuTE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/infoDecompuTE
+	subdir = infoDecompuTE
 [submodule "intcensROC"]
 	path = intcensROC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -672,6 +707,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mirtsvd
 	subdir = mirtsvd
+[submodule "mixIndependR"]
+	path = mixIndependR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mixIndependR
+	subdir = mixIndependR
 [submodule "mknapsack"]
 	path = mknapsack
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -797,6 +837,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rtk
 	subdir = rtk
+[submodule "rvmethod"]
+	path = rvmethod
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rvmethod
+	subdir = rvmethod
 [submodule "sae.projection"]
 	path = sae.projection
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -922,3 +967,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/unine
 	subdir = unine
+[submodule "vortexRdata"]
+	path = vortexRdata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vortexRdata
+	subdir = vortexRdata
