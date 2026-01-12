@@ -32,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesRGMM
 	subdir = BayesRGMM
-[submodule "BiBitR"]
-	path = BiBitR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BiBitR
-	subdir = BiBitR
 [submodule "BinaryDosage"]
 	path = BinaryDosage
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,11 +52,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CoOL
 	subdir = CoOL
-[submodule "CompMix"]
-	path = CompMix
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CompMix
-	subdir = CompMix
 [submodule "DGM"]
 	path = DGM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FarmTest
 	subdir = FarmTest
-[submodule "FuzzyDBScan"]
-	path = FuzzyDBScan
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FuzzyDBScan
-	subdir = FuzzyDBScan
 [submodule "GAS"]
 	path = GAS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,6 +117,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GMKMcharlie
 	subdir = GMKMcharlie
+[submodule "GPCERF"]
+	path = GPCERF
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GPCERF
+	subdir = GPCERF
 [submodule "GPM"]
 	path = GPM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,16 +207,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PQLseq
 	subdir = PQLseq
-[submodule "ParallelPC"]
-	path = ParallelPC
+[submodule "ParBayesianOptimization"]
+	path = ParBayesianOptimization
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ParallelPC
-	subdir = ParallelPC
+	branch = package/ParBayesianOptimization
+	subdir = ParBayesianOptimization
 [submodule "PhenotypeSimulator"]
 	path = PhenotypeSimulator
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PhenotypeSimulator
 	subdir = PhenotypeSimulator
+[submodule "RIIM"]
+	path = RIIM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RIIM
+	subdir = RIIM
 [submodule "Rcpp11"]
 	path = Rcpp11
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,11 +337,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/adaHuber
 	subdir = adaHuber
-[submodule "ads"]
-	path = ads
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ads
-	subdir = ads
 [submodule "agtboost"]
 	path = agtboost
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,6 +357,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autoFRK
 	subdir = autoFRK
+[submodule "autostats"]
+	path = autostats
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/autostats
+	subdir = autostats
 [submodule "aws.comprehend"]
 	path = aws.comprehend
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -477,6 +472,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cusum
 	subdir = cusum
+[submodule "dblr"]
+	path = dblr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dblr
+	subdir = dblr
 [submodule "dgumbel"]
 	path = dgumbel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,6 +492,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dmlalg
 	subdir = dmlalg
+[submodule "dpm"]
+	path = dpm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dpm
+	subdir = dpm
 [submodule "dsmisc"]
 	path = dsmisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -502,6 +507,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/em
 	subdir = em
+[submodule "essentials"]
+	path = essentials
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/essentials
+	subdir = essentials
 [submodule "extRatum"]
 	path = extRatum
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -527,6 +537,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fmerPack
 	subdir = fmerPack
+[submodule "forecastML"]
+	path = forecastML
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/forecastML
+	subdir = forecastML
 [submodule "fourPNO"]
 	path = fourPNO
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -542,6 +557,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/funcharts
 	subdir = funcharts
+[submodule "gafit"]
+	path = gafit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gafit
+	subdir = gafit
 [submodule "gbp"]
 	path = gbp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -627,6 +647,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/imptree
 	subdir = imptree
+[submodule "inTrees"]
+	path = inTrees
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/inTrees
+	subdir = inTrees
 [submodule "infinitefactor"]
 	path = infinitefactor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -662,11 +687,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/latentgraph
 	subdir = latentgraph
-[submodule "lazyarray"]
-	path = lazyarray
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lazyarray
-	subdir = lazyarray
 [submodule "ldsr"]
 	path = ldsr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -742,6 +762,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nhlapi
 	subdir = nhlapi
+[submodule "nlpred"]
+	path = nlpred
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nlpred
+	subdir = nlpred
 [submodule "nodiv"]
 	path = nodiv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -752,11 +777,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/onemap
 	subdir = onemap
-[submodule "openmeteo"]
-	path = openmeteo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/openmeteo
-	subdir = openmeteo
 [submodule "optigrab"]
 	path = optigrab
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -767,6 +787,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/owmr
 	subdir = owmr
+[submodule "panelr"]
+	path = panelr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/panelr
+	subdir = panelr
 [submodule "penPHcure"]
 	path = penPHcure
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -807,11 +832,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qtlhot
 	subdir = qtlhot
-[submodule "rcdf"]
-	path = rcdf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rcdf
-	subdir = rcdf
 [submodule "regmedint"]
 	path = regmedint
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -842,11 +862,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rvmethod
 	subdir = rvmethod
-[submodule "sae.projection"]
-	path = sae.projection
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sae.projection
-	subdir = sae.projection
 [submodule "samurais"]
 	path = samurais
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -937,11 +952,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/text2speech
 	subdir = text2speech
-[submodule "tibblify"]
-	path = tibblify
+[submodule "tikatuwq"]
+	path = tikatuwq
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tibblify
-	subdir = tibblify
+	branch = package/tikatuwq
+	subdir = tikatuwq
 [submodule "tinyProject"]
 	path = tinyProject
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -952,11 +967,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tipitaka
 	subdir = tipitaka
-[submodule "treeshap"]
-	path = treeshap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/treeshap
-	subdir = treeshap
 [submodule "triangulr"]
 	path = triangulr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -967,6 +977,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/unine
 	subdir = unine
+[submodule "visaOTR"]
+	path = visaOTR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/visaOTR
+	subdir = visaOTR
 [submodule "vortexRdata"]
 	path = vortexRdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
