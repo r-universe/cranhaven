@@ -812,11 +812,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pocketapi
 	subdir = pocketapi
-[submodule "psc"]
-	path = psc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/psc
-	subdir = psc
 [submodule "qpmadr"]
 	path = qpmadr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
