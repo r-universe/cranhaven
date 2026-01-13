@@ -772,11 +772,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nodiv
 	subdir = nodiv
-[submodule "onemap"]
-	path = onemap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/onemap
-	subdir = onemap
 [submodule "optigrab"]
 	path = optigrab
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
