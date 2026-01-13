@@ -107,11 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FarmTest
 	subdir = FarmTest
-[submodule "GAS"]
-	path = GAS
+[submodule "FuzzyDBScan"]
+	path = FuzzyDBScan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GAS
-	subdir = GAS
+	branch = package/FuzzyDBScan
+	subdir = FuzzyDBScan
 [submodule "GMKMcharlie"]
 	path = GMKMcharlie
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GPM
 	subdir = GPM
-[submodule "GPUmatrix"]
-	path = GPUmatrix
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GPUmatrix
-	subdir = GPUmatrix
 [submodule "GeneralisedCovarianceMeasure"]
 	path = GeneralisedCovarianceMeasure
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,11 +167,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/JFM
 	subdir = JFM
-[submodule "KoulMde"]
-	path = KoulMde
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/KoulMde
-	subdir = KoulMde
 [submodule "LassoGEE"]
 	path = LassoGEE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -282,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SmoothTensor
 	subdir = SmoothTensor
-[submodule "SpatialKWD"]
-	path = SpatialKWD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SpatialKWD
-	subdir = SpatialKWD
 [submodule "StepSignalMargiLike"]
 	path = StepSignalMargiLike
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ahMLE
 	subdir = ahMLE
-[submodule "ari"]
-	path = ari
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ari
-	subdir = ari
 [submodule "autoFRK"]
 	path = autoFRK
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,11 +392,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bmabasket
 	subdir = bmabasket
-[submodule "bulletr"]
-	path = bulletr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bulletr
-	subdir = bulletr
 [submodule "cPCG"]
 	path = cPCG
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -612,11 +587,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/heuristicsmineR
 	subdir = heuristicsmineR
-[submodule "higlasso"]
-	path = higlasso
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/higlasso
-	subdir = higlasso
 [submodule "hilbert"]
 	path = hilbert
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
