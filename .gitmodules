@@ -712,6 +712,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mknapsack
 	subdir = mknapsack
+[submodule "mlxR"]
+	path = mlxR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mlxR
+	subdir = mlxR
 [submodule "moexer"]
 	path = moexer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
