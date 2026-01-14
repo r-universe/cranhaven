@@ -382,11 +382,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biClassify
 	subdir = biClassify
-[submodule "biclust"]
-	path = biclust
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/biclust
-	subdir = biclust
 [submodule "bigMap"]
 	path = bigMap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
