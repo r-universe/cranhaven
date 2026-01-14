@@ -62,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DSSP
 	subdir = DSSP
+[submodule "DatAssim"]
+	path = DatAssim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DatAssim
+	subdir = DatAssim
 [submodule "DataMetProcess"]
 	path = DataMetProcess
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -922,11 +927,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/survival.svb
 	subdir = survival.svb
-[submodule "text2speech"]
-	path = text2speech
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/text2speech
-	subdir = text2speech
 [submodule "tidyjson"]
 	path = tidyjson
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
