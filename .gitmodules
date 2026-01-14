@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FarmTest
 	subdir = FarmTest
-[submodule "FuzzyDBScan"]
-	path = FuzzyDBScan
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FuzzyDBScan
-	subdir = FuzzyDBScan
 [submodule "GMKMcharlie"]
 	path = GMKMcharlie
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -487,6 +482,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dsmisc
 	subdir = dsmisc
+[submodule "elastic"]
+	path = elastic
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/elastic
+	subdir = elastic
 [submodule "em"]
 	path = em
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -607,11 +607,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hilbert
 	subdir = hilbert
-[submodule "hilbertSimilarity"]
-	path = hilbertSimilarity
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hilbertSimilarity
-	subdir = hilbertSimilarity
 [submodule "howzatR"]
 	path = howzatR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -832,11 +827,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rofanova
 	subdir = rofanova
-[submodule "rolog"]
-	path = rolog
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rolog
-	subdir = rolog
 [submodule "rtk"]
 	path = rtk
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -877,11 +867,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sift
 	subdir = sift
-[submodule "sigQC"]
-	path = sigQC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sigQC
-	subdir = sigQC
 [submodule "slasso"]
 	path = slasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -967,6 +952,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/triangulr
 	subdir = triangulr
+[submodule "u5mr"]
+	path = u5mr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/u5mr
+	subdir = u5mr
 [submodule "unine"]
 	path = unine
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
