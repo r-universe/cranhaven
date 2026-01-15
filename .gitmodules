@@ -802,11 +802,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pocketapi
 	subdir = pocketapi
-[submodule "power.transform"]
-	path = power.transform
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/power.transform
-	subdir = power.transform
 [submodule "qpmadr"]
 	path = qpmadr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
