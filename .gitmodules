@@ -457,6 +457,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dblr
 	subdir = dblr
+[submodule "delma"]
+	path = delma
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/delma
+	subdir = delma
 [submodule "depcoeff"]
 	path = depcoeff
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
