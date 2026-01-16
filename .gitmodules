@@ -77,11 +77,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/INSPECTumours
 	subdir = INSPECTumours
-[submodule "JFM"]
-	path = JFM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/JFM
-	subdir = JFM
 [submodule "LSDinterface"]
 	path = LSDinterface
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -952,11 +947,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidyjson
 	subdir = tidyjson
-[submodule "tikatuwq"]
-	path = tikatuwq
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tikatuwq
-	subdir = tikatuwq
 [submodule "tipitaka"]
 	path = tipitaka
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
