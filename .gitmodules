@@ -317,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayestransmission
 	subdir = bayestransmission
-[submodule "bcRP"]
-	path = bcRP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bcRP
-	subdir = bcRP
 [submodule "bestridge"]
 	path = bestridge
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
