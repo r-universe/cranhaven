@@ -52,6 +52,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HDJM
 	subdir = HDJM
+[submodule "HEMDAG"]
+	path = HEMDAG
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HEMDAG
+	subdir = HEMDAG
+[submodule "HMMEsolver"]
+	path = HMMEsolver
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HMMEsolver
+	subdir = HMMEsolver
 [submodule "HypergeoMat"]
 	path = HypergeoMat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LSDsensitivity
 	subdir = LSDsensitivity
-[submodule "LassoGEE"]
-	path = LassoGEE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LassoGEE
-	subdir = LassoGEE
 [submodule "MIMER"]
 	path = MIMER
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,6 +117,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NestedCategBayesImpute
 	subdir = NestedCategBayesImpute
+[submodule "PLSiMCpp"]
+	path = PLSiMCpp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PLSiMCpp
+	subdir = PLSiMCpp
 [submodule "PQLseq"]
 	path = PQLseq
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,31 +167,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SBMSplitMerge
 	subdir = SBMSplitMerge
-[submodule "SFS"]
-	path = SFS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SFS
-	subdir = SFS
 [submodule "SLBDD"]
 	path = SLBDD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SLBDD
 	subdir = SLBDD
-[submodule "SMITIDvisu"]
-	path = SMITIDvisu
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SMITIDvisu
-	subdir = SMITIDvisu
 [submodule "SMMA"]
 	path = SMMA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SMMA
 	subdir = SMMA
-[submodule "SMME"]
-	path = SMME
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SMME
-	subdir = SMME
 [submodule "SNPknock"]
 	path = SNPknock
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
