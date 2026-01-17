@@ -282,11 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/arealDB
 	subdir = arealDB
-[submodule "autoFRK"]
-	path = autoFRK
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/autoFRK
-	subdir = autoFRK
 [submodule "autostats"]
 	path = autostats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
