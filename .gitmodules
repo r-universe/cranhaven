@@ -167,11 +167,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SLBDD
 	subdir = SLBDD
-[submodule "SPlit"]
-	path = SPlit
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SPlit
-	subdir = SPlit
 [submodule "SenTinMixt"]
 	path = SenTinMixt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
