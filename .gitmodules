@@ -187,16 +187,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SmoothTensor
 	subdir = SmoothTensor
+[submodule "SobolSequence"]
+	path = SobolSequence
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SobolSequence
+	subdir = SobolSequence
 [submodule "Spillover"]
 	path = Spillover
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Spillover
 	subdir = Spillover
-[submodule "StepSignalMargiLike"]
-	path = StepSignalMargiLike
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/StepSignalMargiLike
-	subdir = StepSignalMargiLike
 [submodule "TSclust"]
 	path = TSclust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,16 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/adaHuber
 	subdir = adaHuber
-[submodule "agtboost"]
-	path = agtboost
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/agtboost
-	subdir = agtboost
-[submodule "ahMLE"]
-	path = ahMLE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ahMLE
-	subdir = ahMLE
 [submodule "amberr"]
 	path = amberr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -287,11 +277,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bestridge
 	subdir = bestridge
-[submodule "biClassify"]
-	path = biClassify
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/biClassify
-	subdir = biClassify
 [submodule "bigMap"]
 	path = bigMap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,21 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bmemLavaan
 	subdir = bmemLavaan
-[submodule "cPCG"]
-	path = cPCG
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cPCG
-	subdir = cPCG
 [submodule "captr"]
 	path = captr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/captr
 	subdir = captr
-[submodule "chunkR"]
-	path = chunkR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/chunkR
-	subdir = chunkR
 [submodule "cluscov"]
 	path = cluscov
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,11 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clv
 	subdir = clv
-[submodule "cmenet"]
-	path = cmenet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cmenet
-	subdir = cmenet
 [submodule "combinationpvalues"]
 	path = combinationpvalues
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,26 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/concom
 	subdir = concom
-[submodule "covTestR"]
-	path = covTestR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/covTestR
-	subdir = covTestR
-[submodule "coxrt"]
-	path = coxrt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/coxrt
-	subdir = coxrt
 [submodule "cpss"]
 	path = cpss
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cpss
 	subdir = cpss
-[submodule "cusum"]
-	path = cusum
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cusum
-	subdir = cusum
 [submodule "dbcsp"]
 	path = dbcsp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,11 +352,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/depcoeff
 	subdir = depcoeff
-[submodule "dgumbel"]
-	path = dgumbel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dgumbel
-	subdir = dgumbel
 [submodule "doblin"]
 	path = doblin
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
