@@ -7,6 +7,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AFR
 	subdir = AFR
+[submodule "AncestryMapper"]
+	path = AncestryMapper
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AncestryMapper
+	subdir = AncestryMapper
+[submodule "BLCOP"]
+	path = BLCOP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BLCOP
+	subdir = BLCOP
 [submodule "BNPmix"]
 	path = BNPmix
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -42,6 +52,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DoLa
 	subdir = DoLa
+[submodule "ESTER"]
+	path = ESTER
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ESTER
+	subdir = ESTER
 [submodule "EigenR"]
 	path = EigenR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GPCERF
 	subdir = GPCERF
+[submodule "GRTo"]
+	path = GRTo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GRTo
+	subdir = GRTo
 [submodule "GofKmt"]
 	path = GofKmt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +127,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LSDsensitivity
 	subdir = LSDsensitivity
+[submodule "MEMSS"]
+	path = MEMSS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MEMSS
+	subdir = MEMSS
 [submodule "MIMER"]
 	path = MIMER
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/arealDB
 	subdir = arealDB
+[submodule "ascentTraining"]
+	path = ascentTraining
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ascentTraining
+	subdir = ascentTraining
 [submodule "autostats"]
 	path = autostats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,6 +332,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cluscov
 	subdir = cluscov
+[submodule "clustMD"]
+	path = clustMD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clustMD
+	subdir = clustMD
 [submodule "clusterHD"]
 	path = clusterHD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,6 +462,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fssemR
 	subdir = fssemR
+[submodule "ftsspec"]
+	path = ftsspec
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ftsspec
+	subdir = ftsspec
 [submodule "fuzzyjoin"]
 	path = fuzzyjoin
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -447,6 +487,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/galvanizer
 	subdir = galvanizer
+[submodule "gb"]
+	path = gb
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gb
+	subdir = gb
 [submodule "gbp"]
 	path = gbp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,6 +537,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/giacR
 	subdir = giacR
+[submodule "glmc"]
+	path = glmc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/glmc
+	subdir = glmc
 [submodule "graphkernels"]
 	path = graphkernels
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -787,6 +837,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rvmethod
 	subdir = rvmethod
+[submodule "sac"]
+	path = sac
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sac
+	subdir = sac
 [submodule "samurais"]
 	path = samurais
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
