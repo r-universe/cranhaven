@@ -92,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/INSPECTumours
 	subdir = INSPECTumours
+[submodule "LSAMBA"]
+	path = LSAMBA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LSAMBA
+	subdir = LSAMBA
 [submodule "LSDinterface"]
 	path = LSDinterface
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/StepSignalMargiLike
 	subdir = StepSignalMargiLike
-[submodule "TFMPvalue"]
-	path = TFMPvalue
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TFMPvalue
-	subdir = TFMPvalue
 [submodule "TSclust"]
 	path = TSclust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VBJM
 	subdir = VBJM
-[submodule "VUROCS"]
-	path = VUROCS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/VUROCS
-	subdir = VUROCS
 [submodule "WRSS"]
 	path = WRSS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -557,6 +552,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hBayesDM
 	subdir = hBayesDM
+[submodule "heterocop"]
+	path = heterocop
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/heterocop
+	subdir = heterocop
 [submodule "heuristicsmineR"]
 	path = heuristicsmineR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -842,6 +842,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/samurais
 	subdir = samurais
+[submodule "sdafilter"]
+	path = sdafilter
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sdafilter
+	subdir = sdafilter
 [submodule "sdpdth"]
 	path = sdpdth
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
