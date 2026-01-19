@@ -877,11 +877,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sirus
 	subdir = sirus
-[submodule "slasso"]
-	path = slasso
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/slasso
-	subdir = slasso
 [submodule "spFW"]
 	path = spFW
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
