@@ -112,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/INSPECTumours
 	subdir = INSPECTumours
-[submodule "LSAMBA"]
-	path = LSAMBA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LSAMBA
-	subdir = LSAMBA
 [submodule "LSDinterface"]
 	path = LSDinterface
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
