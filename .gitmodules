@@ -32,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CEC
 	subdir = CEC
+[submodule "DEMOVA"]
+	path = DEMOVA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DEMOVA
+	subdir = DEMOVA
 [submodule "DatAssim"]
 	path = DatAssim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,11 +372,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dblr
 	subdir = dblr
-[submodule "depcoeff"]
-	path = depcoeff
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/depcoeff
-	subdir = depcoeff
 [submodule "doblin"]
 	path = doblin
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
