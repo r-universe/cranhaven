@@ -242,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/activegp
 	subdir = activegp
-[submodule "adaHuber"]
-	path = adaHuber
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/adaHuber
-	subdir = adaHuber
 [submodule "amberr"]
 	path = amberr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/baycn
 	subdir = baycn
-[submodule "bayescopulareg"]
-	path = bayescopulareg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bayescopulareg
-	subdir = bayescopulareg
 [submodule "bayesdistreg"]
 	path = bayesdistreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,6 +312,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/captr
 	subdir = captr
+[submodule "chunkR"]
+	path = chunkR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/chunkR
+	subdir = chunkR
 [submodule "cluscov"]
 	path = cluscov
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,16 +327,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clustMD
 	subdir = clustMD
-[submodule "clusterHD"]
-	path = clusterHD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clusterHD
-	subdir = clusterHD
 [submodule "clv"]
 	path = clv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clv
 	subdir = clv
+[submodule "cmenet"]
+	path = cmenet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cmenet
+	subdir = cmenet
 [submodule "combinationpvalues"]
 	path = combinationpvalues
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,11 +367,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dblr
 	subdir = dblr
-[submodule "delma"]
-	path = delma
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/delma
-	subdir = delma
 [submodule "depcoeff"]
 	path = depcoeff
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
