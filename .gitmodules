@@ -712,11 +712,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pMEM
 	subdir = pMEM
-[submodule "panelr"]
-	path = panelr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/panelr
-	subdir = panelr
 [submodule "penPHcure"]
 	path = penPHcure
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -927,11 +922,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidygenomics
 	subdir = tidygenomics
-[submodule "tidyjson"]
-	path = tidyjson
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tidyjson
-	subdir = tidyjson
 [submodule "tipitaka"]
 	path = tipitaka
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
