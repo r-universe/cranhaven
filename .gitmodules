@@ -247,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/activegp
 	subdir = activegp
+[submodule "adaHuber"]
+	path = adaHuber
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/adaHuber
+	subdir = adaHuber
 [submodule "amberr"]
 	path = amberr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -277,11 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesdistreg
 	subdir = bayesdistreg
-[submodule "bayesianETAS"]
-	path = bayesianETAS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bayesianETAS
-	subdir = bayesianETAS
 [submodule "bayestransmission"]
 	path = bayestransmission
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bdc
 	subdir = bdc
-[submodule "bestridge"]
-	path = bestridge
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bestridge
-	subdir = bestridge
 [submodule "bigMap"]
 	path = bigMap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,11 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/captr
 	subdir = captr
-[submodule "chunkR"]
-	path = chunkR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/chunkR
-	subdir = chunkR
 [submodule "cluscov"]
 	path = cluscov
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -587,6 +577,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/infoDecompuTE
 	subdir = infoDecompuTE
+[submodule "infraFDTD.assist"]
+	path = infraFDTD.assist
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/infraFDTD.assist
+	subdir = infraFDTD.assist
 [submodule "intcensROC"]
 	path = intcensROC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -772,6 +767,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qspray
 	subdir = qspray
+[submodule "rCMA"]
+	path = rCMA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rCMA
+	subdir = rCMA
 [submodule "ratioOfQsprays"]
 	path = ratioOfQsprays
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
