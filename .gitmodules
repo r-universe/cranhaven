@@ -32,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CEC
 	subdir = CEC
+[submodule "Canopy"]
+	path = Canopy
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Canopy
+	subdir = Canopy
 [submodule "DEMOVA"]
 	path = DEMOVA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,11 +252,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/activegp
 	subdir = activegp
-[submodule "adaHuber"]
-	path = adaHuber
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/adaHuber
-	subdir = adaHuber
 [submodule "amberr"]
 	path = amberr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bmemLavaan
 	subdir = bmemLavaan
+[submodule "capn"]
+	path = capn
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/capn
+	subdir = capn
 [submodule "captr"]
 	path = captr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clv
 	subdir = clv
-[submodule "cmenet"]
-	path = cmenet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cmenet
-	subdir = cmenet
 [submodule "combinationpvalues"]
 	path = combinationpvalues
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,11 +342,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/communication
 	subdir = communication
-[submodule "concom"]
-	path = concom
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/concom
-	subdir = concom
 [submodule "cpss"]
 	path = cpss
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,21 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dpm
 	subdir = dpm
-[submodule "dsmisc"]
-	path = dsmisc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dsmisc
-	subdir = dsmisc
 [submodule "elastic"]
 	path = elastic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/elastic
 	subdir = elastic
-[submodule "em"]
-	path = em
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/em
-	subdir = em
 [submodule "essentials"]
 	path = essentials
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,11 +382,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastSOM
 	subdir = fastSOM
-[submodule "fastcmh"]
-	path = fastcmh
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fastcmh
-	subdir = fastcmh
 [submodule "fastcmprsk"]
 	path = fastcmprsk
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -682,6 +662,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/netClust
 	subdir = netClust
+[submodule "networkGen"]
+	path = networkGen
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/networkGen
+	subdir = networkGen
 [submodule "nlpred"]
 	path = nlpred
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -922,6 +907,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidygenomics
 	subdir = tidygenomics
+[submodule "tidyindex"]
+	path = tidyindex
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tidyindex
+	subdir = tidyindex
 [submodule "tipitaka"]
 	path = tipitaka
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -942,6 +932,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/unine
 	subdir = unine
+[submodule "validann"]
+	path = validann
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/validann
+	subdir = validann
 [submodule "visaOTR"]
 	path = visaOTR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -952,3 +947,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vortexRdata
 	subdir = vortexRdata
+[submodule "yhatr"]
+	path = yhatr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/yhatr
+	subdir = yhatr
