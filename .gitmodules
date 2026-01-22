@@ -397,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/flamingos
 	subdir = flamingos
-[submodule "fmerPack"]
-	path = fmerPack
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fmerPack
-	subdir = fmerPack
 [submodule "forecastML"]
 	path = forecastML
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -842,6 +837,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sirus
 	subdir = sirus
+[submodule "spBFA"]
+	path = spBFA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spBFA
+	subdir = spBFA
 [submodule "spFW"]
 	path = spFW
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
