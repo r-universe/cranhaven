@@ -642,11 +642,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ncdump
 	subdir = ncdump
-[submodule "netClust"]
-	path = netClust
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/netClust
-	subdir = netClust
 [submodule "networkGen"]
 	path = networkGen
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
