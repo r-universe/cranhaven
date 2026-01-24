@@ -287,11 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayestransmission
 	subdir = bayestransmission
-[submodule "bdc"]
-	path = bdc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bdc
-	subdir = bdc
 [submodule "bigMap"]
 	path = bigMap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
