@@ -387,11 +387,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fasterElasticNet
 	subdir = fasterElasticNet
-[submodule "flamingos"]
-	path = flamingos
+[submodule "fmerPack"]
+	path = fmerPack
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/flamingos
-	subdir = flamingos
+	branch = package/fmerPack
+	subdir = fmerPack
 [submodule "forecastML"]
 	path = forecastML
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -432,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gb
 	subdir = gb
-[submodule "gbp"]
-	path = gbp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gbp
-	subdir = gbp
 [submodule "geoFKF"]
 	path = geoFKF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -512,11 +507,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iccbeta
 	subdir = iccbeta
-[submodule "imbalance"]
-	path = imbalance
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/imbalance
-	subdir = imbalance
 [submodule "imptree"]
 	path = imptree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -707,6 +697,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ppendemic
 	subdir = ppendemic
+[submodule "pumBayes"]
+	path = pumBayes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pumBayes
+	subdir = pumBayes
 [submodule "qpmadr"]
 	path = qpmadr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -762,6 +757,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rfigshare
 	subdir = rfigshare
+[submodule "robustBLME"]
+	path = robustBLME
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/robustBLME
+	subdir = robustBLME
 [submodule "rtk"]
 	path = rtk
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
