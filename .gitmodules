@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LSDsensitivity
 	subdir = LSDsensitivity
-[submodule "MEMSS"]
-	path = MEMSS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MEMSS
-	subdir = MEMSS
 [submodule "MIMER"]
 	path = MIMER
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -362,11 +357,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dpm
 	subdir = dpm
-[submodule "elastic"]
-	path = elastic
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/elastic
-	subdir = elastic
 [submodule "essentials"]
 	path = essentials
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
