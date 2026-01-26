@@ -77,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EpiILMCT
 	subdir = EpiILMCT
+[submodule "GDILM.SEIRS"]
+	path = GDILM.SEIRS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GDILM.SEIRS
+	subdir = GDILM.SEIRS
 [submodule "GPCERF"]
 	path = GPCERF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -377,21 +382,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fasterElasticNet
 	subdir = fasterElasticNet
-[submodule "fmerPack"]
-	path = fmerPack
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fmerPack
-	subdir = fmerPack
 [submodule "forecastML"]
 	path = forecastML
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forecastML
 	subdir = forecastML
-[submodule "fourPNO"]
-	path = fourPNO
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fourPNO
-	subdir = fourPNO
 [submodule "fssemR"]
 	path = fssemR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -422,6 +417,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gb
 	subdir = gb
+[submodule "gbp"]
+	path = gbp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gbp
+	subdir = gbp
 [submodule "geoFKF"]
 	path = geoFKF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -432,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geoFourierFDA
 	subdir = geoFourierFDA
-[submodule "gesso"]
-	path = gesso
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gesso
-	subdir = gesso
 [submodule "gfiExtremes"]
 	path = gfiExtremes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -497,6 +492,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iccbeta
 	subdir = iccbeta
+[submodule "imbalance"]
+	path = imbalance
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/imbalance
+	subdir = imbalance
 [submodule "imptree"]
 	path = imptree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
