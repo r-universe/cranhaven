@@ -317,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cluscov
 	subdir = cluscov
-[submodule "clustMD"]
-	path = clustMD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clustMD
-	subdir = clustMD
 [submodule "clv"]
 	path = clv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
