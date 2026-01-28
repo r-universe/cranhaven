@@ -167,11 +167,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Quandl
 	subdir = Quandl
-[submodule "R.AlphA.Home"]
-	path = R.AlphA.Home
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/R.AlphA.Home
-	subdir = R.AlphA.Home
 [submodule "RCDT"]
 	path = RCDT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
