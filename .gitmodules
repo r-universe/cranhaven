@@ -202,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RIIM
 	subdir = RIIM
+[submodule "RKEEL"]
+	path = RKEEL
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RKEEL
+	subdir = RKEEL
 [submodule "RationalMatrix"]
 	path = RationalMatrix
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -472,6 +477,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/htrSPRanalysis
 	subdir = htrSPRanalysis
+[submodule "humanize"]
+	path = humanize
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/humanize
+	subdir = humanize
 [submodule "inTrees"]
 	path = inTrees
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -562,6 +572,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nlpred
 	subdir = nlpred
+[submodule "onc.api"]
+	path = onc.api
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/onc.api
+	subdir = onc.api
 [submodule "ontologics"]
 	path = ontologics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -587,6 +602,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/parglm
 	subdir = parglm
+[submodule "passport"]
+	path = passport
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/passport
+	subdir = passport
 [submodule "peruflorads43"]
 	path = peruflorads43
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -607,6 +627,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pmhtutorial
 	subdir = pmhtutorial
+[submodule "pmml"]
+	path = pmml
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pmml
+	subdir = pmml
 [submodule "podcleaner"]
 	path = podcleaner
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -617,6 +642,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ppendemic
 	subdir = ppendemic
+[submodule "prisonbrief"]
+	path = prisonbrief
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/prisonbrief
+	subdir = prisonbrief
 [submodule "pumBayes"]
 	path = pumBayes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
