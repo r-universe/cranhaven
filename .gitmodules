@@ -17,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BLCOP
 	subdir = BLCOP
+[submodule "BNPdensity"]
+	path = BNPdensity
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BNPdensity
+	subdir = BNPdensity
 [submodule "BNPmix"]
 	path = BNPmix
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -37,6 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Canopy
 	subdir = Canopy
+[submodule "DEGRE"]
+	path = DEGRE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DEGRE
+	subdir = DEGRE
 [submodule "DEMOVA"]
 	path = DEMOVA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,6 +102,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GRTo
 	subdir = GRTo
+[submodule "GenoScan"]
+	path = GenoScan
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GenoScan
+	subdir = GenoScan
+[submodule "GhostKnockoff"]
+	path = GhostKnockoff
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GhostKnockoff
+	subdir = GhostKnockoff
 [submodule "GofKmt"]
 	path = GofKmt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,6 +147,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/INSPECTumours
 	subdir = INSPECTumours
+[submodule "KnockoffScreen"]
+	path = KnockoffScreen
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/KnockoffScreen
+	subdir = KnockoffScreen
 [submodule "LSDinterface"]
 	path = LSDinterface
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VBJM
 	subdir = VBJM
+[submodule "WGScan"]
+	path = WGScan
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/WGScan
+	subdir = WGScan
 [submodule "WRSS"]
 	path = WRSS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glmc
 	subdir = glmc
+[submodule "graphpcor"]
+	path = graphpcor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/graphpcor
+	subdir = graphpcor
 [submodule "hBayesDM"]
 	path = hBayesDM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,6 +487,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/infraFDTD.assist
 	subdir = infraFDTD.assist
+[submodule "interplex"]
+	path = interplex
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/interplex
+	subdir = interplex
 [submodule "interpolation"]
 	path = interpolation
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -542,6 +582,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pMEM
 	subdir = pMEM
+[submodule "parglm"]
+	path = parglm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/parglm
+	subdir = parglm
 [submodule "peruflorads43"]
 	path = peruflorads43
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -647,11 +692,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sdafilter
 	subdir = sdafilter
+[submodule "seqminer"]
+	path = seqminer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/seqminer
+	subdir = seqminer
 [submodule "serocalculator"]
 	path = serocalculator
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/serocalculator
 	subdir = serocalculator
+[submodule "simplextree"]
+	path = simplextree
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/simplextree
+	subdir = simplextree
 [submodule "simulateDCE"]
 	path = simulateDCE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -682,11 +737,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stpm
 	subdir = stpm
-[submodule "survival.svb"]
-	path = survival.svb
+[submodule "sumFREGAT"]
+	path = sumFREGAT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/survival.svb
-	subdir = survival.svb
+	branch = package/sumFREGAT
+	subdir = sumFREGAT
 [submodule "symbolicQspray"]
 	path = symbolicQspray
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -712,21 +767,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tipitaka
 	subdir = tipitaka
-[submodule "triangulr"]
-	path = triangulr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/triangulr
-	subdir = triangulr
 [submodule "u5mr"]
 	path = u5mr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/u5mr
 	subdir = u5mr
-[submodule "unine"]
-	path = unine
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/unine
-	subdir = unine
 [submodule "validann"]
 	path = validann
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
