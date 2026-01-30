@@ -212,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RationalMatrix
 	subdir = RationalMatrix
-[submodule "Rcpp11"]
-	path = Rcpp11
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Rcpp11
-	subdir = Rcpp11
 [submodule "SBMSplitMerge"]
 	path = SBMSplitMerge
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
