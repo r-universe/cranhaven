@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BNPmix
 	subdir = BNPmix
+[submodule "BayesPIM"]
+	path = BayesPIM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BayesPIM
+	subdir = BayesPIM
 [submodule "BcDiag"]
 	path = BcDiag
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SenTinMixt
 	subdir = SenTinMixt
-[submodule "SeqDetect"]
-	path = SeqDetect
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SeqDetect
-	subdir = SeqDetect
 [submodule "SmoothTensor"]
 	path = SmoothTensor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayestransmission
 	subdir = bayestransmission
-[submodule "bigMap"]
-	path = bigMap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bigMap
-	subdir = bigMap
 [submodule "blaster"]
 	path = blaster
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -387,6 +382,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cpss
 	subdir = cpss
+[submodule "dataset"]
+	path = dataset
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dataset
+	subdir = dataset
 [submodule "dbcsp"]
 	path = dbcsp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,6 +417,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dpm
 	subdir = dpm
+[submodule "easy.glmnet"]
+	path = easy.glmnet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/easy.glmnet
+	subdir = easy.glmnet
 [submodule "essentials"]
 	path = essentials
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -432,6 +437,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastcmprsk
 	subdir = fastcmprsk
+[submodule "fishboot"]
+	path = fishboot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fishboot
+	subdir = fishboot
 [submodule "forecastML"]
 	path = forecastML
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,11 +502,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/growthTrendR
 	subdir = growthTrendR
-[submodule "hBayesDM"]
-	path = hBayesDM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hBayesDM
-	subdir = hBayesDM
 [submodule "hIRT"]
 	path = hIRT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -507,11 +512,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/heterocop
 	subdir = heterocop
-[submodule "heuristicsmineR"]
-	path = heuristicsmineR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/heuristicsmineR
-	subdir = heuristicsmineR
 [submodule "htrSPRanalysis"]
 	path = htrSPRanalysis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -752,6 +752,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/reptiledbr
 	subdir = reptiledbr
+[submodule "retroharmonize"]
+	path = retroharmonize
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/retroharmonize
+	subdir = retroharmonize
 [submodule "revulyticsR"]
 	path = revulyticsR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -792,6 +797,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sdafilter
 	subdir = sdafilter
+[submodule "sephora"]
+	path = sephora
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sephora
+	subdir = sephora
 [submodule "seqminer"]
 	path = seqminer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
