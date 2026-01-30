@@ -632,11 +632,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oshka
 	subdir = oshka
-[submodule "outliers.ts.oga"]
-	path = outliers.ts.oga
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/outliers.ts.oga
-	subdir = outliers.ts.oga
 [submodule "pMEM"]
 	path = pMEM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
