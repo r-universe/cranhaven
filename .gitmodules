@@ -352,11 +352,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/capn
 	subdir = capn
-[submodule "captr"]
-	path = captr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/captr
-	subdir = captr
 [submodule "cluscov"]
 	path = cluscov
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -562,11 +557,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kml3d
 	subdir = kml3d
-[submodule "knitLatex"]
-	path = knitLatex
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/knitLatex
-	subdir = knitLatex
 [submodule "lnmixsurv"]
 	path = lnmixsurv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -877,11 +867,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidyindex
 	subdir = tidyindex
-[submodule "tipitaka"]
-	path = tipitaka
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tipitaka
-	subdir = tipitaka
 [submodule "trafo"]
 	path = trafo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
