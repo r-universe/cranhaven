@@ -517,6 +517,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/humanize
 	subdir = humanize
+[submodule "iBART"]
+	path = iBART
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iBART
+	subdir = iBART
 [submodule "inTrees"]
 	path = inTrees
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -652,6 +657,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/perumammals
 	subdir = perumammals
+[submodule "phers"]
+	path = phers
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/phers
+	subdir = phers
 [submodule "phm"]
 	path = phm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -842,6 +852,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sumFREGAT
 	subdir = sumFREGAT
+[submodule "surveynnet"]
+	path = surveynnet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/surveynnet
+	subdir = surveynnet
 [submodule "symbolicQspray"]
 	path = symbolicQspray
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
