@@ -227,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RCDT
 	subdir = RCDT
+[submodule "RIIM"]
+	path = RIIM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RIIM
+	subdir = RIIM
 [submodule "RKEEL"]
 	path = RKEEL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ascentTraining
 	subdir = ascentTraining
-[submodule "autostats"]
-	path = autostats
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/autostats
-	subdir = autostats
 [submodule "baycn"]
 	path = baycn
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -577,6 +577,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/neatStats
 	subdir = neatStats
+[submodule "netShiny"]
+	path = netShiny
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/netShiny
+	subdir = netShiny
 [submodule "netgwas"]
 	path = netgwas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
