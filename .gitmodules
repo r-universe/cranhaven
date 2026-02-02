@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BlockMissingData
 	subdir = BlockMissingData
+[submodule "CACIMAR"]
+	path = CACIMAR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CACIMAR
+	subdir = CACIMAR
 [submodule "CEC"]
 	path = CEC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NetGreg
 	subdir = NetGreg
+[submodule "Platypus"]
+	path = Platypus
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Platypus
+	subdir = Platypus
 [submodule "QuAnTeTrack"]
 	path = QuAnTeTrack
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/boomer
 	subdir = boomer
+[submodule "bupaverse"]
+	path = bupaverse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bupaverse
+	subdir = bupaverse
 [submodule "capn"]
 	path = capn
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,6 +387,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dbcsp
 	subdir = dbcsp
+[submodule "deepregression"]
+	path = deepregression
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/deepregression
+	subdir = deepregression
+[submodule "deeptrafo"]
+	path = deeptrafo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/deeptrafo
+	subdir = deeptrafo
 [submodule "disk.frame"]
 	path = disk.frame
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -392,6 +417,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/easy.glmnet
 	subdir = easy.glmnet
+[submodule "equaltestMI"]
+	path = equaltestMI
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/equaltestMI
+	subdir = equaltestMI
 [submodule "ez"]
 	path = ez
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -637,6 +667,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/phm
 	subdir = phm
+[submodule "play"]
+	path = play
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/play
+	subdir = play
 [submodule "pleiotest"]
 	path = pleiotest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -662,6 +697,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/prisonbrief
 	subdir = prisonbrief
+[submodule "processmapR"]
+	path = processmapR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/processmapR
+	subdir = processmapR
 [submodule "pryr"]
 	path = pryr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -752,6 +792,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sac
 	subdir = sac
+[submodule "sarp.snowprofile.alignment"]
+	path = sarp.snowprofile.alignment
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sarp.snowprofile.alignment
+	subdir = sarp.snowprofile.alignment
 [submodule "sdafilter"]
 	path = sdafilter
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
