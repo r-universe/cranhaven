@@ -212,31 +212,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NetGreg
 	subdir = NetGreg
-[submodule "ParBayesianOptimization"]
-	path = ParBayesianOptimization
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ParBayesianOptimization
-	subdir = ParBayesianOptimization
 [submodule "QuAnTeTrack"]
 	path = QuAnTeTrack
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/QuAnTeTrack
 	subdir = QuAnTeTrack
-[submodule "Quandl"]
-	path = Quandl
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Quandl
-	subdir = Quandl
 [submodule "RCDT"]
 	path = RCDT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RCDT
 	subdir = RCDT
-[submodule "RIIM"]
-	path = RIIM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RIIM
-	subdir = RIIM
 [submodule "RKEEL"]
 	path = RKEEL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,11 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/activegp
 	subdir = activegp
-[submodule "amberr"]
-	path = amberr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/amberr
-	subdir = amberr
 [submodule "applicable"]
 	path = applicable
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -442,11 +422,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fuzzyjoin
 	subdir = fuzzyjoin
-[submodule "galvanizer"]
-	path = galvanizer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/galvanizer
-	subdir = galvanizer
 [submodule "gb"]
 	path = gb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -622,11 +597,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ontologics
 	subdir = ontologics
-[submodule "oshka"]
-	path = oshka
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/oshka
-	subdir = oshka
 [submodule "pMEM"]
 	path = pMEM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -672,11 +642,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pleiotest
 	subdir = pleiotest
-[submodule "pmhtutorial"]
-	path = pmhtutorial
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pmhtutorial
-	subdir = pmhtutorial
 [submodule "pmml"]
 	path = pmml
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -777,11 +742,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/robustBLME
 	subdir = robustBLME
-[submodule "rtsdata"]
-	path = rtsdata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rtsdata
-	subdir = rtsdata
 [submodule "rwicc"]
 	path = rwicc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
