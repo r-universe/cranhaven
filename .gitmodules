@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AFR
 	subdir = AFR
+[submodule "AnaCoDa"]
+	path = AnaCoDa
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AnaCoDa
+	subdir = AnaCoDa
 [submodule "AncestryMapper"]
 	path = AncestryMapper
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,11 +407,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/doblin
 	subdir = doblin
-[submodule "dpm"]
-	path = dpm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dpm
-	subdir = dpm
 [submodule "easy.glmnet"]
 	path = easy.glmnet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
