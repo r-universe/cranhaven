@@ -532,11 +532,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/interpolation
 	subdir = interpolation
-[submodule "jaccard"]
-	path = jaccard
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/jaccard
-	subdir = jaccard
 [submodule "jack"]
 	path = jack
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
