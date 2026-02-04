@@ -792,6 +792,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/serocalculator
 	subdir = serocalculator
+[submodule "servosphereR"]
+	path = servosphereR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/servosphereR
+	subdir = servosphereR
 [submodule "simplextree"]
 	path = simplextree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
