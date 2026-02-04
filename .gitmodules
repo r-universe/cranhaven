@@ -47,11 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CACIMAR
 	subdir = CACIMAR
-[submodule "CEC"]
-	path = CEC
+[submodule "CIMPLE"]
+	path = CIMPLE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CEC
-	subdir = CEC
+	branch = package/CIMPLE
+	subdir = CIMPLE
 [submodule "Canopy"]
 	path = Canopy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TransGraph
 	subdir = TransGraph
+[submodule "TwoArmSurvSim"]
+	path = TwoArmSurvSim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TwoArmSurvSim
+	subdir = TwoArmSurvSim
 [submodule "VBJM"]
 	path = VBJM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -282,6 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WRSS
 	subdir = WRSS
+[submodule "amanida"]
+	path = amanida
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/amanida
+	subdir = amanida
 [submodule "applicable"]
 	path = applicable
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/communication
 	subdir = communication
+[submodule "dataCompareR"]
+	path = dataCompareR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dataCompareR
+	subdir = dataCompareR
 [submodule "dataset"]
 	path = dataset
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,6 +387,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/doblin
 	subdir = doblin
+[submodule "doublIn"]
+	path = doublIn
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/doublIn
+	subdir = doublIn
 [submodule "easy.glmnet"]
 	path = easy.glmnet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,11 +432,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fuzzyjoin
 	subdir = fuzzyjoin
+[submodule "gaiah"]
+	path = gaiah
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gaiah
+	subdir = gaiah
 [submodule "gb"]
 	path = gb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gb
 	subdir = gb
+[submodule "genogeographer"]
+	path = genogeographer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/genogeographer
+	subdir = genogeographer
 [submodule "gfiExtremes"]
 	path = gfiExtremes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -552,11 +582,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nutriNetwork
 	subdir = nutriNetwork
+[submodule "oRus"]
+	path = oRus
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/oRus
+	subdir = oRus
 [submodule "onc.api"]
 	path = onc.api
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/onc.api
 	subdir = onc.api
+[submodule "oncomsm"]
+	path = oncomsm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/oncomsm
+	subdir = oncomsm
 [submodule "ontologics"]
 	path = ontologics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -602,6 +642,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/phm
 	subdir = phm
+[submodule "placer"]
+	path = placer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/placer
+	subdir = placer
 [submodule "play"]
 	path = play
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -622,6 +667,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ppendemic
 	subdir = ppendemic
+[submodule "predictoR"]
+	path = predictoR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/predictoR
+	subdir = predictoR
 [submodule "prisonbrief"]
 	path = prisonbrief
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -677,6 +727,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rbooster
 	subdir = rbooster
+[submodule "regressoR"]
+	path = regressoR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/regressoR
+	subdir = regressoR
 [submodule "reptiledbr"]
 	path = reptiledbr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -747,6 +802,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/simplextree
 	subdir = simplextree
+[submodule "simpr"]
+	path = simpr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/simpr
+	subdir = simpr
 [submodule "simulateDCE"]
 	path = simulateDCE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -822,11 +882,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/trafo
 	subdir = trafo
+[submodule "traineR"]
+	path = traineR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/traineR
+	subdir = traineR
 [submodule "trimmer"]
 	path = trimmer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/trimmer
 	subdir = trimmer
+[submodule "tvgeom"]
+	path = tvgeom
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tvgeom
+	subdir = tvgeom
 [submodule "validann"]
 	path = validann
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
