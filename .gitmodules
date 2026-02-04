@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BNPdensity
 	subdir = BNPdensity
-[submodule "BNPmix"]
-	path = BNPmix
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BNPmix
-	subdir = BNPmix
 [submodule "BayesPIM"]
 	path = BayesPIM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GofKmt
 	subdir = GofKmt
+[submodule "HDJM"]
+	path = HDJM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HDJM
+	subdir = HDJM
 [submodule "HTGM3D"]
 	path = HTGM3D
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MIMER
 	subdir = MIMER
+[submodule "MPCR"]
+	path = MPCR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MPCR
+	subdir = MPCR
 [submodule "MultIS"]
 	path = MultIS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/QuAnTeTrack
 	subdir = QuAnTeTrack
-[submodule "RCDT"]
-	path = RCDT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RCDT
-	subdir = RCDT
 [submodule "RKEEL"]
 	path = RKEEL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TwoArmSurvSim
 	subdir = TwoArmSurvSim
-[submodule "VBJM"]
-	path = VBJM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/VBJM
-	subdir = VBJM
 [submodule "WGScan"]
 	path = WGScan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,11 +407,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastSOM
 	subdir = fastSOM
-[submodule "fastcmprsk"]
-	path = fastcmprsk
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fastcmprsk
-	subdir = fastcmprsk
 [submodule "fishboot"]
 	path = fishboot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -447,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/genogeographer
 	subdir = genogeographer
-[submodule "gfiExtremes"]
-	path = gfiExtremes
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gfiExtremes
-	subdir = gfiExtremes
 [submodule "ggsector"]
 	path = ggsector
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -537,6 +522,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kml3d
 	subdir = kml3d
+[submodule "lnmixsurv"]
+	path = lnmixsurv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lnmixsurv
+	subdir = lnmixsurv
 [submodule "longitudinalData"]
 	path = longitudinalData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -727,6 +717,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rbooster
 	subdir = rbooster
+[submodule "rbridge"]
+	path = rbridge
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rbridge
+	subdir = rbridge
 [submodule "regressoR"]
 	path = regressoR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
