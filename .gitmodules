@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "AFR"]
-	path = AFR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AFR
-	subdir = AFR
 [submodule "AnaCoDa"]
 	path = AnaCoDa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DEMOVA
 	subdir = DEMOVA
-[submodule "DatAssim"]
-	path = DatAssim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DatAssim
-	subdir = DatAssim
 [submodule "Diderot"]
 	path = Diderot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GofKmt
 	subdir = GofKmt
-[submodule "HDJM"]
-	path = HDJM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HDJM
-	subdir = HDJM
 [submodule "HTGM3D"]
 	path = HTGM3D
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MIMER
 	subdir = MIMER
-[submodule "MPCR"]
-	path = MPCR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MPCR
-	subdir = MPCR
 [submodule "MultIS"]
 	path = MultIS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,11 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WRSS
 	subdir = WRSS
-[submodule "activegp"]
-	path = activegp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/activegp
-	subdir = activegp
 [submodule "applicable"]
 	path = applicable
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -362,11 +337,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/communication
 	subdir = communication
-[submodule "cpss"]
-	path = cpss
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cpss
-	subdir = cpss
 [submodule "dataset"]
 	path = dataset
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -537,31 +507,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kml3d
 	subdir = kml3d
-[submodule "lnmixsurv"]
-	path = lnmixsurv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lnmixsurv
-	subdir = lnmixsurv
 [submodule "longitudinalData"]
 	path = longitudinalData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/longitudinalData
 	subdir = longitudinalData
-[submodule "lvmcomp"]
-	path = lvmcomp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lvmcomp
-	subdir = lvmcomp
 [submodule "mlmts"]
 	path = mlmts
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mlmts
 	subdir = mlmts
-[submodule "mlxR"]
-	path = mlxR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mlxR
-	subdir = mlxR
 [submodule "neatStats"]
 	path = neatStats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -652,11 +607,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/play
 	subdir = play
-[submodule "pleiotest"]
-	path = pleiotest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pleiotest
-	subdir = pleiotest
 [submodule "pmml"]
 	path = pmml
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -727,11 +677,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rbooster
 	subdir = rbooster
-[submodule "rbridge"]
-	path = rbridge
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rbridge
-	subdir = rbridge
 [submodule "reptiledbr"]
 	path = reptiledbr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -822,11 +767,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spBFA
 	subdir = spBFA
-[submodule "starvz"]
-	path = starvz
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/starvz
-	subdir = starvz
 [submodule "steps"]
 	path = steps
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -887,11 +827,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/trimmer
 	subdir = trimmer
-[submodule "u5mr"]
-	path = u5mr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/u5mr
-	subdir = u5mr
 [submodule "validann"]
 	path = validann
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
