@@ -592,11 +592,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/npIntFactRep
 	subdir = npIntFactRep
-[submodule "numbat"]
-	path = numbat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/numbat
-	subdir = numbat
 [submodule "nutriNetwork"]
 	path = nutriNetwork
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
