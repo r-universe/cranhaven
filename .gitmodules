@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BNPdensity
 	subdir = BNPdensity
+[submodule "BNPmix"]
+	path = BNPmix
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BNPmix
+	subdir = BNPmix
 [submodule "BayesPIM"]
 	path = BayesPIM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -122,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GofKmt
 	subdir = GofKmt
-[submodule "HDJM"]
-	path = HDJM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HDJM
-	subdir = HDJM
 [submodule "HTGM3D"]
 	path = HTGM3D
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MIMER
 	subdir = MIMER
-[submodule "MPCR"]
-	path = MPCR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MPCR
-	subdir = MPCR
 [submodule "MultIS"]
 	path = MultIS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/QuAnTeTrack
 	subdir = QuAnTeTrack
+[submodule "RCDT"]
+	path = RCDT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RCDT
+	subdir = RCDT
 [submodule "RKEEL"]
 	path = RKEEL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,11 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayestransmission
 	subdir = bayestransmission
-[submodule "blaster"]
-	path = blaster
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/blaster
-	subdir = blaster
 [submodule "boomer"]
 	path = boomer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clv
 	subdir = clv
-[submodule "communication"]
-	path = communication
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/communication
-	subdir = communication
 [submodule "dataCompareR"]
 	path = dataCompareR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -407,6 +397,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastSOM
 	subdir = fastSOM
+[submodule "fastcmprsk"]
+	path = fastcmprsk
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fastcmprsk
+	subdir = fastcmprsk
 [submodule "fishboot"]
 	path = fishboot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -642,6 +637,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/play
 	subdir = play
+[submodule "pleiotest"]
+	path = pleiotest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pleiotest
+	subdir = pleiotest
 [submodule "pmml"]
 	path = pmml
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -717,11 +717,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rbooster
 	subdir = rbooster
-[submodule "rbridge"]
-	path = rbridge
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rbridge
-	subdir = rbridge
 [submodule "regressoR"]
 	path = regressoR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
