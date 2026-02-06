@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "AFR"]
+	path = AFR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AFR
+	subdir = AFR
 [submodule "AnaCoDa"]
 	path = AnaCoDa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -22,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BNPdensity
 	subdir = BNPdensity
-[submodule "BNPmix"]
-	path = BNPmix
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BNPmix
-	subdir = BNPmix
 [submodule "BayesPIM"]
 	path = BayesPIM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/QuAnTeTrack
 	subdir = QuAnTeTrack
-[submodule "RCDT"]
-	path = RCDT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RCDT
-	subdir = RCDT
 [submodule "RKEEL"]
 	path = RKEEL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,11 +407,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastSOM
 	subdir = fastSOM
-[submodule "fastcmprsk"]
-	path = fastcmprsk
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fastcmprsk
-	subdir = fastcmprsk
 [submodule "fishboot"]
 	path = fishboot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -632,6 +622,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/perumammals
 	subdir = perumammals
+[submodule "pgenlibr"]
+	path = pgenlibr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pgenlibr
+	subdir = pgenlibr
 [submodule "phers"]
 	path = phers
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -652,11 +647,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/play
 	subdir = play
-[submodule "pleiotest"]
-	path = pleiotest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pleiotest
-	subdir = pleiotest
 [submodule "pmml"]
 	path = pmml
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -907,6 +897,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tvgeom
 	subdir = tvgeom
+[submodule "unigd"]
+	path = unigd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/unigd
+	subdir = unigd
 [submodule "validann"]
 	path = validann
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
