@@ -377,11 +377,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/doublIn
 	subdir = doublIn
-[submodule "dream"]
-	path = dream
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dream
-	subdir = dream
 [submodule "easy.glmnet"]
 	path = easy.glmnet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
