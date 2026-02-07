@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "AFR"]
-	path = AFR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AFR
-	subdir = AFR
 [submodule "AnaCoDa"]
 	path = AnaCoDa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -522,16 +517,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kml3d
 	subdir = kml3d
-[submodule "lnmixsurv"]
-	path = lnmixsurv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lnmixsurv
-	subdir = lnmixsurv
 [submodule "longitudinalData"]
 	path = longitudinalData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/longitudinalData
 	subdir = longitudinalData
+[submodule "lvmcomp"]
+	path = lvmcomp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lvmcomp
+	subdir = lvmcomp
 [submodule "mlmts"]
 	path = mlmts
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -722,6 +717,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rbooster
 	subdir = rbooster
+[submodule "rbridge"]
+	path = rbridge
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rbridge
+	subdir = rbridge
 [submodule "regressoR"]
 	path = regressoR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -857,6 +857,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/symbolicQspray
 	subdir = symbolicQspray
+[submodule "tdigest"]
+	path = tdigest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tdigest
+	subdir = tdigest
 [submodule "tidyUSDA"]
 	path = tidyUSDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
