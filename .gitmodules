@@ -382,11 +382,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/doublIn
 	subdir = doublIn
-[submodule "easy.glmnet"]
-	path = easy.glmnet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/easy.glmnet
-	subdir = easy.glmnet
 [submodule "emodnet.wfs"]
 	path = emodnet.wfs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
