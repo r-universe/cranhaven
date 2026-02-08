@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GofKmt
 	subdir = GofKmt
-[submodule "HTGM3D"]
-	path = HTGM3D
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HTGM3D
-	subdir = HTGM3D
 [submodule "HeteroGGM"]
 	path = HeteroGGM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
