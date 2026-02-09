@@ -677,11 +677,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ptspotter
 	subdir = ptspotter
-[submodule "pumBayes"]
-	path = pumBayes
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pumBayes
-	subdir = pumBayes
 [submodule "qs"]
 	path = qs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
