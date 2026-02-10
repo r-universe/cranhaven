@@ -847,11 +847,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidyindex
 	subdir = tidyindex
-[submodule "tidywikidatar"]
-	path = tidywikidatar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tidywikidatar
-	subdir = tidywikidatar
 [submodule "trafo"]
 	path = trafo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
