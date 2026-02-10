@@ -182,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NetGreg
 	subdir = NetGreg
+[submodule "PUlasso"]
+	path = PUlasso
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PUlasso
+	subdir = PUlasso
 [submodule "Platypus"]
 	path = Platypus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,11 +232,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SparseTSCGM
 	subdir = SparseTSCGM
-[submodule "Spillover"]
-	path = Spillover
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Spillover
-	subdir = Spillover
 [submodule "TSEAL"]
 	path = TSEAL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,6 +437,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggsector
 	subdir = ggsector
+[submodule "giacR"]
+	path = giacR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/giacR
+	subdir = giacR
 [submodule "glmc"]
 	path = glmc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -552,6 +557,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nutriNetwork
 	subdir = nutriNetwork
+[submodule "nycOpenData"]
+	path = nycOpenData
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nycOpenData
+	subdir = nycOpenData
 [submodule "oRus"]
 	path = oRus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -577,11 +587,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ooplah
 	subdir = ooplah
-[submodule "pMEM"]
-	path = pMEM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pMEM
-	subdir = pMEM
 [submodule "parglm"]
 	path = parglm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
