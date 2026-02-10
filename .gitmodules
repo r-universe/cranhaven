@@ -517,6 +517,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/longitudinalData
 	subdir = longitudinalData
+[submodule "lwqs"]
+	path = lwqs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lwqs
+	subdir = lwqs
 [submodule "mlmts"]
 	path = mlmts
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
