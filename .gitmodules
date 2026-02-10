@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesPIM
 	subdir = BayesPIM
-[submodule "BcDiag"]
-	path = BcDiag
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BcDiag
-	subdir = BcDiag
 [submodule "BlockMissingData"]
 	path = BlockMissingData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SparseTSCGM
 	subdir = SparseTSCGM
+[submodule "Spillover"]
+	path = Spillover
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Spillover
+	subdir = Spillover
 [submodule "TSEAL"]
 	path = TSEAL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -587,6 +587,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ooplah
 	subdir = ooplah
+[submodule "pMEM"]
+	path = pMEM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pMEM
+	subdir = pMEM
 [submodule "parglm"]
 	path = parglm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -692,11 +697,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rCMA
 	subdir = rCMA
-[submodule "rbooster"]
-	path = rbooster
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rbooster
-	subdir = rbooster
 [submodule "refdb"]
 	path = refdb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
