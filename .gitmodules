@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesPIM
 	subdir = BayesPIM
+[submodule "BcDiag"]
+	path = BcDiag
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BcDiag
+	subdir = BcDiag
 [submodule "BlockMissingData"]
 	path = BlockMissingData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GhostKnockoff
 	subdir = GhostKnockoff
-[submodule "GofKmt"]
-	path = GofKmt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GofKmt
-	subdir = GofKmt
 [submodule "HeteroGGM"]
 	path = HeteroGGM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SLBDD
 	subdir = SLBDD
+[submodule "SLmetrics"]
+	path = SLmetrics
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SLmetrics
+	subdir = SLmetrics
 [submodule "SenTinMixt"]
 	path = SenTinMixt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
