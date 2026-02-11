@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ESTER
 	subdir = ESTER
-[submodule "EcoCleanR"]
-	path = EcoCleanR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EcoCleanR
-	subdir = EcoCleanR
 [submodule "EpiILMCT"]
 	path = EpiILMCT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
