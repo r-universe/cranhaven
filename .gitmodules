@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesPIM
 	subdir = BayesPIM
-[submodule "BcDiag"]
-	path = BcDiag
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BcDiag
-	subdir = BcDiag
 [submodule "BlockMissingData"]
 	path = BlockMissingData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,6 +52,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CaseBasedReasoning
 	subdir = CaseBasedReasoning
+[submodule "ChinAPIs"]
+	path = ChinAPIs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ChinAPIs
+	subdir = ChinAPIs
 [submodule "DEGRE"]
 	path = DEGRE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GhostKnockoff
 	subdir = GhostKnockoff
+[submodule "GofKmt"]
+	path = GofKmt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GofKmt
+	subdir = GofKmt
 [submodule "HeteroGGM"]
 	path = HeteroGGM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,11 +232,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SparseTSCGM
 	subdir = SparseTSCGM
-[submodule "Spillover"]
-	path = Spillover
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Spillover
-	subdir = Spillover
 [submodule "TSEAL"]
 	path = TSEAL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,6 +332,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clv
 	subdir = clv
+[submodule "codebookr"]
+	path = codebookr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/codebookr
+	subdir = codebookr
 [submodule "dataCompareR"]
 	path = dataCompareR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,11 +402,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ez
 	subdir = ez
-[submodule "fastSOM"]
-	path = fastSOM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fastSOM
-	subdir = fastSOM
 [submodule "fishboot"]
 	path = fishboot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -652,6 +652,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pmml
 	subdir = pmml
+[submodule "pmmlTransformations"]
+	path = pmmlTransformations
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pmmlTransformations
+	subdir = pmmlTransformations
 [submodule "podcleaner"]
 	path = podcleaner
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
