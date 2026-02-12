@@ -152,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MIMER
 	subdir = MIMER
+[submodule "MOSAlloc"]
+	path = MOSAlloc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MOSAlloc
+	subdir = MOSAlloc
 [submodule "MultIS"]
 	path = MultIS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,6 +322,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/capn
 	subdir = capn
+[submodule "cardargus"]
+	path = cardargus
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cardargus
+	subdir = cardargus
 [submodule "clv"]
 	path = clv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggsector
 	subdir = ggsector
-[submodule "giacR"]
-	path = giacR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/giacR
-	subdir = giacR
 [submodule "glmc"]
 	path = glmc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -577,11 +582,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ooplah
 	subdir = ooplah
-[submodule "pMEM"]
-	path = pMEM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pMEM
-	subdir = pMEM
 [submodule "parglm"]
 	path = parglm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
