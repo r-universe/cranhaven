@@ -442,11 +442,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/graphpcor
 	subdir = graphpcor
-[submodule "growthTrendR"]
-	path = growthTrendR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/growthTrendR
-	subdir = growthTrendR
 [submodule "hIRT"]
 	path = hIRT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
