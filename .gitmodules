@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GhostKnockoff
 	subdir = GhostKnockoff
-[submodule "GofKmt"]
-	path = GofKmt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GofKmt
-	subdir = GofKmt
 [submodule "HeteroGGM"]
 	path = HeteroGGM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -857,6 +852,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidyindex
 	subdir = tidyindex
+[submodule "tosr"]
+	path = tosr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tosr
+	subdir = tosr
 [submodule "trafo"]
 	path = trafo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
