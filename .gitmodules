@@ -67,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Diderot
 	subdir = Diderot
-[submodule "Dimodal"]
-	path = Dimodal
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Dimodal
-	subdir = Dimodal
 [submodule "DoLa"]
 	path = DoLa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ICAMS
 	subdir = ICAMS
-[submodule "ICRanks"]
-	path = ICRanks
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ICRanks
-	subdir = ICRanks
 [submodule "IGoRRR"]
 	path = IGoRRR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RcmdrPlugin.EACSPIR
 	subdir = RcmdrPlugin.EACSPIR
-[submodule "SLBDD"]
-	path = SLBDD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SLBDD
-	subdir = SLBDD
 [submodule "SLmetrics"]
 	path = SLmetrics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,11 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/baycn
 	subdir = baycn
-[submodule "bayestransmission"]
-	path = bayestransmission
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bayestransmission
-	subdir = bayestransmission
 [submodule "boomer"]
 	path = boomer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,11 +307,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cardargus
 	subdir = cardargus
-[submodule "clv"]
-	path = clv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clv
-	subdir = clv
 [submodule "codebookr"]
 	path = codebookr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -432,11 +407,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/genogeographer
 	subdir = genogeographer
-[submodule "ggsector"]
-	path = ggsector
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ggsector
-	subdir = ggsector
 [submodule "glmc"]
 	path = glmc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -762,11 +732,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seqminer
 	subdir = seqminer
-[submodule "serocalculator"]
-	path = serocalculator
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/serocalculator
-	subdir = serocalculator
 [submodule "servosphereR"]
 	path = servosphereR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
