@@ -167,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WikidataR
 	subdir = WikidataR
+[submodule "XRPython"]
+	path = XRPython
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/XRPython
+	subdir = XRPython
 [submodule "adaptMT"]
 	path = adaptMT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
