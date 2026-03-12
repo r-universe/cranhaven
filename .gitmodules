@@ -92,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NNTbiomarker
 	subdir = NNTbiomarker
-[submodule "NNbenchmark"]
-	path = NNbenchmark
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NNbenchmark
-	subdir = NNbenchmark
 [submodule "PMAPscore"]
 	path = PMAPscore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
