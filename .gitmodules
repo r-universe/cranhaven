@@ -202,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/binGroup2
 	subdir = binGroup2
-[submodule "brokenstick"]
-	path = brokenstick
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/brokenstick
-	subdir = brokenstick
 [submodule "bunddev"]
 	path = bunddev
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
