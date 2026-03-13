@@ -87,6 +87,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MLModelSelection
 	subdir = MLModelSelection
+[submodule "N2R"]
+	path = N2R
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/N2R
+	subdir = N2R
 [submodule "NNTbiomarker"]
 	path = NNTbiomarker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/circularEV
 	subdir = circularEV
+[submodule "conos"]
+	path = conos
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/conos
+	subdir = conos
 [submodule "contoureR"]
 	path = contoureR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -362,6 +372,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/optimflex
 	subdir = optimflex
+[submodule "pagoda2"]
+	path = pagoda2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pagoda2
+	subdir = pagoda2
 [submodule "pannotator"]
 	path = pannotator
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -387,11 +402,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pmmlTransformations
 	subdir = pmmlTransformations
-[submodule "poLCAParallel"]
-	path = poLCAParallel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/poLCAParallel
-	subdir = poLCAParallel
 [submodule "prioGene"]
 	path = prioGene
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
