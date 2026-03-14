@@ -482,11 +482,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/taxotools
 	subdir = taxotools
-[submodule "tdigest"]
-	path = tdigest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tdigest
-	subdir = tdigest
 [submodule "tensorEVD"]
 	path = tensorEVD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
