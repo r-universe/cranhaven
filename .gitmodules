@@ -412,11 +412,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/quadtree
 	subdir = quadtree
-[submodule "rMVP"]
-	path = rMVP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rMVP
-	subdir = rMVP
 [submodule "rabi"]
 	path = rabi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
