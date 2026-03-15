@@ -12,6 +12,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AutoPipe
 	subdir = AutoPipe
+[submodule "BIGDAWG"]
+	path = BIGDAWG
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BIGDAWG
+	subdir = BIGDAWG
 [submodule "BayesDLMfMRI"]
 	path = BayesDLMfMRI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -72,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ICDS
 	subdir = ICDS
+[submodule "IFP"]
+	path = IFP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/IFP
+	subdir = IFP
 [submodule "INetTool"]
 	path = INetTool
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,6 +147,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SLmetrics
 	subdir = SLmetrics
+[submodule "SNPassoc"]
+	path = SNPassoc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SNPassoc
+	subdir = SNPassoc
 [submodule "SafeMapper"]
 	path = SafeMapper
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,6 +282,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gwavr
 	subdir = gwavr
+[submodule "haplo.ccs"]
+	path = haplo.ccs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/haplo.ccs
+	subdir = haplo.ccs
+[submodule "haplo.stats"]
+	path = haplo.stats
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/haplo.stats
+	subdir = haplo.stats
 [submodule "leaflet.extras"]
 	path = leaflet.extras
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,6 +392,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pmmlTransformations
 	subdir = pmmlTransformations
+[submodule "pould"]
+	path = pould
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pould
+	subdir = pould
 [submodule "prioGene"]
 	path = prioGene
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
