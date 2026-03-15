@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SafeMapper
 	subdir = SafeMapper
-[submodule "ShinyLink"]
-	path = ShinyLink
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ShinyLink
-	subdir = ShinyLink
 [submodule "SimSurvNMarker"]
 	path = SimSurvNMarker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,16 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VAJointSurv
 	subdir = VAJointSurv
-[submodule "WikidataQueryServiceR"]
-	path = WikidataQueryServiceR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/WikidataQueryServiceR
-	subdir = WikidataQueryServiceR
-[submodule "WikidataR"]
-	path = WikidataR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/WikidataR
-	subdir = WikidataR
 [submodule "XRPython"]
 	path = XRPython
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,21 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/deformula
 	subdir = deformula
-[submodule "dictionar6"]
-	path = dictionar6
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dictionar6
-	subdir = dictionar6
 [submodule "dtlcor"]
 	path = dtlcor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dtlcor
 	subdir = dtlcor
-[submodule "emodnet.wfs"]
-	path = emodnet.wfs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/emodnet.wfs
-	subdir = emodnet.wfs
 [submodule "event"]
 	path = event
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/oceanis
 	subdir = oceanis
-[submodule "ooplah"]
-	path = ooplah
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ooplah
-	subdir = ooplah
 [submodule "optimflex"]
 	path = optimflex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -472,11 +442,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tarchives
 	subdir = tarchives
-[submodule "taxotools"]
-	path = taxotools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/taxotools
-	subdir = taxotools
 [submodule "tensorEVD"]
 	path = tensorEVD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -507,11 +472,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wallace
 	subdir = wallace
-[submodule "wklsr"]
-	path = wklsr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wklsr
-	subdir = wklsr
 [submodule "wowa"]
 	path = wowa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
