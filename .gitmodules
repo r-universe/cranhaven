@@ -222,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/circularEV
 	subdir = circularEV
+[submodule "clinTrialData"]
+	path = clinTrialData
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clinTrialData
+	subdir = clinTrialData
 [submodule "conos"]
 	path = conos
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,6 +497,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vascr
 	subdir = vascr
+[submodule "vegdata"]
+	path = vegdata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vegdata
+	subdir = vegdata
+[submodule "vegtable"]
+	path = vegtable
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vegtable
+	subdir = vegtable
 [submodule "wallace"]
 	path = wallace
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
