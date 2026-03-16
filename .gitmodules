@@ -192,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ammistability
 	subdir = ammistability
+[submodule "animalEKF"]
+	path = animalEKF
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/animalEKF
+	subdir = animalEKF
 [submodule "apc"]
 	path = apc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,16 +372,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pagoda2
 	subdir = pagoda2
-[submodule "pannotator"]
-	path = pannotator
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pannotator
-	subdir = pannotator
-[submodule "pdxTrees"]
-	path = pdxTrees
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pdxTrees
-	subdir = pdxTrees
 [submodule "photon"]
 	path = photon
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
