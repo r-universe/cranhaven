@@ -312,11 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leafletZH
 	subdir = leafletZH
-[submodule "lwqs"]
-	path = lwqs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lwqs
-	subdir = lwqs
 [submodule "mapfit"]
 	path = mapfit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
