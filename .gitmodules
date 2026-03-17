@@ -277,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/groupTesting
 	subdir = groupTesting
+[submodule "groupedHyperframe.random"]
+	path = groupedHyperframe.random
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/groupedHyperframe.random
+	subdir = groupedHyperframe.random
 [submodule "growfunctions"]
 	path = growfunctions
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,6 +302,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/haplo.stats
 	subdir = haplo.stats
+[submodule "hyper.gam"]
+	path = hyper.gam
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hyper.gam
+	subdir = hyper.gam
 [submodule "leaflet.extras"]
 	path = leaflet.extras
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,6 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mapsFinland
 	subdir = mapsFinland
+[submodule "maxEff"]
+	path = maxEff
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/maxEff
+	subdir = maxEff
 [submodule "measles"]
 	path = measles
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
