@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/circularEV
 	subdir = circularEV
-[submodule "clinTrialData"]
-	path = clinTrialData
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clinTrialData
-	subdir = clinTrialData
 [submodule "conos"]
 	path = conos
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
