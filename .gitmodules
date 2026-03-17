@@ -427,6 +427,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rabi
 	subdir = rabi
+[submodule "reactablefmtr"]
+	path = reactablefmtr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/reactablefmtr
+	subdir = reactablefmtr
 [submodule "rubias"]
 	path = rubias
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -472,6 +477,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/support
 	subdir = support
+[submodule "survMisc"]
+	path = survMisc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/survMisc
+	subdir = survMisc
 [submodule "survivalMPLdc"]
 	path = survivalMPLdc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
