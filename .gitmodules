@@ -277,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/groupTesting
 	subdir = groupTesting
+[submodule "groupedHyperframe"]
+	path = groupedHyperframe
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/groupedHyperframe
+	subdir = groupedHyperframe
 [submodule "groupedHyperframe.random"]
 	path = groupedHyperframe.random
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
