@@ -627,6 +627,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/reactablefmtr
 	subdir = reactablefmtr
+[submodule "revengc"]
+	path = revengc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/revengc
+	subdir = revengc
+[submodule "rollmatch"]
+	path = rollmatch
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rollmatch
+	subdir = rollmatch
+[submodule "rprev"]
+	path = rprev
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rprev
+	subdir = rprev
 [submodule "rubias"]
 	path = rubias
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -652,11 +667,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scRNAtools
 	subdir = scRNAtools
+[submodule "sfo"]
+	path = sfo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sfo
+	subdir = sfo
 [submodule "shiny.reglog"]
 	path = shiny.reglog
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shiny.reglog
 	subdir = shiny.reglog
+[submodule "slp"]
+	path = slp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/slp
+	subdir = slp
 [submodule "soilassessment"]
 	path = soilassessment
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -692,6 +717,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tensorEVD
 	subdir = tensorEVD
+[submodule "timelineS"]
+	path = timelineS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/timelineS
+	subdir = timelineS
 [submodule "timeseriesdb"]
 	path = timeseriesdb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
