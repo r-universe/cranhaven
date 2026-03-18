@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SATS
 	subdir = SATS
-[submodule "SLmetrics"]
-	path = SLmetrics
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SLmetrics
-	subdir = SLmetrics
 [submodule "SNPassoc"]
 	path = SNPassoc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
