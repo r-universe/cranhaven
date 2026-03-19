@@ -742,11 +742,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/timeseriesdb
 	subdir = timeseriesdb
-[submodule "tosr"]
-	path = tosr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tosr
-	subdir = tosr
 [submodule "trafficCAR"]
 	path = trafficCAR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
