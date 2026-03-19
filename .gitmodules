@@ -592,11 +592,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/plotBart
 	subdir = plotBart
-[submodule "pmmlTransformations"]
-	path = pmmlTransformations
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pmmlTransformations
-	subdir = pmmlTransformations
 [submodule "pould"]
 	path = pould
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
