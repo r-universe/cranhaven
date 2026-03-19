@@ -182,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Peacock.test
 	subdir = Peacock.test
+[submodule "PhageCocktail"]
+	path = PhageCocktail
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PhageCocktail
+	subdir = PhageCocktail
 [submodule "PowerUpR"]
 	path = PowerUpR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/binGroup2
 	subdir = binGroup2
+[submodule "blockcluster"]
+	path = blockcluster
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/blockcluster
+	subdir = blockcluster
 [submodule "bunddev"]
 	path = bunddev
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dtlcor
 	subdir = dtlcor
+[submodule "econetwork"]
+	path = econetwork
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/econetwork
+	subdir = econetwork
 [submodule "eesim"]
 	path = eesim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -637,6 +652,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rprev
 	subdir = rprev
+[submodule "rtkore"]
+	path = rtkore
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rtkore
+	subdir = rtkore
 [submodule "rubias"]
 	path = rubias
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
