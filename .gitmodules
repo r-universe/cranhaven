@@ -182,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PowerUpR
 	subdir = PowerUpR
+[submodule "Rata"]
+	path = Rata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rata
+	subdir = Rata
 [submodule "RcmdrPlugin.MA"]
 	path = RcmdrPlugin.MA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ReturnCurves
 	subdir = ReturnCurves
+[submodule "Rmst"]
+	path = Rmst
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rmst
+	subdir = Rmst
 [submodule "SATS"]
 	path = SATS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -282,6 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/apc
 	subdir = apc
+[submodule "aramappings"]
+	path = aramappings
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/aramappings
+	subdir = aramappings
 [submodule "auctestr"]
 	path = auctestr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,6 +397,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eyeRead
 	subdir = eyeRead
+[submodule "fdars"]
+	path = fdars
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fdars
+	subdir = fdars
 [submodule "fechner"]
 	path = fechner
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,6 +432,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gitgadget
 	subdir = gitgadget
+[submodule "glpkAPI"]
+	path = glpkAPI
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/glpkAPI
+	subdir = glpkAPI
+[submodule "gromovlab"]
+	path = gromovlab
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gromovlab
+	subdir = gromovlab
 [submodule "groupTesting"]
 	path = groupTesting
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,6 +497,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leafletZH
 	subdir = leafletZH
+[submodule "llamaR"]
+	path = llamaR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/llamaR
+	subdir = llamaR
 [submodule "llbayesireg"]
 	path = llbayesireg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -732,3 +767,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wowa
 	subdir = wowa
+[submodule "xxIRT"]
+	path = xxIRT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/xxIRT
+	subdir = xxIRT
