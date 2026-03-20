@@ -117,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IFP
 	subdir = IFP
-[submodule "INetTool"]
-	path = INetTool
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/INetTool
-	subdir = INetTool
 [submodule "ISOpureR"]
 	path = ISOpureR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MDMAPR
 	subdir = MDMAPR
-[submodule "MLModelSelection"]
-	path = MLModelSelection
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MLModelSelection
-	subdir = MLModelSelection
 [submodule "MSiP"]
 	path = MSiP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,11 +307,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bunddev
 	subdir = bunddev
-[submodule "cglm"]
-	path = cglm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cglm
-	subdir = cglm
 [submodule "circularEV"]
 	path = circularEV
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -442,11 +427,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/groupedHyperframe.random
 	subdir = groupedHyperframe.random
-[submodule "growfunctions"]
-	path = growfunctions
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/growfunctions
-	subdir = growfunctions
 [submodule "gwavr"]
 	path = gwavr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -522,11 +502,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/measles
 	subdir = measles
-[submodule "metapack"]
-	path = metapack
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/metapack
-	subdir = metapack
 [submodule "microhaplot"]
 	path = microhaplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -702,11 +677,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ssdGSA
 	subdir = ssdGSA
-[submodule "support"]
-	path = support
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/support
-	subdir = support
 [submodule "survMisc"]
 	path = survMisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -722,11 +692,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tarchives
 	subdir = tarchives
-[submodule "tensorEVD"]
-	path = tensorEVD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tensorEVD
-	subdir = tensorEVD
 [submodule "timelineS"]
 	path = timelineS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
