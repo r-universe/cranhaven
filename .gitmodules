@@ -617,11 +617,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/prioGene
 	subdir = prioGene
-[submodule "pulsar"]
-	path = pulsar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pulsar
-	subdir = pulsar
 [submodule "quadtree"]
 	path = quadtree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
