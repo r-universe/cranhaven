@@ -27,6 +27,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BIGDAWG
 	subdir = BIGDAWG
+[submodule "BMRBr"]
+	path = BMRBr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BMRBr
+	subdir = BMRBr
+[submodule "BRDT"]
+	path = BRDT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BRDT
+	subdir = BRDT
 [submodule "BayesDA"]
 	path = BayesDA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,6 +57,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BiSEp
 	subdir = BiSEp
+[submodule "Biostatistics"]
+	path = Biostatistics
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Biostatistics
+	subdir = Biostatistics
 [submodule "CollapseLevels"]
 	path = CollapseLevels
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,6 +72,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DBTCShiny
 	subdir = DBTCShiny
+[submodule "DCEM"]
+	path = DCEM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DCEM
+	subdir = DCEM
+[submodule "DMTL"]
+	path = DMTL
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DMTL
+	subdir = DMTL
+[submodule "DynaRankR"]
+	path = DynaRankR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DynaRankR
+	subdir = DynaRankR
 [submodule "EventDetectGUI"]
 	path = EventDetectGUI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,6 +157,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MDMAPR
 	subdir = MDMAPR
+[submodule "MSRDT"]
+	path = MSRDT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MSRDT
+	subdir = MSRDT
 [submodule "MSiP"]
 	path = MSiP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,6 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MixviR
 	subdir = MixviR
+[submodule "MoLE"]
+	path = MoLE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MoLE
+	subdir = MoLE
 [submodule "Momocs"]
 	path = Momocs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MonteCarlo
 	subdir = MonteCarlo
+[submodule "MullerPlot"]
+	path = MullerPlot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MullerPlot
+	subdir = MullerPlot
 [submodule "N2R"]
 	path = N2R
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PowerUpR
 	subdir = PowerUpR
+[submodule "RTTWebClient"]
+	path = RTTWebClient
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RTTWebClient
+	subdir = RTTWebClient
 [submodule "Rata"]
 	path = Rata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RcppStreams
 	subdir = RcppStreams
+[submodule "RepertoiR"]
+	path = RepertoiR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RepertoiR
+	subdir = RepertoiR
 [submodule "ReturnCurves"]
 	path = ReturnCurves
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SATS
 	subdir = SATS
+[submodule "SDEFSR"]
+	path = SDEFSR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SDEFSR
+	subdir = SDEFSR
 [submodule "SMCRM"]
 	path = SMCRM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +292,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SNPassoc
 	subdir = SNPassoc
+[submodule "SWIM"]
+	path = SWIM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SWIM
+	subdir = SWIM
 [submodule "SafeMapper"]
 	path = SafeMapper
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SafeMapper
 	subdir = SafeMapper
+[submodule "SemiEstimate"]
+	path = SemiEstimate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SemiEstimate
+	subdir = SemiEstimate
 [submodule "SimSurvNMarker"]
 	path = SimSurvNMarker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,11 +332,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/VetResearchLMM
 	subdir = VetResearchLMM
+[submodule "ViSiElse"]
+	path = ViSiElse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ViSiElse
+	subdir = ViSiElse
+[submodule "VorteksExport"]
+	path = VorteksExport
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/VorteksExport
+	subdir = VorteksExport
 [submodule "XRPython"]
 	path = XRPython
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/XRPython
 	subdir = XRPython
+[submodule "abnormality"]
+	path = abnormality
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/abnormality
+	subdir = abnormality
 [submodule "adaptMT"]
 	path = adaptMT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,6 +407,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bunddev
 	subdir = bunddev
+[submodule "bwsTools"]
+	path = bwsTools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bwsTools
+	subdir = bwsTools
 [submodule "circularEV"]
 	path = circularEV
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,6 +437,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/covidmx
 	subdir = covidmx
+[submodule "creditmodel"]
+	path = creditmodel
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/creditmodel
+	subdir = creditmodel
 [submodule "dGAselID"]
 	path = dGAselID
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -362,6 +457,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/delimtools
 	subdir = delimtools
+[submodule "disto"]
+	path = disto
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/disto
+	subdir = disto
 [submodule "dtlcor"]
 	path = dtlcor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
