@@ -92,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GOxploreR
 	subdir = GOxploreR
-[submodule "GPSeqClus"]
-	path = GPSeqClus
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GPSeqClus
-	subdir = GPSeqClus
 [submodule "Grouphmap"]
 	path = Grouphmap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ISOpureR
 	subdir = ISOpureR
-[submodule "MDMAPR"]
-	path = MDMAPR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MDMAPR
-	subdir = MDMAPR
 [submodule "MSRDT"]
 	path = MSRDT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,11 +362,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bwsTools
 	subdir = bwsTools
-[submodule "circularEV"]
-	path = circularEV
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/circularEV
-	subdir = circularEV
 [submodule "cofeatureR"]
 	path = cofeatureR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -512,11 +497,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gromovlab
 	subdir = gromovlab
-[submodule "groupTesting"]
-	path = groupTesting
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/groupTesting
-	subdir = groupTesting
 [submodule "groupedHyperframe"]
 	path = groupedHyperframe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -527,11 +507,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/groupedHyperframe.random
 	subdir = groupedHyperframe.random
-[submodule "gwavr"]
-	path = gwavr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gwavr
-	subdir = gwavr
 [submodule "halk"]
 	path = halk
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -567,11 +542,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leafR
 	subdir = leafR
-[submodule "leaflet.extras"]
-	path = leaflet.extras
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/leaflet.extras
-	subdir = leaflet.extras
 [submodule "llamaR"]
 	path = llamaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -772,11 +742,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rfishnet2
 	subdir = rfishnet2
+[submodule "rgdax"]
+	path = rgdax
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rgdax
+	subdir = rgdax
 [submodule "rollmatch"]
 	path = rollmatch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rollmatch
 	subdir = rollmatch
+[submodule "ropendata"]
+	path = ropendata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ropendata
+	subdir = ropendata
 [submodule "rprev"]
 	path = rprev
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -812,16 +792,41 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scRNAtools
 	subdir = scRNAtools
+[submodule "semverutils"]
+	path = semverutils
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/semverutils
+	subdir = semverutils
 [submodule "sfo"]
 	path = sfo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sfo
 	subdir = sfo
+[submodule "shiny.pwa"]
+	path = shiny.pwa
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/shiny.pwa
+	subdir = shiny.pwa
 [submodule "shiny.reglog"]
 	path = shiny.reglog
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shiny.reglog
 	subdir = shiny.reglog
+[submodule "shinypanels"]
+	path = shinypanels
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/shinypanels
+	subdir = shinypanels
+[submodule "siqr"]
+	path = siqr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/siqr
+	subdir = siqr
+[submodule "slimrec"]
+	path = slimrec
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/slimrec
+	subdir = slimrec
 [submodule "slp"]
 	path = slp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -832,6 +837,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/soilassessment
 	subdir = soilassessment
+[submodule "specklestar"]
+	path = specklestar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/specklestar
+	subdir = specklestar
 [submodule "ssdGSA"]
 	path = ssdGSA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -852,6 +862,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tarchives
 	subdir = tarchives
+[submodule "timeR"]
+	path = timeR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/timeR
+	subdir = timeR
 [submodule "timelineS"]
 	path = timelineS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -862,6 +877,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/timeseriesdb
 	subdir = timeseriesdb
+[submodule "uklr"]
+	path = uklr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/uklr
+	subdir = uklr
+[submodule "understandBPMN"]
+	path = understandBPMN
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/understandBPMN
+	subdir = understandBPMN
 [submodule "vascr"]
 	path = vascr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -877,11 +902,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vegtable
 	subdir = vegtable
-[submodule "wallace"]
-	path = wallace
+[submodule "voxel"]
+	path = voxel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wallace
-	subdir = wallace
+	branch = package/voxel
+	subdir = voxel
 [submodule "wowa"]
 	path = wowa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
