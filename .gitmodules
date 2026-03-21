@@ -737,11 +737,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/timeseriesdb
 	subdir = timeseriesdb
-[submodule "trafficCAR"]
-	path = trafficCAR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/trafficCAR
-	subdir = trafficCAR
 [submodule "vascr"]
 	path = vascr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
