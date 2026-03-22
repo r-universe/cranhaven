@@ -342,11 +342,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bibs
 	subdir = bibs
-[submodule "binGroup2"]
-	path = binGroup2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/binGroup2
-	subdir = binGroup2
 [submodule "blockcluster"]
 	path = blockcluster
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -422,6 +417,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/elec
 	subdir = elec
+[submodule "epicR"]
+	path = epicR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/epicR
+	subdir = epicR
 [submodule "event"]
 	path = event
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -497,6 +497,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gromovlab
 	subdir = gromovlab
+[submodule "groupTesting"]
+	path = groupTesting
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/groupTesting
+	subdir = groupTesting
 [submodule "groupedHyperframe"]
 	path = groupedHyperframe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
