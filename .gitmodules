@@ -272,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SemiEstimate
 	subdir = SemiEstimate
+[submodule "TOU"]
+	path = TOU
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TOU
+	subdir = TOU
 [submodule "TextForecast"]
 	path = TextForecast
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,16 +387,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/creditmodel
 	subdir = creditmodel
+[submodule "cycleTrendR"]
+	path = cycleTrendR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cycleTrendR
+	subdir = cycleTrendR
 [submodule "dGAselID"]
 	path = dGAselID
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dGAselID
 	subdir = dGAselID
-[submodule "delimtools"]
-	path = delimtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/delimtools
-	subdir = delimtools
 [submodule "disto"]
 	path = disto
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
