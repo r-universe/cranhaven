@@ -782,11 +782,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rubias
 	subdir = rubias
-[submodule "rworkflows"]
-	path = rworkflows
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rworkflows
-	subdir = rworkflows
 [submodule "scModels"]
 	path = scModels
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
