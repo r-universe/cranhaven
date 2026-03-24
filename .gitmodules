@@ -122,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ISOpureR
 	subdir = ISOpureR
+[submodule "MSCA"]
+	path = MSCA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MSCA
+	subdir = MSCA
 [submodule "MSRDT"]
 	path = MSRDT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bibs
 	subdir = bibs
+[submodule "bioregion"]
+	path = bioregion
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bioregion
+	subdir = bioregion
 [submodule "blockcluster"]
 	path = blockcluster
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -442,6 +452,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/factorial2x2
 	subdir = factorial2x2
+[submodule "fastkmedoids"]
+	path = fastkmedoids
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fastkmedoids
+	subdir = fastkmedoids
 [submodule "fdars"]
 	path = fdars
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -532,6 +547,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hyper.gam
 	subdir = hyper.gam
+[submodule "isopam"]
+	path = isopam
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/isopam
+	subdir = isopam
 [submodule "keyToEnglish"]
 	path = keyToEnglish
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
