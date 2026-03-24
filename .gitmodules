@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IAT
 	subdir = IAT
-[submodule "ICDS"]
-	path = ICDS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ICDS
-	subdir = ICDS
 [submodule "ICEinfer"]
 	path = ICEinfer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,11 +342,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bibs
 	subdir = bibs
-[submodule "binGroup2"]
-	path = binGroup2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/binGroup2
-	subdir = binGroup2
 [submodule "blockcluster"]
 	path = blockcluster
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -652,11 +642,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/opitools
 	subdir = opitools
-[submodule "optimflex"]
-	path = optimflex
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/optimflex
-	subdir = optimflex
 [submodule "packer"]
 	path = packer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -892,11 +877,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/understandBPMN
 	subdir = understandBPMN
-[submodule "vascr"]
-	path = vascr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vascr
-	subdir = vascr
 [submodule "vegdata"]
 	path = vegdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
