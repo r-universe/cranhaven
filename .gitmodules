@@ -107,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IAT
 	subdir = IAT
+[submodule "ICDS"]
+	path = ICDS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ICDS
+	subdir = ICDS
 [submodule "ICEinfer"]
 	path = ICEinfer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NNTbiomarker
 	subdir = NNTbiomarker
-[submodule "PMAPscore"]
-	path = PMAPscore
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PMAPscore
-	subdir = PMAPscore
 [submodule "POUMM"]
 	path = POUMM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rmst
 	subdir = Rmst
-[submodule "SATS"]
-	path = SATS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SATS
-	subdir = SATS
 [submodule "SDEFSR"]
 	path = SDEFSR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SNPassoc
 	subdir = SNPassoc
+[submodule "SQUIRE"]
+	path = SQUIRE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SQUIRE
+	subdir = SQUIRE
 [submodule "SWIM"]
 	path = SWIM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
