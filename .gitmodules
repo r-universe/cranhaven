@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "ADPclust"]
-	path = ADPclust
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ADPclust
-	subdir = ADPclust
 [submodule "AlgebraicHaploPackage"]
 	path = AlgebraicHaploPackage
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesianLasso
 	subdir = BayesianLasso
-[submodule "BiSEp"]
-	path = BiSEp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BiSEp
-	subdir = BiSEp
 [submodule "Biostatistics"]
 	path = Biostatistics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,16 +77,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FairMclus
 	subdir = FairMclus
-[submodule "GOxploreR"]
-	path = GOxploreR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GOxploreR
-	subdir = GOxploreR
-[submodule "Grouphmap"]
-	path = Grouphmap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Grouphmap
-	subdir = Grouphmap
 [submodule "HiCociety"]
 	path = HiCociety
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IAT
 	subdir = IAT
-[submodule "ICDS"]
-	path = ICDS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ICDS
-	subdir = ICDS
 [submodule "ICEinfer"]
 	path = ICEinfer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RcppLbfgsBlaze
 	subdir = RcppLbfgsBlaze
-[submodule "RcppStreams"]
-	path = RcppStreams
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RcppStreams
-	subdir = RcppStreams
 [submodule "RepertoiR"]
 	path = RepertoiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,16 +277,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/abnormality
 	subdir = abnormality
-[submodule "adaptMT"]
-	path = adaptMT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/adaptMT
-	subdir = adaptMT
-[submodule "aliases2entrez"]
-	path = aliases2entrez
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/aliases2entrez
-	subdir = aliases2entrez
 [submodule "ammistability"]
 	path = ammistability
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -392,11 +352,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cycleTrendR
 	subdir = cycleTrendR
-[submodule "dGAselID"]
-	path = dGAselID
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dGAselID
-	subdir = dGAselID
 [submodule "disto"]
 	path = disto
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,11 +422,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fixtuRes
 	subdir = fixtuRes
-[submodule "g3viz"]
-	path = g3viz
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/g3viz
-	subdir = g3viz
 [submodule "gapclosing"]
 	path = gapclosing
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,11 +442,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggTimeSeries
 	subdir = ggTimeSeries
-[submodule "gitgadget"]
-	path = gitgadget
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gitgadget
-	subdir = gitgadget
 [submodule "glpkAPI"]
 	path = glpkAPI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -647,11 +592,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/numbersBR
 	subdir = numbersBR
-[submodule "occCite"]
-	path = occCite
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/occCite
-	subdir = occCite
 [submodule "opitools"]
 	path = opitools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -687,11 +627,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/photon
 	subdir = photon
-[submodule "plogr"]
-	path = plogr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/plogr
-	subdir = plogr
 [submodule "plotBart"]
 	path = plotBart
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -707,11 +642,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pould
 	subdir = pould
-[submodule "prioGene"]
-	path = prioGene
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/prioGene
-	subdir = prioGene
 [submodule "qkerntool"]
 	path = qkerntool
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -777,26 +707,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rtkore
 	subdir = rtkore
-[submodule "rubias"]
-	path = rubias
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rubias
-	subdir = rubias
 [submodule "scModels"]
 	path = scModels
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scModels
 	subdir = scModels
-[submodule "scPipeline"]
-	path = scPipeline
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/scPipeline
-	subdir = scPipeline
-[submodule "scRNAtools"]
-	path = scRNAtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/scRNAtools
-	subdir = scRNAtools
 [submodule "semverutils"]
 	path = semverutils
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -847,11 +762,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/specklestar
 	subdir = specklestar
-[submodule "ssdGSA"]
-	path = ssdGSA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ssdGSA
-	subdir = ssdGSA
 [submodule "survMisc"]
 	path = survMisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
