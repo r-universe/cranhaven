@@ -492,26 +492,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/econetwork
 	subdir = econetwork
-[submodule "eesim"]
-	path = eesim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/eesim
-	subdir = eesim
-[submodule "eider"]
-	path = eider
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/eider
-	subdir = eider
-[submodule "elec"]
-	path = elec
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/elec
-	subdir = elec
-[submodule "evidence"]
-	path = evidence
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/evidence
-	subdir = evidence
 [submodule "evobiR"]
 	path = evobiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
