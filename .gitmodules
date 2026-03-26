@@ -527,11 +527,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/factorial2x2
 	subdir = factorial2x2
-[submodule "fastkmedoids"]
-	path = fastkmedoids
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fastkmedoids
-	subdir = fastkmedoids
 [submodule "fbar"]
 	path = fbar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
