@@ -17,6 +17,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AnnuityRIR
 	subdir = AnnuityRIR
+[submodule "BIGDAWG"]
+	path = BIGDAWG
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BIGDAWG
+	subdir = BIGDAWG
+[submodule "BMRBr"]
+	path = BMRBr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BMRBr
+	subdir = BMRBr
 [submodule "BRDT"]
 	path = BRDT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -27,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BaHZING
 	subdir = BaHZING
+[submodule "BayesDA"]
+	path = BayesDA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BayesDA
+	subdir = BayesDA
 [submodule "Biostatistics"]
 	path = Biostatistics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,11 +367,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/auctestr
 	subdir = auctestr
+[submodule "bayess"]
+	path = bayess
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bayess
+	subdir = bayess
+[submodule "bibs"]
+	path = bibs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bibs
+	subdir = bibs
 [submodule "bioregion"]
 	path = bioregion
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bioregion
 	subdir = bioregion
+[submodule "blockcluster"]
+	path = blockcluster
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/blockcluster
+	subdir = blockcluster
 [submodule "bltm"]
 	path = bltm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,16 +397,41 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bpmnR
 	subdir = bpmnR
+[submodule "bwsTools"]
+	path = bwsTools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bwsTools
+	subdir = bwsTools
+[submodule "cancerscreening"]
+	path = cancerscreening
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cancerscreening
+	subdir = cancerscreening
 [submodule "catmap"]
 	path = catmap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/catmap
 	subdir = catmap
+[submodule "ceg"]
+	path = ceg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ceg
+	subdir = ceg
+[submodule "cloudos"]
+	path = cloudos
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cloudos
+	subdir = cloudos
 [submodule "clusterhap"]
 	path = clusterhap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clusterhap
 	subdir = clusterhap
+[submodule "cofeatureR"]
+	path = cofeatureR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cofeatureR
+	subdir = cofeatureR
 [submodule "condvis"]
 	path = condvis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,16 +572,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glpkAPI
 	subdir = glpkAPI
-[submodule "grPipe"]
-	path = grPipe
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/grPipe
-	subdir = grPipe
-[submodule "gromovlab"]
-	path = gromovlab
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gromovlab
-	subdir = gromovlab
 [submodule "groupedHyperframe"]
 	path = groupedHyperframe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
