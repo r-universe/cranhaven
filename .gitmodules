@@ -572,6 +572,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glpkAPI
 	subdir = glpkAPI
+[submodule "grPipe"]
+	path = grPipe
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/grPipe
+	subdir = grPipe
+[submodule "gromovlab"]
+	path = gromovlab
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gromovlab
+	subdir = gromovlab
 [submodule "groupedHyperframe"]
 	path = groupedHyperframe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
