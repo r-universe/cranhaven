@@ -607,11 +607,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hyper.gam
 	subdir = hyper.gam
-[submodule "isopam"]
-	path = isopam
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/isopam
-	subdir = isopam
 [submodule "keyToEnglish"]
 	path = keyToEnglish
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
