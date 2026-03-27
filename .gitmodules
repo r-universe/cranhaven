@@ -432,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cofeatureR
 	subdir = cofeatureR
-[submodule "condvis"]
-	path = condvis
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/condvis
-	subdir = condvis
 [submodule "conos"]
 	path = conos
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
