@@ -107,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/KenSyn
 	subdir = KenSyn
+[submodule "MIMSunit"]
+	path = MIMSunit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MIMSunit
+	subdir = MIMSunit
 [submodule "MSCA"]
 	path = MSCA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -722,6 +727,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/panelr
 	subdir = panelr
+[submodule "params"]
+	path = params
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/params
+	subdir = params
 [submodule "pencopulaCond"]
 	path = pencopulaCond
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -777,6 +787,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/reactablefmtr
 	subdir = reactablefmtr
+[submodule "readit"]
+	path = readit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/readit
+	subdir = readit
 [submodule "repo"]
 	path = repo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -892,6 +907,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spemd
 	subdir = spemd
+[submodule "suddengains"]
+	path = suddengains
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/suddengains
+	subdir = suddengains
 [submodule "survMisc"]
 	path = survMisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
