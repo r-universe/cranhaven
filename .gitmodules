@@ -262,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SMCRM
 	subdir = SMCRM
-[submodule "SNPassoc"]
-	path = SNPassoc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SNPassoc
-	subdir = SNPassoc
 [submodule "SPIGA"]
 	path = SPIGA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -432,11 +427,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cofeatureR
 	subdir = cofeatureR
-[submodule "conos"]
-	path = conos
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/conos
-	subdir = conos
 [submodule "creditmodel"]
 	path = creditmodel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
