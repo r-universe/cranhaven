@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AnnuityRIR
 	subdir = AnnuityRIR
-[submodule "BIGDAWG"]
-	path = BIGDAWG
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BIGDAWG
-	subdir = BIGDAWG
 [submodule "BMRBr"]
 	path = BMRBr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DynaRankR
 	subdir = DynaRankR
+[submodule "EcoIndR"]
+	path = EcoIndR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EcoIndR
+	subdir = EcoIndR
 [submodule "EpiForsk"]
 	path = EpiForsk
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
