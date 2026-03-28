@@ -42,6 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesDA
 	subdir = BayesDA
+[submodule "BigDataStatMeth"]
+	path = BigDataStatMeth
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BigDataStatMeth
+	subdir = BigDataStatMeth
 [submodule "Biostatistics"]
 	path = Biostatistics
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -72,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DynaRankR
 	subdir = DynaRankR
+[submodule "EpiForsk"]
+	path = EpiForsk
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EpiForsk
+	subdir = EpiForsk
 [submodule "FairMclus"]
 	path = FairMclus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
