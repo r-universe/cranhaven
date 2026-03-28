@@ -367,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/aramappings
 	subdir = aramappings
+[submodule "auctestr"]
+	path = auctestr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/auctestr
+	subdir = auctestr
 [submodule "bayess"]
 	path = bayess
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
