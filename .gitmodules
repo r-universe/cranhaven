@@ -312,11 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Strategy
 	subdir = Strategy
-[submodule "TOU"]
-	path = TOU
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TOU
-	subdir = TOU
 [submodule "Tendril"]
 	path = Tendril
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -387,11 +382,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bibs
 	subdir = bibs
-[submodule "bioregion"]
-	path = bioregion
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bioregion
-	subdir = bioregion
 [submodule "blockcluster"]
 	path = blockcluster
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
