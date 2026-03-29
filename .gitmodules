@@ -102,11 +102,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ICEinfer
 	subdir = ICEinfer
-[submodule "IFP"]
-	path = IFP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/IFP
-	subdir = IFP
 [submodule "ISOpureR"]
 	path = ISOpureR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MullerPlot
 	subdir = MullerPlot
+[submodule "NEONiso"]
+	path = NEONiso
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NEONiso
+	subdir = NEONiso
 [submodule "ORIClust"]
 	path = ORIClust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/aramappings
 	subdir = aramappings
+[submodule "asymLD"]
+	path = asymLD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/asymLD
+	subdir = asymLD
 [submodule "auctestr"]
 	path = auctestr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -587,16 +592,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/halk
 	subdir = halk
-[submodule "haplo.ccs"]
-	path = haplo.ccs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/haplo.ccs
-	subdir = haplo.ccs
-[submodule "haplo.stats"]
-	path = haplo.stats
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/haplo.stats
-	subdir = haplo.stats
 [submodule "httpRequest"]
 	path = httpRequest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -892,6 +887,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/soc.ca
 	subdir = soc.ca
+[submodule "sovereign"]
+	path = sovereign
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sovereign
+	subdir = sovereign
 [submodule "specklestar"]
 	path = specklestar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
