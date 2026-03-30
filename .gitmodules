@@ -37,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesDA
 	subdir = BayesDA
+[submodule "BayesianHybridDesign"]
+	path = BayesianHybridDesign
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BayesianHybridDesign
+	subdir = BayesianHybridDesign
 [submodule "BigDataStatMeth"]
 	path = BigDataStatMeth
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,11 +362,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/abnormality
 	subdir = abnormality
-[submodule "animalEKF"]
-	path = animalEKF
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/animalEKF
-	subdir = animalEKF
 [submodule "aramappings"]
 	path = aramappings
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -432,6 +432,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clusterhap
 	subdir = clusterhap
+[submodule "cnefetools"]
+	path = cnefetools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cnefetools
+	subdir = cnefetools
 [submodule "cofeatureR"]
 	path = cofeatureR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -462,6 +467,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/demoGraphic
 	subdir = demoGraphic
+[submodule "dialvalidator"]
+	path = dialvalidator
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dialvalidator
+	subdir = dialvalidator
 [submodule "disto"]
 	path = disto
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -577,11 +587,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/groupedHyperframe
 	subdir = groupedHyperframe
-[submodule "groupedHyperframe.random"]
-	path = groupedHyperframe.random
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/groupedHyperframe.random
-	subdir = groupedHyperframe.random
 [submodule "halk"]
 	path = halk
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -592,11 +597,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/httpRequest
 	subdir = httpRequest
-[submodule "hyper.gam"]
-	path = hyper.gam
+[submodule "imagefluency"]
+	path = imagefluency
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hyper.gam
-	subdir = hyper.gam
+	branch = package/imagefluency
+	subdir = imagefluency
+[submodule "inkaR"]
+	path = inkaR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/inkaR
+	subdir = inkaR
 [submodule "keyToEnglish"]
 	path = keyToEnglish
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -632,11 +642,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lookupTable
 	subdir = lookupTable
-[submodule "maxEff"]
-	path = maxEff
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/maxEff
-	subdir = maxEff
 [submodule "mc.heterogeneity"]
 	path = mc.heterogeneity
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -697,6 +702,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/numbersBR
 	subdir = numbersBR
+[submodule "obr"]
+	path = obr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/obr
+	subdir = obr
 [submodule "opitools"]
 	path = opitools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -852,6 +862,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shinypanels
 	subdir = shinypanels
+[submodule "shrinkGPR"]
+	path = shrinkGPR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/shrinkGPR
+	subdir = shrinkGPR
 [submodule "siqr"]
 	path = siqr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -927,16 +942,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/understandBPMN
 	subdir = understandBPMN
-[submodule "vegdata"]
-	path = vegdata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vegdata
-	subdir = vegdata
-[submodule "vegtable"]
-	path = vegtable
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vegtable
-	subdir = vegtable
 [submodule "viafr"]
 	path = viafr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
