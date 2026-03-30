@@ -857,11 +857,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shinypanels
 	subdir = shinypanels
-[submodule "shrinkGPR"]
-	path = shrinkGPR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shrinkGPR
-	subdir = shrinkGPR
 [submodule "siqr"]
 	path = siqr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
