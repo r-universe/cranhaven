@@ -82,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EcoIndR
 	subdir = EcoIndR
-[submodule "EpiForsk"]
-	path = EpiForsk
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EpiForsk
-	subdir = EpiForsk
 [submodule "FairMclus"]
 	path = FairMclus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
