@@ -112,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/KenSyn
 	subdir = KenSyn
+[submodule "MAAPER"]
+	path = MAAPER
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MAAPER
+	subdir = MAAPER
 [submodule "MIMSunit"]
 	path = MIMSunit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -742,11 +747,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/portfolio.optimization
 	subdir = portfolio.optimization
-[submodule "pould"]
-	path = pould
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pould
-	subdir = pould
 [submodule "qkerntool"]
 	path = qkerntool
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
