@@ -247,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rata
 	subdir = Rata
-[submodule "RcmdrPlugin.MA"]
-	path = RcmdrPlugin.MA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RcmdrPlugin.MA
-	subdir = RcmdrPlugin.MA
 [submodule "RepertoiR"]
 	path = RepertoiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -512,6 +507,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/elec
 	subdir = elec
+[submodule "evanverse"]
+	path = evanverse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/evanverse
+	subdir = evanverse
 [submodule "evidence"]
 	path = evidence
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -572,6 +572,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glpkAPI
 	subdir = glpkAPI
+[submodule "golden"]
+	path = golden
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/golden
+	subdir = golden
 [submodule "grPipe"]
 	path = grPipe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
