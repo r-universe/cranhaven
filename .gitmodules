@@ -92,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IAT
 	subdir = IAT
-[submodule "ICEinfer"]
-	path = ICEinfer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ICEinfer
-	subdir = ICEinfer
 [submodule "ISOpureR"]
 	path = ISOpureR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
