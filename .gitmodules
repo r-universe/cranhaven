@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/APtools
 	subdir = APtools
-[submodule "AlgebraicHaploPackage"]
-	path = AlgebraicHaploPackage
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AlgebraicHaploPackage
-	subdir = AlgebraicHaploPackage
 [submodule "AnnuityRIR"]
 	path = AnnuityRIR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Peacock.test
 	subdir = Peacock.test
+[submodule "Petersen"]
+	path = Petersen
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Petersen
+	subdir = Petersen
 [submodule "PhageCocktail"]
 	path = PhageCocktail
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -277,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SMCRM
 	subdir = SMCRM
+[submodule "SPAS"]
+	path = SPAS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SPAS
+	subdir = SPAS
 [submodule "SPIGA"]
 	path = SPIGA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -577,11 +582,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gromovlab
 	subdir = gromovlab
-[submodule "groupedHyperframe"]
-	path = groupedHyperframe
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/groupedHyperframe
-	subdir = groupedHyperframe
 [submodule "halk"]
 	path = halk
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -682,6 +682,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ncpen
 	subdir = ncpen
+[submodule "nestedcv"]
+	path = nestedcv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nestedcv
+	subdir = nestedcv
 [submodule "nets"]
 	path = nets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -767,11 +772,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rcc
 	subdir = rcc
-[submodule "reactablefmtr"]
-	path = reactablefmtr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/reactablefmtr
-	subdir = reactablefmtr
 [submodule "readit"]
 	path = readit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -902,11 +902,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/suddengains
 	subdir = suddengains
-[submodule "survMisc"]
-	path = survMisc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/survMisc
-	subdir = survMisc
 [submodule "timeR"]
 	path = timeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
