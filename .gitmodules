@@ -782,11 +782,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/revengc
 	subdir = revengc
-[submodule "rexpokit"]
-	path = rexpokit
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rexpokit
-	subdir = rexpokit
 [submodule "rfishnet2"]
 	path = rfishnet2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
