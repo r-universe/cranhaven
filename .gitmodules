@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MSRDT
 	subdir = MSRDT
-[submodule "MSiP"]
-	path = MSiP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MSiP
-	subdir = MSiP
 [submodule "MetProc"]
 	path = MetProc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,6 +242,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rata
 	subdir = Rata
+[submodule "RcmdrPlugin.MA"]
+	path = RcmdrPlugin.MA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RcmdrPlugin.MA
+	subdir = RcmdrPlugin.MA
 [submodule "RepertoiR"]
 	path = RepertoiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,11 +322,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Tendril
 	subdir = Tendril
-[submodule "TextForecast"]
-	path = TextForecast
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TextForecast
-	subdir = TextForecast
 [submodule "VetResearchLMM"]
 	path = VetResearchLMM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -482,6 +477,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dvqcc
 	subdir = dvqcc
+[submodule "dynamAedes"]
+	path = dynamAedes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dynamAedes
+	subdir = dynamAedes
 [submodule "econetwork"]
 	path = econetwork
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
