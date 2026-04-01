@@ -482,11 +482,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dvqcc
 	subdir = dvqcc
-[submodule "dynwrap"]
-	path = dynwrap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dynwrap
-	subdir = dynwrap
 [submodule "econetwork"]
 	path = econetwork
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -597,11 +592,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/httpRequest
 	subdir = httpRequest
-[submodule "imagefluency"]
-	path = imagefluency
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/imagefluency
-	subdir = imagefluency
 [submodule "inkaR"]
 	path = inkaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
