@@ -592,11 +592,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/httpRequest
 	subdir = httpRequest
-[submodule "inkaR"]
-	path = inkaR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/inkaR
-	subdir = inkaR
 [submodule "keyToEnglish"]
 	path = keyToEnglish
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
