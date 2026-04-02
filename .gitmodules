@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BaHZING
 	subdir = BaHZING
-[submodule "BayesDA"]
-	path = BayesDA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BayesDA
-	subdir = BayesDA
 [submodule "BayesianHybridDesign"]
 	path = BayesianHybridDesign
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -72,6 +67,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DynaRankR
 	subdir = DynaRankR
+[submodule "EBMAforecast"]
+	path = EBMAforecast
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EBMAforecast
+	subdir = EBMAforecast
 [submodule "EcoIndR"]
 	path = EcoIndR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetProc
 	subdir = MetProc
-[submodule "MixviR"]
-	path = MixviR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MixviR
-	subdir = MixviR
 [submodule "MoLE"]
 	path = MoLE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Tendril
 	subdir = Tendril
-[submodule "VetResearchLMM"]
-	path = VetResearchLMM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/VetResearchLMM
-	subdir = VetResearchLMM
 [submodule "ViSiElse"]
 	path = ViSiElse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,6 +357,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/auctestr
 	subdir = auctestr
+[submodule "autoMrP"]
+	path = autoMrP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/autoMrP
+	subdir = autoMrP
 [submodule "bayess"]
 	path = bayess
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -527,6 +522,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/factorial2x2
 	subdir = factorial2x2
+[submodule "farr"]
+	path = farr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/farr
+	subdir = farr
 [submodule "fbar"]
 	path = fbar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
