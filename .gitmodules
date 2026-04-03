@@ -412,11 +412,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clusterhap
 	subdir = clusterhap
-[submodule "cnefetools"]
-	path = cnefetools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cnefetools
-	subdir = cnefetools
 [submodule "cofeatureR"]
 	path = cofeatureR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
