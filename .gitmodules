@@ -802,6 +802,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/safetyGraphics
 	subdir = safetyGraphics
+[submodule "scSorter"]
+	path = scSorter
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/scSorter
+	subdir = scSorter
 [submodule "semverutils"]
 	path = semverutils
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
