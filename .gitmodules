@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/APtools
 	subdir = APtools
+[submodule "AnnuityRIR"]
+	path = AnnuityRIR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AnnuityRIR
+	subdir = AnnuityRIR
 [submodule "BMRBr"]
 	path = BMRBr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -22,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BaHZING
 	subdir = BaHZING
+[submodule "BayesDA"]
+	path = BayesDA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BayesDA
+	subdir = BayesDA
 [submodule "BayesianHybridDesign"]
 	path = BayesianHybridDesign
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -122,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MSRDT
 	subdir = MSRDT
+[submodule "MSiP"]
+	path = MSiP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MSiP
+	subdir = MSiP
 [submodule "MetProc"]
 	path = MetProc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,16 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MoLE
 	subdir = MoLE
-[submodule "Momocs"]
-	path = Momocs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Momocs
-	subdir = Momocs
-[submodule "MonteCarlo"]
-	path = MonteCarlo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MonteCarlo
-	subdir = MonteCarlo
 [submodule "MullerPlot"]
 	path = MullerPlot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Plasmidprofiler
 	subdir = Plasmidprofiler
+[submodule "PowerUpR"]
+	path = PowerUpR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PowerUpR
+	subdir = PowerUpR
 [submodule "RChronoModel"]
 	path = RChronoModel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,16 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Tendril
 	subdir = Tendril
-[submodule "TextForecast"]
-	path = TextForecast
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TextForecast
-	subdir = TextForecast
-[submodule "VetResearchLMM"]
-	path = VetResearchLMM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/VetResearchLMM
-	subdir = VetResearchLMM
 [submodule "ViSiElse"]
 	path = ViSiElse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -362,11 +362,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayess
 	subdir = bayess
-[submodule "bibs"]
-	path = bibs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bibs
-	subdir = bibs
 [submodule "blockcluster"]
 	path = blockcluster
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
