@@ -337,11 +337,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/abnormality
 	subdir = abnormality
-[submodule "aramappings"]
-	path = aramappings
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/aramappings
-	subdir = aramappings
 [submodule "asymLD"]
 	path = asymLD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -837,21 +832,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/slimrec
 	subdir = slimrec
-[submodule "slp"]
-	path = slp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/slp
-	subdir = slp
 [submodule "smpic"]
 	path = smpic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/smpic
 	subdir = smpic
-[submodule "snvecR"]
-	path = snvecR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/snvecR
-	subdir = snvecR
 [submodule "soc.ca"]
 	path = soc.ca
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -862,11 +847,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sovereign
 	subdir = sovereign
-[submodule "specklestar"]
-	path = specklestar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/specklestar
-	subdir = specklestar
 [submodule "spemd"]
 	path = spemd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
