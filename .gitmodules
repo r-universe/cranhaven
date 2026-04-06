@@ -587,11 +587,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leafR
 	subdir = leafR
-[submodule "llamaR"]
-	path = llamaR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/llamaR
-	subdir = llamaR
 [submodule "llbayesireg"]
 	path = llbayesireg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
