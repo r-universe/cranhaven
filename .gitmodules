@@ -47,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CTAShiny
 	subdir = CTAShiny
-[submodule "CollapseLevels"]
-	path = CollapseLevels
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CollapseLevels
-	subdir = CollapseLevels
 [submodule "ConversationAlign"]
 	path = ConversationAlign
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,11 +92,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HiCociety
 	subdir = HiCociety
-[submodule "ICEinfer"]
-	path = ICEinfer
+[submodule "IAT"]
+	path = IAT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ICEinfer
-	subdir = ICEinfer
+	branch = package/IAT
+	subdir = IAT
+[submodule "ISOpureR"]
+	path = ISOpureR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ISOpureR
+	subdir = ISOpureR
 [submodule "KenSyn"]
 	path = KenSyn
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PakPC
 	subdir = PakPC
-[submodule "Peacock.test"]
-	path = Peacock.test
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Peacock.test
-	subdir = Peacock.test
 [submodule "Petersen"]
 	path = Petersen
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,6 +197,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Plasmidprofiler
 	subdir = Plasmidprofiler
+[submodule "PowerUpR"]
+	path = PowerUpR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PowerUpR
+	subdir = PowerUpR
 [submodule "RChronoModel"]
 	path = RChronoModel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,11 +302,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Tendril
 	subdir = Tendril
-[submodule "VetResearchLMM"]
-	path = VetResearchLMM
+[submodule "TextForecast"]
+	path = TextForecast
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/VetResearchLMM
-	subdir = VetResearchLMM
+	branch = package/TextForecast
+	subdir = TextForecast
 [submodule "ViSiElse"]
 	path = ViSiElse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,11 +352,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayess
 	subdir = bayess
-[submodule "bibs"]
-	path = bibs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bibs
-	subdir = bibs
 [submodule "blockcluster"]
 	path = blockcluster
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -812,6 +807,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shiny.pwa
 	subdir = shiny.pwa
+[submodule "shinylive"]
+	path = shinylive
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/shinylive
+	subdir = shinylive
 [submodule "shinypanels"]
 	path = shinypanels
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
