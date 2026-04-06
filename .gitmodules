@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BaHZING
 	subdir = BaHZING
-[submodule "BayesDA"]
-	path = BayesDA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BayesDA
-	subdir = BayesDA
 [submodule "BayesianHybridDesign"]
 	path = BayesianHybridDesign
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EcoIndR
 	subdir = EcoIndR
-[submodule "FairMclus"]
-	path = FairMclus
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FairMclus
-	subdir = FairMclus
 [submodule "GetDFPData"]
 	path = GetDFPData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,11 +82,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HiCociety
 	subdir = HiCociety
-[submodule "IAT"]
-	path = IAT
+[submodule "ICEinfer"]
+	path = ICEinfer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/IAT
-	subdir = IAT
+	branch = package/ICEinfer
+	subdir = ICEinfer
 [submodule "ISOpureR"]
 	path = ISOpureR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,6 +117,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MSRDT
 	subdir = MSRDT
+[submodule "MSiP"]
+	path = MSiP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MSiP
+	subdir = MSiP
 [submodule "MetProc"]
 	path = MetProc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,11 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MoLE
 	subdir = MoLE
-[submodule "Momocs"]
-	path = Momocs
+[submodule "MonteCarlo"]
+	path = MonteCarlo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Momocs
-	subdir = Momocs
+	branch = package/MonteCarlo
+	subdir = MonteCarlo
 [submodule "MullerPlot"]
 	path = MullerPlot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SDEFSR
 	subdir = SDEFSR
-[submodule "SMCRM"]
-	path = SMCRM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SMCRM
-	subdir = SMCRM
 [submodule "SPAS"]
 	path = SPAS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -647,6 +637,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nestedcv
 	subdir = nestedcv
+[submodule "netdiffuseR"]
+	path = netdiffuseR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/netdiffuseR
+	subdir = netdiffuseR
 [submodule "nets"]
 	path = nets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -867,6 +862,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/suddengains
 	subdir = suddengains
+[submodule "ti"]
+	path = ti
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ti
+	subdir = ti
 [submodule "timeR"]
 	path = timeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
