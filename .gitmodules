@@ -802,11 +802,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shiny.pwa
 	subdir = shiny.pwa
-[submodule "shinylive"]
-	path = shinylive
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shinylive
-	subdir = shinylive
 [submodule "shinypanels"]
 	path = shinypanels
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
