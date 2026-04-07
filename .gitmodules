@@ -82,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HiCociety
 	subdir = HiCociety
-[submodule "ICEinfer"]
-	path = ICEinfer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ICEinfer
-	subdir = ICEinfer
 [submodule "ISOpureR"]
 	path = ISOpureR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,16 +122,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetProc
 	subdir = MetProc
+[submodule "MixviR"]
+	path = MixviR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MixviR
+	subdir = MixviR
 [submodule "MoLE"]
 	path = MoLE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MoLE
 	subdir = MoLE
-[submodule "MonteCarlo"]
-	path = MonteCarlo
+[submodule "Momocs"]
+	path = Momocs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MonteCarlo
-	subdir = MonteCarlo
+	branch = package/Momocs
+	subdir = Momocs
 [submodule "MullerPlot"]
 	path = MullerPlot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Plasmidprofiler
 	subdir = Plasmidprofiler
-[submodule "PowerUpR"]
-	path = PowerUpR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PowerUpR
-	subdir = PowerUpR
 [submodule "RChronoModel"]
 	path = RChronoModel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,6 +237,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SDEFSR
 	subdir = SDEFSR
+[submodule "SMCRM"]
+	path = SMCRM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SMCRM
+	subdir = SMCRM
 [submodule "SPAS"]
 	path = SPAS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Tendril
 	subdir = Tendril
-[submodule "TextForecast"]
-	path = TextForecast
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TextForecast
-	subdir = TextForecast
 [submodule "ViSiElse"]
 	path = ViSiElse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -552,6 +547,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/halk
 	subdir = halk
+[submodule "hierNest"]
+	path = hierNest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hierNest
+	subdir = hierNest
 [submodule "httpRequest"]
 	path = httpRequest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
