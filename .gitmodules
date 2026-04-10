@@ -642,16 +642,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ncpen
 	subdir = ncpen
-[submodule "nestedcv"]
-	path = nestedcv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nestedcv
-	subdir = nestedcv
-[submodule "netdiffuseR"]
-	path = netdiffuseR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/netdiffuseR
-	subdir = netdiffuseR
 [submodule "nets"]
 	path = nets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
