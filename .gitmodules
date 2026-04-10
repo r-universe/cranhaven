@@ -387,16 +387,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clusterhap
 	subdir = clusterhap
-[submodule "cofeatureR"]
-	path = cofeatureR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cofeatureR
-	subdir = cofeatureR
 [submodule "creditmodel"]
 	path = creditmodel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/creditmodel
 	subdir = creditmodel
+[submodule "curstatCI"]
+	path = curstatCI
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/curstatCI
+	subdir = curstatCI
 [submodule "curvecomp"]
 	path = curvecomp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,6 +452,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/econetwork
 	subdir = econetwork
+[submodule "eesim"]
+	path = eesim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/eesim
+	subdir = eesim
 [submodule "eider"]
 	path = eider
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,11 +472,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/evobiR
 	subdir = evobiR
-[submodule "eyeRead"]
-	path = eyeRead
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/eyeRead
-	subdir = eyeRead
 [submodule "factorial2x2"]
 	path = factorial2x2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -497,11 +497,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fdars
 	subdir = fdars
-[submodule "gbs2ploidy"]
-	path = gbs2ploidy
+[submodule "fechner"]
+	path = fechner
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gbs2ploidy
-	subdir = gbs2ploidy
+	branch = package/fechner
+	subdir = fechner
+[submodule "gapclosing"]
+	path = gapclosing
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gapclosing
+	subdir = gapclosing
 [submodule "genero"]
 	path = genero
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -537,6 +542,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gromovlab
 	subdir = gromovlab
+[submodule "halk"]
+	path = halk
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/halk
+	subdir = halk
 [submodule "hierNest"]
 	path = hierNest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -577,26 +587,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leafR
 	subdir = leafR
-[submodule "llbayesireg"]
-	path = llbayesireg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/llbayesireg
-	subdir = llbayesireg
 [submodule "loadshaper"]
 	path = loadshaper
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/loadshaper
 	subdir = loadshaper
-[submodule "lookupTable"]
-	path = lookupTable
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lookupTable
-	subdir = lookupTable
-[submodule "mc.heterogeneity"]
-	path = mc.heterogeneity
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mc.heterogeneity
-	subdir = mc.heterogeneity
 [submodule "mcunit"]
 	path = mcunit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -607,6 +602,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/metamicrobiomeR
 	subdir = metamicrobiomeR
+[submodule "microhaplot"]
+	path = microhaplot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/microhaplot
+	subdir = microhaplot
 [submodule "mixOofA"]
 	path = mixOofA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -647,6 +647,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nets
 	subdir = nets
+[submodule "nppbib"]
+	path = nppbib
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nppbib
+	subdir = nppbib
 [submodule "numbersBR"]
 	path = numbersBR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -682,6 +687,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/peermodels
 	subdir = peermodels
+[submodule "pendensity"]
+	path = pendensity
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pendensity
+	subdir = pendensity
 [submodule "petrinetR"]
 	path = petrinetR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -692,11 +702,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ph2bye
 	subdir = ph2bye
-[submodule "plotBart"]
-	path = plotBart
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/plotBart
-	subdir = plotBart
 [submodule "portfolio.optimization"]
 	path = portfolio.optimization
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
