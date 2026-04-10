@@ -2,11 +2,21 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "AHM"]
+	path = AHM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AHM
+	subdir = AHM
 [submodule "APtools"]
 	path = APtools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/APtools
 	subdir = APtools
+[submodule "BHH2"]
+	path = BHH2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BHH2
+	subdir = BHH2
 [submodule "BMRBr"]
 	path = BMRBr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,21 +87,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GetDFPData
 	subdir = GetDFPData
+[submodule "GreyZones"]
+	path = GreyZones
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GreyZones
+	subdir = GreyZones
 [submodule "HiCociety"]
 	path = HiCociety
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HiCociety
 	subdir = HiCociety
-[submodule "IAT"]
-	path = IAT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/IAT
-	subdir = IAT
-[submodule "ISOpureR"]
-	path = ISOpureR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ISOpureR
-	subdir = ISOpureR
 [submodule "KenSyn"]
 	path = KenSyn
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rmst
 	subdir = Rmst
+[submodule "Rtapas"]
+	path = Rtapas
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rtapas
+	subdir = Rtapas
 [submodule "SCORPIUS"]
 	path = SCORPIUS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,11 +322,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/asymLD
 	subdir = asymLD
-[submodule "auctestr"]
-	path = auctestr
+[submodule "autoFC"]
+	path = autoFC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/auctestr
-	subdir = auctestr
+	branch = package/autoFC
+	subdir = autoFC
 [submodule "autoMrP"]
 	path = autoMrP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,11 +337,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayess
 	subdir = bayess
-[submodule "bibs"]
-	path = bibs
+[submodule "bgmm"]
+	path = bgmm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bibs
-	subdir = bibs
+	branch = package/bgmm
+	subdir = bgmm
 [submodule "blockcluster"]
 	path = blockcluster
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -432,36 +442,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dynamAedes
 	subdir = dynamAedes
+[submodule "dynpred"]
+	path = dynpred
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dynpred
+	subdir = dynpred
 [submodule "econetwork"]
 	path = econetwork
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/econetwork
 	subdir = econetwork
-[submodule "eesim"]
-	path = eesim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/eesim
-	subdir = eesim
 [submodule "eider"]
 	path = eider
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eider
 	subdir = eider
-[submodule "elec"]
-	path = elec
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/elec
-	subdir = elec
 [submodule "evanverse"]
 	path = evanverse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/evanverse
 	subdir = evanverse
-[submodule "evidence"]
-	path = evidence
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/evidence
-	subdir = evidence
 [submodule "evobiR"]
 	path = evobiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -482,6 +482,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/farr
 	subdir = farr
+[submodule "fastcmprsk"]
+	path = fastcmprsk
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fastcmprsk
+	subdir = fastcmprsk
 [submodule "fbar"]
 	path = fbar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,16 +497,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fdars
 	subdir = fdars
-[submodule "fechner"]
-	path = fechner
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fechner
-	subdir = fechner
-[submodule "gapclosing"]
-	path = gapclosing
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gapclosing
-	subdir = gapclosing
 [submodule "gbs2ploidy"]
 	path = gbs2ploidy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,6 +512,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggTimeSeries
 	subdir = ggTimeSeries
+[submodule "ggrasp"]
+	path = ggrasp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ggrasp
+	subdir = ggrasp
 [submodule "glpkAPI"]
 	path = glpkAPI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -537,11 +537,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gromovlab
 	subdir = gromovlab
-[submodule "halk"]
-	path = halk
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/halk
-	subdir = halk
 [submodule "hierNest"]
 	path = hierNest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -552,6 +547,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/httpRequest
 	subdir = httpRequest
+[submodule "inspectdf"]
+	path = inspectdf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/inspectdf
+	subdir = inspectdf
+[submodule "irrCAC"]
+	path = irrCAC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/irrCAC
+	subdir = irrCAC
 [submodule "jackstraw"]
 	path = jackstraw
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -602,11 +607,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/metamicrobiomeR
 	subdir = metamicrobiomeR
-[submodule "microhaplot"]
-	path = microhaplot
+[submodule "mixOofA"]
+	path = mixOofA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/microhaplot
-	subdir = microhaplot
+	branch = package/mixOofA
+	subdir = mixOofA
+[submodule "mixexp"]
+	path = mixexp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mixexp
+	subdir = mixexp
 [submodule "mobilityIndexR"]
 	path = mobilityIndexR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -647,11 +657,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nets
 	subdir = nets
-[submodule "nppbib"]
-	path = nppbib
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nppbib
-	subdir = nppbib
 [submodule "numbersBR"]
 	path = numbersBR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -672,21 +677,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/packer
 	subdir = packer
+[submodule "paco"]
+	path = paco
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/paco
+	subdir = paco
 [submodule "params"]
 	path = params
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/params
 	subdir = params
-[submodule "pencopulaCond"]
-	path = pencopulaCond
+[submodule "peermodels"]
+	path = peermodels
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pencopulaCond
-	subdir = pencopulaCond
-[submodule "pendensity"]
-	path = pendensity
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pendensity
-	subdir = pendensity
+	branch = package/peermodels
+	subdir = peermodels
 [submodule "petrinetR"]
 	path = petrinetR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
