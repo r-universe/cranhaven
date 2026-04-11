@@ -347,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/blockcluster
 	subdir = blockcluster
+[submodule "blscrapeR"]
+	path = blscrapeR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/blscrapeR
+	subdir = blscrapeR
 [submodule "bltm"]
 	path = bltm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,11 +457,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/econetwork
 	subdir = econetwork
-[submodule "eesim"]
-	path = eesim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/eesim
-	subdir = eesim
 [submodule "eider"]
 	path = eider
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,6 +467,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/evanverse
 	subdir = evanverse
+[submodule "evidence"]
+	path = evidence
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/evidence
+	subdir = evidence
 [submodule "evobiR"]
 	path = evobiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -497,16 +502,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fdars
 	subdir = fdars
-[submodule "fechner"]
-	path = fechner
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fechner
-	subdir = fechner
-[submodule "gapclosing"]
-	path = gapclosing
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gapclosing
-	subdir = gapclosing
 [submodule "genero"]
 	path = genero
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -542,21 +537,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gromovlab
 	subdir = gromovlab
-[submodule "halk"]
-	path = halk
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/halk
-	subdir = halk
 [submodule "hierNest"]
 	path = hierNest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hierNest
 	subdir = hierNest
-[submodule "httpRequest"]
-	path = httpRequest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/httpRequest
-	subdir = httpRequest
 [submodule "inspectdf"]
 	path = inspectdf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -587,11 +572,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leafR
 	subdir = leafR
+[submodule "llbayesireg"]
+	path = llbayesireg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/llbayesireg
+	subdir = llbayesireg
 [submodule "loadshaper"]
 	path = loadshaper
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/loadshaper
 	subdir = loadshaper
+[submodule "lookupTable"]
+	path = lookupTable
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lookupTable
+	subdir = lookupTable
+[submodule "mc.heterogeneity"]
+	path = mc.heterogeneity
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mc.heterogeneity
+	subdir = mc.heterogeneity
 [submodule "mcunit"]
 	path = mcunit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
