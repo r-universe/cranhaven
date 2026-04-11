@@ -342,11 +342,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bgmm
 	subdir = bgmm
-[submodule "blockcluster"]
-	path = blockcluster
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/blockcluster
-	subdir = blockcluster
 [submodule "blscrapeR"]
 	path = blscrapeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,11 +462,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/evanverse
 	subdir = evanverse
-[submodule "evidence"]
-	path = evidence
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/evidence
-	subdir = evidence
 [submodule "evobiR"]
 	path = evobiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -572,26 +562,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leafR
 	subdir = leafR
-[submodule "llbayesireg"]
-	path = llbayesireg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/llbayesireg
-	subdir = llbayesireg
 [submodule "loadshaper"]
 	path = loadshaper
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/loadshaper
 	subdir = loadshaper
-[submodule "lookupTable"]
-	path = lookupTable
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lookupTable
-	subdir = lookupTable
-[submodule "mc.heterogeneity"]
-	path = mc.heterogeneity
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mc.heterogeneity
-	subdir = mc.heterogeneity
 [submodule "mcunit"]
 	path = mcunit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -602,11 +577,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/metamicrobiomeR
 	subdir = metamicrobiomeR
-[submodule "microhaplot"]
-	path = microhaplot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/microhaplot
-	subdir = microhaplot
 [submodule "mixOofA"]
 	path = mixOofA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -647,11 +617,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nets
 	subdir = nets
-[submodule "nppbib"]
-	path = nppbib
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nppbib
-	subdir = nppbib
 [submodule "numbersBR"]
 	path = numbersBR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -687,11 +652,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/peermodels
 	subdir = peermodels
-[submodule "pendensity"]
-	path = pendensity
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pendensity
-	subdir = pendensity
 [submodule "petrinetR"]
 	path = petrinetR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -732,11 +692,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/repo
 	subdir = repo
-[submodule "revengc"]
-	path = revengc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/revengc
-	subdir = revengc
 [submodule "rfishnet2"]
 	path = rfishnet2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -747,11 +702,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rgdax
 	subdir = rgdax
-[submodule "rollmatch"]
-	path = rollmatch
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rollmatch
-	subdir = rollmatch
 [submodule "ropendata"]
 	path = ropendata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -762,11 +712,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rpivotTable
 	subdir = rpivotTable
-[submodule "rprev"]
-	path = rprev
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rprev
-	subdir = rprev
 [submodule "rtkore"]
 	path = rtkore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -792,11 +737,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/semverutils
 	subdir = semverutils
-[submodule "sfo"]
-	path = sfo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sfo
-	subdir = sfo
 [submodule "shiny.pwa"]
 	path = shiny.pwa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -817,11 +757,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/slimrec
 	subdir = slimrec
-[submodule "slp"]
-	path = slp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/slp
-	subdir = slp
 [submodule "smpic"]
 	path = smpic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -867,11 +802,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/timeR
 	subdir = timeR
-[submodule "timelineS"]
-	path = timelineS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/timelineS
-	subdir = timelineS
 [submodule "twfeivdecomp"]
 	path = twfeivdecomp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
