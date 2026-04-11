@@ -62,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DCEM
 	subdir = DCEM
+[submodule "DICEM"]
+	path = DICEM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DICEM
+	subdir = DICEM
 [submodule "DMTL"]
 	path = DMTL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,6 +337,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autoMrP
 	subdir = autoMrP
+[submodule "bayesbio"]
+	path = bayesbio
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bayesbio
+	subdir = bayesbio
 [submodule "bayess"]
 	path = bayess
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bpmnR
 	subdir = bpmnR
+[submodule "bratteli"]
+	path = bratteli
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bratteli
+	subdir = bratteli
 [submodule "bwsTools"]
 	path = bwsTools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,6 +387,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/catmap
 	subdir = catmap
+[submodule "ccar3"]
+	path = ccar3
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ccar3
+	subdir = ccar3
 [submodule "ceg"]
 	path = ceg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -392,6 +412,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/creditmodel
 	subdir = creditmodel
+[submodule "cuadramelo"]
+	path = cuadramelo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cuadramelo
+	subdir = cuadramelo
 [submodule "curstatCI"]
 	path = curstatCI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,6 +437,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dataMeta
 	subdir = dataMeta
+[submodule "datadriftR"]
+	path = datadriftR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/datadriftR
+	subdir = datadriftR
 [submodule "demoGraphic"]
 	path = demoGraphic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,6 +457,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/disto
 	subdir = disto
+[submodule "doremi"]
+	path = doremi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/doremi
+	subdir = doremi
 [submodule "draw"]
 	path = draw
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,6 +487,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/econetwork
 	subdir = econetwork
+[submodule "edfun"]
+	path = edfun
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/edfun
+	subdir = edfun
 [submodule "eider"]
 	path = eider
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -497,6 +537,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/genero
 	subdir = genero
+[submodule "genpwr"]
+	path = genpwr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/genpwr
+	subdir = genpwr
 [submodule "ggTimeSeries"]
 	path = ggTimeSeries
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -527,6 +572,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gromovlab
 	subdir = gromovlab
+[submodule "hedgedrf"]
+	path = hedgedrf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hedgedrf
+	subdir = hedgedrf
 [submodule "hierNest"]
 	path = hierNest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -547,6 +597,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/jackstraw
 	subdir = jackstraw
+[submodule "kantorovich"]
+	path = kantorovich
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/kantorovich
+	subdir = kantorovich
 [submodule "keyToEnglish"]
 	path = keyToEnglish
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -587,6 +642,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mixexp
 	subdir = mixexp
+[submodule "mle.tools"]
+	path = mle.tools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mle.tools
+	subdir = mle.tools
 [submodule "mobilityIndexR"]
 	path = mobilityIndexR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -627,6 +687,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/obr
 	subdir = obr
+[submodule "omixVizR"]
+	path = omixVizR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/omixVizR
+	subdir = omixVizR
 [submodule "opitools"]
 	path = opitools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -817,6 +882,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/understandBPMN
 	subdir = understandBPMN
+[submodule "vader"]
+	path = vader
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vader
+	subdir = vader
 [submodule "viafr"]
 	path = viafr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
