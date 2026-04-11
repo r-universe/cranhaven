@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Petersen
 	subdir = Petersen
-[submodule "PhageCocktail"]
-	path = PhageCocktail
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PhageCocktail
-	subdir = PhageCocktail
 [submodule "Plasmidprofiler"]
 	path = Plasmidprofiler
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rmst
 	subdir = Rmst
+[submodule "Rsconctdply"]
+	path = Rsconctdply
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rsconctdply
+	subdir = Rsconctdply
 [submodule "Rtapas"]
 	path = Rtapas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -457,6 +457,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/disto
 	subdir = disto
+[submodule "docuSignr"]
+	path = docuSignr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/docuSignr
+	subdir = docuSignr
 [submodule "doremi"]
 	path = doremi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -482,11 +487,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dynpred
 	subdir = dynpred
-[submodule "econetwork"]
-	path = econetwork
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/econetwork
-	subdir = econetwork
 [submodule "edfun"]
 	path = edfun
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -727,6 +727,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ph2bye
 	subdir = ph2bye
+[submodule "pinyin"]
+	path = pinyin
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pinyin
+	subdir = pinyin
 [submodule "portfolio.optimization"]
 	path = portfolio.optimization
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -777,11 +782,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rpivotTable
 	subdir = rpivotTable
-[submodule "rtkore"]
-	path = rtkore
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rtkore
-	subdir = rtkore
 [submodule "safetyCharts"]
 	path = safetyCharts
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
