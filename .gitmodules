@@ -577,11 +577,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hierNest
 	subdir = hierNest
-[submodule "hsrecombi"]
-	path = hsrecombi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hsrecombi
-	subdir = hsrecombi
 [submodule "inspectdf"]
 	path = inspectdf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
