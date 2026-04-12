@@ -567,11 +567,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/grPipe
 	subdir = grPipe
-[submodule "gromovlab"]
-	path = gromovlab
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gromovlab
-	subdir = gromovlab
 [submodule "hedgedrf"]
 	path = hedgedrf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -582,6 +577,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hierNest
 	subdir = hierNest
+[submodule "hsrecombi"]
+	path = hsrecombi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hsrecombi
+	subdir = hsrecombi
 [submodule "inspectdf"]
 	path = inspectdf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
