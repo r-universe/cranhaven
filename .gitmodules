@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Biostatistics
 	subdir = Biostatistics
+[submodule "CSeQTL"]
+	path = CSeQTL
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CSeQTL
+	subdir = CSeQTL
 [submodule "CTAShiny"]
 	path = CTAShiny
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -62,6 +67,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DCEM
 	subdir = DCEM
+[submodule "DDPNA"]
+	path = DDPNA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DDPNA
+	subdir = DDPNA
 [submodule "DICEM"]
 	path = DICEM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GreyZones
 	subdir = GreyZones
+[submodule "GseaVis"]
+	path = GseaVis
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GseaVis
+	subdir = GseaVis
 [submodule "HiCociety"]
 	path = HiCociety
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,6 +362,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bgmm
 	subdir = bgmm
+[submodule "blastar"]
+	path = blastar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/blastar
+	subdir = blastar
 [submodule "blscrapeR"]
 	path = blscrapeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -562,6 +582,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hierNest
 	subdir = hierNest
+[submodule "hoardeR"]
+	path = hoardeR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hoardeR
+	subdir = hoardeR
 [submodule "inspectdf"]
 	path = inspectdf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
