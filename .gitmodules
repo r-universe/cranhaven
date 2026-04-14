@@ -62,11 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ConversationAlign
 	subdir = ConversationAlign
-[submodule "DCEM"]
-	path = DCEM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DCEM
-	subdir = DCEM
 [submodule "DDPNA"]
 	path = DDPNA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -687,11 +682,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/numbersBR
 	subdir = numbersBR
-[submodule "obr"]
-	path = obr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/obr
-	subdir = obr
 [submodule "omixVizR"]
 	path = omixVizR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
