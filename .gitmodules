@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RTTWebClient
 	subdir = RTTWebClient
-[submodule "Rata"]
-	path = Rata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Rata
-	subdir = Rata
 [submodule "RepertoiR"]
 	path = RepertoiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,6 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/abnormality
 	subdir = abnormality
+[submodule "annotaR"]
+	path = annotaR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/annotaR
+	subdir = annotaR
 [submodule "asymLD"]
 	path = asymLD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
