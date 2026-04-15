@@ -62,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DOT
 	subdir = DOT
+[submodule "DynaRankR"]
+	path = DynaRankR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DynaRankR
+	subdir = DynaRankR
 [submodule "EBMAforecast"]
 	path = EBMAforecast
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -122,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MSCA
 	subdir = MSCA
-[submodule "MSRDT"]
-	path = MSRDT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MSRDT
-	subdir = MSRDT
 [submodule "MetProc"]
 	path = MetProc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MoLE
 	subdir = MoLE
-[submodule "MullerPlot"]
-	path = MullerPlot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MullerPlot
-	subdir = MullerPlot
 [submodule "NEONiso"]
 	path = NEONiso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RRate
 	subdir = RRate
-[submodule "RepertoiR"]
-	path = RepertoiR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RepertoiR
-	subdir = RepertoiR
 [submodule "Rsconctdply"]
 	path = Rsconctdply
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +247,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/STAT2
 	subdir = STAT2
+[submodule "SWIM"]
+	path = SWIM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SWIM
+	subdir = SWIM
+[submodule "SemiEstimate"]
+	path = SemiEstimate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SemiEstimate
+	subdir = SemiEstimate
 [submodule "SimHaz"]
 	path = SimHaz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,6 +312,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/asymLD
 	subdir = asymLD
+[submodule "augmentedRCBD"]
+	path = augmentedRCBD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/augmentedRCBD
+	subdir = augmentedRCBD
 [submodule "autoFC"]
 	path = autoFC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
