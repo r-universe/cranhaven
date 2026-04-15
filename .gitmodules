@@ -57,6 +57,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DICEM
 	subdir = DICEM
+[submodule "DOT"]
+	path = DOT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DOT
+	subdir = DOT
 [submodule "EBMAforecast"]
 	path = EBMAforecast
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -67,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EcoIndR
 	subdir = EcoIndR
+[submodule "FuncNN"]
+	path = FuncNN
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FuncNN
+	subdir = FuncNN
 [submodule "GetDFPData"]
 	path = GetDFPData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MAAPER
 	subdir = MAAPER
+[submodule "MEGENA"]
+	path = MEGENA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MEGENA
+	subdir = MEGENA
 [submodule "MIMSunit"]
 	path = MIMSunit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,6 +197,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/REGENT
 	subdir = REGENT
+[submodule "REPTILE"]
+	path = REPTILE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/REPTILE
+	subdir = REPTILE
 [submodule "RFIF"]
 	path = RFIF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,6 +402,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/creditmodel
 	subdir = creditmodel
+[submodule "cryst"]
+	path = cryst
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cryst
+	subdir = cryst
 [submodule "cuadramelo"]
 	path = cuadramelo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -422,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dialvalidator
 	subdir = dialvalidator
+[submodule "diffeRenTES"]
+	path = diffeRenTES
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/diffeRenTES
+	subdir = diffeRenTES
 [submodule "disto"]
 	path = disto
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -497,6 +527,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fbar
 	subdir = fbar
+[submodule "flux"]
+	path = flux
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/flux
+	subdir = flux
 [submodule "genero"]
 	path = genero
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -697,6 +732,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/portfolio.optimization
 	subdir = portfolio.optimization
+[submodule "prettyR"]
+	path = prettyR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/prettyR
+	subdir = prettyR
 [submodule "qkerntool"]
 	path = qkerntool
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
