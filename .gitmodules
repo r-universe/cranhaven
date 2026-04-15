@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetProc
 	subdir = MetProc
-[submodule "MoLE"]
-	path = MoLE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MoLE
-	subdir = MoLE
 [submodule "MullerPlot"]
 	path = MullerPlot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/REGENT
 	subdir = REGENT
+[submodule "RFIF"]
+	path = RFIF
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RFIF
+	subdir = RFIF
 [submodule "RRate"]
 	path = RRate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -557,6 +557,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggrasp
 	subdir = ggrasp
+[submodule "glmmrOptim"]
+	path = glmmrOptim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/glmmrOptim
+	subdir = glmmrOptim
 [submodule "golden"]
 	path = golden
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
