@@ -132,11 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetProc
 	subdir = MetProc
-[submodule "MoLE"]
-	path = MoLE
+[submodule "MullerPlot"]
+	path = MullerPlot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MoLE
-	subdir = MoLE
+	branch = package/MullerPlot
+	subdir = MullerPlot
 [submodule "NEONiso"]
 	path = NEONiso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,16 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/STAT2
 	subdir = STAT2
-[submodule "SWIM"]
-	path = SWIM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SWIM
-	subdir = SWIM
-[submodule "SemiEstimate"]
-	path = SemiEstimate
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SemiEstimate
-	subdir = SemiEstimate
 [submodule "SimHaz"]
 	path = SimHaz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
