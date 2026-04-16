@@ -62,11 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DOT
 	subdir = DOT
-[submodule "DynaRankR"]
-	path = DynaRankR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DynaRankR
-	subdir = DynaRankR
 [submodule "EBMAforecast"]
 	path = EBMAforecast
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/KenSyn
 	subdir = KenSyn
+[submodule "LobsterCatch"]
+	path = LobsterCatch
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LobsterCatch
+	subdir = LobsterCatch
 [submodule "MAAPER"]
 	path = MAAPER
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetProc
 	subdir = MetProc
-[submodule "MullerPlot"]
-	path = MullerPlot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MullerPlot
-	subdir = MullerPlot
 [submodule "NEONiso"]
 	path = NEONiso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SCORPIUS
 	subdir = SCORPIUS
+[submodule "SDEFSR"]
+	path = SDEFSR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SDEFSR
+	subdir = SDEFSR
 [submodule "SPAS"]
 	path = SPAS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
