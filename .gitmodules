@@ -447,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/draw
 	subdir = draw
+[submodule "dvqcc"]
+	path = dvqcc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dvqcc
+	subdir = dvqcc
 [submodule "dynamAedes"]
 	path = dynamAedes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -512,11 +517,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/genpwr
 	subdir = genpwr
-[submodule "ggTimeSeries"]
-	path = ggTimeSeries
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ggTimeSeries
-	subdir = ggTimeSeries
 [submodule "ggrasp"]
 	path = ggrasp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -587,11 +587,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leafR
 	subdir = leafR
-[submodule "loadshaper"]
-	path = loadshaper
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/loadshaper
-	subdir = loadshaper
 [submodule "metamicrobiomeR"]
 	path = metamicrobiomeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -627,6 +622,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/msltrend
 	subdir = msltrend
+[submodule "na.tools"]
+	path = na.tools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/na.tools
+	subdir = na.tools
 [submodule "ncpen"]
 	path = ncpen
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -647,11 +647,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/omixVizR
 	subdir = omixVizR
-[submodule "opitools"]
-	path = opitools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/opitools
-	subdir = opitools
 [submodule "packer"]
 	path = packer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -702,6 +697,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qkerntool
 	subdir = qkerntool
+[submodule "rIntervalTree"]
+	path = rIntervalTree
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rIntervalTree
+	subdir = rIntervalTree
 [submodule "rcc"]
 	path = rcc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
