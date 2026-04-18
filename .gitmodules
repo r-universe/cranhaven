@@ -542,11 +542,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hedgedrf
 	subdir = hedgedrf
-[submodule "hierNest"]
-	path = hierNest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hierNest
-	subdir = hierNest
 [submodule "hoardeR"]
 	path = hoardeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
