@@ -97,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GseaVis
 	subdir = GseaVis
+[submodule "HiCociety"]
+	path = HiCociety
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HiCociety
+	subdir = HiCociety
 [submodule "KenSyn"]
 	path = KenSyn
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,6 +377,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ceg
 	subdir = ceg
+[submodule "clootl"]
+	path = clootl
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clootl
+	subdir = clootl
 [submodule "cloudos"]
 	path = cloudos
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -447,11 +457,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/draw
 	subdir = draw
-[submodule "dvqcc"]
-	path = dvqcc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dvqcc
-	subdir = dvqcc
 [submodule "dynamAedes"]
 	path = dynamAedes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -582,6 +587,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/leafR
 	subdir = leafR
+[submodule "loadshaper"]
+	path = loadshaper
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/loadshaper
+	subdir = loadshaper
 [submodule "metamicrobiomeR"]
 	path = metamicrobiomeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -632,11 +642,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nets
 	subdir = nets
-[submodule "numbersBR"]
-	path = numbersBR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/numbersBR
-	subdir = numbersBR
 [submodule "omixVizR"]
 	path = omixVizR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -712,11 +717,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/repo
 	subdir = repo
-[submodule "rfishnet2"]
-	path = rfishnet2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rfishnet2
-	subdir = rfishnet2
 [submodule "rgdax"]
 	path = rgdax
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
