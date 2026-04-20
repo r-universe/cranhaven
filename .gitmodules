@@ -797,11 +797,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spemd
 	subdir = spemd
-[submodule "srcpkgs"]
-	path = srcpkgs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/srcpkgs
-	subdir = srcpkgs
 [submodule "suddengains"]
 	path = suddengains
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
