@@ -97,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GseaVis
 	subdir = GseaVis
-[submodule "HiCociety"]
-	path = HiCociety
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HiCociety
-	subdir = HiCociety
 [submodule "KenSyn"]
 	path = KenSyn
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -522,11 +517,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/genpwr
 	subdir = genpwr
+[submodule "ggTimeSeries"]
+	path = ggTimeSeries
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ggTimeSeries
+	subdir = ggTimeSeries
 [submodule "ggrasp"]
 	path = ggrasp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggrasp
 	subdir = ggrasp
+[submodule "ggtaxplot"]
+	path = ggtaxplot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ggtaxplot
+	subdir = ggtaxplot
 [submodule "glmmrOptim"]
 	path = glmmrOptim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -572,26 +577,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kantorovich
 	subdir = kantorovich
-[submodule "keyToEnglish"]
-	path = keyToEnglish
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/keyToEnglish
-	subdir = keyToEnglish
 [submodule "khisr"]
 	path = khisr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/khisr
 	subdir = khisr
-[submodule "leafR"]
-	path = leafR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/leafR
-	subdir = leafR
 [submodule "loadshaper"]
 	path = loadshaper
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/loadshaper
 	subdir = loadshaper
+[submodule "mcunit"]
+	path = mcunit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mcunit
+	subdir = mcunit
 [submodule "metamicrobiomeR"]
 	path = metamicrobiomeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -642,16 +642,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nets
 	subdir = nets
+[submodule "numbersBR"]
+	path = numbersBR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/numbersBR
+	subdir = numbersBR
 [submodule "omixVizR"]
 	path = omixVizR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/omixVizR
 	subdir = omixVizR
-[submodule "packer"]
-	path = packer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/packer
-	subdir = packer
 [submodule "paco"]
 	path = paco
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -682,11 +682,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pinyin
 	subdir = pinyin
-[submodule "portfolio.optimization"]
-	path = portfolio.optimization
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/portfolio.optimization
-	subdir = portfolio.optimization
 [submodule "prettyR"]
 	path = prettyR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -712,11 +707,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/readit
 	subdir = readit
-[submodule "repo"]
-	path = repo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/repo
-	subdir = repo
 [submodule "rgdax"]
 	path = rgdax
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -807,6 +797,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spemd
 	subdir = spemd
+[submodule "srcpkgs"]
+	path = srcpkgs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/srcpkgs
+	subdir = srcpkgs
 [submodule "suddengains"]
 	path = suddengains
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -827,6 +822,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/twfeivdecomp
 	subdir = twfeivdecomp
+[submodule "tynding"]
+	path = tynding
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tynding
+	subdir = tynding
 [submodule "uklr"]
 	path = uklr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
