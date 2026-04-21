@@ -492,11 +492,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/factorial2x2
 	subdir = factorial2x2
-[submodule "farr"]
-	path = farr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/farr
-	subdir = farr
 [submodule "fastcmprsk"]
 	path = fastcmprsk
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
