@@ -562,11 +562,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/irrCAC
 	subdir = irrCAC
-[submodule "jackstraw"]
-	path = jackstraw
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/jackstraw
-	subdir = jackstraw
 [submodule "kantorovich"]
 	path = kantorovich
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
