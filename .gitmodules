@@ -437,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dataMeta
 	subdir = dataMeta
-[submodule "datadriftR"]
-	path = datadriftR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/datadriftR
-	subdir = datadriftR
 [submodule "demoGraphic"]
 	path = demoGraphic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
