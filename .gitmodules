@@ -117,6 +117,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/INLAtools
 	subdir = INLAtools
+[submodule "IP"]
+	path = IP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/IP
+	subdir = IP
 [submodule "KenSyn"]
 	path = KenSyn
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -477,6 +482,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/draw
 	subdir = draw
+[submodule "dsdp"]
+	path = dsdp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dsdp
+	subdir = dsdp
 [submodule "dynamAedes"]
 	path = dynamAedes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -682,6 +692,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pinyin
 	subdir = pinyin
+[submodule "precondition"]
+	path = precondition
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/precondition
+	subdir = precondition
 [submodule "prettyR"]
 	path = prettyR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -707,11 +722,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rethinker
 	subdir = rethinker
-[submodule "rgdax"]
-	path = rgdax
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rgdax
-	subdir = rgdax
 [submodule "rpivotTable"]
 	path = rpivotTable
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -742,16 +752,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scSorter
 	subdir = scSorter
-[submodule "shiny.pwa"]
-	path = shiny.pwa
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shiny.pwa
-	subdir = shiny.pwa
-[submodule "siqr"]
-	path = siqr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/siqr
-	subdir = siqr
 [submodule "smpic"]
 	path = smpic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -807,11 +807,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tynding
 	subdir = tynding
-[submodule "uklr"]
-	path = uklr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/uklr
-	subdir = uklr
 [submodule "understandBPMN"]
 	path = understandBPMN
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -827,6 +822,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/viafr
 	subdir = viafr
+[submodule "voxel"]
+	path = voxel
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/voxel
+	subdir = voxel
 [submodule "welchADF"]
 	path = welchADF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
