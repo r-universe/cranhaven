@@ -717,11 +717,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/prettyR
 	subdir = prettyR
-[submodule "rFerns"]
-	path = rFerns
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rFerns
-	subdir = rFerns
 [submodule "rcc"]
 	path = rcc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
