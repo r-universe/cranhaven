@@ -107,6 +107,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GseaVis
 	subdir = GseaVis
+[submodule "INLAspacetime"]
+	path = INLAspacetime
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/INLAspacetime
+	subdir = INLAspacetime
+[submodule "INLAtools"]
+	path = INLAtools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/INLAtools
+	subdir = INLAtools
 [submodule "KenSyn"]
 	path = KenSyn
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -557,6 +567,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/grPipe
 	subdir = grPipe
+[submodule "graphpcor"]
+	path = graphpcor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/graphpcor
+	subdir = graphpcor
 [submodule "hedgedrf"]
 	path = hedgedrf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -697,11 +712,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rgdax
 	subdir = rgdax
-[submodule "ropendata"]
-	path = ropendata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ropendata
-	subdir = ropendata
 [submodule "rpivotTable"]
 	path = rpivotTable
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -732,21 +742,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scSorter
 	subdir = scSorter
-[submodule "semverutils"]
-	path = semverutils
+[submodule "shiny.pwa"]
+	path = shiny.pwa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/semverutils
-	subdir = semverutils
-[submodule "shinypanels"]
-	path = shinypanels
+	branch = package/shiny.pwa
+	subdir = shiny.pwa
+[submodule "siqr"]
+	path = siqr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shinypanels
-	subdir = shinypanels
-[submodule "slimrec"]
-	path = slimrec
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/slimrec
-	subdir = slimrec
+	branch = package/siqr
+	subdir = siqr
 [submodule "smpic"]
 	path = smpic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -767,11 +772,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sovereign
 	subdir = sovereign
-[submodule "specklestar"]
-	path = specklestar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/specklestar
-	subdir = specklestar
 [submodule "spectrino"]
 	path = spectrino
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
