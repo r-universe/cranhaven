@@ -77,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EBMAforecast
 	subdir = EBMAforecast
+[submodule "ELMR"]
+	path = ELMR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ELMR
+	subdir = ELMR
 [submodule "EcoIndR"]
 	path = EcoIndR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -122,6 +127,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IP
 	subdir = IP
+[submodule "KERE"]
+	path = KERE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/KERE
+	subdir = KERE
 [submodule "KenSyn"]
 	path = KenSyn
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,6 +332,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ZeBook
 	subdir = ZeBook
+[submodule "acp"]
+	path = acp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/acp
+	subdir = acp
 [submodule "annotaR"]
 	path = annotaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -807,11 +822,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tynding
 	subdir = tynding
-[submodule "understandBPMN"]
-	path = understandBPMN
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/understandBPMN
-	subdir = understandBPMN
 [submodule "vader"]
 	path = vader
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -822,11 +832,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/viafr
 	subdir = viafr
-[submodule "voxel"]
-	path = voxel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/voxel
-	subdir = voxel
 [submodule "welchADF"]
 	path = welchADF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
