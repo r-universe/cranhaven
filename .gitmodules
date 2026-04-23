@@ -422,11 +422,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ceg
 	subdir = ceg
-[submodule "clootl"]
-	path = clootl
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clootl
-	subdir = clootl
 [submodule "cloudos"]
 	path = cloudos
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -727,11 +722,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/readit
 	subdir = readit
-[submodule "rethinker"]
-	path = rethinker
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rethinker
-	subdir = rethinker
 [submodule "rpivotTable"]
 	path = rpivotTable
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
