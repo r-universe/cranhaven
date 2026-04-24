@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BiplotGUI
 	subdir = BiplotGUI
-[submodule "CSeQTL"]
-	path = CSeQTL
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CSeQTL
-	subdir = CSeQTL
 [submodule "CTAShiny"]
 	path = CTAShiny
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -72,6 +67,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DOT
 	subdir = DOT
+[submodule "DisHet"]
+	path = DisHet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DisHet
+	subdir = DisHet
 [submodule "EBMAforecast"]
 	path = EBMAforecast
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FuzzyLP
 	subdir = FuzzyLP
+[submodule "GLMaSPU"]
+	path = GLMaSPU
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GLMaSPU
+	subdir = GLMaSPU
 [submodule "GetDFPData"]
 	path = GetDFPData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MAAPER
 	subdir = MAAPER
+[submodule "MANCIE"]
+	path = MANCIE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MANCIE
+	subdir = MANCIE
 [submodule "MEGENA"]
 	path = MEGENA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -157,16 +167,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MIMSunit
 	subdir = MIMSunit
-[submodule "MSCA"]
-	path = MSCA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MSCA
-	subdir = MSCA
 [submodule "MetProc"]
 	path = MetProc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MetProc
 	subdir = MetProc
+[submodule "MiSPU"]
+	path = MiSPU
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MiSPU
+	subdir = MiSPU
 [submodule "NEONiso"]
 	path = NEONiso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -282,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SPIGA
 	subdir = SPIGA
-[submodule "SQUIRE"]
-	path = SQUIRE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SQUIRE
-	subdir = SQUIRE
 [submodule "SRCS"]
 	path = SRCS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,11 +457,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/curvecomp
 	subdir = curvecomp
-[submodule "cycleTrendR"]
-	path = cycleTrendR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cycleTrendR
-	subdir = cycleTrendR
 [submodule "dataMeta"]
 	path = dataMeta
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -607,6 +607,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/inspectdf
 	subdir = inspectdf
+[submodule "iopsych"]
+	path = iopsych
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iopsych
+	subdir = iopsych
 [submodule "irrCAC"]
 	path = irrCAC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -702,6 +707,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pinyin
 	subdir = pinyin
+[submodule "prclust"]
+	path = prclust
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/prclust
+	subdir = prclust
 [submodule "precondition"]
 	path = precondition
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -772,6 +782,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sovereign
 	subdir = sovereign
+[submodule "sparsereg"]
+	path = sparsereg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sparsereg
+	subdir = sparsereg
 [submodule "spectrino"]
 	path = spectrino
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
