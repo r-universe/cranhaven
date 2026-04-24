@@ -307,11 +307,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/STAT2
 	subdir = STAT2
-[submodule "SimHaz"]
-	path = SimHaz
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SimHaz
-	subdir = SimHaz
 [submodule "Strategy"]
 	path = Strategy
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
