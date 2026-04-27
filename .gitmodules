@@ -387,11 +387,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/curstatCI
 	subdir = curstatCI
-[submodule "curvecomp"]
-	path = curvecomp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/curvecomp
-	subdir = curvecomp
 [submodule "dSVA"]
 	path = dSVA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -557,11 +552,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iosmooth
 	subdir = iosmooth
-[submodule "irrCAC"]
-	path = irrCAC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/irrCAC
-	subdir = irrCAC
 [submodule "jmvReadWrite"]
 	path = jmvReadWrite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -837,6 +827,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/viafr
 	subdir = viafr
+[submodule "warpMix"]
+	path = warpMix
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/warpMix
+	subdir = warpMix
 [submodule "welchADF"]
 	path = welchADF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
