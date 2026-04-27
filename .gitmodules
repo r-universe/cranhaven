@@ -552,11 +552,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iosmooth
 	subdir = iosmooth
-[submodule "jmvReadWrite"]
-	path = jmvReadWrite
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/jmvReadWrite
-	subdir = jmvReadWrite
 [submodule "kantorovich"]
 	path = kantorovich
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
