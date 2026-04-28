@@ -262,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Redmonder
 	subdir = Redmonder
+[submodule "Rfssa"]
+	path = Rfssa
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rfssa
+	subdir = Rfssa
 [submodule "Rsconctdply"]
 	path = Rsconctdply
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,6 +372,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bratteli
 	subdir = bratteli
+[submodule "camtrapR"]
+	path = camtrapR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/camtrapR
+	subdir = camtrapR
 [submodule "ccar3"]
 	path = ccar3
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,6 +502,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/genpwr
 	subdir = genpwr
+[submodule "geodl"]
+	path = geodl
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/geodl
+	subdir = geodl
 [submodule "ggrasp"]
 	path = ggrasp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -617,6 +632,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/msltrend
 	subdir = msltrend
+[submodule "nFunNN"]
+	path = nFunNN
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nFunNN
+	subdir = nFunNN
 [submodule "nets"]
 	path = nets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -672,6 +692,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/prettyR
 	subdir = prettyR
+[submodule "promor"]
+	path = promor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/promor
+	subdir = promor
 [submodule "rcc"]
 	path = rcc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -767,6 +792,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/teda
 	subdir = teda
+[submodule "temper"]
+	path = temper
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/temper
+	subdir = temper
 [submodule "ti"]
 	path = ti
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
