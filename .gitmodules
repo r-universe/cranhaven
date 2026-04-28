@@ -512,11 +512,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/golden
 	subdir = golden
-[submodule "grPipe"]
-	path = grPipe
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/grPipe
-	subdir = grPipe
 [submodule "graphpcor"]
 	path = graphpcor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -557,11 +552,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kantorovich
 	subdir = kantorovich
-[submodule "khisr"]
-	path = khisr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/khisr
-	subdir = khisr
 [submodule "laketemps"]
 	path = laketemps
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -697,11 +687,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/regexPipes
 	subdir = regexPipes
-[submodule "rpivotTable"]
-	path = rpivotTable
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rpivotTable
-	subdir = rpivotTable
 [submodule "rtape"]
 	path = rtape
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -747,11 +732,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/snvecR
 	subdir = snvecR
-[submodule "soc.ca"]
-	path = soc.ca
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/soc.ca
-	subdir = soc.ca
 [submodule "sovereign"]
 	path = sovereign
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -832,11 +812,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/welchADF
 	subdir = welchADF
-[submodule "wordpredictor"]
-	path = wordpredictor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wordpredictor
-	subdir = wordpredictor
 [submodule "ypssc"]
 	path = ypssc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
