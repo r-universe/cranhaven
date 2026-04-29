@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BoolFilter
 	subdir = BoolFilter
-[submodule "ConversationAlign"]
-	path = ConversationAlign
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ConversationAlign
-	subdir = ConversationAlign
 [submodule "DDPNA"]
 	path = DDPNA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
