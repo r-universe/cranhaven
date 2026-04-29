@@ -337,11 +337,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/augmentedRCBD
 	subdir = augmentedRCBD
-[submodule "autoFC"]
-	path = autoFC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/autoFC
-	subdir = autoFC
 [submodule "autoMrP"]
 	path = autoMrP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
