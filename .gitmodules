@@ -472,11 +472,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastcmprsk
 	subdir = fastcmprsk
-[submodule "fbar"]
-	path = fbar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fbar
-	subdir = fbar
 [submodule "flux"]
 	path = flux
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -592,11 +587,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mdscore
 	subdir = mdscore
-[submodule "metamicrobiomeR"]
-	path = metamicrobiomeR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/metamicrobiomeR
-	subdir = metamicrobiomeR
 [submodule "mhtboot"]
 	path = mhtboot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -617,26 +607,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mle.tools
 	subdir = mle.tools
-[submodule "mobr"]
-	path = mobr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mobr
-	subdir = mobr
-[submodule "msltrend"]
-	path = msltrend
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/msltrend
-	subdir = msltrend
 [submodule "nFunNN"]
 	path = nFunNN
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nFunNN
 	subdir = nFunNN
-[submodule "nets"]
-	path = nets
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nets
-	subdir = nets
 [submodule "omixVizR"]
 	path = omixVizR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -657,16 +632,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/peermodels
 	subdir = peermodels
-[submodule "petrinetR"]
-	path = petrinetR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/petrinetR
-	subdir = petrinetR
-[submodule "ph2bye"]
-	path = ph2bye
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ph2bye
-	subdir = ph2bye
 [submodule "pinyin"]
 	path = pinyin
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -692,11 +657,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/promor
 	subdir = promor
-[submodule "rcc"]
-	path = rcc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rcc
-	subdir = rcc
 [submodule "readit"]
 	path = readit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -722,16 +682,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/saasCNV
 	subdir = saasCNV
-[submodule "safetyCharts"]
-	path = safetyCharts
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/safetyCharts
-	subdir = safetyCharts
-[submodule "safetyGraphics"]
-	path = safetyGraphics
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/safetyGraphics
-	subdir = safetyGraphics
 [submodule "samplingDataCRT"]
 	path = samplingDataCRT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -742,11 +692,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scSorter
 	subdir = scSorter
-[submodule "smpic"]
-	path = smpic
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/smpic
-	subdir = smpic
 [submodule "snvecR"]
 	path = snvecR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -772,11 +717,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spectrino
 	subdir = spectrino
-[submodule "spemd"]
-	path = spemd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spemd
-	subdir = spemd
 [submodule "suddengains"]
 	path = suddengains
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -802,11 +742,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tuple
 	subdir = tuple
-[submodule "twfeivdecomp"]
-	path = twfeivdecomp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/twfeivdecomp
-	subdir = twfeivdecomp
 [submodule "tynding"]
 	path = tynding
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -822,11 +757,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vader
 	subdir = vader
-[submodule "viafr"]
-	path = viafr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/viafr
-	subdir = viafr
 [submodule "warpMix"]
 	path = warpMix
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -837,8 +767,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/welchADF
 	subdir = welchADF
-[submodule "ypssc"]
-	path = ypssc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ypssc
-	subdir = ypssc
