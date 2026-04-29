@@ -377,11 +377,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/camtrapR
 	subdir = camtrapR
-[submodule "ccar3"]
-	path = ccar3
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ccar3
-	subdir = ccar3
 [submodule "cryst"]
 	path = cryst
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
