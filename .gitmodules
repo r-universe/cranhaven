@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BACCT
 	subdir = BACCT
+[submodule "BHH2"]
+	path = BHH2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BHH2
+	subdir = BHH2
 [submodule "BayesianGLasso"]
 	path = BayesianGLasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MEGENA
 	subdir = MEGENA
+[submodule "MPTmultiverse"]
+	path = MPTmultiverse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MPTmultiverse
+	subdir = MPTmultiverse
 [submodule "MTDrh"]
 	path = MTDrh
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bayesbio
 	subdir = bayesbio
-[submodule "bgmm"]
-	path = bgmm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bgmm
-	subdir = bgmm
 [submodule "bingat"]
 	path = bingat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,11 +522,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dsdp
 	subdir = dsdp
-[submodule "dynpred"]
-	path = dynpred
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dynpred
-	subdir = dynpred
 [submodule "edfun"]
 	path = edfun
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
