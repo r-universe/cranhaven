@@ -447,11 +447,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Weighted.Desc.Stat
 	subdir = Weighted.Desc.Stat
-[submodule "acp"]
-	path = acp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/acp
-	subdir = acp
 [submodule "adwordsR"]
 	path = adwordsR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -632,6 +627,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/highmean
 	subdir = highmean
+[submodule "htrSPRanalysis"]
+	path = htrSPRanalysis
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/htrSPRanalysis
+	subdir = htrSPRanalysis
 [submodule "hurdlr"]
 	path = hurdlr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
