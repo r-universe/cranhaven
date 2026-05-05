@@ -717,11 +717,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mccr
 	subdir = mccr
-[submodule "mdscore"]
-	path = mdscore
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mdscore
-	subdir = mdscore
 [submodule "mhtboot"]
 	path = mhtboot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -917,11 +912,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/temper
 	subdir = temper
-[submodule "tidychangepoint"]
-	path = tidychangepoint
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tidychangepoint
-	subdir = tidychangepoint
 [submodule "tpAUC"]
 	path = tpAUC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
