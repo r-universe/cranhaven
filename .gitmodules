@@ -167,11 +167,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FBCRM
 	subdir = FBCRM
-[submodule "FPV"]
-	path = FPV
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FPV
-	subdir = FPV
 [submodule "FertBoot"]
 	path = FertBoot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -717,6 +712,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mar1s
 	subdir = mar1s
+[submodule "matrixCorr"]
+	path = matrixCorr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/matrixCorr
+	subdir = matrixCorr
 [submodule "mccmeiv"]
 	path = mccmeiv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
