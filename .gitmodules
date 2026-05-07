@@ -577,6 +577,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dlbayes
 	subdir = dlbayes
+[submodule "ebvcube"]
+	path = ebvcube
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ebvcube
+	subdir = ebvcube
 [submodule "evtclass"]
 	path = evtclass
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -607,11 +612,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gamreg
 	subdir = gamreg
-[submodule "geodl"]
-	path = geodl
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/geodl
-	subdir = geodl
 [submodule "gomms"]
 	path = gomms
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
