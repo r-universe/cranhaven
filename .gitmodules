@@ -967,11 +967,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/veccompare
 	subdir = veccompare
-[submodule "vectra"]
-	path = vectra
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vectra
-	subdir = vectra
 [submodule "wPerm"]
 	path = wPerm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
