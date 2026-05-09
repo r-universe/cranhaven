@@ -412,11 +412,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clespr
 	subdir = clespr
-[submodule "clordr"]
-	path = clordr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clordr
-	subdir = clordr
 [submodule "cmce"]
 	path = cmce
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
