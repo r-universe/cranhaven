@@ -332,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TE
 	subdir = TE
-[submodule "TSMN"]
-	path = TSMN
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TSMN
-	subdir = TSMN
 [submodule "TempCont"]
 	path = TempCont
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,11 +342,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TimeVTree
 	subdir = TimeVTree
-[submodule "TreatmentSelection"]
-	path = TreatmentSelection
+[submodule "Weighted.Desc.Stat"]
+	path = Weighted.Desc.Stat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TreatmentSelection
-	subdir = TreatmentSelection
+	branch = package/Weighted.Desc.Stat
+	subdir = Weighted.Desc.Stat
 [submodule "adwordsR"]
 	path = adwordsR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -472,6 +467,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ebvcube
 	subdir = ebvcube
+[submodule "eudata"]
+	path = eudata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/eudata
+	subdir = eudata
 [submodule "evian"]
 	path = evian
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
