@@ -342,11 +342,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TimeVTree
 	subdir = TimeVTree
-[submodule "Weighted.Desc.Stat"]
-	path = Weighted.Desc.Stat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Weighted.Desc.Stat
-	subdir = Weighted.Desc.Stat
 [submodule "adwordsR"]
 	path = adwordsR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,6 +432,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/countToFPKM
 	subdir = countToFPKM
+[submodule "coursekata"]
+	path = coursekata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/coursekata
+	subdir = coursekata
 [submodule "covsep"]
 	path = covsep
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -682,11 +682,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mmpp
 	subdir = mmpp
-[submodule "modelwordcloud"]
-	path = modelwordcloud
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/modelwordcloud
-	subdir = modelwordcloud
 [submodule "mstR"]
 	path = mstR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
