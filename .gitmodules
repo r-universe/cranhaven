@@ -492,6 +492,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/firebehavioR
 	subdir = firebehavioR
+[submodule "flightplot"]
+	path = flightplot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/flightplot
+	subdir = flightplot
 [submodule "forecastSNSTS"]
 	path = forecastSNSTS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
