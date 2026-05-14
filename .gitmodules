@@ -407,11 +407,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cmrutils
 	subdir = cmrutils
-[submodule "colmozzie"]
-	path = colmozzie
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/colmozzie
-	subdir = colmozzie
 [submodule "confSAM"]
 	path = confSAM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -982,6 +977,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/valection
 	subdir = valection
+[submodule "variosig"]
+	path = variosig
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/variosig
+	subdir = variosig
+[submodule "varjmcm"]
+	path = varjmcm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/varjmcm
+	subdir = varjmcm
 [submodule "whitechapelR"]
 	path = whitechapelR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
