@@ -357,6 +357,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/arse
 	subdir = arse
+[submodule "aws.alexa"]
+	path = aws.alexa
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/aws.alexa
+	subdir = aws.alexa
 [submodule "aws.ec2metadata"]
 	path = aws.ec2metadata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -682,11 +687,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mlmm.gwas
 	subdir = mlmm.gwas
-[submodule "mmpp"]
-	path = mmpp
+[submodule "modelwordcloud"]
+	path = modelwordcloud
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mmpp
-	subdir = mmpp
+	branch = package/modelwordcloud
+	subdir = modelwordcloud
 [submodule "mstR"]
 	path = mstR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -752,11 +757,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pkr
 	subdir = pkr
-[submodule "plaqr"]
-	path = plaqr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/plaqr
-	subdir = plaqr
 [submodule "plde"]
 	path = plde
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
