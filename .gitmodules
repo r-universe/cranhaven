@@ -77,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CoxR2
 	subdir = CoxR2
+[submodule "DrDimont"]
+	path = DrDimont
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DrDimont
+	subdir = DrDimont
 [submodule "EBPRS"]
 	path = EBPRS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,6 +117,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GRAPE
 	subdir = GRAPE
+[submodule "GoogleImage2Array"]
+	path = GoogleImage2Array
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GoogleImage2Array
+	subdir = GoogleImage2Array
 [submodule "HCT"]
 	path = HCT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -462,11 +472,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ezmmek
 	subdir = ezmmek
-[submodule "fc"]
-	path = fc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fc
-	subdir = fc
 [submodule "firebehavioR"]
 	path = firebehavioR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,16 +522,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glmmrBase
 	subdir = glmmrBase
+[submodule "graphframes"]
+	path = graphframes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/graphframes
+	subdir = graphframes
+[submodule "halfcircle"]
+	path = halfcircle
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/halfcircle
+	subdir = halfcircle
+[submodule "happytime"]
+	path = happytime
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/happytime
+	subdir = happytime
 [submodule "hettreatreg"]
 	path = hettreatreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hettreatreg
 	subdir = hettreatreg
-[submodule "hhi"]
-	path = hhi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hhi
-	subdir = hhi
 [submodule "hindex"]
 	path = hindex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -607,21 +622,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lorenz
 	subdir = lorenz
-[submodule "lsbs"]
-	path = lsbs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lsbs
-	subdir = lsbs
 [submodule "lsdbc"]
 	path = lsdbc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lsdbc
 	subdir = lsdbc
-[submodule "manet"]
-	path = manet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/manet
-	subdir = manet
 [submodule "marginme"]
 	path = marginme
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -677,6 +682,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mosqcontrol
 	subdir = mosqcontrol
+[submodule "mstR"]
+	path = mstR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mstR
+	subdir = mstR
 [submodule "multiMarker"]
 	path = multiMarker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -712,11 +722,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nonet
 	subdir = nonet
-[submodule "normalr"]
-	path = normalr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/normalr
-	subdir = normalr
 [submodule "npordtests"]
 	path = npordtests
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -737,11 +742,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pkr
 	subdir = pkr
-[submodule "plde"]
-	path = plde
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/plde
-	subdir = plde
 [submodule "prevederer"]
 	path = prevederer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
