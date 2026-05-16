@@ -492,6 +492,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forsearch
 	subdir = forsearch
+[submodule "fuseMLR"]
+	path = fuseMLR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fuseMLR
+	subdir = fuseMLR
 [submodule "gainML"]
 	path = gainML
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
