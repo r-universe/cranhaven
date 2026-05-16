@@ -437,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cspec
 	subdir = cspec
-[submodule "dlbayes"]
-	path = dlbayes
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dlbayes
-	subdir = dlbayes
 [submodule "ebvcube"]
 	path = ebvcube
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -522,21 +517,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glmmrBase
 	subdir = glmmrBase
-[submodule "graphframes"]
-	path = graphframes
+[submodule "gpx"]
+	path = gpx
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/graphframes
-	subdir = graphframes
+	branch = package/gpx
+	subdir = gpx
 [submodule "halfcircle"]
 	path = halfcircle
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/halfcircle
 	subdir = halfcircle
-[submodule "happytime"]
-	path = happytime
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/happytime
-	subdir = happytime
 [submodule "hettreatreg"]
 	path = hettreatreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -582,11 +572,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ivitr
 	subdir = ivitr
-[submodule "jeek"]
-	path = jeek
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/jeek
-	subdir = jeek
 [submodule "kernplus"]
 	path = kernplus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -627,6 +612,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lsdbc
 	subdir = lsdbc
+[submodule "mar1s"]
+	path = mar1s
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mar1s
+	subdir = mar1s
 [submodule "marginme"]
 	path = marginme
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -712,16 +702,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/neighbr
 	subdir = neighbr
-[submodule "netregR"]
-	path = netregR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/netregR
-	subdir = netregR
 [submodule "nonet"]
 	path = nonet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nonet
 	subdir = nonet
+[submodule "normalr"]
+	path = normalr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/normalr
+	subdir = normalr
 [submodule "npordtests"]
 	path = npordtests
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
