@@ -77,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CoxR2
 	subdir = CoxR2
+[submodule "DataQualityDashboard"]
+	path = DataQualityDashboard
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DataQualityDashboard
+	subdir = DataQualityDashboard
 [submodule "DrDimont"]
 	path = DrDimont
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OmnibusFisher
 	subdir = OmnibusFisher
+[submodule "PRA"]
+	path = PRA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PRA
+	subdir = PRA
 [submodule "PanCanVarSel"]
 	path = PanCanVarSel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -522,21 +532,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glmmrBase
 	subdir = glmmrBase
-[submodule "gpx"]
-	path = gpx
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gpx
-	subdir = gpx
-[submodule "halfcircle"]
-	path = halfcircle
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/halfcircle
-	subdir = halfcircle
 [submodule "hettreatreg"]
 	path = hettreatreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hettreatreg
 	subdir = hettreatreg
+[submodule "hhi"]
+	path = hhi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hhi
+	subdir = hhi
 [submodule "hindex"]
 	path = hindex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -577,6 +582,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ivitr
 	subdir = ivitr
+[submodule "jeek"]
+	path = jeek
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/jeek
+	subdir = jeek
 [submodule "kernplus"]
 	path = kernplus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -587,16 +597,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/l1ball
 	subdir = l1ball
+[submodule "lamme"]
+	path = lamme
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lamme
+	subdir = lamme
 [submodule "lavDiag"]
 	path = lavDiag
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lavDiag
 	subdir = lavDiag
-[submodule "lira"]
-	path = lira
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lira
-	subdir = lira
 [submodule "lodi"]
 	path = lodi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -612,6 +622,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lorenz
 	subdir = lorenz
+[submodule "lsbs"]
+	path = lsbs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lsbs
+	subdir = lsbs
 [submodule "lsdbc"]
 	path = lsdbc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -677,11 +692,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mosqcontrol
 	subdir = mosqcontrol
-[submodule "mstR"]
-	path = mstR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mstR
-	subdir = mstR
 [submodule "multiMarker"]
 	path = multiMarker
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -692,11 +702,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multiRDPG
 	subdir = multiRDPG
-[submodule "multiROC"]
-	path = multiROC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/multiROC
-	subdir = multiROC
 [submodule "ncar"]
 	path = ncar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -712,11 +717,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nonet
 	subdir = nonet
-[submodule "normalr"]
-	path = normalr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/normalr
-	subdir = normalr
 [submodule "npordtests"]
 	path = npordtests
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
