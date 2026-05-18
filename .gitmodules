@@ -762,11 +762,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pkr
 	subdir = pkr
-[submodule "portfolioBacktest"]
-	path = portfolioBacktest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/portfolioBacktest
-	subdir = portfolioBacktest
 [submodule "prevederer"]
 	path = prevederer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
