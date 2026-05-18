@@ -342,6 +342,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SLTCA
 	subdir = SLTCA
+[submodule "SMITIDstruct"]
+	path = SMITIDstruct
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SMITIDstruct
+	subdir = SMITIDstruct
 [submodule "SPCAvRP"]
 	path = SPCAvRP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -777,6 +782,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qfasar
 	subdir = qfasar
+[submodule "quantoptr"]
+	path = quantoptr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/quantoptr
+	subdir = quantoptr
 [submodule "r.blip"]
 	path = r.blip
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -842,11 +852,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sahpm
 	subdir = sahpm
-[submodule "sambia"]
-	path = sambia
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sambia
-	subdir = sambia
 [submodule "santoku"]
 	path = santoku
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -872,11 +877,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sensitivityCalibration
 	subdir = sensitivityCalibration
-[submodule "sharpr2"]
-	path = sharpr2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sharpr2
-	subdir = sharpr2
 [submodule "shinySIR"]
 	path = shinySIR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -887,6 +887,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/simtimer
 	subdir = simtimer
+[submodule "simule"]
+	path = simule
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/simule
+	subdir = simule
 [submodule "smallarea"]
 	path = smallarea
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -902,11 +907,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spaceNet
 	subdir = spaceNet
-[submodule "sparktf"]
-	path = sparktf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sparktf
-	subdir = sparktf
 [submodule "sqlscore"]
 	path = sqlscore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -917,11 +917,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/srp
 	subdir = srp
-[submodule "ssrm.logmer"]
-	path = ssrm.logmer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ssrm.logmer
-	subdir = ssrm.logmer
 [submodule "string2path"]
 	path = string2path
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -982,6 +977,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wearables
 	subdir = wearables
+[submodule "whitechapelR"]
+	path = whitechapelR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/whitechapelR
+	subdir = whitechapelR
 [submodule "word.alignment"]
 	path = word.alignment
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
