@@ -772,11 +772,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pcalls
 	subdir = pcalls
-[submodule "pensar"]
-	path = pensar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pensar
-	subdir = pensar
 [submodule "pkr"]
 	path = pkr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
