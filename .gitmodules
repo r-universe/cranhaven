@@ -162,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/JQL
 	subdir = JQL
+[submodule "KMT"]
+	path = KMT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/KMT
+	subdir = KMT
 [submodule "LARF"]
 	path = LARF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MatSkew
 	subdir = MatSkew
+[submodule "MiscMetabar"]
+	path = MiscMetabar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MiscMetabar
+	subdir = MiscMetabar
 [submodule "MultinomialCI"]
 	path = MultinomialCI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,6 +502,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cspec
 	subdir = cspec
+[submodule "dress.graph"]
+	path = dress.graph
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dress.graph
+	subdir = dress.graph
 [submodule "ebvcube"]
 	path = ebvcube
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -757,6 +772,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pcalls
 	subdir = pcalls
+[submodule "pensar"]
+	path = pensar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pensar
+	subdir = pensar
 [submodule "pkr"]
 	path = pkr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -777,11 +797,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qfasar
 	subdir = qfasar
-[submodule "quantoptr"]
-	path = quantoptr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/quantoptr
-	subdir = quantoptr
 [submodule "r.blip"]
 	path = r.blip
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -792,6 +807,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rcube
 	subdir = rcube
+[submodule "readOffice"]
+	path = readOffice
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/readOffice
+	subdir = readOffice
 [submodule "regplot"]
 	path = regplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -812,11 +832,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rlmDataDriven
 	subdir = rlmDataDriven
-[submodule "rmda"]
-	path = rmda
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rmda
-	subdir = rmda
 [submodule "rrecsys"]
 	path = rrecsys
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -882,11 +897,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/simtimer
 	subdir = simtimer
-[submodule "simule"]
-	path = simule
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/simule
-	subdir = simule
 [submodule "smallarea"]
 	path = smallarea
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -937,21 +947,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tok
 	subdir = tok
-[submodule "usfertilizer"]
-	path = usfertilizer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/usfertilizer
-	subdir = usfertilizer
 [submodule "ushr"]
 	path = ushr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ushr
 	subdir = ushr
-[submodule "vagam"]
-	path = vagam
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vagam
-	subdir = vagam
 [submodule "varian"]
 	path = varian
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -967,16 +967,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/varjmcm
 	subdir = varjmcm
+[submodule "voluModel"]
+	path = voluModel
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/voluModel
+	subdir = voluModel
 [submodule "wearables"]
 	path = wearables
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wearables
 	subdir = wearables
-[submodule "whitechapelR"]
-	path = whitechapelR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/whitechapelR
-	subdir = whitechapelR
 [submodule "word.alignment"]
 	path = word.alignment
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
