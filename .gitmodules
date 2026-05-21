@@ -612,11 +612,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/horseshoenlm
 	subdir = horseshoenlm
-[submodule "htrSPRanalysis"]
-	path = htrSPRanalysis
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/htrSPRanalysis
-	subdir = htrSPRanalysis
 [submodule "iCARH"]
 	path = iCARH
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
