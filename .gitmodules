@@ -302,6 +302,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Raquifer
 	subdir = Raquifer
+[submodule "Rdiagnosislist"]
+	path = Rdiagnosislist
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rdiagnosislist
+	subdir = Rdiagnosislist
 [submodule "RonFHIR"]
 	path = RonFHIR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
