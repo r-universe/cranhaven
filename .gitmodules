@@ -302,11 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Raquifer
 	subdir = Raquifer
-[submodule "Rdiagnosislist"]
-	path = Rdiagnosislist
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Rdiagnosislist
-	subdir = Rdiagnosislist
 [submodule "RonFHIR"]
 	path = RonFHIR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -952,11 +947,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/varjmcm
 	subdir = varjmcm
-[submodule "voluModel"]
-	path = voluModel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/voluModel
-	subdir = voluModel
 [submodule "wearables"]
 	path = wearables
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
