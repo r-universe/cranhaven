@@ -137,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GoogleImage2Array
 	subdir = GoogleImage2Array
-[submodule "HCT"]
-	path = HCT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HCT
-	subdir = HCT
 [submodule "HCTR"]
 	path = HCTR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PhitestR
 	subdir = PhitestR
-[submodule "QuantNorm"]
-	path = QuantNorm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/QuantNorm
-	subdir = QuantNorm
 [submodule "QuantumOps"]
 	path = QuantumOps
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -792,6 +782,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/r.blip
 	subdir = r.blip
+[submodule "rTLsDeep"]
+	path = rTLsDeep
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rTLsDeep
+	subdir = rTLsDeep
 [submodule "rcube"]
 	path = rcube
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -882,6 +877,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/simtimer
 	subdir = simtimer
+[submodule "slopes"]
+	path = slopes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/slopes
+	subdir = slopes
 [submodule "smallarea"]
 	path = smallarea
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -902,6 +902,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sqlscore
 	subdir = sqlscore
+[submodule "sqlserverconnect"]
+	path = sqlserverconnect
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sqlserverconnect
+	subdir = sqlserverconnect
 [submodule "srp"]
 	path = srp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
