@@ -102,16 +102,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ELMSO
 	subdir = ELMSO
-[submodule "FBCRM"]
-	path = FBCRM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FBCRM
-	subdir = FBCRM
 [submodule "FinePop2"]
 	path = FinePop2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FinePop2
 	subdir = FinePop2
+[submodule "FuncMap"]
+	path = FuncMap
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FuncMap
+	subdir = FuncMap
 [submodule "GCalcium"]
 	path = GCalcium
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,16 +127,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GIFTr
 	subdir = GIFTr
-[submodule "GRAPE"]
-	path = GRAPE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GRAPE
-	subdir = GRAPE
 [submodule "GoogleImage2Array"]
 	path = GoogleImage2Array
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GoogleImage2Array
 	subdir = GoogleImage2Array
+[submodule "HCT"]
+	path = HCT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HCT
+	subdir = HCT
 [submodule "HCTR"]
 	path = HCTR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LARF
 	subdir = LARF
-[submodule "LCA"]
-	path = LCA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LCA
-	subdir = LCA
 [submodule "LPower"]
 	path = LPower
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PhitestR
 	subdir = PhitestR
+[submodule "QuantNorm"]
+	path = QuantNorm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/QuantNorm
+	subdir = QuantNorm
 [submodule "QuantumOps"]
 	path = QuantumOps
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
