@@ -52,11 +52,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesBEKK
 	subdir = BayesBEKK
-[submodule "BioCircos"]
-	path = BioCircos
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BioCircos
-	subdir = BioCircos
 [submodule "CRWRM"]
 	path = CRWRM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FuncMap
 	subdir = FuncMap
-[submodule "GCalcium"]
-	path = GCalcium
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GCalcium
-	subdir = GCalcium
 [submodule "GDILM.SEIRS"]
 	path = GDILM.SEIRS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LARF
 	subdir = LARF
+[submodule "LCA"]
+	path = LCA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LCA
+	subdir = LCA
 [submodule "LPower"]
 	path = LPower
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -802,6 +797,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/relgam
 	subdir = relgam
+[submodule "reslr"]
+	path = reslr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/reslr
+	subdir = reslr
 [submodule "rgexf"]
 	path = rgexf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
