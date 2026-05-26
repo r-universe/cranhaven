@@ -797,11 +797,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/relgam
 	subdir = relgam
-[submodule "reslr"]
-	path = reslr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/reslr
-	subdir = reslr
 [submodule "rgexf"]
 	path = rgexf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
