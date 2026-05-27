@@ -397,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/aLFQ
 	subdir = aLFQ
-[submodule "aebdata"]
-	path = aebdata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/aebdata
-	subdir = aebdata
 [submodule "ar.matrix"]
 	path = ar.matrix
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
