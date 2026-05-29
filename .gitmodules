@@ -317,16 +317,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SMITIDstruct
 	subdir = SMITIDstruct
-[submodule "SPCDAnalyze"]
-	path = SPCDAnalyze
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SPCDAnalyze
-	subdir = SPCDAnalyze
 [submodule "Semblance"]
 	path = Semblance
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Semblance
 	subdir = Semblance
+[submodule "SubTite"]
+	path = SubTite
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SubTite
+	subdir = SubTite
 [submodule "SymbolicDeterminants"]
 	path = SymbolicDeterminants
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -377,11 +377,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bcrm
 	subdir = bcrm
-[submodule "bender"]
-	path = bender
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bender
-	subdir = bender
 [submodule "bgsmtr"]
 	path = bgsmtr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,6 +397,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/brlrmr
 	subdir = brlrmr
+[submodule "bspmma"]
+	path = bspmma
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bspmma
+	subdir = bspmma
 [submodule "causalweight"]
 	path = causalweight
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,11 +427,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/coursekata
 	subdir = coursekata
-[submodule "crso"]
-	path = crso
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/crso
-	subdir = crso
 [submodule "cspec"]
 	path = cspec
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -462,6 +457,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/evian
 	subdir = evian
+[submodule "evtclass"]
+	path = evtclass
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/evtclass
+	subdir = evtclass
 [submodule "ezmmek"]
 	path = ezmmek
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -497,6 +497,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forsearch
 	subdir = forsearch
+[submodule "gainML"]
+	path = gainML
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gainML
+	subdir = gainML
 [submodule "ggResidpanel"]
 	path = ggResidpanel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,6 +522,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gitlink
 	subdir = gitlink
+[submodule "grand"]
+	path = grand
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/grand
+	subdir = grand
 [submodule "groupICA"]
 	path = groupICA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -552,16 +562,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/itsdm
 	subdir = itsdm
-[submodule "ivdesign"]
-	path = ivdesign
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ivdesign
-	subdir = ivdesign
-[submodule "ivitr"]
-	path = ivitr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ivitr
-	subdir = ivitr
 [submodule "kernplus"]
 	path = kernplus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -627,11 +627,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mccf1
 	subdir = mccf1
-[submodule "mccmeiv"]
-	path = mccmeiv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mccmeiv
-	subdir = mccmeiv
 [submodule "mediacloudr"]
 	path = mediacloudr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -667,6 +662,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multiMarker
 	subdir = multiMarker
+[submodule "ncar"]
+	path = ncar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ncar
+	subdir = ncar
 [submodule "neighbr"]
 	path = neighbr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
