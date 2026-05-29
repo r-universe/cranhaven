@@ -187,6 +187,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MVNtestchar
 	subdir = MVNtestchar
+[submodule "MadanText"]
+	path = MadanText
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MadanText
+	subdir = MadanText
+[submodule "MadanTextNetwork"]
+	path = MadanTextNetwork
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MadanTextNetwork
+	subdir = MadanTextNetwork
 [submodule "MatSkew"]
 	path = MatSkew
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,6 +237,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PanCanVarSel
 	subdir = PanCanVarSel
+[submodule "PersianStemmer"]
+	path = PersianStemmer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PersianStemmer
+	subdir = PersianStemmer
 [submodule "PetfindeR"]
 	path = PetfindeR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RMPSH
 	subdir = RMPSH
+[submodule "RSGHB"]
+	path = RSGHB
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RSGHB
+	subdir = RSGHB
 [submodule "RSurveillance"]
 	path = RSurveillance
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,16 +337,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SMITIDstruct
 	subdir = SMITIDstruct
-[submodule "Semblance"]
-	path = Semblance
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Semblance
-	subdir = Semblance
-[submodule "SubTite"]
-	path = SubTite
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SubTite
-	subdir = SubTite
 [submodule "SymbolicDeterminants"]
 	path = SymbolicDeterminants
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,11 +367,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/aLFQ
 	subdir = aLFQ
-[submodule "arse"]
-	path = arse
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/arse
-	subdir = arse
 [submodule "aws.alexa"]
 	path = aws.alexa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,11 +402,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/brlrmr
 	subdir = brlrmr
-[submodule "bspmma"]
-	path = bspmma
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bspmma
-	subdir = bspmma
 [submodule "causalweight"]
 	path = causalweight
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -562,11 +562,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/itsdm
 	subdir = itsdm
-[submodule "kernplus"]
-	path = kernplus
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/kernplus
-	subdir = kernplus
 [submodule "l1ball"]
 	path = l1ball
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -627,6 +622,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mccf1
 	subdir = mccf1
+[submodule "mccmeiv"]
+	path = mccmeiv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mccmeiv
+	subdir = mccmeiv
 [submodule "mediacloudr"]
 	path = mediacloudr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -637,11 +637,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mergeTrees
 	subdir = mergeTrees
-[submodule "mimi"]
-	path = mimi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mimi
-	subdir = mimi
 [submodule "mlmm.gwas"]
 	path = mlmm.gwas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -747,6 +742,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/radarchart
 	subdir = radarchart
+[submodule "rbrsa"]
+	path = rbrsa
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rbrsa
+	subdir = rbrsa
 [submodule "rcube"]
 	path = rcube
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
