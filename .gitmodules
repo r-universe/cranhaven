@@ -437,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dress.graph
 	subdir = dress.graph
-[submodule "ebvcube"]
-	path = ebvcube
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ebvcube
-	subdir = ebvcube
 [submodule "eudata"]
 	path = eudata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
