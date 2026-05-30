@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HPLB
 	subdir = HPLB
-[submodule "IOBR"]
-	path = IOBR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/IOBR
-	subdir = IOBR
 [submodule "Irescale"]
 	path = Irescale
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
