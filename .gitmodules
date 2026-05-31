@@ -597,11 +597,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/matahari
 	subdir = matahari
-[submodule "matrixCorr"]
-	path = matrixCorr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/matrixCorr
-	subdir = matrixCorr
 [submodule "matrixStrucTest"]
 	path = matrixStrucTest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
