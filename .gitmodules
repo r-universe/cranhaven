@@ -332,6 +332,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SMITIDstruct
 	subdir = SMITIDstruct
+[submodule "Semblance"]
+	path = Semblance
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Semblance
+	subdir = Semblance
 [submodule "SymbolicDeterminants"]
 	path = SymbolicDeterminants
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,11 +352,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TableHC
 	subdir = TableHC
-[submodule "TempCont"]
-	path = TempCont
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TempCont
-	subdir = TempCont
 [submodule "VBTree"]
 	path = VBTree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,6 +397,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/brlrmr
 	subdir = brlrmr
+[submodule "bspmma"]
+	path = bspmma
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bspmma
+	subdir = bspmma
 [submodule "causalweight"]
 	path = causalweight
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,11 +417,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ccda
 	subdir = ccda
-[submodule "countToFPKM"]
-	path = countToFPKM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/countToFPKM
-	subdir = countToFPKM
 [submodule "coursekata"]
 	path = coursekata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -447,11 +447,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/evian
 	subdir = evian
-[submodule "evtclass"]
-	path = evtclass
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/evtclass
-	subdir = evtclass
 [submodule "ezmmek"]
 	path = ezmmek
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -487,11 +482,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forsearch
 	subdir = forsearch
-[submodule "gainML"]
-	path = gainML
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gainML
-	subdir = gainML
 [submodule "ggResidpanel"]
 	path = ggResidpanel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -607,11 +597,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mccf1
 	subdir = mccf1
-[submodule "mccmeiv"]
-	path = mccmeiv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mccmeiv
-	subdir = mccmeiv
 [submodule "mediacloudr"]
 	path = mediacloudr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -642,16 +627,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multiMarker
 	subdir = multiMarker
-[submodule "ncar"]
-	path = ncar
+[submodule "multiRDPG"]
+	path = multiRDPG
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ncar
-	subdir = ncar
+	branch = package/multiRDPG
+	subdir = multiRDPG
 [submodule "neighbr"]
 	path = neighbr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/neighbr
 	subdir = neighbr
+[submodule "nomesbr"]
+	path = nomesbr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nomesbr
+	subdir = nomesbr
 [submodule "nonet"]
 	path = nonet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -677,6 +667,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pkr
 	subdir = pkr
+[submodule "precviasBR"]
+	path = precviasBR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/precviasBR
+	subdir = precviasBR
 [submodule "preseqR"]
 	path = preseqR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -732,6 +727,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rbrsa
 	subdir = rbrsa
+[submodule "rcldf"]
+	path = rcldf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rcldf
+	subdir = rcldf
 [submodule "rcube"]
 	path = rcube
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
