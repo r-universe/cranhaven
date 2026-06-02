@@ -132,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HPLB
 	subdir = HPLB
+[submodule "HealthMarkers"]
+	path = HealthMarkers
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HealthMarkers
+	subdir = HealthMarkers
 [submodule "Irescale"]
 	path = Irescale
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,21 +237,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PSS.Health
 	subdir = PSS.Health
-[submodule "PanCanVarSel"]
-	path = PanCanVarSel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PanCanVarSel
-	subdir = PanCanVarSel
 [submodule "PersianStemmer"]
 	path = PersianStemmer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PersianStemmer
 	subdir = PersianStemmer
-[submodule "PetfindeR"]
-	path = PetfindeR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PetfindeR
-	subdir = PetfindeR
 [submodule "PhitestR"]
 	path = PhitestR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,11 +297,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rosenbrock
 	subdir = Rosenbrock
-[submodule "SCCI"]
-	path = SCCI
+[submodule "Routliers"]
+	path = Routliers
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SCCI
-	subdir = SCCI
+	branch = package/Routliers
+	subdir = Routliers
+[submodule "Rpoet"]
+	path = Rpoet
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Rpoet
+	subdir = Rpoet
 [submodule "SCMA"]
 	path = SCMA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
