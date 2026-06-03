@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesGOF
 	subdir = BayesGOF
-[submodule "ClickClustCont"]
-	path = ClickClustCont
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ClickClustCont
-	subdir = ClickClustCont
 [submodule "CorBin"]
 	path = CorBin
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LongituRF
 	subdir = LongituRF
+[submodule "MCMCtreeR"]
+	path = MCMCtreeR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MCMCtreeR
+	subdir = MCMCtreeR
 [submodule "MGMS2"]
 	path = MGMS2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MadanTextNetwork
 	subdir = MadanTextNetwork
+[submodule "MatSkew"]
+	path = MatSkew
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MatSkew
+	subdir = MatSkew
 [submodule "MiscMetabar"]
 	path = MiscMetabar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,16 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rosenbrock
 	subdir = Rosenbrock
-[submodule "Routliers"]
-	path = Routliers
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Routliers
-	subdir = Routliers
-[submodule "Rpoet"]
-	path = Rpoet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Rpoet
-	subdir = Rpoet
 [submodule "SCMA"]
 	path = SCMA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -777,6 +772,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/relgam
 	subdir = relgam
+[submodule "rerddapUtils"]
+	path = rerddapUtils
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rerddapUtils
+	subdir = rerddapUtils
 [submodule "rgexf"]
 	path = rgexf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
