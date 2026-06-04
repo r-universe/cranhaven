@@ -167,11 +167,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LongituRF
 	subdir = LongituRF
-[submodule "MCMCtreeR"]
-	path = MCMCtreeR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MCMCtreeR
-	subdir = MCMCtreeR
 [submodule "MGMS2"]
 	path = MGMS2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MadanTextNetwork
 	subdir = MadanTextNetwork
-[submodule "MatSkew"]
-	path = MatSkew
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MatSkew
-	subdir = MatSkew
 [submodule "MiscMetabar"]
 	path = MiscMetabar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/QuantumOps
 	subdir = QuantumOps
+[submodule "REDCapSync"]
+	path = REDCapSync
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/REDCapSync
+	subdir = REDCapSync
 [submodule "RMPSH"]
 	path = RMPSH
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -372,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/aws.alexa
 	subdir = aws.alexa
+[submodule "aws.ec2metadata"]
+	path = aws.ec2metadata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/aws.ec2metadata
+	subdir = aws.ec2metadata
 [submodule "bgsmtr"]
 	path = bgsmtr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
