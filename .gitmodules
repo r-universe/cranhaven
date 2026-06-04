@@ -277,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Raquifer
 	subdir = Raquifer
+[submodule "RcensusPkg"]
+	path = RcensusPkg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RcensusPkg
+	subdir = RcensusPkg
 [submodule "RcextTools"]
 	path = RcextTools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,11 +372,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/aws.alexa
 	subdir = aws.alexa
-[submodule "aws.ec2metadata"]
-	path = aws.ec2metadata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/aws.ec2metadata
-	subdir = aws.ec2metadata
 [submodule "bgsmtr"]
 	path = bgsmtr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
