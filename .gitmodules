@@ -707,11 +707,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/prevederer
 	subdir = prevederer
-[submodule "primer"]
-	path = primer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/primer
-	subdir = primer
 [submodule "pstest"]
 	path = pstest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -757,11 +752,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rcldf
 	subdir = rcldf
-[submodule "realestatebr"]
-	path = realestatebr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/realestatebr
-	subdir = realestatebr
 [submodule "regplot"]
 	path = regplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
