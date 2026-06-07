@@ -227,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PRA
 	subdir = PRA
+[submodule "PRIMME"]
+	path = PRIMME
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PRIMME
+	subdir = PRIMME
 [submodule "PSS.Health"]
 	path = PSS.Health
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -392,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bmscstan
 	subdir = bmscstan
-[submodule "brlrmr"]
-	path = brlrmr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/brlrmr
-	subdir = brlrmr
 [submodule "causalweight"]
 	path = causalweight
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -422,6 +422,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/chilemapas
 	subdir = chilemapas
+[submodule "choroplethr"]
+	path = choroplethr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/choroplethr
+	subdir = choroplethr
 [submodule "confidenceSim"]
 	path = confidenceSim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -482,11 +487,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forecastSNSTS
 	subdir = forecastSNSTS
-[submodule "forestRK"]
-	path = forestRK
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/forestRK
-	subdir = forestRK
 [submodule "forsearch"]
 	path = forsearch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -607,11 +607,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mapboxer
 	subdir = mapboxer
-[submodule "marginme"]
-	path = marginme
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/marginme
-	subdir = marginme
 [submodule "marima"]
 	path = marima
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -692,11 +687,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pcalls
 	subdir = pcalls
-[submodule "precviasBR"]
-	path = precviasBR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/precviasBR
-	subdir = precviasBR
 [submodule "preseqR"]
 	path = preseqR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -802,11 +792,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rstatscn
 	subdir = rstatscn
-[submodule "rts2"]
-	path = rts2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rts2
-	subdir = rts2
 [submodule "saeMSPE"]
 	path = saeMSPE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
