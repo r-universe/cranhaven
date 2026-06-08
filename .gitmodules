@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Irescale
 	subdir = Irescale
-[submodule "Iscores"]
-	path = Iscores
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Iscores
-	subdir = Iscores
 [submodule "JQL"]
 	path = JQL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
