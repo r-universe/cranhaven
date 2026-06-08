@@ -77,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ELMSO
 	subdir = ELMSO
+[submodule "ErrorTracer"]
+	path = ErrorTracer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ErrorTracer
+	subdir = ErrorTracer
 [submodule "ExpDes.pt"]
 	path = ExpDes.pt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,21 +402,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bmscstan
 	subdir = bmscstan
-[submodule "causalweight"]
-	path = causalweight
+[submodule "brlrmr"]
+	path = brlrmr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/causalweight
-	subdir = causalweight
+	branch = package/brlrmr
+	subdir = brlrmr
 [submodule "ccar3"]
 	path = ccar3
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ccar3
 	subdir = ccar3
-[submodule "ccda"]
-	path = ccda
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ccda
-	subdir = ccda
 [submodule "censo2017"]
 	path = censo2017
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -457,11 +457,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eurlex
 	subdir = eurlex
-[submodule "evian"]
-	path = evian
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/evian
-	subdir = evian
 [submodule "ezmmek"]
 	path = ezmmek
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -752,11 +747,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/relgam
 	subdir = relgam
-[submodule "rerddapUtils"]
-	path = rerddapUtils
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rerddapUtils
-	subdir = rerddapUtils
 [submodule "rgexf"]
 	path = rgexf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
