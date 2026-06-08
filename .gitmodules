@@ -192,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MadanTextNetwork
 	subdir = MadanTextNetwork
-[submodule "MiscMetabar"]
-	path = MiscMetabar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MiscMetabar
-	subdir = MiscMetabar
 [submodule "MultinomialCI"]
 	path = MultinomialCI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
