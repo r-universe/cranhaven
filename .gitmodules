@@ -392,11 +392,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bmscstan
 	subdir = bmscstan
-[submodule "brlrmr"]
-	path = brlrmr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/brlrmr
-	subdir = brlrmr
 [submodule "ccar3"]
 	path = ccar3
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,11 +462,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/foreSIGHT
 	subdir = foreSIGHT
-[submodule "forecastSNSTS"]
-	path = forecastSNSTS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/forecastSNSTS
-	subdir = forecastSNSTS
 [submodule "forsearch"]
 	path = forsearch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -482,11 +472,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/galigor
 	subdir = galigor
-[submodule "ggResidpanel"]
-	path = ggResidpanel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ggResidpanel
-	subdir = ggResidpanel
 [submodule "ggnuplot"]
 	path = ggnuplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -497,11 +482,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gitGPT
 	subdir = gitGPT
-[submodule "gitlink"]
-	path = gitlink
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gitlink
-	subdir = gitlink
 [submodule "grand"]
 	path = grand
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -602,11 +582,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/matahari
 	subdir = matahari
-[submodule "matrixStrucTest"]
-	path = matrixStrucTest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/matrixStrucTest
-	subdir = matrixStrucTest
 [submodule "mccf1"]
 	path = mccf1
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -617,11 +592,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mdhglm
 	subdir = mdhglm
-[submodule "mediacloudr"]
-	path = mediacloudr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mediacloudr
-	subdir = mediacloudr
 [submodule "mergeTrees"]
 	path = mergeTrees
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -642,11 +612,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mosqcontrol
 	subdir = mosqcontrol
-[submodule "multiMarker"]
-	path = multiMarker
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/multiMarker
-	subdir = multiMarker
 [submodule "neighbr"]
 	path = neighbr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -677,11 +642,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/preseqR
 	subdir = preseqR
-[submodule "prevederer"]
-	path = prevederer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/prevederer
-	subdir = prevederer
 [submodule "pstest"]
 	path = pstest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -747,41 +707,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rifle
 	subdir = rifle
-[submodule "rlmDataDriven"]
-	path = rlmDataDriven
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rlmDataDriven
-	subdir = rlmDataDriven
 [submodule "rmytarget"]
 	path = rmytarget
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rmytarget
 	subdir = rmytarget
-[submodule "rrecsys"]
-	path = rrecsys
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rrecsys
-	subdir = rrecsys
 [submodule "rsat"]
 	path = rsat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsat
 	subdir = rsat
-[submodule "rstatscn"]
-	path = rstatscn
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rstatscn
-	subdir = rstatscn
 [submodule "saeMSPE"]
 	path = saeMSPE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/saeMSPE
 	subdir = saeMSPE
-[submodule "sahpm"]
-	path = sahpm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sahpm
-	subdir = sahpm
 [submodule "santoku"]
 	path = santoku
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -802,11 +742,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scStability
 	subdir = scStability
-[submodule "semmcmc"]
-	path = semmcmc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/semmcmc
-	subdir = semmcmc
 [submodule "shiny.fluent"]
 	path = shiny.fluent
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -832,11 +767,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/softclassval
 	subdir = softclassval
-[submodule "spaceNet"]
-	path = spaceNet
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spaceNet
-	subdir = spaceNet
 [submodule "sqlserverconnect"]
 	path = sqlserverconnect
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -847,11 +777,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/string2path
 	subdir = string2path
-[submodule "subgxe"]
-	path = subgxe
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/subgxe
-	subdir = subgxe
 [submodule "sumR"]
 	path = sumR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
