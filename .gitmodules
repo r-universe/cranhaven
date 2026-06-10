@@ -342,6 +342,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SQMtools
 	subdir = SQMtools
+[submodule "SuperSurv"]
+	path = SuperSurv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SuperSurv
+	subdir = SuperSurv
 [submodule "SymbolicDeterminants"]
 	path = SymbolicDeterminants
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -552,11 +557,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iCARH
 	subdir = iCARH
-[submodule "igate"]
-	path = igate
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/igate
-	subdir = igate
 [submodule "inegiR"]
 	path = inegiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -592,11 +592,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lidaRtRee
 	subdir = lidaRtRee
-[submodule "lodi"]
-	path = lodi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lodi
-	subdir = lodi
 [submodule "logisticRR"]
 	path = logisticRR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -637,11 +632,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mdhglm
 	subdir = mdhglm
-[submodule "mergeTrees"]
-	path = mergeTrees
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mergeTrees
-	subdir = mergeTrees
 [submodule "modgetxl"]
 	path = modgetxl
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -652,11 +642,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mosqcontrol
 	subdir = mosqcontrol
+[submodule "multiMarker"]
+	path = multiMarker
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/multiMarker
+	subdir = multiMarker
 [submodule "neighbr"]
 	path = neighbr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/neighbr
 	subdir = neighbr
+[submodule "nestedcv"]
+	path = nestedcv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nestedcv
+	subdir = nestedcv
 [submodule "nomesbr"]
 	path = nomesbr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
