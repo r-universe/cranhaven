@@ -247,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SOPIE
 	subdir = SOPIE
-[submodule "SQMtools"]
-	path = SQMtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SQMtools
-	subdir = SQMtools
 [submodule "TPMplt"]
 	path = TPMplt
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
