@@ -447,11 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/harmony
 	subdir = harmony
-[submodule "iCARH"]
-	path = iCARH
+[submodule "hindex"]
+	path = hindex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/iCARH
-	subdir = iCARH
+	branch = package/hindex
+	subdir = hindex
 [submodule "inegiR"]
 	path = inegiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -477,11 +477,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kpodclustr
 	subdir = kpodclustr
-[submodule "l1ball"]
-	path = l1ball
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/l1ball
-	subdir = l1ball
 [submodule "lavDiag"]
 	path = lavDiag
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -502,21 +497,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lidaRtRee
 	subdir = lidaRtRee
-[submodule "logisticRR"]
-	path = logisticRR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/logisticRR
-	subdir = logisticRR
 [submodule "lorenz"]
 	path = lorenz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lorenz
 	subdir = lorenz
-[submodule "lsdbc"]
-	path = lsdbc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lsdbc
-	subdir = lsdbc
 [submodule "mMARCH.AC"]
 	path = mMARCH.AC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -562,6 +547,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mlmodels
 	subdir = mlmodels
+[submodule "modgetxl"]
+	path = modgetxl
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/modgetxl
+	subdir = modgetxl
 [submodule "mosqcontrol"]
 	path = mosqcontrol
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -602,6 +592,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/osc
 	subdir = osc
+[submodule "panstarrs"]
+	path = panstarrs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/panstarrs
+	subdir = panstarrs
 [submodule "pcalls"]
 	path = pcalls
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -622,6 +617,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pwr2
 	subdir = pwr2
+[submodule "qfasar"]
+	path = qfasar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qfasar
+	subdir = qfasar
 [submodule "rGhanaCensus"]
 	path = rGhanaCensus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
