@@ -817,11 +817,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tReeTraits
 	subdir = tReeTraits
-[submodule "tidyILD"]
-	path = tidyILD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tidyILD
-	subdir = tidyILD
 [submodule "tnl.Test"]
 	path = tnl.Test
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -857,6 +852,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/varjmcm
 	subdir = varjmcm
+[submodule "voiceR"]
+	path = voiceR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/voiceR
+	subdir = voiceR
 [submodule "vostokR"]
 	path = vostokR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
