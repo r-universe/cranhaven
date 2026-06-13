@@ -297,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bsam
 	subdir = bsam
-[submodule "ccar3"]
-	path = ccar3
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ccar3
-	subdir = ccar3
 [submodule "censo2017"]
 	path = censo2017
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
