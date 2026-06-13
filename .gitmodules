@@ -437,11 +437,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hJAM
 	subdir = hJAM
-[submodule "hindex"]
-	path = hindex
+[submodule "iCARH"]
+	path = iCARH
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hindex
-	subdir = hindex
+	branch = package/iCARH
+	subdir = iCARH
 [submodule "inegiR"]
 	path = inegiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,6 +467,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kpodclustr
 	subdir = kpodclustr
+[submodule "l1ball"]
+	path = l1ball
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/l1ball
+	subdir = l1ball
 [submodule "lavDiag"]
 	path = lavDiag
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -487,11 +492,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lidaRtRee
 	subdir = lidaRtRee
-[submodule "lorenz"]
-	path = lorenz
+[submodule "logisticRR"]
+	path = logisticRR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lorenz
-	subdir = lorenz
+	branch = package/logisticRR
+	subdir = logisticRR
+[submodule "lsdbc"]
+	path = lsdbc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lsdbc
+	subdir = lsdbc
 [submodule "mMARCH.AC"]
 	path = mMARCH.AC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -552,11 +562,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/navigation
 	subdir = navigation
-[submodule "neighbr"]
-	path = neighbr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/neighbr
-	subdir = neighbr
 [submodule "nestedcv"]
 	path = nestedcv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -587,11 +592,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/panstarrs
 	subdir = panstarrs
-[submodule "pcalls"]
-	path = pcalls
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pcalls
-	subdir = pcalls
 [submodule "postGGIR"]
 	path = postGGIR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -662,11 +662,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/regplot
 	subdir = regplot
-[submodule "relgam"]
-	path = relgam
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/relgam
-	subdir = relgam
 [submodule "rgexf"]
 	path = rgexf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
