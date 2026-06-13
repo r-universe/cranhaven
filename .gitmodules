@@ -442,11 +442,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hJAM
 	subdir = hJAM
-[submodule "harmony"]
-	path = harmony
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/harmony
-	subdir = harmony
 [submodule "hindex"]
 	path = hindex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
