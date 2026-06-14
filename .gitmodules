@@ -632,11 +632,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/raincin
 	subdir = raincin
-[submodule "rbenchmark"]
-	path = rbenchmark
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rbenchmark
-	subdir = rbenchmark
 [submodule "rbrsa"]
 	path = rbrsa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
