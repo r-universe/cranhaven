@@ -697,11 +697,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsat
 	subdir = rsat
-[submodule "rswipl"]
-	path = rswipl
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rswipl
-	subdir = rswipl
 [submodule "saeMSPE"]
 	path = saeMSPE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
