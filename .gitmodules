@@ -212,6 +212,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/QDiabetes
 	subdir = QDiabetes
+[submodule "ROCsurf"]
+	path = ROCsurf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ROCsurf
+	subdir = ROCsurf
 [submodule "RSGHB"]
 	path = RSGHB
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -507,16 +512,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lidaRtRee
 	subdir = lidaRtRee
+[submodule "loggit"]
+	path = loggit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/loggit
+	subdir = loggit
 [submodule "logisticRR"]
 	path = logisticRR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/logisticRR
 	subdir = logisticRR
-[submodule "lorenz"]
-	path = lorenz
+[submodule "lsdbc"]
+	path = lsdbc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lorenz
-	subdir = lorenz
+	branch = package/lsdbc
+	subdir = lsdbc
 [submodule "mMARCH.AC"]
 	path = mMARCH.AC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -557,21 +567,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mlmodels
 	subdir = mlmodels
-[submodule "mosqcontrol"]
-	path = mosqcontrol
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mosqcontrol
-	subdir = mosqcontrol
 [submodule "navigation"]
 	path = navigation
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/navigation
 	subdir = navigation
-[submodule "neighbr"]
-	path = neighbr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/neighbr
-	subdir = neighbr
 [submodule "nestedcv"]
 	path = nestedcv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -582,6 +582,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nomesbr
 	subdir = nomesbr
+[submodule "nycOpenData"]
+	path = nycOpenData
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nycOpenData
+	subdir = nycOpenData
 [submodule "nysOpenData"]
 	path = nysOpenData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -657,11 +662,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rcontroll
 	subdir = rcontroll
-[submodule "regplot"]
-	path = regplot
+[submodule "relgam"]
+	path = relgam
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/regplot
-	subdir = regplot
+	branch = package/relgam
+	subdir = relgam
 [submodule "rgexf"]
 	path = rgexf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -722,11 +727,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shiny.fluent
 	subdir = shiny.fluent
-[submodule "shinySIR"]
-	path = shinySIR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shinySIR
-	subdir = shinySIR
 [submodule "shinyhttr"]
 	path = shinyhttr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
