@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HDCI
 	subdir = HDCI
-[submodule "HealthMarkers"]
-	path = HealthMarkers
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HealthMarkers
-	subdir = HealthMarkers
 [submodule "KMT"]
 	path = KMT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -732,11 +727,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shinyservicebot
 	subdir = shinyservicebot
-[submodule "slopes"]
-	path = slopes
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/slopes
-	subdir = slopes
 [submodule "smallarea"]
 	path = smallarea
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
