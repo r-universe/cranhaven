@@ -487,11 +487,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kpodclustr
 	subdir = kpodclustr
-[submodule "l1ball"]
-	path = l1ball
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/l1ball
-	subdir = l1ball
 [submodule "lavDiag"]
 	path = lavDiag
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -522,11 +517,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/logisticRR
 	subdir = logisticRR
-[submodule "lsdbc"]
-	path = lsdbc
+[submodule "lorenz"]
+	path = lorenz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lsdbc
-	subdir = lsdbc
+	branch = package/lorenz
+	subdir = lorenz
 [submodule "mMARCH.AC"]
 	path = mMARCH.AC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -582,6 +577,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nomesbr
 	subdir = nomesbr
+[submodule "npordtests"]
+	path = npordtests
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/npordtests
+	subdir = npordtests
 [submodule "nycOpenData"]
 	path = nycOpenData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -597,11 +597,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/panstarrs
 	subdir = panstarrs
-[submodule "pcalls"]
-	path = pcalls
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pcalls
-	subdir = pcalls
 [submodule "postGGIR"]
 	path = postGGIR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -662,11 +657,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rcontroll
 	subdir = rcontroll
-[submodule "relgam"]
-	path = relgam
+[submodule "restoptr"]
+	path = restoptr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/relgam
-	subdir = relgam
+	branch = package/restoptr
+	subdir = restoptr
 [submodule "rgexf"]
 	path = rgexf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -712,6 +707,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scAnnotate
 	subdir = scAnnotate
+[submodule "scLink"]
+	path = scLink
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/scLink
+	subdir = scLink
 [submodule "scStability"]
 	path = scStability
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
