@@ -452,11 +452,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hindex
 	subdir = hindex
-[submodule "iCARH"]
-	path = iCARH
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/iCARH
-	subdir = iCARH
 [submodule "inegiR"]
 	path = inegiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -507,11 +502,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/loggit
 	subdir = loggit
-[submodule "logisticRR"]
-	path = logisticRR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/logisticRR
-	subdir = logisticRR
 [submodule "lorenz"]
 	path = lorenz
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -542,6 +532,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mathml
 	subdir = mathml
+[submodule "mccf1"]
+	path = mccf1
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mccf1
+	subdir = mccf1
 [submodule "mdhglm"]
 	path = mdhglm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -587,6 +582,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nysOpenData
 	subdir = nysOpenData
+[submodule "osc"]
+	path = osc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/osc
+	subdir = osc
 [submodule "panstarrs"]
 	path = panstarrs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -607,11 +607,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pwr2
 	subdir = pwr2
-[submodule "qfasar"]
-	path = qfasar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qfasar
-	subdir = qfasar
 [submodule "rGhanaCensus"]
 	path = rGhanaCensus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -702,11 +697,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scAnnotate
 	subdir = scAnnotate
-[submodule "scLink"]
-	path = scLink
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/scLink
-	subdir = scLink
 [submodule "scStability"]
 	path = scStability
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -717,6 +707,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shiny.fluent
 	subdir = shiny.fluent
+[submodule "shinySIR"]
+	path = shinySIR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/shinySIR
+	subdir = shinySIR
 [submodule "shinyhttr"]
 	path = shinyhttr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
