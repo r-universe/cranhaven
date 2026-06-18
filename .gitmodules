@@ -507,11 +507,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lorenz
 	subdir = lorenz
-[submodule "mMARCH.AC"]
-	path = mMARCH.AC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mMARCH.AC
-	subdir = mMARCH.AC
 [submodule "mapboxer"]
 	path = mapboxer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
