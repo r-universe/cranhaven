@@ -447,11 +447,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hJAM
 	subdir = hJAM
-[submodule "hindex"]
-	path = hindex
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hindex
-	subdir = hindex
 [submodule "inegiR"]
 	path = inegiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -502,11 +497,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/loggit
 	subdir = loggit
-[submodule "lorenz"]
-	path = lorenz
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lorenz
-	subdir = lorenz
 [submodule "mapboxer"]
 	path = mapboxer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -527,11 +517,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mathml
 	subdir = mathml
-[submodule "mccf1"]
-	path = mccf1
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mccf1
-	subdir = mccf1
 [submodule "mdhglm"]
 	path = mdhglm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -562,11 +547,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nomesbr
 	subdir = nomesbr
-[submodule "npordtests"]
-	path = npordtests
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/npordtests
-	subdir = npordtests
 [submodule "nysOpenData"]
 	path = nysOpenData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -577,11 +557,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ojsr
 	subdir = ojsr
-[submodule "osc"]
-	path = osc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/osc
-	subdir = osc
 [submodule "panstarrs"]
 	path = panstarrs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -697,11 +672,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shiny.fluent
 	subdir = shiny.fluent
-[submodule "shinySIR"]
-	path = shinySIR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shinySIR
-	subdir = shinySIR
 [submodule "shinyhttr"]
 	path = shinyhttr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -717,11 +687,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/smallarea
 	subdir = smallarea
-[submodule "softclassval"]
-	path = softclassval
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/softclassval
-	subdir = softclassval
 [submodule "sonicscrewdriver"]
 	path = sonicscrewdriver
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -797,26 +762,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tremendousr
 	subdir = tremendousr
-[submodule "ushr"]
-	path = ushr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ushr
-	subdir = ushr
 [submodule "varian"]
 	path = varian
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/varian
 	subdir = varian
-[submodule "variosig"]
-	path = variosig
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/variosig
-	subdir = variosig
-[submodule "varjmcm"]
-	path = varjmcm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/varjmcm
-	subdir = varjmcm
 [submodule "voiceR"]
 	path = voiceR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
