@@ -572,16 +572,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/npordtests
 	subdir = npordtests
-[submodule "nycOpenData"]
-	path = nycOpenData
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nycOpenData
-	subdir = nycOpenData
 [submodule "nysOpenData"]
 	path = nysOpenData
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nysOpenData
 	subdir = nysOpenData
+[submodule "ojsr"]
+	path = ojsr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ojsr
+	subdir = ojsr
 [submodule "osc"]
 	path = osc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -672,11 +672,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rmytarget
 	subdir = rmytarget
-[submodule "rolog"]
-	path = rolog
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rolog
-	subdir = rolog
 [submodule "rsat"]
 	path = rsat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
