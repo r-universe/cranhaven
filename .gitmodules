@@ -102,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GOLDprice
 	subdir = GOLDprice
+[submodule "GRIDCOPULA"]
+	path = GRIDCOPULA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GRIDCOPULA
+	subdir = GRIDCOPULA
 [submodule "GoogleImage2Array"]
 	path = GoogleImage2Array
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LSMRealOptions
 	subdir = LSMRealOptions
+[submodule "MLCOPULA"]
+	path = MLCOPULA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MLCOPULA
+	subdir = MLCOPULA
 [submodule "MadanText"]
 	path = MadanText
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
