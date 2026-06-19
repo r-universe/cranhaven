@@ -387,11 +387,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/esvis
 	subdir = esvis
-[submodule "eurlex"]
-	path = eurlex
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/eurlex
-	subdir = eurlex
 [submodule "ewoc"]
 	path = ewoc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -472,11 +467,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kpodclustr
 	subdir = kpodclustr
-[submodule "lavDiag"]
-	path = lavDiag
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lavDiag
-	subdir = lavDiag
 [submodule "lazybar"]
 	path = lazybar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -652,21 +642,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/saeMSPE
 	subdir = saeMSPE
-[submodule "santoku"]
-	path = santoku
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/santoku
-	subdir = santoku
 [submodule "scAnnotate"]
 	path = scAnnotate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scAnnotate
 	subdir = scAnnotate
-[submodule "scStability"]
-	path = scStability
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/scStability
-	subdir = scStability
 [submodule "shiny.fluent"]
 	path = shiny.fluent
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -717,11 +697,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stocks
 	subdir = stocks
-[submodule "string2path"]
-	path = string2path
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/string2path
-	subdir = string2path
 [submodule "subformula"]
 	path = subformula
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -752,11 +727,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tnl.Test
 	subdir = tnl.Test
-[submodule "tok"]
-	path = tok
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tok
-	subdir = tok
 [submodule "tremendousr"]
 	path = tremendousr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
