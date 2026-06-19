@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CspStandSegmentation
 	subdir = CspStandSegmentation
+[submodule "DiscreteGapStatistic"]
+	path = DiscreteGapStatistic
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DiscreteGapStatistic
+	subdir = DiscreteGapStatistic
 [submodule "DrDimont"]
 	path = DrDimont
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MadanTextNetwork
 	subdir = MadanTextNetwork
-[submodule "MultinomialCI"]
-	path = MultinomialCI
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MultinomialCI
-	subdir = MultinomialCI
 [submodule "NFCP"]
 	path = NFCP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/crownsegmentr
 	subdir = crownsegmentr
+[submodule "cultevo"]
+	path = cultevo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cultevo
+	subdir = cultevo
 [submodule "cumulocityr"]
 	path = cumulocityr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -637,11 +642,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsat
 	subdir = rsat
-[submodule "saeMSPE"]
-	path = saeMSPE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/saeMSPE
-	subdir = saeMSPE
 [submodule "scAnnotate"]
 	path = scAnnotate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -662,11 +662,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shinyservicebot
 	subdir = shinyservicebot
-[submodule "smallarea"]
-	path = smallarea
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/smallarea
-	subdir = smallarea
 [submodule "sonicscrewdriver"]
 	path = sonicscrewdriver
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -732,11 +727,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tremendousr
 	subdir = tremendousr
-[submodule "varian"]
-	path = varian
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/varian
-	subdir = varian
 [submodule "voiceR"]
 	path = voiceR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -752,11 +742,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/waterquality
 	subdir = waterquality
-[submodule "wearables"]
-	path = wearables
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wearables
-	subdir = wearables
 [submodule "whSample"]
 	path = whSample
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
