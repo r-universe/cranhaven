@@ -207,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/QDiabetes
 	subdir = QDiabetes
+[submodule "QuantBondCurves"]
+	path = QuantBondCurves
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/QuantBondCurves
+	subdir = QuantBondCurves
 [submodule "ROCsurf"]
 	path = ROCsurf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -717,6 +722,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tReeTraits
 	subdir = tReeTraits
+[submodule "tidypmc"]
+	path = tidypmc
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tidypmc
+	subdir = tidypmc
 [submodule "tnl.Test"]
 	path = tnl.Test
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
