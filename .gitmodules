@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PODES
 	subdir = PODES
-[submodule "PRA"]
-	path = PRA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PRA
-	subdir = PRA
 [submodule "PRIMME"]
 	path = PRIMME
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
