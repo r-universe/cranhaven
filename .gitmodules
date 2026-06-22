@@ -247,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/adept
 	subdir = adept
+[submodule "ami"]
+	path = ami
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ami
+	subdir = ami
 [submodule "attenuation"]
 	path = attenuation
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -477,11 +482,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mlmodels
 	subdir = mlmodels
-[submodule "navigation"]
-	path = navigation
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/navigation
-	subdir = navigation
 [submodule "nestedcv"]
 	path = nestedcv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
