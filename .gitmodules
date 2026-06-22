@@ -217,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SCdeconR
 	subdir = SCdeconR
-[submodule "SMITIDstruct"]
-	path = SMITIDstruct
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SMITIDstruct
-	subdir = SMITIDstruct
 [submodule "SOPIE"]
 	path = SOPIE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
