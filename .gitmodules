@@ -97,11 +97,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HDCI
 	subdir = HDCI
-[submodule "KMT"]
-	path = KMT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/KMT
-	subdir = KMT
 [submodule "LPGraph"]
 	path = LPGraph
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,11 +322,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cumulocityr
 	subdir = cumulocityr
-[submodule "dress.graph"]
-	path = dress.graph
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dress.graph
-	subdir = dress.graph
 [submodule "dsmSearch"]
 	path = dsmSearch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
