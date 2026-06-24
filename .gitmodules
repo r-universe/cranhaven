@@ -342,11 +342,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dc3net
 	subdir = dc3net
-[submodule "dsmSearch"]
-	path = dsmSearch
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dsmSearch
-	subdir = dsmSearch
 [submodule "dvmisc"]
 	path = dvmisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
