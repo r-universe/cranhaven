@@ -87,6 +87,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GRIDCOPULA
 	subdir = GRIDCOPULA
+[submodule "Goodreader"]
+	path = Goodreader
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Goodreader
+	subdir = Goodreader
 [submodule "HDCI"]
 	path = HDCI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,6 +137,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MadanTextNetwork
 	subdir = MadanTextNetwork
+[submodule "MatTransMix"]
+	path = MatTransMix
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MatTransMix
+	subdir = MatTransMix
 [submodule "NFCP"]
 	path = NFCP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,6 +222,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SOPIE
 	subdir = SOPIE
+[submodule "SeqFeatR"]
+	path = SeqFeatR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SeqFeatR
+	subdir = SeqFeatR
+[submodule "SheetReader"]
+	path = SheetReader
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SheetReader
+	subdir = SheetReader
 [submodule "TractorTsbox"]
 	path = TractorTsbox
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,6 +337,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cumulocityr
 	subdir = cumulocityr
+[submodule "dc3net"]
+	path = dc3net
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dc3net
+	subdir = dc3net
 [submodule "dsmSearch"]
 	path = dsmSearch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/esvis
 	subdir = esvis
+[submodule "eummd"]
+	path = eummd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/eummd
+	subdir = eummd
 [submodule "ewoc"]
 	path = ewoc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
