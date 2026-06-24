@@ -77,11 +77,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FuncMap
 	subdir = FuncMap
-[submodule "GDILM.SEIRS"]
-	path = GDILM.SEIRS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GDILM.SEIRS
-	subdir = GDILM.SEIRS
 [submodule "GOLDprice"]
 	path = GOLDprice
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
