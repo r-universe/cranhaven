@@ -397,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/grand
 	subdir = grand
-[submodule "greenSD"]
-	path = greenSD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/greenSD
-	subdir = greenSD
 [submodule "gripp"]
 	path = gripp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
