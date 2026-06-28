@@ -72,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FORTLS
 	subdir = FORTLS
-[submodule "FuncMap"]
-	path = FuncMap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FuncMap
-	subdir = FuncMap
 [submodule "GOLDprice"]
 	path = GOLDprice
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
