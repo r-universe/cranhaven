@@ -42,6 +42,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CspStandSegmentation
 	subdir = CspStandSegmentation
+[submodule "DemoKin"]
+	path = DemoKin
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DemoKin
+	subdir = DemoKin
 [submodule "DiscreteGapStatistic"]
 	path = DiscreteGapStatistic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
