@@ -532,11 +532,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rGhanaCensus
 	subdir = rGhanaCensus
-[submodule "rTLsDeep"]
-	path = rTLsDeep
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rTLsDeep
-	subdir = rTLsDeep
 [submodule "radarchart"]
 	path = radarchart
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -632,11 +627,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spsurv
 	subdir = spsurv
-[submodule "sqlserverconnect"]
-	path = sqlserverconnect
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sqlserverconnect
-	subdir = sqlserverconnect
 [submodule "stocks"]
 	path = stocks
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
