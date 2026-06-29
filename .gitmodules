@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ACSSpack
 	subdir = ACSSpack
+[submodule "ASMap"]
+	path = ASMap
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ASMap
+	subdir = ASMap
 [submodule "ActFrag"]
 	path = ActFrag
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -17,11 +22,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ActiSleep
 	subdir = ActiSleep
+[submodule "BKT"]
+	path = BKT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BKT
+	subdir = BKT
 [submodule "BLRPM"]
 	path = BLRPM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BLRPM
 	subdir = BLRPM
+[submodule "BSL"]
+	path = BSL
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BSL
+	subdir = BSL
 [submodule "BayesGOF"]
 	path = BayesGOF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HDCI
 	subdir = HDCI
+[submodule "JacobiEigen"]
+	path = JacobiEigen
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/JacobiEigen
+	subdir = JacobiEigen
 [submodule "LPGraph"]
 	path = LPGraph
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,11 +257,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TractorTsbox
 	subdir = TractorTsbox
+[submodule "WormTensor"]
+	path = WormTensor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/WormTensor
+	subdir = WormTensor
 [submodule "aboveR"]
 	path = aboveR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/aboveR
 	subdir = aboveR
+[submodule "accelEE"]
+	path = accelEE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/accelEE
+	subdir = accelEE
 [submodule "accelerometry"]
 	path = accelerometry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,6 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ami
 	subdir = ami
+[submodule "arctools"]
+	path = arctools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/arctools
+	subdir = arctools
 [submodule "attenuation"]
 	path = attenuation
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hJAM
 	subdir = hJAM
+[submodule "ineAtlas"]
+	path = ineAtlas
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ineAtlas
+	subdir = ineAtlas
 [submodule "inegiR"]
 	path = inegiR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -457,6 +497,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/loggit
 	subdir = loggit
+[submodule "mLLMCelltype"]
+	path = mLLMCelltype
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mLLMCelltype
+	subdir = mLLMCelltype
 [submodule "mapboxer"]
 	path = mapboxer
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -477,6 +522,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mdhglm
 	subdir = mdhglm
+[submodule "missCompare"]
+	path = missCompare
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/missCompare
+	subdir = missCompare
 [submodule "missSOM"]
 	path = missSOM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -587,11 +637,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsat
 	subdir = rsat
+[submodule "runstats"]
+	path = runstats
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/runstats
+	subdir = runstats
 [submodule "scAnnotate"]
 	path = scAnnotate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scAnnotate
 	subdir = scAnnotate
+[submodule "scPOEM"]
+	path = scPOEM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/scPOEM
+	subdir = scPOEM
 [submodule "shiny.fluent"]
 	path = shiny.fluent
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
