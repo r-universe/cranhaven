@@ -307,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/auctionr
 	subdir = auctionr
+[submodule "blit"]
+	path = blit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/blit
+	subdir = blit
 [submodule "bmscstan"]
 	path = bmscstan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,6 +417,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fastshap
 	subdir = fastshap
+[submodule "finna"]
+	path = finna
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/finna
+	subdir = finna
 [submodule "flacco"]
 	path = flacco
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -537,6 +547,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mlmodels
 	subdir = mlmodels
+[submodule "mvalpha"]
+	path = mvalpha
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mvalpha
+	subdir = mvalpha
 [submodule "nestedcv"]
 	path = nestedcv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -632,6 +647,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rmytarget
 	subdir = rmytarget
+[submodule "rsahmi"]
+	path = rsahmi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rsahmi
+	subdir = rsahmi
 [submodule "rsat"]
 	path = rsat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
