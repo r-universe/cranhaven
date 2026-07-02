@@ -457,11 +457,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mapboxer
 	subdir = mapboxer
-[submodule "matahari"]
-	path = matahari
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/matahari
-	subdir = matahari
 [submodule "mathml"]
 	path = mathml
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
