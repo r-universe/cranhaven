@@ -517,11 +517,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/postGGIR
 	subdir = postGGIR
-[submodule "rGhanaCensus"]
-	path = rGhanaCensus
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rGhanaCensus
-	subdir = rGhanaCensus
 [submodule "raincin"]
 	path = raincin
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -567,11 +562,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsahmi
 	subdir = rsahmi
-[submodule "rsat"]
-	path = rsat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rsat
-	subdir = rsat
 [submodule "runstats"]
 	path = runstats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -672,13 +662,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vostokR
 	subdir = vostokR
-[submodule "waterquality"]
-	path = waterquality
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/waterquality
-	subdir = waterquality
-[submodule "whSample"]
-	path = whSample
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/whSample
-	subdir = whSample
