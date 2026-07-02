@@ -87,6 +87,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Goodreader
 	subdir = Goodreader
+[submodule "HDiR"]
+	path = HDiR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HDiR
+	subdir = HDiR
 [submodule "JacobiEigen"]
 	path = JacobiEigen
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/choroplethr
 	subdir = choroplethr
+[submodule "circlesplot"]
+	path = circlesplot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/circlesplot
+	subdir = circlesplot
 [submodule "coca"]
 	path = coca
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,6 +367,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/einet
 	subdir = einet
+[submodule "epoxy"]
+	path = epoxy
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/epoxy
+	subdir = epoxy
 [submodule "esvis"]
 	path = esvis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -457,11 +472,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mapboxer
 	subdir = mapboxer
-[submodule "mathml"]
-	path = mathml
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mathml
-	subdir = mathml
 [submodule "mdhglm"]
 	path = mdhglm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -577,6 +587,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scPOEM
 	subdir = scPOEM
+[submodule "sdam"]
+	path = sdam
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sdam
+	subdir = sdam
 [submodule "shiny.fluent"]
 	path = shiny.fluent
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
