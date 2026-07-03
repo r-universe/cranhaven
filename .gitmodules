@@ -17,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ActiSleep
 	subdir = ActiSleep
+[submodule "ArvindSt"]
+	path = ArvindSt
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ArvindSt
+	subdir = ArvindSt
 [submodule "BKT"]
 	path = BKT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -327,6 +332,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dc3net
 	subdir = dc3net
+[submodule "depmixS4"]
+	path = depmixS4
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/depmixS4
+	subdir = depmixS4
 [submodule "dvmisc"]
 	path = dvmisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -387,6 +397,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hJAM
 	subdir = hJAM
+[submodule "hmmr"]
+	path = hmmr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hmmr
+	subdir = hmmr
 [submodule "ineAtlas"]
 	path = ineAtlas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -472,6 +487,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nestedcv
 	subdir = nestedcv
+[submodule "nirs4alldatasets"]
+	path = nirs4alldatasets
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nirs4alldatasets
+	subdir = nirs4alldatasets
 [submodule "nomesbr"]
 	path = nomesbr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
