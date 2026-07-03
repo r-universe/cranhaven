@@ -117,16 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MLCOPULA
 	subdir = MLCOPULA
-[submodule "MadanText"]
-	path = MadanText
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MadanText
-	subdir = MadanText
-[submodule "MadanTextNetwork"]
-	path = MadanTextNetwork
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MadanTextNetwork
-	subdir = MadanTextNetwork
 [submodule "MatTransMix"]
 	path = MatTransMix
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PRIMME
 	subdir = PRIMME
-[submodule "PersianStemmer"]
-	path = PersianStemmer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PersianStemmer
-	subdir = PersianStemmer
 [submodule "QDiabetes"]
 	path = QDiabetes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ROCsurf
 	subdir = ROCsurf
-[submodule "RSGHB"]
-	path = RSGHB
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RSGHB
-	subdir = RSGHB
 [submodule "RWmisc"]
 	path = RWmisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -522,11 +502,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/raincin
 	subdir = raincin
-[submodule "rbrsa"]
-	path = rbrsa
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rbrsa
-	subdir = rbrsa
 [submodule "rcaiman"]
 	path = rcaiman
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
