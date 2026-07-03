@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BKT
 	subdir = BKT
-[submodule "BSL"]
-	path = BSL
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BSL
-	subdir = BSL
 [submodule "Cluster.OBeu"]
 	path = Cluster.OBeu
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,11 +397,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/galigor
 	subdir = galigor
-[submodule "grand"]
-	path = grand
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/grand
-	subdir = grand
 [submodule "gripp"]
 	path = gripp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
