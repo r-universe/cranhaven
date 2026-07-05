@@ -152,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/QDiabetes
 	subdir = QDiabetes
-[submodule "QuantBondCurves"]
-	path = QuantBondCurves
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/QuantBondCurves
-	subdir = QuantBondCurves
 [submodule "ROCsurf"]
 	path = ROCsurf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
