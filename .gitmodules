@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ActiSleep
 	subdir = ActiSleep
-[submodule "ArvindSt"]
-	path = ArvindSt
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ArvindSt
-	subdir = ArvindSt
 [submodule "BKT"]
 	path = BKT
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
