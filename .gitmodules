@@ -507,6 +507,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tnl.Test
 	subdir = tnl.Test
+[submodule "vip"]
+	path = vip
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vip
+	subdir = vip
 [submodule "voiceR"]
 	path = voiceR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
