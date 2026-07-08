@@ -407,6 +407,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/postGGIR
 	subdir = postGGIR
+[submodule "rcaiman"]
+	path = rcaiman
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rcaiman
+	subdir = rcaiman
 [submodule "rcontroll"]
 	path = rcontroll
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
