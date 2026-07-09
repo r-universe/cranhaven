@@ -292,11 +292,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ewoc
 	subdir = ewoc
-[submodule "finna"]
-	path = finna
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/finna
-	subdir = finna
 [submodule "flacco"]
 	path = flacco
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
