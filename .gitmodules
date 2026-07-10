@@ -537,6 +537,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sdam
 	subdir = sdam
+[submodule "set"]
+	path = set
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/set
+	subdir = set
 [submodule "shinyhttr"]
 	path = shinyhttr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -592,6 +597,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidypmc
 	subdir = tidypmc
+[submodule "tmcn"]
+	path = tmcn
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tmcn
+	subdir = tmcn
 [submodule "tnl.Test"]
 	path = tnl.Test
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
