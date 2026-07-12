@@ -137,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MatTransMix
 	subdir = MatTransMix
-[submodule "PRIMME"]
-	path = PRIMME
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PRIMME
-	subdir = PRIMME
 [submodule "QDiabetes"]
 	path = QDiabetes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/chisq.posthoc.test
 	subdir = chisq.posthoc.test
-[submodule "choroplethr"]
-	path = choroplethr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/choroplethr
-	subdir = choroplethr
 [submodule "circlesplot"]
 	path = circlesplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
