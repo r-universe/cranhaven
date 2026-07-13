@@ -177,6 +177,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SheetReader
 	subdir = SheetReader
+[submodule "SpaDES"]
+	path = SpaDES
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SpaDES
+	subdir = SpaDES
+[submodule "SpaDES.core"]
+	path = SpaDES.core
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SpaDES.core
+	subdir = SpaDES.core
+[submodule "SpaDES.tools"]
+	path = SpaDES.tools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SpaDES.tools
+	subdir = SpaDES.tools
 [submodule "TOSI"]
 	path = TOSI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -492,6 +507,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/relliptical
 	subdir = relliptical
+[submodule "reproducible"]
+	path = reproducible
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/reproducible
+	subdir = reproducible
 [submodule "restoptr"]
 	path = restoptr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
