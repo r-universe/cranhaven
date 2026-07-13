@@ -152,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RcppCensSpatial
 	subdir = RcppCensSpatial
+[submodule "RcppEigenAD"]
+	path = RcppEigenAD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RcppEigenAD
+	subdir = RcppEigenAD
 [submodule "SCdeconR"]
 	path = SCdeconR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
