@@ -32,16 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Cluster.OBeu
 	subdir = Cluster.OBeu
-[submodule "CrownScorchTLS"]
-	path = CrownScorchTLS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CrownScorchTLS
-	subdir = CrownScorchTLS
-[submodule "CspStandSegmentation"]
-	path = CspStandSegmentation
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CspStandSegmentation
-	subdir = CspStandSegmentation
 [submodule "DemoKin"]
 	path = DemoKin
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -57,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FKF.SP
 	subdir = FKF.SP
-[submodule "FORTLS"]
-	path = FORTLS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FORTLS
-	subdir = FORTLS
 [submodule "FuzzyNumbers.Ext.2"]
 	path = FuzzyNumbers.Ext.2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WormTensor
 	subdir = WormTensor
-[submodule "aboveR"]
-	path = aboveR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/aboveR
-	subdir = aboveR
 [submodule "accelEE"]
 	path = accelEE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/conogive
 	subdir = conogive
-[submodule "crownsegmentr"]
-	path = crownsegmentr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/crownsegmentr
-	subdir = crownsegmentr
 [submodule "cultevo"]
 	path = cultevo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,16 +392,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lazybar
 	subdir = lazybar
-[submodule "lidR"]
-	path = lidR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lidR
-	subdir = lidR
-[submodule "lidaRtRee"]
-	path = lidaRtRee
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lidaRtRee
-	subdir = lidaRtRee
 [submodule "log4r"]
 	path = log4r
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -467,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mvalpha
 	subdir = mvalpha
-[submodule "nestedcv"]
-	path = nestedcv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nestedcv
-	subdir = nestedcv
 [submodule "nirs4alldatasets"]
 	path = nirs4alldatasets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -507,16 +467,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/postGGIR
 	subdir = postGGIR
-[submodule "rcaiman"]
-	path = rcaiman
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rcaiman
-	subdir = rcaiman
-[submodule "rcontroll"]
-	path = rcontroll
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rcontroll
-	subdir = rcontroll
 [submodule "relliptical"]
 	path = relliptical
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -532,11 +482,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/restoptr
 	subdir = restoptr
-[submodule "rlas"]
-	path = rlas
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rlas
-	subdir = rlas
 [submodule "rsahmi"]
 	path = rsahmi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -582,11 +527,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sonicscrewdriver
 	subdir = sonicscrewdriver
-[submodule "spanner"]
-	path = spanner
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/spanner
-	subdir = spanner
 [submodule "spef"]
 	path = spef
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -612,11 +552,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/symphony
 	subdir = symphony
-[submodule "tReeTraits"]
-	path = tReeTraits
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tReeTraits
-	subdir = tReeTraits
 [submodule "tidypmc"]
 	path = tidypmc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -647,11 +582,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/voiceR
 	subdir = voiceR
-[submodule "vostokR"]
-	path = vostokR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vostokR
-	subdir = vostokR
 [submodule "wilson"]
 	path = wilson
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
