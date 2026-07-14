@@ -92,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HIMA
 	subdir = HIMA
+[submodule "HVS"]
+	path = HVS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HVS
+	subdir = HVS
 [submodule "JacobiEigen"]
 	path = JacobiEigen
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,6 +232,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ami
 	subdir = ami
+[submodule "archetyper"]
+	path = archetyper
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/archetyper
+	subdir = archetyper
 [submodule "arctools"]
 	path = arctools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -417,6 +427,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lidaRtRee
 	subdir = lidaRtRee
+[submodule "log4r"]
+	path = log4r
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/log4r
+	subdir = log4r
 [submodule "loggit"]
 	path = loggit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -617,6 +632,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tnl.Test
 	subdir = tnl.Test
+[submodule "uavRmp"]
+	path = uavRmp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/uavRmp
+	subdir = uavRmp
 [submodule "vip"]
 	path = vip
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -632,3 +652,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vostokR
 	subdir = vostokR
+[submodule "wilson"]
+	path = wilson
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/wilson
+	subdir = wilson
