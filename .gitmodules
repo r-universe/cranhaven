@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/arctools
 	subdir = arctools
-[submodule "attenuation"]
-	path = attenuation
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/attenuation
-	subdir = attenuation
 [submodule "auctionr"]
 	path = auctionr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/combinIT
 	subdir = combinIT
-[submodule "conogive"]
-	path = conogive
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/conogive
-	subdir = conogive
 [submodule "cultevo"]
 	path = cultevo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -542,11 +532,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stocks
 	subdir = stocks
-[submodule "subformula"]
-	path = subformula
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/subformula
-	subdir = subformula
 [submodule "symphony"]
 	path = symphony
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
