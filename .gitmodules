@@ -207,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/adept
 	subdir = adept
+[submodule "admiral.test"]
+	path = admiral.test
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/admiral.test
+	subdir = admiral.test
 [submodule "ami"]
 	path = ami
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
