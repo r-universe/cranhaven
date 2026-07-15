@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BigQuic
 	subdir = BigQuic
+[submodule "CORElearn"]
+	path = CORElearn
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CORElearn
+	subdir = CORElearn
 [submodule "Cluster.OBeu"]
 	path = Cluster.OBeu
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,6 +117,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LSMRealOptions
 	subdir = LSMRealOptions
+[submodule "LaMa"]
+	path = LaMa
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LaMa
+	subdir = LaMa
 [submodule "MLCOPULA"]
 	path = MLCOPULA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,11 +137,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/QDiabetes
 	subdir = QDiabetes
+[submodule "QWDAP"]
+	path = QWDAP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/QWDAP
+	subdir = QWDAP
 [submodule "ROCsurf"]
 	path = ROCsurf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ROCsurf
 	subdir = ROCsurf
+[submodule "RTMBdist"]
+	path = RTMBdist
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RTMBdist
+	subdir = RTMBdist
 [submodule "RWmisc"]
 	path = RWmisc
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,6 +252,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/auctionr
 	subdir = auctionr
+[submodule "autoBagging"]
+	path = autoBagging
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/autoBagging
+	subdir = autoBagging
 [submodule "base.rms"]
 	path = base.rms
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,6 +427,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mLLMCelltype
 	subdir = mLLMCelltype
+[submodule "miRNAss"]
+	path = miRNAss
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/miRNAss
+	subdir = miRNAss
 [submodule "missCompare"]
 	path = missCompare
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,6 +482,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/panstarrs
 	subdir = panstarrs
+[submodule "pdfsigner"]
+	path = pdfsigner
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pdfsigner
+	subdir = pdfsigner
 [submodule "plsmmLasso"]
 	path = plsmmLasso
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -502,6 +537,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sdam
 	subdir = sdam
+[submodule "semTests"]
+	path = semTests
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/semTests
+	subdir = semTests
+[submodule "semiArtificial"]
+	path = semiArtificial
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/semiArtificial
+	subdir = semiArtificial
 [submodule "set"]
 	path = set
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -517,6 +562,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shinyservicebot
 	subdir = shinyservicebot
+[submodule "snap"]
+	path = snap
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/snap
+	subdir = snap
 [submodule "sonicscrewdriver"]
 	path = sonicscrewdriver
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -577,3 +627,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wilson
 	subdir = wilson
+[submodule "zctaCrosswalk"]
+	path = zctaCrosswalk
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/zctaCrosswalk
+	subdir = zctaCrosswalk
