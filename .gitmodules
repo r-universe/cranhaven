@@ -562,11 +562,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/shinyservicebot
 	subdir = shinyservicebot
-[submodule "snap"]
-	path = snap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/snap
-	subdir = snap
 [submodule "sonicscrewdriver"]
 	path = sonicscrewdriver
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
