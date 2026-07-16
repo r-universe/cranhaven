@@ -377,6 +377,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qte
 	subdir = qte
+[submodule "ratecalib"]
+	path = ratecalib
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ratecalib
+	subdir = ratecalib
 [submodule "relliptical"]
 	path = relliptical
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
