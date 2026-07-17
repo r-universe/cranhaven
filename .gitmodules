@@ -337,11 +337,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ojsr
 	subdir = ojsr
-[submodule "panstarrs"]
-	path = panstarrs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/panstarrs
-	subdir = panstarrs
 [submodule "pdfsigner"]
 	path = pdfsigner
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
