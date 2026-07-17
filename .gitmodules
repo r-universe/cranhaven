@@ -217,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/circlesplot
 	subdir = circlesplot
-[submodule "combinIT"]
-	path = combinIT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/combinIT
-	subdir = combinIT
 [submodule "contdid"]
 	path = contdid
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,11 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/missCompare
 	subdir = missCompare
-[submodule "mlmodels"]
-	path = mlmodels
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mlmodels
-	subdir = mlmodels
 [submodule "msig"]
 	path = msig
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nomogramFormula
 	subdir = nomogramFormula
-[submodule "nysOpenData"]
-	path = nysOpenData
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nysOpenData
-	subdir = nysOpenData
 [submodule "ojsr"]
 	path = ojsr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
