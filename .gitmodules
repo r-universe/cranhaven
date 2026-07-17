@@ -467,8 +467,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wilson
 	subdir = wilson
-[submodule "zctaCrosswalk"]
-	path = zctaCrosswalk
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/zctaCrosswalk
-	subdir = zctaCrosswalk
