@@ -32,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DiscreteGapStatistic
 	subdir = DiscreteGapStatistic
+[submodule "DiscreteMorseR"]
+	path = DiscreteMorseR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DiscreteMorseR
+	subdir = DiscreteMorseR
 [submodule "FKF.SP"]
 	path = FKF.SP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,6 +142,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SILM
 	subdir = SILM
+[submodule "SPARTAAS"]
+	path = SPARTAAS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SPARTAAS
+	subdir = SPARTAAS
 [submodule "SeqFeatR"]
 	path = SeqFeatR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/admiral.test
 	subdir = admiral.test
+[submodule "ahull3D"]
+	path = ahull3D
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ahull3D
+	subdir = ahull3D
 [submodule "ami"]
 	path = ami
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +322,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/miRNAss
 	subdir = miRNAss
+[submodule "microdiluteR"]
+	path = microdiluteR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/microdiluteR
+	subdir = microdiluteR
 [submodule "missCompare"]
 	path = missCompare
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
