@@ -457,11 +457,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vip
 	subdir = vip
-[submodule "voiceR"]
-	path = voiceR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/voiceR
-	subdir = voiceR
 [submodule "wilson"]
 	path = wilson
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
