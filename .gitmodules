@@ -17,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BigQuic
 	subdir = BigQuic
+[submodule "CMTFtoolbox"]
+	path = CMTFtoolbox
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CMTFtoolbox
+	subdir = CMTFtoolbox
 [submodule "CORElearn"]
 	path = CORElearn
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
