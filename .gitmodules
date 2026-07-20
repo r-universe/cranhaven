@@ -337,11 +337,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mtaOpenData
 	subdir = mtaOpenData
-[submodule "mvalpha"]
-	path = mvalpha
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mvalpha
-	subdir = mvalpha
 [submodule "nirs4alldatasets"]
 	path = nirs4alldatasets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -367,11 +362,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/plsmmLasso
 	subdir = plsmmLasso
-[submodule "ptetools"]
-	path = ptetools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ptetools
-	subdir = ptetools
 [submodule "qte"]
 	path = qte
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
