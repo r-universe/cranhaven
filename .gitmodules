@@ -332,6 +332,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/msig
 	subdir = msig
+[submodule "mtaOpenData"]
+	path = mtaOpenData
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mtaOpenData
+	subdir = mtaOpenData
 [submodule "mvalpha"]
 	path = mvalpha
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
