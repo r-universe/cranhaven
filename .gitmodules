@@ -227,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/circlesplot
 	subdir = circlesplot
+[submodule "clarifai"]
+	path = clarifai
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clarifai
+	subdir = clarifai
 [submodule "contdid"]
 	path = contdid
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
