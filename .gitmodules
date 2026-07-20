@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DiscreteMorseR
 	subdir = DiscreteMorseR
-[submodule "FKF.SP"]
-	path = FKF.SP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FKF.SP
-	subdir = FKF.SP
 [submodule "FuzzyNumbers.Ext.2"]
 	path = FuzzyNumbers.Ext.2
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LFM
 	subdir = LFM
-[submodule "LSMRealOptions"]
-	path = LSMRealOptions
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LSMRealOptions
-	subdir = LSMRealOptions
 [submodule "LaMa"]
 	path = LaMa
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
