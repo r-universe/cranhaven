@@ -237,6 +237,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/contdid
 	subdir = contdid
+[submodule "cruts"]
+	path = cruts
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cruts
+	subdir = cruts
 [submodule "cultevo"]
 	path = cultevo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,11 +312,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/log4r
 	subdir = log4r
-[submodule "mLLMCelltype"]
-	path = mLLMCelltype
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mLLMCelltype
-	subdir = mLLMCelltype
 [submodule "managelocalrepo"]
 	path = managelocalrepo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
