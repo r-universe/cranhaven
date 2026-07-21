@@ -162,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SpaDES.tools
 	subdir = SpaDES.tools
+[submodule "TAQMNGR"]
+	path = TAQMNGR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TAQMNGR
+	subdir = TAQMNGR
 [submodule "TOSI"]
 	path = TOSI
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
