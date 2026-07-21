@@ -112,11 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/QWDAP
 	subdir = QWDAP
-[submodule "ROCsurf"]
-	path = ROCsurf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ROCsurf
-	subdir = ROCsurf
 [submodule "RTMBdist"]
 	path = RTMBdist
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,16 +302,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/log4r
 	subdir = log4r
-[submodule "loggit"]
-	path = loggit
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/loggit
-	subdir = loggit
 [submodule "mLLMCelltype"]
 	path = mLLMCelltype
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mLLMCelltype
 	subdir = mLLMCelltype
+[submodule "managelocalrepo"]
+	path = managelocalrepo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/managelocalrepo
+	subdir = managelocalrepo
 [submodule "miRNAss"]
 	path = miRNAss
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/msig
 	subdir = msig
-[submodule "mtaOpenData"]
-	path = mtaOpenData
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mtaOpenData
-	subdir = mtaOpenData
 [submodule "nirs4alldatasets"]
 	path = nirs4alldatasets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
