@@ -232,11 +232,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clarifai
 	subdir = clarifai
-[submodule "contdid"]
-	path = contdid
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/contdid
-	subdir = contdid
 [submodule "cruts"]
 	path = cruts
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
