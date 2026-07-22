@@ -47,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FuzzyNumbers.Ext.2
 	subdir = FuzzyNumbers.Ext.2
-[submodule "GRIDCOPULA"]
-	path = GRIDCOPULA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GRIDCOPULA
-	subdir = GRIDCOPULA
 [submodule "Goodreader"]
 	path = Goodreader
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -377,11 +372,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/reproducible
 	subdir = reproducible
-[submodule "restoptr"]
-	path = restoptr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/restoptr
-	subdir = restoptr
 [submodule "rsahmi"]
 	path = rsahmi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
