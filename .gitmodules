@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/QWDAP
 	subdir = QWDAP
-[submodule "RTMBdist"]
-	path = RTMBdist
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RTMBdist
-	subdir = RTMBdist
 [submodule "RcppCensSpatial"]
 	path = RcppCensSpatial
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
