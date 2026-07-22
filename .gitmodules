@@ -342,6 +342,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ojsr
 	subdir = ojsr
+[submodule "optextras"]
+	path = optextras
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/optextras
+	subdir = optextras
 [submodule "pdfsigner"]
 	path = pdfsigner
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
