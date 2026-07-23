@@ -92,11 +92,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LaMa
 	subdir = LaMa
-[submodule "MLCOPULA"]
-	path = MLCOPULA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MLCOPULA
-	subdir = MLCOPULA
 [submodule "MatTransMix"]
 	path = MatTransMix
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -137,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SheetReader
 	subdir = SheetReader
+[submodule "SimTimeVar"]
+	path = SimTimeVar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SimTimeVar
+	subdir = SimTimeVar
 [submodule "SpaDES"]
 	path = SpaDES
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nomogramFormula
 	subdir = nomogramFormula
-[submodule "ojsr"]
-	path = ojsr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ojsr
-	subdir = ojsr
 [submodule "optextras"]
 	path = optextras
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
