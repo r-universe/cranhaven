@@ -37,11 +37,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DemoKin
 	subdir = DemoKin
-[submodule "DiscreteGapStatistic"]
-	path = DiscreteGapStatistic
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DiscreteGapStatistic
-	subdir = DiscreteGapStatistic
 [submodule "DiscreteMorseR"]
 	path = DiscreteMorseR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SILM
 	subdir = SILM
-[submodule "SPARTAAS"]
-	path = SPARTAAS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SPARTAAS
-	subdir = SPARTAAS
 [submodule "SeqFeatR"]
 	path = SeqFeatR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cruts
 	subdir = cruts
-[submodule "cultevo"]
-	path = cultevo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cultevo
-	subdir = cultevo
 [submodule "cutoff"]
 	path = cutoff
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
