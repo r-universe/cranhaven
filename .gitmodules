@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LFM
 	subdir = LFM
-[submodule "LaMa"]
-	path = LaMa
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LaMa
-	subdir = LaMa
 [submodule "MatTransMix"]
 	path = MatTransMix
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
