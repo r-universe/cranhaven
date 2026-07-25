@@ -217,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clarifai
 	subdir = clarifai
+[submodule "crunch"]
+	path = crunch
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/crunch
+	subdir = crunch
 [submodule "cruts"]
 	path = cruts
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +277,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hmmr
 	subdir = hmmr
+[submodule "iNZightPlots"]
+	path = iNZightPlots
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iNZightPlots
+	subdir = iNZightPlots
+[submodule "iNZightRegression"]
+	path = iNZightRegression
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iNZightRegression
+	subdir = iNZightRegression
+[submodule "iNZightTools"]
+	path = iNZightTools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iNZightTools
+	subdir = iNZightTools
 [submodule "ineAtlas"]
 	path = ineAtlas
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -392,11 +412,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/set
 	subdir = set
-[submodule "tidypmc"]
-	path = tidypmc
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tidypmc
-	subdir = tidypmc
 [submodule "tmcn"]
 	path = tmcn
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
