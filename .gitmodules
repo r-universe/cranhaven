@@ -157,6 +157,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TOSI
 	subdir = TOSI
+[submodule "TableToLongForm"]
+	path = TableToLongForm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TableToLongForm
+	subdir = TableToLongForm
 [submodule "WormTensor"]
 	path = WormTensor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +312,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ipf
 	subdir = ipf
+[submodule "jamba"]
+	path = jamba
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/jamba
+	subdir = jamba
 [submodule "log4r"]
 	path = log4r
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
