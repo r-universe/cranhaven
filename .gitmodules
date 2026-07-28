@@ -382,6 +382,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ratecalib
 	subdir = ratecalib
+[submodule "relliptical"]
+	path = relliptical
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/relliptical
+	subdir = relliptical
 [submodule "reproducible"]
 	path = reproducible
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
