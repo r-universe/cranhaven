@@ -372,6 +372,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/reproducible
 	subdir = reproducible
+[submodule "rim"]
+	path = rim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rim
+	subdir = rim
 [submodule "rsahmi"]
 	path = rsahmi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
