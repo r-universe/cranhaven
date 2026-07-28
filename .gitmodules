@@ -92,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MatTransMix
 	subdir = MatTransMix
+[submodule "NSR"]
+	path = NSR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NSR
+	subdir = NSR
 [submodule "QWDAP"]
 	path = QWDAP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/eummd
 	subdir = eummd
+[submodule "flan"]
+	path = flan
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/flan
+	subdir = flan
 [submodule "freebird"]
 	path = freebird
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ggrisk
 	subdir = ggrisk
+[submodule "glinvci"]
+	path = glinvci
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/glinvci
+	subdir = glinvci
 [submodule "hdi"]
 	path = hdi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,6 +372,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/plsmmLasso
 	subdir = plsmmLasso
+[submodule "preregr"]
+	path = preregr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/preregr
+	subdir = preregr
 [submodule "ratecalib"]
 	path = ratecalib
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,6 +422,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sdam
 	subdir = sdam
+[submodule "seeclickfixr"]
+	path = seeclickfixr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/seeclickfixr
+	subdir = seeclickfixr
 [submodule "semiArtificial"]
 	path = semiArtificial
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,8 +452,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vip
 	subdir = vip
-[submodule "wilson"]
-	path = wilson
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wilson
-	subdir = wilson
