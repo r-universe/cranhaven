@@ -47,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FuzzyNumbers.Ext.2
 	subdir = FuzzyNumbers.Ext.2
-[submodule "Goodreader"]
-	path = Goodreader
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Goodreader
-	subdir = Goodreader
 [submodule "Grace"]
 	path = Grace
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LFM
 	subdir = LFM
-[submodule "MatTransMix"]
-	path = MatTransMix
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MatTransMix
-	subdir = MatTransMix
 [submodule "NSR"]
 	path = NSR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -122,16 +112,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SILM
 	subdir = SILM
-[submodule "SeqFeatR"]
-	path = SeqFeatR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SeqFeatR
-	subdir = SeqFeatR
-[submodule "SheetReader"]
-	path = SheetReader
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SheetReader
-	subdir = SheetReader
 [submodule "SimTimeVar"]
 	path = SimTimeVar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clarifai
 	subdir = clarifai
-[submodule "crunch"]
-	path = crunch
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/crunch
-	subdir = crunch
 [submodule "cruts"]
 	path = cruts
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cutoff
 	subdir = cutoff
-[submodule "dc3net"]
-	path = dc3net
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dc3net
-	subdir = dc3net
 [submodule "depmixS4"]
 	path = depmixS4
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/epoxy
 	subdir = epoxy
-[submodule "eummd"]
-	path = eummd
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/eummd
-	subdir = eummd
 [submodule "flan"]
 	path = flan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,6 +312,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/msig
 	subdir = msig
+[submodule "nhanesR"]
+	path = nhanesR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nhanesR
+	subdir = nhanesR
 [submodule "nirs4alldatasets"]
 	path = nirs4alldatasets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,6 +372,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsahmi
 	subdir = rsahmi
+[submodule "rtiddlywiki"]
+	path = rtiddlywiki
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rtiddlywiki
+	subdir = rtiddlywiki
 [submodule "runstats"]
 	path = runstats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
