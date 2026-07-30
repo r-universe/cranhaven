@@ -277,11 +277,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/inet
 	subdir = inet
-[submodule "ipf"]
-	path = ipf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ipf
-	subdir = ipf
 [submodule "log4r"]
 	path = log4r
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
