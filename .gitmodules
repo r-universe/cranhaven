@@ -227,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/epoxy
 	subdir = epoxy
+[submodule "fitODBOD"]
+	path = fitODBOD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fitODBOD
+	subdir = fitODBOD
 [submodule "flan"]
 	path = flan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,6 +252,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glinvci
 	subdir = glinvci
+[submodule "glmbayes"]
+	path = glmbayes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/glmbayes
+	subdir = glmbayes
 [submodule "hdi"]
 	path = hdi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,6 +312,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/missCompare
 	subdir = missCompare
+[submodule "modelDown"]
+	path = modelDown
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/modelDown
+	subdir = modelDown
 [submodule "msig"]
 	path = msig
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
