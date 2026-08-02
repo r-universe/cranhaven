@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FuzzyNumbers.Ext.2
 	subdir = FuzzyNumbers.Ext.2
+[submodule "GEC"]
+	path = GEC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GEC
+	subdir = GEC
 [submodule "Grace"]
 	path = Grace
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,6 +432,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tmcn
 	subdir = tmcn
+[submodule "twinsvm"]
+	path = twinsvm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/twinsvm
+	subdir = twinsvm
 [submodule "uavRmp"]
 	path = uavRmp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
