@@ -2,16 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "ASMap"]
-	path = ASMap
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ASMap
-	subdir = ASMap
-[submodule "BKT"]
-	path = BKT
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BKT
-	subdir = BKT
 [submodule "BigQuic"]
 	path = BigQuic
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -72,11 +62,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HVS
 	subdir = HVS
-[submodule "JacobiEigen"]
-	path = JacobiEigen
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/JacobiEigen
-	subdir = JacobiEigen
 [submodule "LFM"]
 	path = LFM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,16 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TableToLongForm
 	subdir = TableToLongForm
-[submodule "WormTensor"]
-	path = WormTensor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/WormTensor
-	subdir = WormTensor
-[submodule "accelEE"]
-	path = accelEE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/accelEE
-	subdir = accelEE
 [submodule "admiral.test"]
 	path = admiral.test
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -172,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/archetyper
 	subdir = archetyper
-[submodule "arctools"]
-	path = arctools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/arctools
-	subdir = arctools
 [submodule "autoBagging"]
 	path = autoBagging
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -277,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iNZightRegression
 	subdir = iNZightRegression
-[submodule "ineAtlas"]
-	path = ineAtlas
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ineAtlas
-	subdir = ineAtlas
 [submodule "inet"]
 	path = inet
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/microdiluteR
 	subdir = microdiluteR
-[submodule "missCompare"]
-	path = missCompare
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/missCompare
-	subdir = missCompare
 [submodule "modelDown"]
 	path = modelDown
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -387,16 +347,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rtiddlywiki
 	subdir = rtiddlywiki
-[submodule "runstats"]
-	path = runstats
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/runstats
-	subdir = runstats
-[submodule "scPOEM"]
-	path = scPOEM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/scPOEM
-	subdir = scPOEM
 [submodule "scalreg"]
 	path = scalreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
