@@ -372,11 +372,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tmcn
 	subdir = tmcn
-[submodule "twinsvm"]
-	path = twinsvm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/twinsvm
-	subdir = twinsvm
 [submodule "uavRmp"]
 	path = uavRmp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
