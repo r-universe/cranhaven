@@ -157,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/base.rms
 	subdir = base.rms
-[submodule "blit"]
-	path = blit
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/blit
-	subdir = blit
 [submodule "circlesplot"]
 	path = circlesplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rim
 	subdir = rim
-[submodule "rsahmi"]
-	path = rsahmi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rsahmi
-	subdir = rsahmi
 [submodule "rtiddlywiki"]
 	path = rtiddlywiki
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
