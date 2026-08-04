@@ -217,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glinvci
 	subdir = glinvci
-[submodule "glmbayes"]
-	path = glmbayes
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/glmbayes
-	subdir = glmbayes
 [submodule "hdi"]
 	path = hdi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
