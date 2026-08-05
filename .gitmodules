@@ -162,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clarifai
 	subdir = clarifai
+[submodule "clustGLMM"]
+	path = clustGLMM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clustGLMM
+	subdir = clustGLMM
 [submodule "cruts"]
 	path = cruts
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
