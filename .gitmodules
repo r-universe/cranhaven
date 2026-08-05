@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Grace
 	subdir = Grace
-[submodule "HDiR"]
-	path = HDiR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HDiR
-	subdir = HDiR
 [submodule "HDoutliers"]
 	path = HDoutliers
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/invasible
 	subdir = invasible
-[submodule "log4r"]
-	path = log4r
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/log4r
-	subdir = log4r
 [submodule "managelocalrepo"]
 	path = managelocalrepo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
