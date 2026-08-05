@@ -242,11 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/inet
 	subdir = inet
-[submodule "invasible"]
-	path = invasible
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/invasible
-	subdir = invasible
 [submodule "managelocalrepo"]
 	path = managelocalrepo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
