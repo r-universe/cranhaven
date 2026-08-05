@@ -262,6 +262,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/microdiluteR
 	subdir = microdiluteR
+[submodule "minired"]
+	path = minired
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/minired
+	subdir = minired
 [submodule "modelDown"]
 	path = modelDown
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
