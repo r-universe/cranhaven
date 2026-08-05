@@ -152,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/base.rms
 	subdir = base.rms
+[submodule "biodosetools"]
+	path = biodosetools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/biodosetools
+	subdir = biodosetools
 [submodule "circlesplot"]
 	path = circlesplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
