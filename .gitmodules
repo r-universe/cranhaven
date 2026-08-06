@@ -157,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biodosetools
 	subdir = biodosetools
-[submodule "circlesplot"]
-	path = circlesplot
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/circlesplot
-	subdir = circlesplot
 [submodule "clarifai"]
 	path = clarifai
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/do
 	subdir = do
-[submodule "epoxy"]
-	path = epoxy
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/epoxy
-	subdir = epoxy
 [submodule "fitODBOD"]
 	path = fitODBOD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scalreg
 	subdir = scalreg
-[submodule "sdam"]
-	path = sdam
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sdam
-	subdir = sdam
 [submodule "seeclickfixr"]
 	path = seeclickfixr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
