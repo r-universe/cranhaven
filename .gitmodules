@@ -177,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cutoff
 	subdir = cutoff
-[submodule "depmixS4"]
-	path = depmixS4
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/depmixS4
-	subdir = depmixS4
 [submodule "do"]
 	path = do
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hdi
 	subdir = hdi
-[submodule "hmmr"]
-	path = hmmr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hmmr
-	subdir = hmmr
 [submodule "iNZightPlots"]
 	path = iNZightPlots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,11 +262,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nhanesR
 	subdir = nhanesR
-[submodule "nirs4alldatasets"]
-	path = nirs4alldatasets
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nirs4alldatasets
-	subdir = nirs4alldatasets
 [submodule "nomogramFormula"]
 	path = nomogramFormula
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
