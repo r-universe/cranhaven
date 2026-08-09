@@ -317,6 +317,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scalreg
 	subdir = scalreg
+[submodule "scimesh"]
+	path = scimesh
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/scimesh
+	subdir = scimesh
 [submodule "seeclickfixr"]
 	path = seeclickfixr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
