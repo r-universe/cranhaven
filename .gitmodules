@@ -347,8 +347,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/uavRmp
 	subdir = uavRmp
-[submodule "vip"]
-	path = vip
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vip
-	subdir = vip
