@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CompareCausalNetworks
 	subdir = CompareCausalNetworks
+[submodule "DataSetsVerse"]
+	path = DataSetsVerse
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DataSetsVerse
+	subdir = DataSetsVerse
 [submodule "DiscreteMorseR"]
 	path = DiscreteMorseR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -62,6 +67,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/LFM
 	subdir = LFM
+[submodule "MedDataSets"]
+	path = MedDataSets
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MedDataSets
+	subdir = MedDataSets
 [submodule "NSR"]
 	path = NSR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
