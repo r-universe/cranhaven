@@ -242,16 +242,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/semiArtificial
 	subdir = semiArtificial
-[submodule "set"]
-	path = set
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/set
-	subdir = set
-[submodule "tmcn"]
-	path = tmcn
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tmcn
-	subdir = tmcn
 [submodule "uavRmp"]
 	path = uavRmp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
