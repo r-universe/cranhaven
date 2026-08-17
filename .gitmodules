@@ -57,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/QWDAP
 	subdir = QWDAP
-[submodule "RcppEigenAD"]
-	path = RcppEigenAD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RcppEigenAD
-	subdir = RcppEigenAD
 [submodule "SELF"]
 	path = SELF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
