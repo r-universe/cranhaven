@@ -67,21 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SimTimeVar
 	subdir = SimTimeVar
-[submodule "SpaDES"]
-	path = SpaDES
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SpaDES
-	subdir = SpaDES
-[submodule "SpaDES.core"]
-	path = SpaDES.core
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SpaDES.core
-	subdir = SpaDES.core
-[submodule "SpaDES.tools"]
-	path = SpaDES.tools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SpaDES.tools
-	subdir = SpaDES.tools
 [submodule "TAQMNGR"]
 	path = TAQMNGR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ratecalib
 	subdir = ratecalib
-[submodule "reproducible"]
-	path = reproducible
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/reproducible
-	subdir = reproducible
 [submodule "rim"]
 	path = rim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
