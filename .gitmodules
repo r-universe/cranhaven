@@ -72,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TableToLongForm
 	subdir = TableToLongForm
-[submodule "admiral.test"]
-	path = admiral.test
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/admiral.test
-	subdir = admiral.test
 [submodule "ahull3D"]
 	path = ahull3D
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
