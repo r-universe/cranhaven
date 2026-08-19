@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CMTFtoolbox
 	subdir = CMTFtoolbox
-[submodule "CORElearn"]
-	path = CORElearn
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CORElearn
-	subdir = CORElearn
 [submodule "CompareCausalNetworks"]
 	path = CompareCausalNetworks
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -47,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NSR
 	subdir = NSR
-[submodule "QWDAP"]
-	path = QWDAP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/QWDAP
-	subdir = QWDAP
 [submodule "SELF"]
 	path = SELF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ahull3D
 	subdir = ahull3D
-[submodule "autoBagging"]
-	path = autoBagging
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/autoBagging
-	subdir = autoBagging
 [submodule "biodosetools"]
 	path = biodosetools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/managelocalrepo
 	subdir = managelocalrepo
-[submodule "miRNAss"]
-	path = miRNAss
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/miRNAss
-	subdir = miRNAss
 [submodule "microdiluteR"]
 	path = microdiluteR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,8 +172,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seeclickfixr
 	subdir = seeclickfixr
-[submodule "semiArtificial"]
-	path = semiArtificial
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/semiArtificial
-	subdir = semiArtificial
