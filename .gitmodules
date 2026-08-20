@@ -137,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/preregr
 	subdir = preregr
-[submodule "ratecalib"]
-	path = ratecalib
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ratecalib
-	subdir = ratecalib
 [submodule "rim"]
 	path = rim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
