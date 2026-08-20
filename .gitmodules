@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GEC
 	subdir = GEC
-[submodule "HDoutliers"]
-	path = HDoutliers
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HDoutliers
-	subdir = HDoutliers
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
