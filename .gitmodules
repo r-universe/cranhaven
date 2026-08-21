@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DataSetsVerse
 	subdir = DataSetsVerse
-[submodule "DiscreteMorseR"]
-	path = DiscreteMorseR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DiscreteMorseR
-	subdir = DiscreteMorseR
 [submodule "EFA.dimensions"]
 	path = EFA.dimensions
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -82,11 +77,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TableToLongForm
 	subdir = TableToLongForm
-[submodule "ahull3D"]
-	path = ahull3D
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ahull3D
-	subdir = ahull3D
 [submodule "bigtabulate"]
 	path = bigtabulate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/managelocalrepo
 	subdir = managelocalrepo
-[submodule "microdiluteR"]
-	path = microdiluteR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/microdiluteR
-	subdir = microdiluteR
 [submodule "minired"]
 	path = minired
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
