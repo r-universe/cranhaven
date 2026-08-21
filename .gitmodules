@@ -22,11 +22,31 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DiscreteMorseR
 	subdir = DiscreteMorseR
+[submodule "EFA.dimensions"]
+	path = EFA.dimensions
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EFA.dimensions
+	subdir = EFA.dimensions
+[submodule "EFAtools"]
+	path = EFAtools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EFAtools
+	subdir = EFAtools
+[submodule "FAfA"]
+	path = FAfA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FAfA
+	subdir = FAfA
 [submodule "GEC"]
 	path = GEC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GEC
 	subdir = GEC
+[submodule "GVARX"]
+	path = GVARX
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GVARX
+	subdir = GVARX
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -37,6 +57,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NSR
 	subdir = NSR
+[submodule "NonlinearTSA"]
+	path = NonlinearTSA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NonlinearTSA
+	subdir = NonlinearTSA
 [submodule "SELF"]
 	path = SELF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clarifai
 	subdir = clarifai
+[submodule "combcoint"]
+	path = combcoint
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/combcoint
+	subdir = combcoint
 [submodule "cruts"]
 	path = cruts
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,3 +192,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seeclickfixr
 	subdir = seeclickfixr
+[submodule "tsDyn"]
+	path = tsDyn
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tsDyn
+	subdir = tsDyn
