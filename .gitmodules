@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EFA.dimensions
 	subdir = EFA.dimensions
-[submodule "EFAtools"]
-	path = EFAtools
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EFAtools
-	subdir = EFAtools
 [submodule "FAfA"]
 	path = FAfA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biodosetools
 	subdir = biodosetools
+[submodule "carat"]
+	path = carat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/carat
+	subdir = carat
 [submodule "clarifai"]
 	path = clarifai
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
