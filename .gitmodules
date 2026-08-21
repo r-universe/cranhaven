@@ -62,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ahull3D
 	subdir = ahull3D
+[submodule "bigtabulate"]
+	path = bigtabulate
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bigtabulate
+	subdir = bigtabulate
 [submodule "biodosetools"]
 	path = biodosetools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
