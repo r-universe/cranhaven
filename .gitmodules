@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EFA.dimensions
 	subdir = EFA.dimensions
+[submodule "ExactTree"]
+	path = ExactTree
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ExactTree
+	subdir = ExactTree
 [submodule "FAfA"]
 	path = FAfA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,11 +187,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rtiddlywiki
 	subdir = rtiddlywiki
-[submodule "scimesh"]
-	path = scimesh
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/scimesh
-	subdir = scimesh
 [submodule "seeclickfixr"]
 	path = seeclickfixr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
