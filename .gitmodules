@@ -52,11 +52,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GVARX
 	subdir = GVARX
-[submodule "MEMWAS"]
-	path = MEMWAS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MEMWAS
-	subdir = MEMWAS
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -277,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/smallsets
 	subdir = smallsets
-[submodule "survalis"]
-	path = survalis
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/survalis
-	subdir = survalis
 [submodule "tinyVAST"]
 	path = tinyVAST
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
