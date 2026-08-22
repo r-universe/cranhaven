@@ -37,11 +37,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GEC
 	subdir = GEC
+[submodule "GLMMcosinor"]
+	path = GLMMcosinor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GLMMcosinor
+	subdir = GLMMcosinor
 [submodule "GVARX"]
 	path = GVARX
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GVARX
 	subdir = GVARX
+[submodule "MEMWAS"]
+	path = MEMWAS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MEMWAS
+	subdir = MEMWAS
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,6 +87,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TableToLongForm
 	subdir = TableToLongForm
+[submodule "adass"]
+	path = adass
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/adass
+	subdir = adass
+[submodule "almanac"]
+	path = almanac
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/almanac
+	subdir = almanac
 [submodule "bigtabulate"]
 	path = bigtabulate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iNZightRegression
 	subdir = iNZightRegression
+[submodule "lapop"]
+	path = lapop
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/lapop
+	subdir = lapop
 [submodule "managelocalrepo"]
 	path = managelocalrepo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,23 +187,78 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/preregr
 	subdir = preregr
+[submodule "pulsar"]
+	path = pulsar
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pulsar
+	subdir = pulsar
+[submodule "rang"]
+	path = rang
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rang
+	subdir = rang
 [submodule "rim"]
 	path = rim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rim
 	subdir = rim
+[submodule "roadDB"]
+	path = roadDB
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/roadDB
+	subdir = roadDB
+[submodule "rock"]
+	path = rock
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rock
+	subdir = rock
 [submodule "rtiddlywiki"]
 	path = rtiddlywiki
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rtiddlywiki
 	subdir = rtiddlywiki
+[submodule "rtreeoflife"]
+	path = rtreeoflife
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rtreeoflife
+	subdir = rtreeoflife
 [submodule "seeclickfixr"]
 	path = seeclickfixr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/seeclickfixr
 	subdir = seeclickfixr
+[submodule "sfhelper"]
+	path = sfhelper
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sfhelper
+	subdir = sfhelper
+[submodule "smallsets"]
+	path = smallsets
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/smallsets
+	subdir = smallsets
+[submodule "survalis"]
+	path = survalis
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/survalis
+	subdir = survalis
+[submodule "tinyVAST"]
+	path = tinyVAST
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tinyVAST
+	subdir = tinyVAST
 [submodule "tsDyn"]
 	path = tsDyn
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tsDyn
 	subdir = tsDyn
+[submodule "vartest"]
+	path = vartest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vartest
+	subdir = vartest
+[submodule "whatifbandit"]
+	path = whatifbandit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/whatifbandit
+	subdir = whatifbandit
