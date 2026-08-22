@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "BioUtils"]
+	path = BioUtils
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BioUtils
+	subdir = BioUtils
 [submodule "CMTFtoolbox"]
 	path = CMTFtoolbox
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,11 +247,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rtiddlywiki
 	subdir = rtiddlywiki
+[submodule "rtika"]
+	path = rtika
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rtika
+	subdir = rtika
 [submodule "rtreeoflife"]
 	path = rtreeoflife
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rtreeoflife
 	subdir = rtreeoflife
+[submodule "scITD"]
+	path = scITD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/scITD
+	subdir = scITD
 [submodule "seeclickfixr"]
 	path = seeclickfixr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
