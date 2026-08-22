@@ -97,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/almanac
 	subdir = almanac
+[submodule "baRulho"]
+	path = baRulho
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/baRulho
+	subdir = baRulho
 [submodule "bigtabulate"]
 	path = bigtabulate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,11 +182,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nhanesR
 	subdir = nhanesR
+[submodule "obr"]
+	path = obr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/obr
+	subdir = obr
 [submodule "optextras"]
 	path = optextras
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/optextras
 	subdir = optextras
+[submodule "phonfieldwork"]
+	path = phonfieldwork
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/phonfieldwork
+	subdir = phonfieldwork
 [submodule "preregr"]
 	path = preregr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,11 +222,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/roadDB
 	subdir = roadDB
+[submodule "roads"]
+	path = roads
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/roads
+	subdir = roads
 [submodule "rock"]
 	path = rock
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rock
 	subdir = rock
+[submodule "rsurvstat"]
+	path = rsurvstat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rsurvstat
+	subdir = rsurvstat
 [submodule "rtiddlywiki"]
 	path = rtiddlywiki
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
