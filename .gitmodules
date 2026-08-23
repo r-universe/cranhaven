@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cruts
 	subdir = cruts
-[submodule "fitODBOD"]
-	path = fitODBOD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fitODBOD
-	subdir = fitODBOD
 [submodule "flan"]
 	path = flan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
