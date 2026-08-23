@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BioUtils
 	subdir = BioUtils
-[submodule "CMTFtoolbox"]
-	path = CMTFtoolbox
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CMTFtoolbox
-	subdir = CMTFtoolbox
 [submodule "CompareCausalNetworks"]
 	path = CompareCausalNetworks
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
