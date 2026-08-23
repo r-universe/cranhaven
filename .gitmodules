@@ -197,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pulsar
 	subdir = pulsar
-[submodule "qvivid"]
-	path = qvivid
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/qvivid
-	subdir = qvivid
 [submodule "rang"]
 	path = rang
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
