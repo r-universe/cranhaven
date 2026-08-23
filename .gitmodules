@@ -202,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pulsar
 	subdir = pulsar
+[submodule "qvivid"]
+	path = qvivid
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qvivid
+	subdir = qvivid
 [submodule "rang"]
 	path = rang
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +257,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scITD
 	subdir = scITD
+[submodule "sdbuildR"]
+	path = sdbuildR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sdbuildR
+	subdir = sdbuildR
 [submodule "seeclickfixr"]
 	path = seeclickfixr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
