@@ -22,6 +22,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EFA.dimensions
 	subdir = EFA.dimensions
+[submodule "EMMLi"]
+	path = EMMLi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EMMLi
+	subdir = EMMLi
 [submodule "ExactTree"]
 	path = ExactTree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
