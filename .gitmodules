@@ -102,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/almanac
 	subdir = almanac
+[submodule "autotesteR"]
+	path = autotesteR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/autotesteR
+	subdir = autotesteR
 [submodule "baRulho"]
 	path = baRulho
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
