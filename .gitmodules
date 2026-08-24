@@ -62,6 +62,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NonlinearTSA
 	subdir = NonlinearTSA
+[submodule "RPresto"]
+	path = RPresto
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RPresto
+	subdir = RPresto
 [submodule "SELF"]
 	path = SELF
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/baRulho
 	subdir = baRulho
+[submodule "behaviorchange"]
+	path = behaviorchange
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/behaviorchange
+	subdir = behaviorchange
 [submodule "bigtabulate"]
 	path = bigtabulate
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +282,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tsDyn
 	subdir = tsDyn
+[submodule "ufs"]
+	path = ufs
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ufs
+	subdir = ufs
 [submodule "vartest"]
 	path = vartest
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
