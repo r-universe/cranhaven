@@ -192,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/phonfieldwork
 	subdir = phonfieldwork
+[submodule "pipr"]
+	path = pipr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pipr
+	subdir = pipr
 [submodule "preregr"]
 	path = preregr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
