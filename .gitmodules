@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/carat
 	subdir = carat
-[submodule "clarifai"]
-	path = clarifai
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/clarifai
-	subdir = clarifai
 [submodule "combcoint"]
 	path = combcoint
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
