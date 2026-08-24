@@ -162,11 +162,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lapop
 	subdir = lapop
-[submodule "managelocalrepo"]
-	path = managelocalrepo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/managelocalrepo
-	subdir = managelocalrepo
 [submodule "minired"]
 	path = minired
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
