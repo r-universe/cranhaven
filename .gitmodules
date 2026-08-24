@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nhanesR
 	subdir = nhanesR
-[submodule "obr"]
-	path = obr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/obr
-	subdir = obr
 [submodule "optextras"]
 	path = optextras
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,8 +287,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vartest
 	subdir = vartest
-[submodule "whatifbandit"]
-	path = whatifbandit
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/whatifbandit
-	subdir = whatifbandit
