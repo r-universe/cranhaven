@@ -167,11 +167,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/modelDown
 	subdir = modelDown
-[submodule "nhanesR"]
-	path = nhanesR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/nhanesR
-	subdir = nhanesR
 [submodule "optextras"]
 	path = optextras
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,11 +202,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rim
 	subdir = rim
-[submodule "roadDB"]
-	path = roadDB
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/roadDB
-	subdir = roadDB
 [submodule "roads"]
 	path = roads
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -277,8 +267,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ufs
 	subdir = ufs
-[submodule "vartest"]
-	path = vartest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vartest
-	subdir = vartest
