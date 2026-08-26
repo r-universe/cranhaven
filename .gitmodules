@@ -17,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/DataSetsVerse
 	subdir = DataSetsVerse
+[submodule "EEAaq"]
+	path = EEAaq
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EEAaq
+	subdir = EEAaq
 [submodule "EFA.dimensions"]
 	path = EFA.dimensions
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,6 +147,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glinvci
 	subdir = glinvci
+[submodule "harmonydata"]
+	path = harmonydata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/harmonydata
+	subdir = harmonydata
 [submodule "iNZightPlots"]
 	path = iNZightPlots
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,3 +272,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ufs
 	subdir = ufs
+[submodule "wcde"]
+	path = wcde
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/wcde
+	subdir = wcde
