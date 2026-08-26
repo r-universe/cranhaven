@@ -167,11 +167,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/modelDown
 	subdir = modelDown
-[submodule "optextras"]
-	path = optextras
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/optextras
-	subdir = optextras
 [submodule "phonfieldwork"]
 	path = phonfieldwork
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
