@@ -72,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NonlinearTSA
 	subdir = NonlinearTSA
+[submodule "RPatternJoin"]
+	path = RPatternJoin
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RPatternJoin
+	subdir = RPatternJoin
 [submodule "RPresto"]
 	path = RPresto
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
