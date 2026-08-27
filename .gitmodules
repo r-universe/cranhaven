@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BioUtils
 	subdir = BioUtils
-[submodule "CompareCausalNetworks"]
-	path = CompareCausalNetworks
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CompareCausalNetworks
-	subdir = CompareCausalNetworks
 [submodule "DataSetsVerse"]
 	path = DataSetsVerse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -82,11 +77,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RPresto
 	subdir = RPresto
-[submodule "SELF"]
-	path = SELF
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SELF
-	subdir = SELF
 [submodule "TableToLongForm"]
 	path = TableToLongForm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
