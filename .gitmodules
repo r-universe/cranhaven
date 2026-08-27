@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BioUtils
 	subdir = BioUtils
+[submodule "DSIR"]
+	path = DSIR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/DSIR
+	subdir = DSIR
 [submodule "DataSetsVerse"]
 	path = DataSetsVerse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -127,6 +132,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/combcoint
 	subdir = combcoint
+[submodule "filibustr"]
+	path = filibustr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/filibustr
+	subdir = filibustr
 [submodule "flan"]
 	path = flan
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,6 +242,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scITD
 	subdir = scITD
+[submodule "scryr"]
+	path = scryr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/scryr
+	subdir = scryr
 [submodule "seeclickfixr"]
 	path = seeclickfixr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
