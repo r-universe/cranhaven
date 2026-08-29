@@ -7,11 +7,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BioUtils
 	subdir = BioUtils
-[submodule "DSIR"]
-	path = DSIR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DSIR
-	subdir = DSIR
 [submodule "DataSetsVerse"]
 	path = DataSetsVerse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/roads
 	subdir = roads
-[submodule "rock"]
-	path = rock
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rock
-	subdir = rock
 [submodule "rsurvstat"]
 	path = rsurvstat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rtreeoflife
 	subdir = rtreeoflife
-[submodule "scITD"]
-	path = scITD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/scITD
-	subdir = scITD
 [submodule "scryr"]
 	path = scryr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
