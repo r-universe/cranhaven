@@ -147,16 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/harmonydata
 	subdir = harmonydata
-[submodule "iNZightPlots"]
-	path = iNZightPlots
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/iNZightPlots
-	subdir = iNZightPlots
-[submodule "iNZightRegression"]
-	path = iNZightRegression
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/iNZightRegression
-	subdir = iNZightRegression
 [submodule "lapop"]
 	path = lapop
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +197,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/roads
 	subdir = roads
+[submodule "rock"]
+	path = rock
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rock
+	subdir = rock
 [submodule "rsurvstat"]
 	path = rsurvstat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -227,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rtreeoflife
 	subdir = rtreeoflife
+[submodule "scITD"]
+	path = scITD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/scITD
+	subdir = scITD
 [submodule "scryr"]
 	path = scryr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
