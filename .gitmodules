@@ -52,6 +52,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GVARX
 	subdir = GVARX
+[submodule "LABTNSCPSS"]
+	path = LABTNSCPSS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LABTNSCPSS
+	subdir = LABTNSCPSS
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
