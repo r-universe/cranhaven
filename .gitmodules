@@ -82,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RPresto
 	subdir = RPresto
-[submodule "TableToLongForm"]
-	path = TableToLongForm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TableToLongForm
-	subdir = TableToLongForm
 [submodule "adass"]
 	path = adass
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
