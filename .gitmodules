@@ -32,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ExactTree
 	subdir = ExactTree
+[submodule "FAfA"]
+	path = FAfA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FAfA
+	subdir = FAfA
 [submodule "GEC"]
 	path = GEC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,6 +222,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rtreeoflife
 	subdir = rtreeoflife
+[submodule "scITD"]
+	path = scITD
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/scITD
+	subdir = scITD
 [submodule "scryr"]
 	path = scryr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
