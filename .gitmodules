@@ -122,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/carat
 	subdir = carat
+[submodule "cognitoR"]
+	path = cognitoR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cognitoR
+	subdir = cognitoR
 [submodule "combcoint"]
 	path = combcoint
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/modelDown
 	subdir = modelDown
+[submodule "noctua"]
+	path = noctua
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/noctua
+	subdir = noctua
 [submodule "phonfieldwork"]
 	path = phonfieldwork
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,3 +277,8 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wcde
 	subdir = wcde
+[submodule "zoomGroupStats"]
+	path = zoomGroupStats
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/zoomGroupStats
+	subdir = zoomGroupStats
