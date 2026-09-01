@@ -137,6 +137,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/combcoint
 	subdir = combcoint
+[submodule "dlsem"]
+	path = dlsem
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dlsem
+	subdir = dlsem
 [submodule "filibustr"]
 	path = filibustr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
