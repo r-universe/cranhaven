@@ -27,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EMMLi
 	subdir = EMMLi
+[submodule "Evomorph"]
+	path = Evomorph
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Evomorph
+	subdir = Evomorph
 [submodule "ExactTree"]
 	path = ExactTree
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/biodosetools
 	subdir = biodosetools
+[submodule "birp"]
+	path = birp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/birp
+	subdir = birp
 [submodule "carat"]
 	path = carat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,6 +157,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/glinvci
 	subdir = glinvci
+[submodule "grade"]
+	path = grade
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/grade
+	subdir = grade
 [submodule "harmonydata"]
 	path = harmonydata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -202,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rim
 	subdir = rim
-[submodule "roads"]
-	path = roads
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/roads
-	subdir = roads
 [submodule "rock"]
 	path = rock
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
