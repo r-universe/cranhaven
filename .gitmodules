@@ -67,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MedDataSets
 	subdir = MedDataSets
-[submodule "NSR"]
-	path = NSR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NSR
-	subdir = NSR
 [submodule "NonlinearTSA"]
 	path = NonlinearTSA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -147,16 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/filibustr
 	subdir = filibustr
-[submodule "flan"]
-	path = flan
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/flan
-	subdir = flan
-[submodule "glinvci"]
-	path = glinvci
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/glinvci
-	subdir = glinvci
 [submodule "grade"]
 	path = grade
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pipr
 	subdir = pipr
-[submodule "preregr"]
-	path = preregr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/preregr
-	subdir = preregr
 [submodule "pulsar"]
 	path = pulsar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -212,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rang
 	subdir = rang
-[submodule "rim"]
-	path = rim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rim
-	subdir = rim
 [submodule "rock"]
 	path = rock
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scryr
 	subdir = scryr
-[submodule "seeclickfixr"]
-	path = seeclickfixr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/seeclickfixr
-	subdir = seeclickfixr
 [submodule "sfhelper"]
 	path = sfhelper
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
