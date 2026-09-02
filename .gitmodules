@@ -207,11 +207,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rsurvstat
 	subdir = rsurvstat
-[submodule "rtiddlywiki"]
-	path = rtiddlywiki
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rtiddlywiki
-	subdir = rtiddlywiki
 [submodule "rtika"]
 	path = rtika
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
