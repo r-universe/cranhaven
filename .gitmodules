@@ -152,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/grade
 	subdir = grade
+[submodule "growth"]
+	path = growth
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/growth
+	subdir = growth
 [submodule "harmonydata"]
 	path = harmonydata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -162,6 +167,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lapop
 	subdir = lapop
+[submodule "mcauchyd"]
+	path = mcauchyd
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mcauchyd
+	subdir = mcauchyd
 [submodule "minired"]
 	path = minired
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,6 +242,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/smallsets
 	subdir = smallsets
+[submodule "thankr"]
+	path = thankr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/thankr
+	subdir = thankr
 [submodule "tinyVAST"]
 	path = tinyVAST
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
