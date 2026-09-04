@@ -162,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/harmonydata
 	subdir = harmonydata
+[submodule "kofdata"]
+	path = kofdata
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/kofdata
+	subdir = kofdata
 [submodule "lapop"]
 	path = lapop
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,6 +182,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/minired
 	subdir = minired
+[submodule "namedropR"]
+	path = namedropR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/namedropR
+	subdir = namedropR
 [submodule "noctua"]
 	path = noctua
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
