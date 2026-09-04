@@ -167,11 +167,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/minired
 	subdir = minired
-[submodule "modelDown"]
-	path = modelDown
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/modelDown
-	subdir = modelDown
 [submodule "noctua"]
 	path = noctua
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
