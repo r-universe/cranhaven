@@ -47,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GEC
 	subdir = GEC
+[submodule "GIMMEgVAR"]
+	path = GIMMEgVAR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GIMMEgVAR
+	subdir = GIMMEgVAR
 [submodule "GLMMcosinor"]
 	path = GLMMcosinor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
