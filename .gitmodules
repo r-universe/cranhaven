@@ -67,11 +67,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IntegMultiReg
 	subdir = IntegMultiReg
-[submodule "LABTNSCPSS"]
-	path = LABTNSCPSS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LABTNSCPSS
-	subdir = LABTNSCPSS
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -177,11 +172,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kofdata
 	subdir = kofdata
-[submodule "lapop"]
-	path = lapop
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/lapop
-	subdir = lapop
 [submodule "mcauchyd"]
 	path = mcauchyd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -282,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ufs
 	subdir = ufs
-[submodule "wcde"]
-	path = wcde
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/wcde
-	subdir = wcde
 [submodule "zoomGroupStats"]
 	path = zoomGroupStats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
