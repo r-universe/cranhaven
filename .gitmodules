@@ -247,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rock
 	subdir = rock
-[submodule "rsurvstat"]
-	path = rsurvstat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rsurvstat
-	subdir = rsurvstat
 [submodule "rtika"]
 	path = rtika
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
