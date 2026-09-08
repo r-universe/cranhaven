@@ -147,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/birp
 	subdir = birp
-[submodule "carat"]
-	path = carat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/carat
-	subdir = carat
 [submodule "cognitoR"]
 	path = cognitoR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
