@@ -157,6 +157,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/combcoint
 	subdir = combcoint
+[submodule "cpp11qpdf"]
+	path = cpp11qpdf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cpp11qpdf
+	subdir = cpp11qpdf
 [submodule "dlsem"]
 	path = dlsem
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +297,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ufs
 	subdir = ufs
+[submodule "vcpen"]
+	path = vcpen
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/vcpen
+	subdir = vcpen
 [submodule "zoomGroupStats"]
 	path = zoomGroupStats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
