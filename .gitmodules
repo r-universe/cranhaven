@@ -72,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IntegMultiReg
 	subdir = IntegMultiReg
-[submodule "MBHdesign"]
-	path = MBHdesign
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MBHdesign
-	subdir = MBHdesign
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
