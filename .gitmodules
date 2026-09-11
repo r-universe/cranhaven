@@ -67,6 +67,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HDBRR
 	subdir = HDBRR
+[submodule "HDclust"]
+	path = HDclust
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HDclust
+	subdir = HDclust
+[submodule "HRTnomaly"]
+	path = HRTnomaly
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/HRTnomaly
+	subdir = HRTnomaly
 [submodule "IntegMultiReg"]
 	path = IntegMultiReg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -82,6 +92,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MorphSim
 	subdir = MorphSim
+[submodule "NetMix"]
+	path = NetMix
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NetMix
+	subdir = NetMix
 [submodule "NonlinearTSA"]
 	path = NonlinearTSA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +122,26 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/adass
 	subdir = adass
+[submodule "adbcdrivermanager"]
+	path = adbcdrivermanager
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/adbcdrivermanager
+	subdir = adbcdrivermanager
+[submodule "adbcpostgresql"]
+	path = adbcpostgresql
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/adbcpostgresql
+	subdir = adbcpostgresql
+[submodule "adbcsqlite"]
+	path = adbcsqlite
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/adbcsqlite
+	subdir = adbcsqlite
+[submodule "adbi"]
+	path = adbi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/adbi
+	subdir = adbi
 [submodule "almanac"]
 	path = almanac
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -117,6 +152,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autotesteR
 	subdir = autotesteR
+[submodule "awdb"]
+	path = awdb
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/awdb
+	subdir = awdb
 [submodule "baRulho"]
 	path = baRulho
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,6 +192,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cpp11qpdf
 	subdir = cpp11qpdf
+[submodule "defm"]
+	path = defm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/defm
+	subdir = defm
 [submodule "dlsem"]
 	path = dlsem
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -182,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/harmonydata
 	subdir = harmonydata
+[submodule "imaginarycss"]
+	path = imaginarycss
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/imaginarycss
+	subdir = imaginarycss
 [submodule "kofdata"]
 	path = kofdata
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
