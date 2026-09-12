@@ -202,6 +202,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dlsem
 	subdir = dlsem
+[submodule "dsdp"]
+	path = dsdp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dsdp
+	subdir = dsdp
+[submodule "extrasteps"]
+	path = extrasteps
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/extrasteps
+	subdir = extrasteps
 [submodule "filibustr"]
 	path = filibustr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -267,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pipr
 	subdir = pipr
+[submodule "polite"]
+	path = polite
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/polite
+	subdir = polite
 [submodule "pulsar"]
 	path = pulsar
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/vcpen
 	subdir = vcpen
+[submodule "zenstats"]
+	path = zenstats
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/zenstats
+	subdir = zenstats
 [submodule "zoomGroupStats"]
 	path = zoomGroupStats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
