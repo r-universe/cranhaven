@@ -82,6 +82,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IntegMultiReg
 	subdir = IntegMultiReg
+[submodule "MapGAM"]
+	path = MapGAM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MapGAM
+	subdir = MapGAM
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/defm
 	subdir = defm
+[submodule "diversityForest"]
+	path = diversityForest
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/diversityForest
+	subdir = diversityForest
 [submodule "dlsem"]
 	path = dlsem
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mixedMem
 	subdir = mixedMem
+[submodule "modeltuning"]
+	path = modeltuning
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/modeltuning
+	subdir = modeltuning
 [submodule "namedropR"]
 	path = namedropR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,6 +337,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sfhelper
 	subdir = sfhelper
+[submodule "simgof"]
+	path = simgof
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/simgof
+	subdir = simgof
 [submodule "smallsets"]
 	path = smallsets
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
