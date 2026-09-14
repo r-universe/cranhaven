@@ -157,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autotesteR
 	subdir = autotesteR
-[submodule "awdb"]
-	path = awdb
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/awdb
-	subdir = awdb
 [submodule "baRulho"]
 	path = baRulho
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
