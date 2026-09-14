@@ -217,6 +217,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/filibustr
 	subdir = filibustr
+[submodule "fpop"]
+	path = fpop
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fpop
+	subdir = fpop
 [submodule "gamlss.mx"]
 	path = gamlss.mx
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
