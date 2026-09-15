@@ -42,11 +42,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GIMMEgVAR
 	subdir = GIMMEgVAR
-[submodule "GLMMcosinor"]
-	path = GLMMcosinor
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GLMMcosinor
-	subdir = GLMMcosinor
 [submodule "GPSeqClus"]
 	path = GPSeqClus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -107,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PNDSIBGE
 	subdir = PNDSIBGE
+[submodule "PhytoIn"]
+	path = PhytoIn
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PhytoIn
+	subdir = PhytoIn
 [submodule "RLeafAngle"]
 	path = RLeafAngle
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,16 +132,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/adbcpostgresql
 	subdir = adbcpostgresql
-[submodule "adbcsqlite"]
-	path = adbcsqlite
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/adbcsqlite
-	subdir = adbcsqlite
 [submodule "adbi"]
 	path = adbi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/adbi
 	subdir = adbi
+[submodule "agghoo"]
+	path = agghoo
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/agghoo
+	subdir = agghoo
 [submodule "almanac"]
 	path = almanac
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -207,6 +207,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dsdp
 	subdir = dsdp
+[submodule "dtGAP"]
+	path = dtGAP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dtGAP
+	subdir = dtGAP
 [submodule "extrasteps"]
 	path = extrasteps
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
