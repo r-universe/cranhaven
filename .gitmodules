@@ -37,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FAfA
 	subdir = FAfA
+[submodule "FMP"]
+	path = FMP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/FMP
+	subdir = FMP
 [submodule "GIMMEgVAR"]
 	path = GIMMEgVAR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
