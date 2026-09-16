@@ -77,11 +77,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HRTnomaly
 	subdir = HRTnomaly
-[submodule "IntegMultiReg"]
-	path = IntegMultiReg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/IntegMultiReg
-	subdir = IntegMultiReg
 [submodule "MDFS"]
 	path = MDFS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
