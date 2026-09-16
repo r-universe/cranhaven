@@ -7,6 +7,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BioUtils
 	subdir = BioUtils
+[submodule "CEC"]
+	path = CEC
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CEC
+	subdir = CEC
 [submodule "DataSetsVerse"]
 	path = DataSetsVerse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -77,6 +82,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/IntegMultiReg
 	subdir = IntegMultiReg
+[submodule "MDFS"]
+	path = MDFS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MDFS
+	subdir = MDFS
 [submodule "MapGAM"]
 	path = MapGAM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -97,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NetMix
 	subdir = NetMix
+[submodule "NlinTS"]
+	path = NlinTS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/NlinTS
+	subdir = NlinTS
 [submodule "NonlinearTSA"]
 	path = NonlinearTSA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,6 +127,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PhytoIn
 	subdir = PhytoIn
+[submodule "RAFS"]
+	path = RAFS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RAFS
+	subdir = RAFS
 [submodule "RLeafAngle"]
 	path = RLeafAngle
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/adass
 	subdir = adass
-[submodule "adbcpostgresql"]
-	path = adbcpostgresql
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/adbcpostgresql
-	subdir = adbcpostgresql
 [submodule "adbi"]
 	path = adbi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,6 +252,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gamlss.mx
 	subdir = gamlss.mx
+[submodule "gdalcubes"]
+	path = gdalcubes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/gdalcubes
+	subdir = gdalcubes
 [submodule "grade"]
 	path = grade
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -252,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/harmonydata
 	subdir = harmonydata
+[submodule "hint"]
+	path = hint
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hint
+	subdir = hint
 [submodule "imaginarycss"]
 	path = imaginarycss
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +297,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mixedMem
 	subdir = mixedMem
+[submodule "mwcsr"]
+	path = mwcsr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mwcsr
+	subdir = mwcsr
 [submodule "namedropR"]
 	path = namedropR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,6 +337,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rang
 	subdir = rang
+[submodule "rglobi"]
+	path = rglobi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rglobi
+	subdir = rglobi
 [submodule "rock"]
 	path = rock
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,6 +382,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/smallsets
 	subdir = smallsets
+[submodule "smer"]
+	path = smer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/smer
+	subdir = smer
 [submodule "thankr"]
 	path = thankr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
