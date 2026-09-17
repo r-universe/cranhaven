@@ -187,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/combcoint
 	subdir = combcoint
+[submodule "competitiontoolbox"]
+	path = competitiontoolbox
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/competitiontoolbox
+	subdir = competitiontoolbox
 [submodule "cpp11qpdf"]
 	path = cpp11qpdf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kofdata
 	subdir = kofdata
+[submodule "mathml"]
+	path = mathml
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mathml
+	subdir = mathml
 [submodule "mcauchyd"]
 	path = mcauchyd
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/noctua
 	subdir = noctua
+[submodule "optiSel"]
+	path = optiSel
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/optiSel
+	subdir = optiSel
 [submodule "phonfieldwork"]
 	path = phonfieldwork
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,6 +347,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rock
 	subdir = rock
+[submodule "rolog"]
+	path = rolog
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rolog
+	subdir = rolog
+[submodule "rswipl"]
+	path = rswipl
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rswipl
+	subdir = rswipl
 [submodule "rtika"]
 	path = rtika
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
