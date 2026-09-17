@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CEC
 	subdir = CEC
-[submodule "DataSetsVerse"]
-	path = DataSetsVerse
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/DataSetsVerse
-	subdir = DataSetsVerse
 [submodule "EEAaq"]
 	path = EEAaq
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MapGAM
 	subdir = MapGAM
-[submodule "MedDataSets"]
-	path = MedDataSets
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MedDataSets
-	subdir = MedDataSets
 [submodule "MorphSim"]
 	path = MorphSim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
