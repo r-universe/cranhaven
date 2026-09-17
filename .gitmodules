@@ -352,11 +352,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rolog
 	subdir = rolog
-[submodule "rswipl"]
-	path = rswipl
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rswipl
-	subdir = rswipl
 [submodule "rtika"]
 	path = rtika
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -392,11 +387,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/smallsets
 	subdir = smallsets
-[submodule "smer"]
-	path = smer
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/smer
-	subdir = smer
 [submodule "thankr"]
 	path = thankr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
