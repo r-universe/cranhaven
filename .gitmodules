@@ -177,6 +177,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/birp
 	subdir = birp
+[submodule "clampSeg"]
+	path = clampSeg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/clampSeg
+	subdir = clampSeg
 [submodule "cognitoR"]
 	path = cognitoR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
