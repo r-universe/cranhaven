@@ -72,6 +72,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HRTnomaly
 	subdir = HRTnomaly
+[submodule "LLM"]
+	path = LLM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LLM
+	subdir = LLM
 [submodule "MDFS"]
 	path = MDFS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -272,6 +277,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hint
 	subdir = hint
+[submodule "hmclearn"]
+	path = hmclearn
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/hmclearn
+	subdir = hmclearn
 [submodule "imaginarycss"]
 	path = imaginarycss
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -282,6 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kofdata
 	subdir = kofdata
+[submodule "localICE"]
+	path = localICE
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/localICE
+	subdir = localICE
 [submodule "mathml"]
 	path = mathml
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -397,6 +412,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/thankr
 	subdir = thankr
+[submodule "tidyfit"]
+	path = tidyfit
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tidyfit
+	subdir = tidyfit
 [submodule "tinyVAST"]
 	path = tinyVAST
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
