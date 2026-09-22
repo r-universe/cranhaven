@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MapGAM
 	subdir = MapGAM
-[submodule "MorphSim"]
-	path = MorphSim
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MorphSim
-	subdir = MorphSim
 [submodule "NetMix"]
 	path = NetMix
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
