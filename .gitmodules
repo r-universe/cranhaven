@@ -187,6 +187,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/combcoint
 	subdir = combcoint
+[submodule "comorbidPGS"]
+	path = comorbidPGS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/comorbidPGS
+	subdir = comorbidPGS
 [submodule "competitiontoolbox"]
 	path = competitiontoolbox
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
