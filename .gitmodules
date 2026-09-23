@@ -57,11 +57,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GVARX
 	subdir = GVARX
-[submodule "HDBRR"]
-	path = HDBRR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HDBRR
-	subdir = HDBRR
 [submodule "HDclust"]
 	path = HDclust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,11 +302,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mixedMem
 	subdir = mixedMem
-[submodule "mwcsr"]
-	path = mwcsr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mwcsr
-	subdir = mwcsr
 [submodule "namedropR"]
 	path = namedropR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
