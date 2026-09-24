@@ -127,6 +127,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RPresto
 	subdir = RPresto
+[submodule "ThomasJeffersonUniv"]
+	path = ThomasJeffersonUniv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ThomasJeffersonUniv
+	subdir = ThomasJeffersonUniv
 [submodule "adass"]
 	path = adass
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
