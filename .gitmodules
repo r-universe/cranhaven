@@ -27,11 +27,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Evomorph
 	subdir = Evomorph
-[submodule "ExactTree"]
-	path = ExactTree
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ExactTree
-	subdir = ExactTree
 [submodule "FMP"]
 	path = FMP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
