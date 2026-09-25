@@ -117,11 +117,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/adass
 	subdir = adass
-[submodule "adbi"]
-	path = adbi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/adbi
-	subdir = adbi
 [submodule "agghoo"]
 	path = agghoo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
