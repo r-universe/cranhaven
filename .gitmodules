@@ -32,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ExactTree
 	subdir = ExactTree
-[submodule "FAfA"]
-	path = FAfA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FAfA
-	subdir = FAfA
 [submodule "FMP"]
 	path = FMP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -52,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GPSeqClus
 	subdir = GPSeqClus
-[submodule "GVARX"]
-	path = GVARX
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GVARX
-	subdir = GVARX
 [submodule "HDclust"]
 	path = HDclust
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,11 +82,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NlinTS
 	subdir = NlinTS
-[submodule "NonlinearTSA"]
-	path = NonlinearTSA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NonlinearTSA
-	subdir = NonlinearTSA
 [submodule "PNDSIBGE"]
 	path = PNDSIBGE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -167,11 +152,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/behaviorchange
 	subdir = behaviorchange
-[submodule "bigtabulate"]
-	path = bigtabulate
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bigtabulate
-	subdir = bigtabulate
 [submodule "birp"]
 	path = birp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -187,11 +167,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cognitoR
 	subdir = cognitoR
-[submodule "combcoint"]
-	path = combcoint
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/combcoint
-	subdir = combcoint
 [submodule "comorbidPGS"]
 	path = comorbidPGS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,11 +387,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidyfit
 	subdir = tidyfit
-[submodule "tsDyn"]
-	path = tsDyn
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tsDyn
-	subdir = tsDyn
 [submodule "ufs"]
 	path = ufs
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
