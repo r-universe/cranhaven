@@ -112,41 +112,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ThomasJeffersonUniv
 	subdir = ThomasJeffersonUniv
-[submodule "adass"]
-	path = adass
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/adass
-	subdir = adass
 [submodule "agghoo"]
 	path = agghoo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/agghoo
 	subdir = agghoo
-[submodule "almanac"]
-	path = almanac
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/almanac
-	subdir = almanac
 [submodule "autotesteR"]
 	path = autotesteR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autotesteR
 	subdir = autotesteR
-[submodule "baRulho"]
-	path = baRulho
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/baRulho
-	subdir = baRulho
 [submodule "behaviorchange"]
 	path = behaviorchange
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/behaviorchange
 	subdir = behaviorchange
-[submodule "birp"]
-	path = birp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/birp
-	subdir = birp
 [submodule "clampSeg"]
 	path = clampSeg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/optiSel
 	subdir = optiSel
-[submodule "phonfieldwork"]
-	path = phonfieldwork
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/phonfieldwork
-	subdir = phonfieldwork
 [submodule "pipr"]
 	path = pipr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -307,26 +282,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/polite
 	subdir = polite
-[submodule "pulsar"]
-	path = pulsar
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pulsar
-	subdir = pulsar
-[submodule "rang"]
-	path = rang
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rang
-	subdir = rang
 [submodule "rglobi"]
 	path = rglobi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rglobi
 	subdir = rglobi
-[submodule "rock"]
-	path = rock
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rock
-	subdir = rock
 [submodule "rolog"]
 	path = rolog
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rtika
 	subdir = rtika
-[submodule "rtreeoflife"]
-	path = rtreeoflife
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rtreeoflife
-	subdir = rtreeoflife
 [submodule "scITD"]
 	path = scITD
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,21 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/scryr
 	subdir = scryr
-[submodule "sfhelper"]
-	path = sfhelper
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/sfhelper
-	subdir = sfhelper
 [submodule "simgof"]
 	path = simgof
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/simgof
 	subdir = simgof
-[submodule "smallsets"]
-	path = smallsets
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/smallsets
-	subdir = smallsets
 [submodule "thankr"]
 	path = thankr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
