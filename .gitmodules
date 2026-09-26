@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "BioUtils"]
-	path = BioUtils
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BioUtils
-	subdir = BioUtils
 [submodule "CEC"]
 	path = CEC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,16 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rolog
 	subdir = rolog
-[submodule "rtika"]
-	path = rtika
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rtika
-	subdir = rtika
-[submodule "scITD"]
-	path = scITD
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/scITD
-	subdir = scITD
 [submodule "scryr"]
 	path = scryr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
