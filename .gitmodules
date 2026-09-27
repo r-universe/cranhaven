@@ -392,6 +392,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/simgof
 	subdir = simgof
+[submodule "surveycore"]
+	path = surveycore
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/surveycore
+	subdir = surveycore
+[submodule "surveytidy"]
+	path = surveytidy
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/surveytidy
+	subdir = surveytidy
 [submodule "thankr"]
 	path = thankr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
