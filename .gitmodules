@@ -127,11 +127,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/agghoo
 	subdir = agghoo
-[submodule "autotesteR"]
-	path = autotesteR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/autotesteR
-	subdir = autotesteR
 [submodule "bunsen"]
 	path = bunsen
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -317,6 +312,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/optiSel
 	subdir = optiSel
+[submodule "permRand"]
+	path = permRand
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/permRand
+	subdir = permRand
 [submodule "polite"]
 	path = polite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
