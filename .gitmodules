@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RPatternJoin
 	subdir = RPatternJoin
-[submodule "RPresto"]
-	path = RPresto
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RPresto
-	subdir = RPresto
 [submodule "ThomasJeffersonUniv"]
 	path = ThomasJeffersonUniv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/autotesteR
 	subdir = autotesteR
-[submodule "behaviorchange"]
-	path = behaviorchange
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/behaviorchange
-	subdir = behaviorchange
 [submodule "bunsen"]
 	path = bunsen
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,11 +402,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidyfit
 	subdir = tidyfit
-[submodule "ufs"]
-	path = ufs
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ufs
-	subdir = ufs
 [submodule "vcpen"]
 	path = vcpen
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
