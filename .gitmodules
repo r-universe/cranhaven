@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EEAaq
 	subdir = EEAaq
-[submodule "EMMLi"]
-	path = EMMLi
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EMMLi
-	subdir = EMMLi
 [submodule "Evomorph"]
 	path = Evomorph
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -322,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/optiSel
 	subdir = optiSel
-[submodule "pipr"]
-	path = pipr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pipr
-	subdir = pipr
 [submodule "polite"]
 	path = polite
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
