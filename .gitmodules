@@ -197,11 +197,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/extrasteps
 	subdir = extrasteps
-[submodule "facilityepimath"]
-	path = facilityepimath
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/facilityepimath
-	subdir = facilityepimath
 [submodule "filibustr"]
 	path = filibustr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -332,11 +327,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pould
 	subdir = pould
-[submodule "pwrss"]
-	path = pwrss
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pwrss
-	subdir = pwrss
 [submodule "querychat"]
 	path = querychat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
