@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RLeafAngle
 	subdir = RLeafAngle
-[submodule "RPatternJoin"]
-	path = RPatternJoin
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RPatternJoin
-	subdir = RPatternJoin
 [submodule "ThomasJeffersonUniv"]
 	path = ThomasJeffersonUniv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,6 +377,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/welo
 	subdir = welo
+[submodule "whep"]
+	path = whep
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/whep
+	subdir = whep
 [submodule "zenstats"]
 	path = zenstats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
