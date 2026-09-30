@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CausalMBSTS
 	subdir = CausalMBSTS
-[submodule "EEAaq"]
-	path = EEAaq
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EEAaq
-	subdir = EEAaq
 [submodule "Evomorph"]
 	path = Evomorph
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -232,11 +227,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/haplo.stats
 	subdir = haplo.stats
-[submodule "harmonydata"]
-	path = harmonydata
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/harmonydata
-	subdir = harmonydata
 [submodule "hint"]
 	path = hint
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
