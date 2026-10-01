@@ -192,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/extrasteps
 	subdir = extrasteps
-[submodule "filibustr"]
-	path = filibustr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/filibustr
-	subdir = filibustr
 [submodule "fpop"]
 	path = fpop
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -337,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rolog
 	subdir = rolog
-[submodule "scryr"]
-	path = scryr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/scryr
-	subdir = scryr
 [submodule "shinyreprex"]
 	path = shinyreprex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
