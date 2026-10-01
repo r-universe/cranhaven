@@ -117,6 +117,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/agghoo
 	subdir = agghoo
+[submodule "bapred"]
+	path = bapred
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bapred
+	subdir = bapred
 [submodule "bunsen"]
 	path = bunsen
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/fpop
 	subdir = fpop
+[submodule "fuzzyRankTests"]
+	path = fuzzyRankTests
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fuzzyRankTests
+	subdir = fuzzyRankTests
 [submodule "gamlss.mx"]
 	path = gamlss.mx
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -277,6 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mixedMem
 	subdir = mixedMem
+[submodule "mombf"]
+	path = mombf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mombf
+	subdir = mombf
 [submodule "namedropR"]
 	path = namedropR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -312,21 +327,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/pould
 	subdir = pould
-[submodule "querychat"]
-	path = querychat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/querychat
-	subdir = querychat
 [submodule "rglobi"]
 	path = rglobi
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rglobi
 	subdir = rglobi
-[submodule "rjd3production"]
-	path = rjd3production
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rjd3production
-	subdir = rjd3production
 [submodule "rolog"]
 	path = rolog
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -377,11 +382,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/welo
 	subdir = welo
-[submodule "whep"]
-	path = whep
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/whep
-	subdir = whep
 [submodule "zenstats"]
 	path = zenstats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
