@@ -112,6 +112,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ThomasJeffersonUniv
 	subdir = ThomasJeffersonUniv
+[submodule "aMNLFA"]
+	path = aMNLFA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/aMNLFA
+	subdir = aMNLFA
 [submodule "agghoo"]
 	path = agghoo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
