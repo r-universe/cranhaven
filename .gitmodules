@@ -162,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cpp11qpdf
 	subdir = cpp11qpdf
+[submodule "dawaR"]
+	path = dawaR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/dawaR
+	subdir = dawaR
 [submodule "defm"]
 	path = defm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,11 +267,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kofdata
 	subdir = kofdata
-[submodule "koma"]
-	path = koma
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/koma
-	subdir = koma
 [submodule "localICE"]
 	path = localICE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
