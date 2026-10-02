@@ -332,11 +332,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rglobi
 	subdir = rglobi
-[submodule "rolog"]
-	path = rolog
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/rolog
-	subdir = rolog
 [submodule "shinyreprex"]
 	path = shinyreprex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
