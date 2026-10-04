@@ -82,6 +82,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/NlinTS
 	subdir = NlinTS
+[submodule "OpenSpecy"]
+	path = OpenSpecy
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/OpenSpecy
+	subdir = OpenSpecy
 [submodule "PNDSIBGE"]
 	path = PNDSIBGE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
