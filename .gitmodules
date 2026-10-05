@@ -17,11 +17,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CausalMBSTS
 	subdir = CausalMBSTS
-[submodule "Evomorph"]
-	path = Evomorph
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Evomorph
-	subdir = Evomorph
 [submodule "FMP"]
 	path = FMP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -42,16 +37,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HDclust
 	subdir = HDclust
-[submodule "HRTnomaly"]
-	path = HRTnomaly
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HRTnomaly
-	subdir = HRTnomaly
 [submodule "HydroMe"]
 	path = HydroMe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/HydroMe
 	subdir = HydroMe
+[submodule "ISCA"]
+	path = ISCA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ISCA
+	subdir = ISCA
 [submodule "LLM"]
 	path = LLM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -132,6 +127,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bapred
 	subdir = bapred
+[submodule "bcRP"]
+	path = bcRP
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/bcRP
+	subdir = bcRP
 [submodule "bunsen"]
 	path = bunsen
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -222,11 +222,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gdalcubes
 	subdir = gdalcubes
-[submodule "grade"]
-	path = grade
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/grade
-	subdir = grade
 [submodule "growth"]
 	path = growth
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
