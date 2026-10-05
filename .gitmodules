@@ -142,11 +142,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clampSeg
 	subdir = clampSeg
-[submodule "cognitoR"]
-	path = cognitoR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cognitoR
-	subdir = cognitoR
 [submodule "comorbidPGS"]
 	path = comorbidPGS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -302,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/namedropR
 	subdir = namedropR
-[submodule "noctua"]
-	path = noctua
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/noctua
-	subdir = noctua
 [submodule "optiSel"]
 	path = optiSel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,8 +372,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/zenstats
 	subdir = zenstats
-[submodule "zoomGroupStats"]
-	path = zoomGroupStats
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/zoomGroupStats
-	subdir = zoomGroupStats
