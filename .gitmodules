@@ -22,16 +22,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CausalMBSTS
 	subdir = CausalMBSTS
+[submodule "EZFragility"]
+	path = EZFragility
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EZFragility
+	subdir = EZFragility
 [submodule "FMP"]
 	path = FMP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/FMP
 	subdir = FMP
-[submodule "GIMMEgVAR"]
-	path = GIMMEgVAR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/GIMMEgVAR
-	subdir = GIMMEgVAR
 [submodule "GPSeqClus"]
 	path = GPSeqClus
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,11 +217,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gdalcubes
 	subdir = gdalcubes
-[submodule "haplo.stats"]
-	path = haplo.stats
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/haplo.stats
-	subdir = haplo.stats
 [submodule "hint"]
 	path = hint
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
