@@ -97,6 +97,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RAFS
 	subdir = RAFS
+[submodule "RegDDM"]
+	path = RegDDM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RegDDM
+	subdir = RegDDM
 [submodule "ThomasJeffersonUniv"]
 	path = ThomasJeffersonUniv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -242,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mombf
 	subdir = mombf
+[submodule "ngme2"]
+	path = ngme2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ngme2
+	subdir = ngme2
 [submodule "optiSel"]
 	path = optiSel
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
