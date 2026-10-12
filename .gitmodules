@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
-[submodule "AV1R"]
-	path = AV1R
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/AV1R
-	subdir = AV1R
 [submodule "BIGDAWG"]
 	path = BIGDAWG
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
