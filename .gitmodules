@@ -437,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cope
 	subdir = cope
-[submodule "cpp11qpdf"]
-	path = cpp11qpdf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/cpp11qpdf
-	subdir = cpp11qpdf
 [submodule "crisp"]
 	path = crisp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
