@@ -607,6 +607,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kriens
 	subdir = kriens
+[submodule "later2"]
+	path = later2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/later2
+	subdir = later2
 [submodule "lifx"]
 	path = lifx
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -707,11 +712,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/polite
 	subdir = polite
-[submodule "postlink"]
-	path = postlink
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/postlink
-	subdir = postlink
 [submodule "pould"]
 	path = pould
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -817,11 +817,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/varband
 	subdir = varband
-[submodule "vcpen"]
-	path = vcpen
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/vcpen
-	subdir = vcpen
 [submodule "vietnamcode"]
 	path = vietnamcode
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
