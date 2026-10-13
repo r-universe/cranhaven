@@ -317,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Relectoral
 	subdir = Relectoral
-[submodule "SDCNway"]
-	path = SDCNway
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SDCNway
-	subdir = SDCNway
 [submodule "SSM"]
 	path = SSM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
