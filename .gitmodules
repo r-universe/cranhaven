@@ -467,11 +467,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/drda
 	subdir = drda
-[submodule "dsdp"]
-	path = dsdp
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dsdp
-	subdir = dsdp
 [submodule "dtGAP"]
 	path = dtGAP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
