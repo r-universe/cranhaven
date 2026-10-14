@@ -677,11 +677,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nbconvertR
 	subdir = nbconvertR
-[submodule "ngme2"]
-	path = ngme2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ngme2
-	subdir = ngme2
 [submodule "ocp"]
 	path = ocp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
