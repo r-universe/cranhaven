@@ -272,11 +272,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ParetoPosStable
 	subdir = ParetoPosStable
-[submodule "PhytoIn"]
-	path = PhytoIn
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PhytoIn
-	subdir = PhytoIn
 [submodule "PolyPatEx"]
 	path = PolyPatEx
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -647,6 +642,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mathml
 	subdir = mathml
+[submodule "mcmcderive"]
+	path = mcmcderive
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mcmcderive
+	subdir = mcmcderive
 [submodule "metaEnsembleR"]
 	path = metaEnsembleR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
