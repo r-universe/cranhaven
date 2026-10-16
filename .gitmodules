@@ -107,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GWASbyCluster
 	subdir = GWASbyCluster
-[submodule "HDclust"]
-	path = HDclust
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/HDclust
-	subdir = HDclust
 [submodule "HydroMe"]
 	path = HydroMe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -197,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MixSAL
 	subdir = MixSAL
-[submodule "NetMix"]
-	path = NetMix
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NetMix
-	subdir = NetMix
 [submodule "NlinTS"]
 	path = NlinTS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -442,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dawaR
 	subdir = dawaR
-[submodule "defm"]
-	path = defm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/defm
-	subdir = defm
 [submodule "dineq"]
 	path = dineq
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -552,11 +537,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hurricaneexposure
 	subdir = hurricaneexposure
-[submodule "imaginarycss"]
-	path = imaginarycss
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/imaginarycss
-	subdir = imaginarycss
 [submodule "incidental"]
 	path = incidental
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
