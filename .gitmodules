@@ -797,6 +797,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tidyfit
 	subdir = tidyfit
+[submodule "trafficCAR"]
+	path = trafficCAR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/trafficCAR
+	subdir = trafficCAR
 [submodule "unitedR"]
 	path = unitedR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
