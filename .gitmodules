@@ -472,11 +472,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/envoutliers
 	subdir = envoutliers
-[submodule "extrasteps"]
-	path = extrasteps
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/extrasteps
-	subdir = extrasteps
 [submodule "fermicatsR"]
 	path = fermicatsR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -677,11 +672,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/plotprotein
 	subdir = plotprotein
-[submodule "polite"]
-	path = polite
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/polite
-	subdir = polite
 [submodule "pould"]
 	path = pould
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -812,8 +802,3 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/wtest
 	subdir = wtest
-[submodule "zenstats"]
-	path = zenstats
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/zenstats
-	subdir = zenstats
