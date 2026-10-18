@@ -182,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Mangrove
 	subdir = Mangrove
-[submodule "MapGAM"]
-	path = MapGAM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MapGAM
-	subdir = MapGAM
 [submodule "MaxentVariableSelection"]
 	path = MaxentVariableSelection
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -442,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dineq
 	subdir = dineq
-[submodule "diversityForest"]
-	path = diversityForest
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/diversityForest
-	subdir = diversityForest
 [submodule "drda"]
 	path = drda
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -727,11 +717,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/signalHsmm
 	subdir = signalHsmm
-[submodule "simgof"]
-	path = simgof
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/simgof
-	subdir = simgof
 [submodule "sodavis"]
 	path = sodavis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
