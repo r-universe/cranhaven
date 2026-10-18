@@ -202,6 +202,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/OBMbpkg
 	subdir = OBMbpkg
+[submodule "OmopViewer"]
+	path = OmopViewer
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/OmopViewer
+	subdir = OmopViewer
 [submodule "PAS"]
 	path = PAS
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -527,6 +532,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hurricaneexposure
 	subdir = hurricaneexposure
+[submodule "iglm"]
+	path = iglm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iglm
+	subdir = iglm
 [submodule "incidental"]
 	path = incidental
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
