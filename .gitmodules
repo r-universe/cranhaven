@@ -212,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PAS
 	subdir = PAS
-[submodule "PNDSIBGE"]
-	path = PNDSIBGE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/PNDSIBGE
-	subdir = PNDSIBGE
 [submodule "POCRE"]
 	path = POCRE
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -487,11 +482,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forestr
 	subdir = forestr
-[submodule "fpop"]
-	path = fpop
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fpop
-	subdir = fpop
 [submodule "fuzzyRankTests"]
 	path = fuzzyRankTests
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
