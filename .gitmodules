@@ -77,6 +77,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EZFragility
 	subdir = EZFragility
+[submodule "EconCausal"]
+	path = EconCausal
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/EconCausal
+	subdir = EconCausal
 [submodule "EnsCat"]
 	path = EnsCat
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -292,6 +297,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Rdice
 	subdir = Rdice
+[submodule "RecAssoRules"]
+	path = RecAssoRules
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RecAssoRules
+	subdir = RecAssoRules
 [submodule "RegDDM"]
 	path = RegDDM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -617,6 +627,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mcmcderive
 	subdir = mcmcderive
+[submodule "mdbx"]
+	path = mdbx
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mdbx
+	subdir = mdbx
 [submodule "metaEnsembleR"]
 	path = metaEnsembleR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -767,6 +782,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/unitedR
 	subdir = unitedR
+[submodule "uqsa"]
+	path = uqsa
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/uqsa
+	subdir = uqsa
 [submodule "varband"]
 	path = varband
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
