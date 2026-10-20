@@ -362,11 +362,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/affinitymatrix
 	subdir = affinitymatrix
-[submodule "agghoo"]
-	path = agghoo
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/agghoo
-	subdir = agghoo
 [submodule "aimPlot"]
 	path = aimPlot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -452,11 +447,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/drda
 	subdir = drda
-[submodule "dtGAP"]
-	path = dtGAP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dtGAP
-	subdir = dtGAP
 [submodule "dtp"]
 	path = dtp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
