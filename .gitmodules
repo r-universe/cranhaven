@@ -87,11 +87,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EnsCat
 	subdir = EnsCat
-[submodule "FMP"]
-	path = FMP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/FMP
-	subdir = FMP
 [submodule "Fahrmeir"]
 	path = Fahrmeir
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
