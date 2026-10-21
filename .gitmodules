@@ -32,11 +32,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BayesTreePrior
 	subdir = BayesTreePrior
-[submodule "CEC"]
-	path = CEC
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/CEC
-	subdir = CEC
 [submodule "CIplot"]
 	path = CIplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -142,11 +137,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MASSTIMATE
 	subdir = MASSTIMATE
-[submodule "MDFS"]
-	path = MDFS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/MDFS
-	subdir = MDFS
 [submodule "MDimNormn"]
 	path = MDimNormn
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,11 +182,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MixSAL
 	subdir = MixSAL
-[submodule "NlinTS"]
-	path = NlinTS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/NlinTS
-	subdir = NlinTS
 [submodule "OBMbpkg"]
 	path = OBMbpkg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,11 +247,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/PolyPatEx
 	subdir = PolyPatEx
-[submodule "RAFS"]
-	path = RAFS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RAFS
-	subdir = RAFS
 [submodule "RHPCBenchmark"]
 	path = RHPCBenchmark
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -487,21 +467,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/gclm
 	subdir = gclm
-[submodule "gdalcubes"]
-	path = gdalcubes
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/gdalcubes
-	subdir = gdalcubes
 [submodule "geesmv"]
 	path = geesmv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geesmv
 	subdir = geesmv
-[submodule "hint"]
-	path = hint
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hint
-	subdir = hint
 [submodule "hmclearn"]
 	path = hmclearn
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
