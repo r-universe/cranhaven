@@ -292,6 +292,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SparseMDC
 	subdir = SparseMDC
+[submodule "SpatialExtremes"]
+	path = SpatialExtremes
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SpatialExtremes
+	subdir = SpatialExtremes
 [submodule "Stat2Data"]
 	path = Stat2Data
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -437,6 +442,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/envoutliers
 	subdir = envoutliers
+[submodule "evbsreg"]
+	path = evbsreg
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/evbsreg
+	subdir = evbsreg
 [submodule "fermicatsR"]
 	path = fermicatsR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -712,6 +722,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tabulog
 	subdir = tabulog
+[submodule "tailDepFun"]
+	path = tailDepFun
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/tailDepFun
+	subdir = tailDepFun
 [submodule "tfaddons"]
 	path = tfaddons
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
