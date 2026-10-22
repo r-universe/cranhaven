@@ -387,11 +387,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/comorbidPGS
 	subdir = comorbidPGS
-[submodule "competitiontoolbox"]
-	path = competitiontoolbox
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/competitiontoolbox
-	subdir = competitiontoolbox
 [submodule "constructive"]
 	path = constructive
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -577,11 +572,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/markdownInput
 	subdir = markdownInput
-[submodule "mathml"]
-	path = mathml
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mathml
-	subdir = mathml
 [submodule "mcmcderive"]
 	path = mcmcderive
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -622,11 +612,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ocp
 	subdir = ocp
-[submodule "optiSel"]
-	path = optiSel
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/optiSel
-	subdir = optiSel
 [submodule "permRand"]
 	path = permRand
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
