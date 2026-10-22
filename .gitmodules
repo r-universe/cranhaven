@@ -387,11 +387,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/comorbidPGS
 	subdir = comorbidPGS
-[submodule "constructive"]
-	path = constructive
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/constructive
-	subdir = constructive
 [submodule "cope"]
 	path = cope
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
