@@ -487,6 +487,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hurricaneexposure
 	subdir = hurricaneexposure
+[submodule "iadf"]
+	path = iadf
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iadf
+	subdir = iadf
 [submodule "iglm"]
 	path = iglm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -637,6 +642,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/preference
 	subdir = preference
+[submodule "querychat"]
+	path = querychat
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/querychat
+	subdir = querychat
 [submodule "recombinator"]
 	path = recombinator
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -727,6 +737,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/trafficCAR
 	subdir = trafficCAR
+[submodule "ulex"]
+	path = ulex
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ulex
+	subdir = ulex
 [submodule "unitedR"]
 	path = unitedR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
