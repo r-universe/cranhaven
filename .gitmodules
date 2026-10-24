@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/KRMM
 	subdir = KRMM
-[submodule "LLM"]
-	path = LLM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LLM
-	subdir = LLM
 [submodule "LZeroSpikeInference"]
 	path = LZeroSpikeInference
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -477,11 +472,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geesmv
 	subdir = geesmv
-[submodule "hmclearn"]
-	path = hmclearn
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/hmclearn
-	subdir = hmclearn
 [submodule "hurricaneexposure"]
 	path = hurricaneexposure
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -547,11 +537,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/lifx
 	subdir = lifx
-[submodule "localICE"]
-	path = localICE
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/localICE
-	subdir = localICE
 [submodule "loewesadditivity"]
 	path = loewesadditivity
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -722,11 +707,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tfaddons
 	subdir = tfaddons
-[submodule "tidyfit"]
-	path = tidyfit
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tidyfit
-	subdir = tidyfit
 [submodule "trafficCAR"]
 	path = trafficCAR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
