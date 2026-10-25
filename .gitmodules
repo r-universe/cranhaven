@@ -677,6 +677,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stepPenal
 	subdir = stepPenal
+[submodule "streamConnect"]
+	path = streamConnect
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/streamConnect
+	subdir = streamConnect
 [submodule "surveycore"]
 	path = surveycore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
