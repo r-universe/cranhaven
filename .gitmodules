@@ -437,11 +437,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/envoutliers
 	subdir = envoutliers
-[submodule "evbsreg"]
-	path = evbsreg
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/evbsreg
-	subdir = evbsreg
 [submodule "fermicatsR"]
 	path = fermicatsR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -477,11 +472,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geesmv
 	subdir = geesmv
-[submodule "genpca"]
-	path = genpca
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/genpca
-	subdir = genpca
 [submodule "hurricaneexposure"]
 	path = hurricaneexposure
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
