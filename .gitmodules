@@ -392,6 +392,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cope
 	subdir = cope
+[submodule "couplr"]
+	path = couplr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/couplr
+	subdir = couplr
 [submodule "crisp"]
 	path = crisp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -472,6 +477,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geesmv
 	subdir = geesmv
+[submodule "genpca"]
+	path = genpca
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/genpca
+	subdir = genpca
 [submodule "hurricaneexposure"]
 	path = hurricaneexposure
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -682,6 +692,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/streamConnect
 	subdir = streamConnect
+[submodule "stxplore"]
+	path = stxplore
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/stxplore
+	subdir = stxplore
 [submodule "surveycore"]
 	path = surveycore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
