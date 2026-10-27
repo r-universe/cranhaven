@@ -622,11 +622,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/preference
 	subdir = preference
-[submodule "querychat"]
-	path = querychat
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/querychat
-	subdir = querychat
 [submodule "recombinator"]
 	path = recombinator
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
