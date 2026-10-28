@@ -352,6 +352,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/arenar
 	subdir = arenar
+[submodule "banffIT"]
+	path = banffIT
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/banffIT
+	subdir = banffIT
 [submodule "bapred"]
 	path = bapred
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -652,11 +657,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sensiPhy
 	subdir = sensiPhy
-[submodule "shinyreprex"]
-	path = shinyreprex
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/shinyreprex
-	subdir = shinyreprex
 [submodule "signalHsmm"]
 	path = signalHsmm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
