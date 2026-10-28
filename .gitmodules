@@ -107,6 +107,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GWASbyCluster
 	subdir = GWASbyCluster
+[submodule "GiniDecompLY"]
+	path = GiniDecompLY
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GiniDecompLY
+	subdir = GiniDecompLY
 [submodule "HydroMe"]
 	path = HydroMe
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,11 +387,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/clinsig
 	subdir = clinsig
-[submodule "comorbidPGS"]
-	path = comorbidPGS
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/comorbidPGS
-	subdir = comorbidPGS
 [submodule "cope"]
 	path = cope
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
