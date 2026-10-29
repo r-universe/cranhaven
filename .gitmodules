@@ -87,6 +87,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/EnsCat
 	subdir = EnsCat
+[submodule "Epoch"]
+	path = Epoch
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Epoch
+	subdir = Epoch
 [submodule "Fahrmeir"]
 	path = Fahrmeir
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,6 +407,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/crisp
 	subdir = crisp
+[submodule "cthist"]
+	path = cthist
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/cthist
+	subdir = cthist
 [submodule "dawaR"]
 	path = dawaR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -667,11 +677,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stepPenal
 	subdir = stepPenal
-[submodule "streamConnect"]
-	path = streamConnect
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/streamConnect
-	subdir = streamConnect
 [submodule "stxplore"]
 	path = stxplore
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
