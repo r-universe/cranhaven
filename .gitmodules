@@ -322,11 +322,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TSrepr
 	subdir = TSrepr
-[submodule "ThomasJeffersonUniv"]
-	path = ThomasJeffersonUniv
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ThomasJeffersonUniv
-	subdir = ThomasJeffersonUniv
 [submodule "WeibullFit"]
 	path = WeibullFit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
