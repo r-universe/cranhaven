@@ -322,11 +322,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TMDb
 	subdir = TMDb
+[submodule "TRES"]
+	path = TRES
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TRES
+	subdir = TRES
 [submodule "TSrepr"]
 	path = TSrepr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TSrepr
 	subdir = TSrepr
+[submodule "TensorClustering"]
+	path = TensorClustering
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/TensorClustering
+	subdir = TensorClustering
 [submodule "WeibullFit"]
 	path = WeibullFit
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -672,6 +682,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sodavis
 	subdir = sodavis
+[submodule "spinebil"]
+	path = spinebil
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/spinebil
+	subdir = spinebil
 [submodule "stepPenal"]
 	path = stepPenal
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
