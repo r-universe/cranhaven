@@ -582,11 +582,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ocp
 	subdir = ocp
-[submodule "permRand"]
-	path = permRand
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/permRand
-	subdir = permRand
 [submodule "plotluck"]
 	path = plotluck
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -597,6 +592,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/plotprotein
 	subdir = plotprotein
+[submodule "postshock"]
+	path = postshock
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/postshock
+	subdir = postshock
 [submodule "preference"]
 	path = preference
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -672,6 +672,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tailDepFun
 	subdir = tailDepFun
+[submodule "taxify"]
+	path = taxify
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/taxify
+	subdir = taxify
 [submodule "tfaddons"]
 	path = tfaddons
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
