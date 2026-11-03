@@ -2,11 +2,21 @@
 	path = .registry
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = HEAD
+[submodule "AmpGram"]
+	path = AmpGram
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AmpGram
+	subdir = AmpGram
 [submodule "AmpliconDuo"]
 	path = AmpliconDuo
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AmpliconDuo
 	subdir = AmpliconDuo
+[submodule "AmyloGram"]
+	path = AmyloGram
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/AmyloGram
+	subdir = AmyloGram
 [submodule "AntAngioCOOL"]
 	path = AntAngioCOOL
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -37,6 +47,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CIplot
 	subdir = CIplot
+[submodule "CancerGram"]
+	path = CancerGram
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CancerGram
+	subdir = CancerGram
 [submodule "CompR"]
 	path = CompR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -87,6 +102,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Fahrmeir
 	subdir = Fahrmeir
+[submodule "Fgmutils"]
+	path = Fgmutils
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/Fgmutils
+	subdir = Fgmutils
 [submodule "FourgameteP"]
 	path = FourgameteP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,6 +172,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MVR
 	subdir = MVR
+[submodule "MXM"]
+	path = MXM
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/MXM
+	subdir = MXM
 [submodule "Maeswrap"]
 	path = Maeswrap
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,6 +272,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RZigZag
 	subdir = RZigZag
+[submodule "RationalExp"]
+	path = RationalExp
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RationalExp
+	subdir = RationalExp
 [submodule "Rdice"]
 	path = Rdice
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RecAssoRules
 	subdir = RecAssoRules
+[submodule "RegCombin"]
+	path = RegCombin
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/RegCombin
+	subdir = RegCombin
 [submodule "RegDDM"]
 	path = RegDDM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -357,6 +392,16 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/bcRP
 	subdir = bcRP
+[submodule "biogram"]
+	path = biogram
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/biogram
+	subdir = biogram
+[submodule "blink"]
+	path = blink
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/blink
+	subdir = blink
 [submodule "calcUnique"]
 	path = calcUnique
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -402,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/dawaR
 	subdir = dawaR
+[submodule "diffpriv"]
+	path = diffpriv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/diffpriv
+	subdir = diffpriv
 [submodule "dineq"]
 	path = dineq
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -427,6 +477,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/envoutliers
 	subdir = envoutliers
+[submodule "fdq"]
+	path = fdq
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/fdq
+	subdir = fdq
 [submodule "fermicatsR"]
 	path = fermicatsR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -472,6 +527,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/hurricaneexposure
 	subdir = hurricaneexposure
+[submodule "iSTATS"]
+	path = iSTATS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iSTATS
+	subdir = iSTATS
 [submodule "iadf"]
 	path = iadf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -507,6 +567,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/kernelFactory
 	subdir = kernelFactory
+[submodule "klsh"]
+	path = klsh
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/klsh
+	subdir = klsh
 [submodule "kriens"]
 	path = kriens
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -582,6 +647,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ocp
 	subdir = ocp
+[submodule "osDesign"]
+	path = osDesign
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/osDesign
+	subdir = osDesign
 [submodule "plotluck"]
 	path = plotluck
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -597,6 +667,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/preference
 	subdir = preference
+[submodule "qrfactor"]
+	path = qrfactor
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/qrfactor
+	subdir = qrfactor
 [submodule "recombinator"]
 	path = recombinator
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
