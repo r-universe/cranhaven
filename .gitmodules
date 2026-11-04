@@ -382,11 +382,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/banffIT
 	subdir = banffIT
-[submodule "bapred"]
-	path = bapred
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bapred
-	subdir = bapred
 [submodule "bcRP"]
 	path = bcRP
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -497,11 +492,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/forestr
 	subdir = forestr
-[submodule "fuzzyRankTests"]
-	path = fuzzyRankTests
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/fuzzyRankTests
-	subdir = fuzzyRankTests
 [submodule "garray"]
 	path = garray
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -627,11 +617,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/metafuse
 	subdir = metafuse
-[submodule "mombf"]
-	path = mombf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mombf
-	subdir = mombf
 [submodule "multicmp"]
 	path = multicmp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
