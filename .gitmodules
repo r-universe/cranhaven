@@ -352,11 +352,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WeibullFit
 	subdir = WeibullFit
-[submodule "aMNLFA"]
-	path = aMNLFA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/aMNLFA
-	subdir = aMNLFA
 [submodule "affinitymatrix"]
 	path = affinitymatrix
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
