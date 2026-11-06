@@ -432,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cthist
 	subdir = cthist
-[submodule "dawaR"]
-	path = dawaR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dawaR
-	subdir = dawaR
 [submodule "diffpriv"]
 	path = diffpriv
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
