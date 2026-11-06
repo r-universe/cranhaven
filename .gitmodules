@@ -337,11 +337,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/TRES
 	subdir = TRES
-[submodule "TSrepr"]
-	path = TSrepr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/TSrepr
-	subdir = TSrepr
 [submodule "TensorClustering"]
 	path = TensorClustering
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -352,6 +347,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/WeibullFit
 	subdir = WeibullFit
+[submodule "adea"]
+	path = adea
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/adea
+	subdir = adea
 [submodule "affinitymatrix"]
 	path = affinitymatrix
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -512,11 +512,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iadf
 	subdir = iadf
-[submodule "iglm"]
-	path = iglm
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/iglm
-	subdir = iglm
 [submodule "incidental"]
 	path = incidental
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -652,6 +647,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/repfdr
 	subdir = repfdr
+[submodule "rladybugdb"]
+	path = rladybugdb
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rladybugdb
+	subdir = rladybugdb
 [submodule "rreg"]
 	path = rreg
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -687,6 +687,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/spinebil
 	subdir = spinebil
+[submodule "ss3sim"]
+	path = ss3sim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ss3sim
+	subdir = ss3sim
 [submodule "stepPenal"]
 	path = stepPenal
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
