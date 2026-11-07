@@ -752,6 +752,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/usportsR
 	subdir = usportsR
+[submodule "uuidx"]
+	path = uuidx
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/uuidx
+	subdir = uuidx
 [submodule "varband"]
 	path = varband
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
