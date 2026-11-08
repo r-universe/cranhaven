@@ -587,6 +587,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/metaEnsembleR
 	subdir = metaEnsembleR
+[submodule "metabodecon"]
+	path = metabodecon
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/metabodecon
+	subdir = metabodecon
 [submodule "metafuse"]
 	path = metafuse
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
