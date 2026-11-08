@@ -122,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GWASbyCluster
 	subdir = GWASbyCluster
+[submodule "GeoRange"]
+	path = GeoRange
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/GeoRange
+	subdir = GeoRange
 [submodule "GiniDecompLY"]
 	path = GiniDecompLY
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -512,6 +517,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/iadf
 	subdir = iadf
+[submodule "ibmAcousticR"]
+	path = ibmAcousticR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ibmAcousticR
+	subdir = ibmAcousticR
 [submodule "incidental"]
 	path = incidental
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -762,6 +772,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/varband
 	subdir = varband
+[submodule "velociraptr"]
+	path = velociraptr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/velociraptr
+	subdir = velociraptr
 [submodule "vietnamcode"]
 	path = vietnamcode
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
