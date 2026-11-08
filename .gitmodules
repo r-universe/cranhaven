@@ -392,6 +392,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/blink
 	subdir = blink
+[submodule "brfinance"]
+	path = brfinance
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/brfinance
+	subdir = brfinance
 [submodule "calcUnique"]
 	path = calcUnique
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
