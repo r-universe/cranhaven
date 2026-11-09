@@ -132,11 +132,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GiniDecompLY
 	subdir = GiniDecompLY
-[submodule "ISCA"]
-	path = ISCA
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ISCA
-	subdir = ISCA
 [submodule "KRMM"]
 	path = KRMM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -382,11 +377,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/banffIT
 	subdir = banffIT
-[submodule "bcRP"]
-	path = bcRP
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/bcRP
-	subdir = bcRP
 [submodule "biogram"]
 	path = biogram
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
