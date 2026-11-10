@@ -432,11 +432,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/diffpriv
 	subdir = diffpriv
-[submodule "dineq"]
-	path = dineq
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/dineq
-	subdir = dineq
 [submodule "dtp"]
 	path = dtp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
