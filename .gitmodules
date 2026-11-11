@@ -307,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SSM
 	subdir = SSM
+[submodule "SlideCNA"]
+	path = SlideCNA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SlideCNA
+	subdir = SlideCNA
 [submodule "SparseMDC"]
 	path = SparseMDC
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -502,6 +507,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ibmAcousticR
 	subdir = ibmAcousticR
+[submodule "iimi"]
+	path = iimi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/iimi
+	subdir = iimi
 [submodule "incidental"]
 	path = incidental
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -592,6 +602,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/metafuse
 	subdir = metafuse
+[submodule "mltools"]
+	path = mltools
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mltools
+	subdir = mltools
 [submodule "multicmp"]
 	path = multicmp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -627,11 +642,21 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/preference
 	subdir = preference
+[submodule "processpredictR"]
+	path = processpredictR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/processpredictR
+	subdir = processpredictR
 [submodule "qrfactor"]
 	path = qrfactor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/qrfactor
 	subdir = qrfactor
+[submodule "rMIDAS"]
+	path = rMIDAS
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rMIDAS
+	subdir = rMIDAS
 [submodule "recombinator"]
 	path = recombinator
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
