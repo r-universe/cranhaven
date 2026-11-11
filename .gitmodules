@@ -317,11 +317,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SpatialExtremes
 	subdir = SpatialExtremes
-[submodule "Stat2Data"]
-	path = Stat2Data
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Stat2Data
-	subdir = Stat2Data
 [submodule "StrainRanking"]
 	path = StrainRanking
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
