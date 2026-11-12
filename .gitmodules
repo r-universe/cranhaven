@@ -692,6 +692,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sensiPhy
 	subdir = sensiPhy
+[submodule "sgapi"]
+	path = sgapi
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/sgapi
+	subdir = sgapi
 [submodule "signalHsmm"]
 	path = signalHsmm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
