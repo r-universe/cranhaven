@@ -77,11 +77,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ERP
 	subdir = ERP
-[submodule "EZFragility"]
-	path = EZFragility
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EZFragility
-	subdir = EZFragility
 [submodule "EconCausal"]
 	path = EconCausal
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
