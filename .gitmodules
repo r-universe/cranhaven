@@ -382,11 +382,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/blink
 	subdir = blink
-[submodule "brfinance"]
-	path = brfinance
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/brfinance
-	subdir = brfinance
 [submodule "calcUnique"]
 	path = calcUnique
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -412,6 +407,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/cope
 	subdir = cope
+[submodule "corteza"]
+	path = corteza
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/corteza
+	subdir = corteza
 [submodule "crisp"]
 	path = crisp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -612,6 +612,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mltools
 	subdir = mltools
+[submodule "mplot"]
+	path = mplot
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mplot
+	subdir = mplot
 [submodule "multicmp"]
 	path = multicmp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -627,6 +632,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/nbconvertR
 	subdir = nbconvertR
+[submodule "nevada"]
+	path = nevada
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nevada
+	subdir = nevada
 [submodule "ocp"]
 	path = ocp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -687,6 +697,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/repfdr
 	subdir = repfdr
+[submodule "rgeomstats"]
+	path = rgeomstats
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rgeomstats
+	subdir = rgeomstats
 [submodule "rladybugdb"]
 	path = rladybugdb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
