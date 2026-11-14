@@ -447,6 +447,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/envoutliers
 	subdir = envoutliers
+[submodule "evolvability"]
+	path = evolvability
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/evolvability
+	subdir = evolvability
 [submodule "fdq"]
 	path = fdq
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -512,6 +517,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/incidental
 	subdir = incidental
+[submodule "inferference"]
+	path = inferference
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/inferference
+	subdir = inferference
 [submodule "ioanalysis"]
 	path = ioanalysis
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -607,6 +617,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/multicmp
 	subdir = multicmp
+[submodule "nadir"]
+	path = nadir
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/nadir
+	subdir = nadir
 [submodule "nbconvertR"]
 	path = nbconvertR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -622,6 +637,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/osDesign
 	subdir = osDesign
+[submodule "partR2"]
+	path = partR2
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/partR2
+	subdir = partR2
 [submodule "plotluck"]
 	path = plotluck
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -642,6 +662,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/processpredictR
 	subdir = processpredictR
+[submodule "ptm"]
+	path = ptm
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/ptm
+	subdir = ptm
 [submodule "qrfactor"]
 	path = qrfactor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
