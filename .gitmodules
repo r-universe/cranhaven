@@ -712,6 +712,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/sBIC
 	subdir = sBIC
+[submodule "saqgetr"]
+	path = saqgetr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/saqgetr
+	subdir = saqgetr
 [submodule "sdPrior"]
 	path = sdPrior
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
