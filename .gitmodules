@@ -287,11 +287,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RegCombin
 	subdir = RegCombin
-[submodule "RegDDM"]
-	path = RegDDM
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RegDDM
-	subdir = RegDDM
 [submodule "Relectoral"]
 	path = Relectoral
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
