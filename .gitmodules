@@ -57,6 +57,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/Maeswrap
 	subdir = Maeswrap
+[submodule "PGRdup"]
+	path = PGRdup
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PGRdup
+	subdir = PGRdup
 [submodule "RationalExp"]
 	path = RationalExp
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -192,6 +197,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/mltools
 	subdir = mltools
+[submodule "mmequiv"]
+	path = mmequiv
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mmequiv
+	subdir = mmequiv
 [submodule "mplot"]
 	path = mplot
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -237,6 +247,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rMIDAS
 	subdir = rMIDAS
+[submodule "rcDEA"]
+	path = rcDEA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rcDEA
+	subdir = rcDEA
 [submodule "rgeomstats"]
 	path = rgeomstats
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
