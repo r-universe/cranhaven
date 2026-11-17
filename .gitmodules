@@ -177,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/klsh
 	subdir = klsh
-[submodule "later2"]
-	path = later2
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/later2
-	subdir = later2
 [submodule "mcmcderive"]
 	path = mcmcderive
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
