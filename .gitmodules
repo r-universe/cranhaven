@@ -177,11 +177,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/klsh
 	subdir = klsh
-[submodule "mcmcderive"]
-	path = mcmcderive
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mcmcderive
-	subdir = mcmcderive
 [submodule "metabodecon"]
 	path = metabodecon
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
