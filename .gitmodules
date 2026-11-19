@@ -12,6 +12,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AmyloGram
 	subdir = AmyloGram
+[submodule "BET"]
+	path = BET
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BET
+	subdir = BET
 [submodule "ButtR"]
 	path = ButtR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -22,6 +27,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CancerGram
 	subdir = CancerGram
+[submodule "CopernicusMarine"]
+	path = CopernicusMarine
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CopernicusMarine
+	subdir = CopernicusMarine
 [submodule "EconCausal"]
 	path = EconCausal
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,6 +162,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/geostan
 	subdir = geostan
+[submodule "heterogeneouspeereffects"]
+	path = heterogeneouspeereffects
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/heterogeneouspeereffects
+	subdir = heterogeneouspeereffects
 [submodule "iadf"]
 	path = iadf
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
