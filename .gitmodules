@@ -297,11 +297,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/tailDepFun
 	subdir = tailDepFun
-[submodule "trafficCAR"]
-	path = trafficCAR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/trafficCAR
-	subdir = trafficCAR
 [submodule "ulex"]
 	path = ulex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
