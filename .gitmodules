@@ -17,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BET
 	subdir = BET
+[submodule "BioTrajectory"]
+	path = BioTrajectory
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BioTrajectory
+	subdir = BioTrajectory
 [submodule "ButtR"]
 	path = ButtR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
