@@ -17,6 +17,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BET
 	subdir = BET
+[submodule "BRETIGEA"]
+	path = BRETIGEA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/BRETIGEA
+	subdir = BRETIGEA
 [submodule "BioTrajectory"]
 	path = BioTrajectory
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -27,6 +32,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ButtR
 	subdir = ButtR
+[submodule "CIMEHR"]
+	path = CIMEHR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CIMEHR
+	subdir = CIMEHR
 [submodule "CancerGram"]
 	path = CancerGram
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -62,16 +72,36 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/GiniDecompLY
 	subdir = GiniDecompLY
+[submodule "KernelICA"]
+	path = KernelICA
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/KernelICA
+	subdir = KernelICA
+[submodule "LDAcoop"]
+	path = LDAcoop
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/LDAcoop
+	subdir = LDAcoop
 [submodule "MXM"]
 	path = MXM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/MXM
 	subdir = MXM
-[submodule "Maeswrap"]
-	path = Maeswrap
+[submodule "ManifoldOptim"]
+	path = ManifoldOptim
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/Maeswrap
-	subdir = Maeswrap
+	branch = package/ManifoldOptim
+	subdir = ManifoldOptim
+[submodule "OPSR"]
+	path = OPSR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/OPSR
+	subdir = OPSR
+[submodule "PAMpal"]
+	path = PAMpal
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/PAMpal
+	subdir = PAMpal
 [submodule "PGRdup"]
 	path = PGRdup
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -92,6 +122,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RegCombin
 	subdir = RegCombin
+[submodule "SimtablR"]
+	path = SimtablR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/SimtablR
+	subdir = SimtablR
 [submodule "SlideCNA"]
 	path = SlideCNA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -247,6 +282,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ptm
 	subdir = ptm
+[submodule "pvars"]
+	path = pvars
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/pvars
+	subdir = pvars
 [submodule "qrfactor"]
 	path = qrfactor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -257,6 +297,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rMIDAS
 	subdir = rMIDAS
+[submodule "rSDR"]
+	path = rSDR
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rSDR
+	subdir = rSDR
 [submodule "rcDEA"]
 	path = rcDEA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
