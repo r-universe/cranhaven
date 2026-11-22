@@ -282,11 +282,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ptm
 	subdir = ptm
-[submodule "pvars"]
-	path = pvars
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/pvars
-	subdir = pvars
 [submodule "qrfactor"]
 	path = qrfactor
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
