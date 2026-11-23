@@ -37,6 +37,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CancerGram
 	subdir = CancerGram
+[submodule "CoDaLoMic"]
+	path = CoDaLoMic
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/CoDaLoMic
+	subdir = CoDaLoMic
 [submodule "CopernicusMarine"]
 	path = CopernicusMarine
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -262,6 +267,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/processpredictR
 	subdir = processpredictR
+[submodule "psborrow"]
+	path = psborrow
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/psborrow
+	subdir = psborrow
 [submodule "ptm"]
 	path = ptm
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,6 +307,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rladybugdb
 	subdir = rladybugdb
+[submodule "saeHB.ZIB"]
+	path = saeHB.ZIB
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/saeHB.ZIB
+	subdir = saeHB.ZIB
 [submodule "saqgetr"]
 	path = saqgetr
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
