@@ -12,11 +12,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/AmyloGram
 	subdir = AmyloGram
-[submodule "BET"]
-	path = BET
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/BET
-	subdir = BET
 [submodule "BRETIGEA"]
 	path = BRETIGEA
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
