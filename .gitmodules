@@ -47,11 +47,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/CopernicusMarine
 	subdir = CopernicusMarine
-[submodule "EconCausal"]
-	path = EconCausal
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/EconCausal
-	subdir = EconCausal
 [submodule "Epoch"]
 	path = Epoch
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -112,11 +107,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/RationalExp
 	subdir = RationalExp
-[submodule "RecAssoRules"]
-	path = RecAssoRules
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/RecAssoRules
-	subdir = RecAssoRules
 [submodule "RegCombin"]
 	path = RegCombin
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -347,11 +337,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/ulex
 	subdir = ulex
-[submodule "uqsa"]
-	path = uqsa
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/uqsa
-	subdir = uqsa
 [submodule "usportsR"]
 	path = usportsR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
