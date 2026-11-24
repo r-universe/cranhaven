@@ -227,6 +227,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/metabodecon
 	subdir = metabodecon
+[submodule "mfrmr"]
+	path = mfrmr
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/mfrmr
+	subdir = mfrmr
 [submodule "mltools"]
 	path = mltools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
