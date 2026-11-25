@@ -122,11 +122,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/SlideCNA
 	subdir = SlideCNA
-[submodule "SpatialExtremes"]
-	path = SpatialExtremes
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/SpatialExtremes
-	subdir = SpatialExtremes
 [submodule "TRES"]
 	path = TRES
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,11 +337,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/stxplore
 	subdir = stxplore
-[submodule "tailDepFun"]
-	path = tailDepFun
+[submodule "textrecipes"]
+	path = textrecipes
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/tailDepFun
-	subdir = tailDepFun
+	branch = package/textrecipes
+	subdir = textrecipes
 [submodule "ulex"]
 	path = ulex
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
