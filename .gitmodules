@@ -72,11 +72,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/KernelICA
 	subdir = KernelICA
-[submodule "LDAcoop"]
-	path = LDAcoop
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/LDAcoop
-	subdir = LDAcoop
 [submodule "MXM"]
 	path = MXM
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -217,11 +212,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/metabodecon
 	subdir = metabodecon
-[submodule "mfrmr"]
-	path = mfrmr
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/mfrmr
-	subdir = mfrmr
 [submodule "mltools"]
 	path = mltools
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -297,6 +287,11 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/rgeomstats
 	subdir = rgeomstats
+[submodule "rim"]
+	path = rim
+	url = https://github.com/cranhaven/cranhaven.r-universe.dev
+	branch = package/rim
+	subdir = rim
 [submodule "rladybugdb"]
 	path = rladybugdb
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
