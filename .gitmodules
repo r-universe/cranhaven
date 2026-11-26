@@ -192,11 +192,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/heterogeneouspeereffects
 	subdir = heterogeneouspeereffects
-[submodule "iadf"]
-	path = iadf
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/iadf
-	subdir = iadf
 [submodule "ibmAcousticR"]
 	path = ibmAcousticR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -342,11 +337,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/textrecipes
 	subdir = textrecipes
-[submodule "ulex"]
-	path = ulex
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ulex
-	subdir = ulex
 [submodule "usportsR"]
 	path = usportsR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
