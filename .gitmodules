@@ -22,11 +22,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/BioTrajectory
 	subdir = BioTrajectory
-[submodule "ButtR"]
-	path = ButtR
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/ButtR
-	subdir = ButtR
 [submodule "CIMEHR"]
 	path = CIMEHR
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
@@ -152,11 +147,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/blink
 	subdir = blink
-[submodule "corteza"]
-	path = corteza
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/corteza
-	subdir = corteza
 [submodule "cthist"]
 	path = cthist
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
