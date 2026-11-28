@@ -157,11 +157,6 @@
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
 	branch = package/diffpriv
 	subdir = diffpriv
-[submodule "evolvability"]
-	path = evolvability
-	url = https://github.com/cranhaven/cranhaven.r-universe.dev
-	branch = package/evolvability
-	subdir = evolvability
 [submodule "fdq"]
 	path = fdq
 	url = https://github.com/cranhaven/cranhaven.r-universe.dev
